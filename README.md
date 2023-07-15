@@ -27,15 +27,15 @@ judging by the total image count.
 
 ## ![status](.github/images/icon-status.png) Status
 
-<!--@rcmt template FileCount
-Last updated: _{{ time }} UTC_
+<!--@template FileCount
+Last updated: _{@p time @} UTC_
 
-- **{{ img }}** Images (**{{ img_p }}%** of the way to the next update)
-- **{{ loc }}** Text Entries
-- **{{ mus }}** Songs
-- **{{ snd }}** Sounds
+- **{@p img @}** Images (**{@p img-p @}%** of the way to the next update)
+- **{@p loc @}** Text Entries
+- **{@p mus @}** Songs
+- **{@p snd @}** Sounds
 @end-template-->
-<!--@rcmt region FileCount-->
+<!--@region FileCount-->
 Last updated: _2023-07-04 UTC_
 
 - **993** Images (**93%** of the way to the next update)
@@ -50,9 +50,7 @@ Last updated: _2023-07-04 UTC_
 
 thats a good quetion megaman
 
-### "What's with that `dev-player-model` branch?"
-
-That's the player model SFTA is going to use.
+### "Where is the player model?"
 
 While the actual `Player_*` sprites are complete,
 most of the hair, armor, accessories, etc. are not.
