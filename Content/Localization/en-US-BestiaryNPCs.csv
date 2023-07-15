@@ -1,0 +1,87 @@
+Key,Translation
+
+
+#[ common ],<<-|-------------------------------------------------|->>
+
+CommonBestiaryFlavor.DemonEye,"Created by a powerful Sans, these little pranksters are always *looking* for someone to bother. "
+CommonBestiaryFlavor.Skeleton,"Sanses that get lost in the Sansverns eventually go insane. Jealous, they attack those who've yet to join their ranks."
+CommonBestiaryFlavor.Zombie,"These nocturnal pranksters are here to mess you up! "
+
+
+#[ corruption ],<<-|---------------------------------------------|->>
+
+Bestiary_FlavorText.npc_Clinger,"In an incredible - and terrifying - feat of ingenuity, these plant-like creatures are actually heavily modified Loogies. Some of their many new organs can produce the THUNDERRR they spit."
+Bestiary_FlavorText.npc_Corruptor,"Loominal Crawlers that have spent ages honing their reality-warping abilites, they have developed incrediple power."
+Bestiary_FlavorText.npc_CorruptSlime,"Slanses affected by the luigification process take on far firmer shapes. However, they do maintain their jumpy nature."
+Bestiary_FlavorText.npc_DevourerHead,"Worms affected by the Loogies' [c/ff0000:S'ahns Ritual], they become a familiar centipide-like creature, minus the impressive legs. Or flower. How they're not angry remains a mystery."
+Bestiary_FlavorText.npc_EaterofSouls,"Hailing from the Dream Realm, Loogies have a tighter grasp on the fabric of reality than most. These ones have managed to ""crawl"" along it, using their tendril-like 'stache hairs."
+Bestiary_FlavorText.npc_SeekerHead,"The wigglers' enraged counterparts, they hit twice as hard! (Probably more than that, I didn't check)"
+Bestiary_FlavorText.npc_Slimeling,"HA HA HA! IT WAS A BIG GOOMBER ALL ALONG LUIGI!!!"
+Bestiary_FlavorText.npc_Slimer,"Fitted with wing (singular) by the Loogies. It now seeks any ally of the Sanses to stomp down in a fit of revenge."
+
+
+#[ dungeon ],<<-|------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_DungeonGuardian,"Don't mess with paps."
+
+
+#[ hallow ],<<-|-------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_Pixie,"As sick as this fella is, you probably shouldn't get too close, or else you'll also get sick!"
+
+
+#[ night ],<<-|--------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_BaldZombie,"{$CommonBestiaryFlavor.Zombie}This one hasn't acutally lost his head. Some meanie just slammed it into his jacket!"
+Bestiary_FlavorText.npc_FemaleZombie,"How's the weather up there?"
+Bestiary_FlavorText.npc_PincushionZombie,"Ooooh he's gonna poke ya! With his many arrows! (he doesn't know how bows and arrows work)"
+Bestiary_FlavorText.npc_SlimedZombie,"{$CommonBestiaryFlavor.Zombie}This one is a slime girl. Do you think God hides in heaven because he, too, fears what he has created?"
+Bestiary_FlavorText.npc_SwampZombie,"{$CommonBestiaryFlavor.Zombie}This one stayed too long in the rain, and he's here to share his misery with YOU!"
+Bestiary_FlavorText.npc_TwiggyZombie,"{$CommonBestiaryFlavor.Zombie}This one is called 'swap!swap!sans', its like if you took the characters from UNDERSWAP and swapped them around!"
+Bestiary_FlavorText.npc_Zombie,"{$CommonBestiaryFlavor.Zombie}This one uses the original, darker Sans Fanfic palette to better blend in with the night."
+
+Bestiary_FlavorText.npc_DemonEye,"{$CommonBestiaryFlavor.DemonEye}(Classic variant)"
+Bestiary_FlavorText.npc_CataractEye,"{$CommonBestiaryFlavor.DemonEye}(Ink variant)"
+Bestiary_FlavorText.npc_DialatedEye,"{$CommonBestiaryFlavor.DemonEye}(Swap variant)"
+Bestiary_FlavorText.npc_GreenEye,"{$CommonBestiaryFlavor.DemonEye}(Outer variant)"
+Bestiary_FlavorText.npc_PurpleEye,"{$CommonBestiaryFlavor.DemonEye}(Fell variant)"
+Bestiary_FlavorText.npc_SleepyEye,"{$CommonBestiaryFlavor.DemonEye}(Calm variant)"
+
+Bestiary_FlavorText.npc_WanderingEye,"Sanson Eyes that absorbed the darker energies, they use their new powers to switch forms, just like their creator."
+
+
+#[ sky ],<<-|----------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_Harpy,"These bad-to-the-bone skelingtons love riding on their Gaster Blasters, throwing feathery bones at unsuspecting bystanders."
+
+
+#[ snow ],<<-|---------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_IceSlime,"Slanses in the snans biome end up coated in snans. How cute! ...until you consider that snans is the incredibly compacted dust of their fallen kin."
+Bestiary_FlavorText.npc_SnowFlinx,"Created from several superpositioned Sanses. Their unstable nature causes them to be sent flying back from even the lightest touch."
+Bestiary_FlavorText.npc_SpikedIceSlime,"Overflowing with sansnergies (sans energies), this slans is highly unstable, and prone to ejecting bone fragments at anyone that approaches."
+
+
+#[ surface ],<<-|------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_Pinky,"If you know anything about Sans, you know never to underestimate seemingly small and weak characters."
+
+
+#[ underground ],<<-|--------------------------------------------|->>
+
+Bestiary_FlavorText.npc_GiantWormHead,"Those little Sans ""heads"" are actually the flowers of the Bad Thyme plants... most of the time. Sometimes, they sprout with actual brains, and uproot themselves, in search of easy prey."
+Bestiary_FlavorText.npc_LostGirl,"What at first appears to be your friendly neighborhood Nerd!Lnik might actually be a trap! Look closely: this one isn't wearing glasses."
+Bestiary_FlavorText.npc_Nymph,"This shape-shifter from another realm changes its form to what its victim desires most. You aren't the victim, by the way."
+Bestiary_FlavorText.npc_ToxicSludge,"Nuberts are known for their aborbant properties. After being unleashed, they absorbed the background sanergies, (sans energies) creating whatevereth this thingue is."
+
+
+#[ underworld ],<<-|---------------------------------------------|->>
+
+Bestiary_FlavorText.npc_BoneSerpentHead,"Who unplugged these guys?! They love to chomp at things, especially lightners, so be careful around them!"
+Bestiary_FlavorText.npc_FireImp,"This firendly spade is here to throw spades he dug up with his spade at you! It's nothing personal, he just really needs to throw spades at someone."
+Bestiary_FlavorText.npc_LavaSlime,"The Underfell variant of Slanses, these guys travelled all the way to the Undersans because, after all, it's a lot cooler than the lame Sansface."
+
+
+#[ misc ],<<-|---------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_MeteorHead,"Sometimes the Outer!Sansnite comes alive to play pranks that are out of this world! Too bad their LOAN (Level Of AnnoyaNce) reaches interstellar levels."

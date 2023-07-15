@@ -1,0 +1,119 @@
+Key,Translation
+
+
+#[ angler ],<<-|-------------------------------------------------|->>
+
+
+AnglerQuestText.TurnIn_1,"Blub blub
+(thank thank)"
+AnglerQuestText.TurnIn_2,"Blub blub
+(awesomesauce ^_^)"
+AnglerQuestText.TurnIn_3,"Blub blub
+(nicenice)"
+AnglerQuestText.TurnIn_4,"Blub blub
+(GG fr fr)"
+AnglerQuestText.TurnIn_5,"Blub blub
+(oo gimme gimme)"
+
+AnglerSpecialText.BloodMoonFishing1,"Blub blub
+(Scary stuff. In Blood Moon water. Fish it up LMAO)"
+AnglerSpecialText.BloodMoonFishing2,"Blub blub
+(This night. Go fish in water. It funny!)"
+AnglerSpecialText.Graveyard1,"Blub blub
+(This place. Really scary! Not nice >:[ )"
+AnglerSpecialText.Graveyard2,"Blub blub
+(Can't go to water. Too scary)"
+AnglerSpecialText.Party,"Blub blub
+(Party time. Me likey :D)"
+AnglerSpecialText.Rain1,"Blub blub
+(I like rain. Makes me moist. I like that)"
+AnglerSpecialText.Rain2,"Blub blub
+(I don't like being dry. Rain stops that :D)"
+AnglerSpecialText.Storm1,"Blub blub
+(Storm is scary. But makes me VERY moist!!!)"
+AnglerSpecialText.Storm2,"Blub blub
+(Once. Lightning struck my lake. Almost died OMEGALUL)"
+AnglerSpecialText.Windy1,"Blub blub
+(Wind makes me dry. No likey..)"
+AnglerSpecialText.Windy2,"Meow."
+
+
+#[ bartender ],<<-|----------------------------------------------|->>
+
+
+BartenderHelpText.Help_1,"First off-a, you need to get some-a artifacts from me. Those cost-a Luigium Coins!"
+BartenderHelpText.Help_2,"Use the artifacts to place sentries and-a traps. That costs FP (flower points)"
+BartenderHelpText.Help_3,"It's-a easy to attract the Mushroom Army! They're after us, which means we can bait them with-a something BRANDED."
+BartenderHelpText.Help_4,"Luckly, I happen to sell Brandshrooms, which should do the trick! Just-a place it on a Stand (which I also sell)"
+BartenderHelpText.Help_5,"Place the Stand in an open, flat area. Obstacles will make this harder!"
+BartenderHelpText.Help_6,"Once the arena is-a done, place the Brandshroom on the Stand and watch the magic happen!"
+BartenderHelpText.Help_7,"You can't let them win. If they go back to their base, the'll be able to tell the rest of the Army our location! In other words: We'd be in REALLY BIG trouble!"
+BartenderHelpText.Help_8,"Defenses cost-a 10FP. The Brandshroom drops some-a when placed. Enemies also drop them when-a defeated."
+BartenderHelpText.Help_9,"They-a come in waves. Yeah, that's it."
+BartenderHelpText.Help_10,"If you win, the Branshroom will pay you in Luigium Coins for your services."
+BartenderHelpText.Help_11,"After your first-a win, you'll be able to use the artifacts outside of the event for regular TP."
+
+BartenderSpecialText.AfterDD2Tier1,"Great-a job fighting the Mushroom Army back there! But-a those aren't their strongest forces. Always-a wondered why people never use-a their strongest attack first."
+BartenderSpecialText.AfterDD2Tier2,"The Mushroom Army keeps-a getting stronger. But-a I heard rumors that-a they're going to join-a forces with King Koopa, so I doubt-a we've seen the last-a of them."
+BartenderSpecialText.AfterDD2Tier3,"Wow! Even the big bad Koopa himself can't-a stop you! If I wasn't branded and you weren't from Undertale, I'd-a bring you over to Luigi Fanfic some time-a."
+BartenderSpecialText.BeforeDD2Tier1,"I fear that-a the Mushroom Army is preparing for an invasion. We should-s really do something about it..."
+BartenderSpecialText.FirstHelp,"Ok. First off, take-a these Luigium Coins, on the rocks."
+BartenderSpecialText.FirstMeeting,"Oh my God what is this hellscape!? Last I-a remember, I was running away from-a the cops for Timeout Corner crimes..."
+BartenderSpecialText.Graveyard1,"Mama mia! This place-a is scarier than my mansion!"
+BartenderSpecialText.Graveyard2,"This place is-a starting to smell like-a the Timeout Corner! Do you really want to think-a you're branded?"
+BartenderSpecialText.Party_1,"Party time! I sure can't wait-a for friendships to end-a!"
+BartenderSpecialText.Party_2,"Uuuuhhh, hold on... What capsules do you have?"
+BartenderSpecialText.Rain1,"Doesn't rain much-a back in Luigi Fanfic. Mainly because-a it's in the Box Dimension."
+BartenderSpecialText.Rain2,"I almost want to go in the rain-a, but I know that won't wipe away my-a branded-ness."
+BartenderSpecialText.Storm1,"WAH! The lightning is too scary!"
+BartenderSpecialText.Storm2,"Buh buh buh buh buh buh buh buh buh..."
+BartenderSpecialText.Windy1,"This wind-a reminds me of the time-a that I went flying on-a busy beetles..."
+BartenderSpecialText.Windy2,"Hold on to your-a cap, friend-o! 'tis very windy today."
+
+
+#[ help ],<<-|---------------------------------------------------|->>
+
+
+LegacyDialog.222,"Make sure to smash that like button. Something good is bound to happen if you do!"
+LegacyDialog.401,"Make sure to smash that subscribe button. Something good is bound to happen if you do!"
+
+
+#[ mood : biomes ],<<-|------------------------------------------|->>
+
+
+TownNPCMoodBiomes.Corruption,Luigi Fanfic
+TownNPCMoodBiomes.Crimson,the No San's Land
+TownNPCMoodBiomes.Desert,The Wastes
+TownNPCMoodBiomes.Dungeon,Gamestop
+TownNPCMoodBiomes.Forest,the Sanface
+TownNPCMoodBiomes.Hallow,the Dark World
+# TownNPCMoodBiomes.Jungle,  |> >>--->   UNSET   <---<< <|
+# TownNPCMoodBiomes.Mushroom,|> >>--->   UNSET   <---<< <|
+TownNPCMoodBiomes.NormalUnderground,the Sansderground
+TownNPCMoodBiomes.Ocean,the Edge of [ B I G   S A N S ]
+TownNPCMoodBiomes.Snow,the Snans
+
+
+#[ mood : guide ],<<-|-------------------------------------------|->>
+
+
+TownNPCMood_Guide.Content,"Just bing chillin' my dude."
+TownNPCMood_Guide.DislikeBiome,"Honestly, {BiomeName} makes me feel like I'm gonna have a bad time."
+TownNPCMood_Guide.DislikeCrowded,"You should never keep this many sanses together. It's always bound to result in bad things."
+
+# TownNPCMood_Guide.DislikeNPC,|> >>--->   UNSET   <---<< <|
+
+TownNPCMood_Guide.FarFromHome,"I kinda gave up going back. And that housing doesn't really appeal to me either."
+TownNPCMood_Guide.HateBiome,"This place, {BiomeName}. Reminds me of dark, darker, yet darker days."
+TownNPCMood_Guide.HateCrowded,"What's with the box towers? It gives me a really bad feeling..."
+TownNPCMood_Guide.HateNPC,"That snake, {NPCName}... He stabbed us all in the back when we least expected it. I hate him!"
+TownNPCMood_Guide.LikeBiome,"The {BiomeName} reminds me of myself, minus the impressive bone abilities."
+TownNPCMood_Guide.LikeNPC,"{NPCName} is a little weird, but that's what I like about them!"
+TownNPCMood_Guide.LikeNPC_Princess,"Oh, {NPCName}? Kinda hard not to like the lil' guy!"
+TownNPCMood_Guide.LoveBiome,"{BiomeName} IS GUD ANDE BASED"
+TownNPCMood_Guide.LoveNPC,"{NPCName} IS GUD ANDE BASED"
+TownNPCMood_Guide.LoveSpace,"So much space... You really did all this for lil' ol' Sans?"
+TownNPCMood_Guide.NoHome,"Y'know, it WOULD be nice if I had a place to crash in."
+
+
+#[  ],<<-|-------------------------------------------------------|->>

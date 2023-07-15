@@ -1,0 +1,634 @@
+Key,Translation
+
+
+#[ guide ],<<-|--------------------------------------------------|->>
+
+
+NPCName.Guide,Classic!
+Bestiary_FlavorText.npc_Guide,"Good ol' classic Sans. He's always there to help a pal out."
+
+GuideNames.Andrew,Sans
+GuideNames.Asher,Sans
+GuideNames.Bradley,Sans
+GuideNames.Brandon,Sans
+GuideNames.Brett,Sans
+GuideNames.Brian,Sans
+GuideNames.Cody,Sans
+GuideNames.Cole,Sans
+GuideNames.Colin,Sans
+GuideNames.Connor,Sans
+GuideNames.Daniel,Sans
+GuideNames.Dylan,Sans
+GuideNames.Garrett,Sans
+GuideNames.Harley,Sans
+GuideNames.Jack,Sans
+GuideNames.Jacob,Sans
+GuideNames.Jake,Sans
+GuideNames.Jeff,Sans
+GuideNames.Jeffrey,Sans
+GuideNames.Joe,Sans
+GuideNames.Kevin,Sans
+GuideNames.Kyle,Sans
+GuideNames.Levi,Sans
+GuideNames.Logan,Sans
+GuideNames.Luke,Sans
+GuideNames.Marty,Sans
+GuideNames.Maxwell,Sans
+GuideNames.Ryan,Sans
+GuideNames.Scott,Sans
+GuideNames.Seth,Sans
+GuideNames.Steve,Sans
+GuideNames.Tanner,Sans
+GuideNames.Trent,Sans
+GuideNames.Wyatt,Sans
+GuideNames.Zach,Sans
+
+
+#[ merchant ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Merchant,Koridai!
+Bestiary_FlavorText.npc_Merchant,"The lovable merchant from a distant sansd (sans land). He'll sell you anything, as long as you've got enoguh RUBIES!"
+
+MerchantNames.Alfred,Sans
+MerchantNames.Barney,Sans
+MerchantNames.Calvin,Sans
+MerchantNames.Edmund,Sans
+MerchantNames.Edwin,Sans
+MerchantNames.Eugene,Sans
+MerchantNames.Frank,Sans
+MerchantNames.Frederick,Sans
+MerchantNames.Gilbert,Sans
+MerchantNames.Gus,Sans
+MerchantNames.Harold,Sans
+MerchantNames.Howard,Sans
+MerchantNames.Humphrey,Sans
+MerchantNames.Isaac,Sans
+MerchantNames.Joseph,Sans
+MerchantNames.Kristian,Sans
+MerchantNames.Louis,Sans
+MerchantNames.Milton,Sans
+MerchantNames.Mortimer,Sans
+MerchantNames.Ralph,Sans
+MerchantNames.Seymour,Sans
+MerchantNames.Walter,Sans
+MerchantNames.Wilbur,Morshans
+
+
+#[ nurse ],<<-|--------------------------------------------------|->>
+
+
+NPCName.Nurse,Medic!
+Bestiary_FlavorText.npc_Nurse,"The medic guy. Yeah, that's it."
+
+NurseNames.Abigail,Sans
+NurseNames.Allison,Sans
+NurseNames.Amy,Sans
+NurseNames.Caitlin,Sans
+NurseNames.Carly,Sans
+NurseNames.Claire,Sans
+NurseNames.Emily,Sans
+NurseNames.Emma,Sans
+NurseNames.Hannah,Sans
+NurseNames.Heather,Sans
+NurseNames.Helen,Sans
+NurseNames.Holly,Sans
+NurseNames.Jenna,Sans
+NurseNames.Kaitlin,Sans
+NurseNames.Kaitlyn,Sans
+NurseNames.Katelyn,Sans
+NurseNames.Katherine,Sans
+NurseNames.Kathryn,Sans
+NurseNames.Katie,Sans
+NurseNames.Kayla,Sans
+NurseNames.Lisa,Sans
+NurseNames.Lorraine,Sans
+NurseNames.Madeline,Sans
+NurseNames.Molly,Sans
+
+
+#[ demolitionist ],<<-|------------------------------------------|->>
+
+
+NPCName.Demolitionist,Bomb!
+Bestiary_FlavorText.npc_Demolitionist,"His explosive personality and witty jokes are sure to make you forget the fact he's insecure about his height."
+
+DemolitionistNames.Bazdin,Sans
+DemolitionistNames.Beldin,Sans
+DemolitionistNames.Boften,Sans
+DemolitionistNames.Darur,Sans
+DemolitionistNames.Dias,Sans
+DemolitionistNames.Dolbere,Sans
+DemolitionistNames.Dolgen,Sans
+DemolitionistNames.Dolgrim,Sans
+DemolitionistNames.Duerthen,Sans
+DemolitionistNames.Durim,Sans
+DemolitionistNames.Fikod,Sans
+DemolitionistNames.Garval,Sans
+DemolitionistNames.Gimli,Sans
+DemolitionistNames.Gimut,Sans
+DemolitionistNames.Jarut,Sans
+DemolitionistNames.Morthal,Sans
+DemolitionistNames.Norkas,Sans
+DemolitionistNames.Norsun,Sans
+DemolitionistNames.Oten,Sans
+DemolitionistNames.Ovbere,Sans
+DemolitionistNames.Tordak,Sans
+DemolitionistNames.Urist,Sans
+
+
+#[ dye trader ],<<-|---------------------------------------------|->>
+
+
+NPCName.DyeTrader,Ink!
+Bestiary_FlavorText.npc_DyeTrader,"The morally dubious creator of many AUs, he loves to check out newly-made ones."
+
+
+#[ angler ],<<-|-------------------------------------------------|->>
+
+
+NPCName.Angler,Fish!
+Bestiary_FlavorText.npc_Angler,"Can you believe it!? Sans is a FISH!? WTF!?"
+
+AnglerNames.Adam,Adam Sansler
+AnglerNames.Bart,Sans
+AnglerNames.Billy,Sans
+AnglerNames.Bobby,Sans
+AnglerNames.Charles,Sans
+AnglerNames.Danny,Sans
+AnglerNames.Grayson,Sans
+AnglerNames.Ivan,Sans
+AnglerNames.Izzy,Sans
+AnglerNames.Jey,Sans
+AnglerNames.Jimmy,Sans
+AnglerNames.Johnny,Sans
+AnglerNames.Matty,Sans
+AnglerNames.Miles,Sans
+AnglerNames.Nathan,Sans
+AnglerNames.Phillip,Sans
+AnglerNames.Sammy,Sans
+AnglerNames.Simon,Sans
+AnglerNames.Spencer,Sans
+AnglerNames.Timmy,Sans
+AnglerNames.Tyler,Sans
+
+
+#[ zoologist ],<<-|----------------------------------------------|->>
+
+
+NPCName.BestiaryGirl,Fur!
+Bestiary_FlavorText.npc_BestiaryGirl,"Sans, but as a furry. Wait, aren't the Undertale characters already furries?"
+
+BestiaryGirlNames.Name_1,Sans
+BestiaryGirlNames.Name_2,Sans
+BestiaryGirlNames.Name_3,Sans
+BestiaryGirlNames.Name_4,Sans
+BestiaryGirlNames.Name_5,Sans
+BestiaryGirlNames.Name_6,Sans
+BestiaryGirlNames.Name_7,Sans
+BestiaryGirlNames.Name_8,Sans
+BestiaryGirlNames.Name_9,Sans
+BestiaryGirlNames.Name_10,Sans
+BestiaryGirlNames.Name_11,Sans
+BestiaryGirlNames.Name_12,Sans
+BestiaryGirlNames.Name_13,Sans
+BestiaryGirlNames.Name_14,Sans
+BestiaryGirlNames.Name_15,Sans
+BestiaryGirlNames.Name_16,Sans
+BestiaryGirlNames.Name_17,Sans
+BestiaryGirlNames.Name_18,Sans
+BestiaryGirlNames.Name_19,Sans
+BestiaryGirlNames.Name_20,Sans
+
+
+#[ dryad ],<<-|--------------------------------------------------|->>
+
+
+NPCName.Dryad,"Possessed "
+Bestiary_FlavorText.npc_Dryad,"This Sans is really only possessed in name. Flowey is there, sure, but Sans just doesn't seem to be affected. This is mildly akward for both parties."
+
+DryadNames.Alalia,Sans
+DryadNames.Alura,Sans
+DryadNames.Ariella,Sans
+DryadNames.Caelia,Sans
+DryadNames.Calista,Sans
+DryadNames.Celestia,Sans
+DryadNames.Chryseis,Sans
+DryadNames.Elysia,Sans
+DryadNames.Emerenta,Sans
+DryadNames.Evvie,Sans
+DryadNames.Faye,Sans
+DryadNames.Felicitae,Sans
+DryadNames.Isis,Sans
+DryadNames.Lunette,Sans
+DryadNames.Nata,Sans
+DryadNames.Nissa,Sans
+DryadNames.Rosalva,Sans
+DryadNames.Shea,Sans
+DryadNames.Tania,Sans
+DryadNames.Tatiana,Sans
+DryadNames.Xylia,Sans
+
+
+#[ painter ],<<-|------------------------------------------------|->>
+
+
+NPCName.Painter,other Ink!
+Bestiary_FlavorText.npc_Painter,"Wait what theres another one"
+
+
+#[ golfer ],<<-|-------------------------------------------------|->>
+
+
+NPCName.Golfer,Sport!
+Bestiary_FlavorText.npc_Golfer,"Of course the sports version of Sans would pick the laziest sport of all: GOLF."
+
+GolferNames.Name_1,Sans
+GolferNames.Name_2,Sans
+GolferNames.Name_3,Sans
+GolferNames.Name_4,Sans
+GolferNames.Name_5,Sans
+GolferNames.Name_6,Sans
+GolferNames.Name_7,Billy Bad-to-the-Bones
+GolferNames.Name_8,Sans
+
+
+#[ arms dealer ],<<-|--------------------------------------------|->>
+
+
+NPCName.ArmsDealer,Sudden Changes!
+Bestiary_FlavorText.npc_ArmsDealer,"A sans created from countless consecutive resets, in a destabilized timeline."
+
+ArmsDealerNames.Andre,Sans
+ArmsDealerNames.Brimst,Sans
+ArmsDealerNames.Bronson,Sans
+ArmsDealerNames.Dante,Sans
+ArmsDealerNames.Darius,Sans
+ArmsDealerNames.Darnell,Sans
+ArmsDealerNames.Darryl,Sans
+ArmsDealerNames.DeAndre,Sans
+ArmsDealerNames.Demetrius,Sans
+ArmsDealerNames.DeShawn,Sans
+ArmsDealerNames.Dominique,Sans
+ArmsDealerNames.Jalen,Sans
+ArmsDealerNames.Jamal,Sans
+ArmsDealerNames.Malik,Sans
+ArmsDealerNames.Marquis,Sans
+ArmsDealerNames.Maurice,Sans
+ArmsDealerNames.Reginald,Sans
+ArmsDealerNames.Terrance,Sans
+ArmsDealerNames.Terrell,Sans
+ArmsDealerNames.Tony,Sans
+ArmsDealerNames.Trevon,Sans
+ArmsDealerNames.Tyrone,Sans
+ArmsDealerNames.Willie,Sans
+ArmsDealerNames.Xavier,Sans
+
+
+#[ tavernkeep ],<<-|---------------------------------------------|->>
+
+NPCName.DD2Bartender,Punished!
+Bestiary_FlavorText.npc_DD2Bartender,"A loogie, for once! He was banished from Luigi Fanfic for going to the Timeout Corner. If you take a good whiff, you can smell the Brand he recieved."
+
+BartenderNames.Name_1,Loogie
+BartenderNames.Name_2,Loogie
+BartenderNames.Name_3,Loogie
+BartenderNames.Name_4,Loogie
+BartenderNames.Name_5,Loogie
+BartenderNames.Name_6,Loogie
+BartenderNames.Name_7,Loogie
+BartenderNames.Name_8,Loogie
+BartenderNames.Name_9,Loogie
+BartenderNames.Name_10,Loogie
+BartenderNames.Name_11,Loogie
+BartenderNames.Name_12,Loogie
+BartenderNames.Name_13,Loogie
+BartenderNames.Name_14,Loogie
+BartenderNames.Name_15,Loogie
+BartenderNames.Name_16,Loogie
+
+
+#[ stylist ],<<-|------------------------------------------------|->>
+
+
+NPCName.Stylist,Fashion!
+Bestiary_FlavorText.npc_Stylist,"The most fashionable of all sanses."
+
+StylistNames.Annabel,Sans
+StylistNames.Biah,Sans
+StylistNames.Bri,Sans
+StylistNames.Brianne,Sans
+StylistNames.Esmeralda,Sans
+StylistNames.Flora,Sans
+StylistNames.Hazel,Sans
+StylistNames.Iris,Sans
+StylistNames.Kati,Sans
+StylistNames.Kylie,Sans
+StylistNames.Lola,Sans
+StylistNames.Meliyah,Sans
+StylistNames.Pearl,Sans
+StylistNames.Petra,Sans
+StylistNames.Rox,Sans
+StylistNames.Roxanne,Sans
+StylistNames.Ruby,Sans
+StylistNames.Scarlett,Sans
+StylistNames.Stella,Sans
+StylistNames.Tallulah,Sans
+
+
+#[ party girl ],<<-|---------------------------------------------|->>
+
+
+NPCName.PartyGirl,Fresh!
+
+
+#[ goblin tinkerer ],<<-|----------------------------------------|->>
+
+
+NPCName.GoblinTinkerer,Nerd!
+Bestiary_FlavorText.npc_GoblinTinkerer,"The one friendly lnik. He never liked those jock Lniks, with their bows, and swords... UGH! Sanses are all smart scientists, so he just fits right in!"
+
+GoblinTinkererNames.Arback,Lnik
+GoblinTinkererNames.Dalek,Lnik
+GoblinTinkererNames.Darz,Lnik
+GoblinTinkererNames.Durnok,Lnik
+GoblinTinkererNames.Fahd,Lnik
+GoblinTinkererNames.Fjell,Lnik
+GoblinTinkererNames.Gnudar,Lnik
+GoblinTinkererNames.Grodax,Lnik
+GoblinTinkererNames.Knogs,Lnik
+GoblinTinkererNames.Knub,Lnik
+GoblinTinkererNames.Mobart,Lnik
+GoblinTinkererNames.Mrunok,Lnik
+GoblinTinkererNames.Negurk,Lnik
+GoblinTinkererNames.Nort,Lnik
+GoblinTinkererNames.Nuxatk,Lnik
+GoblinTinkererNames.Ragz,Lnik
+GoblinTinkererNames.Sarx,Lnik
+GoblinTinkererNames.Smador,Lnik
+GoblinTinkererNames.Stazen,Lnik
+GoblinTinkererNames.Stezom,Lnik
+GoblinTinkererNames.Tgerd,Lnik
+GoblinTinkererNames.Tkanus,Lnik
+GoblinTinkererNames.Trogem,Lnik
+GoblinTinkererNames.Xanos,Lnik
+GoblinTinkererNames.Xon,Lnik
+
+
+#[ witch doctor ],<<-|-------------------------------------------|->>
+
+
+NPCName.WitchDoctor,other Fur!
+
+WitchDoctorNames.Abibe,Sans
+WitchDoctorNames.Gboto,Sans
+WitchDoctorNames.Jamundi,Sans
+WitchDoctorNames.Kogi-ghi,Sans
+WitchDoctorNames.Konah,Sans
+WitchDoctorNames.Opuni,Sans
+WitchDoctorNames.Tairona,Sans
+WitchDoctorNames.U'wa,Sans
+WitchDoctorNames.Xirigua,Sans
+WitchDoctorNames.Zop'a,Sans
+
+
+#[ clothier ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Clothier,"THE GREAT "
+NPCName.OldMan,REALLY COOL BYSTANDER!
+
+ClothierNames.Alfred,PAPYRUS
+ClothierNames.Arthur,PAPYRUS
+ClothierNames.Benjamin,PAPS
+ClothierNames.Cedric,PAPY
+ClothierNames.Clive,PAPEHRUS
+ClothierNames.Cyril,PAPYRUS
+ClothierNames.Edgar,PAPYRUS
+ClothierNames.Edmund,PAPS
+ClothierNames.Edward,PAPY
+ClothierNames.Eustace,PAPEHRUS
+ClothierNames.Fitz,PAPYRUS
+ClothierNames.Graham,PAPYRUS
+ClothierNames.Henry,PAPS
+ClothierNames.Herald,PAPY
+ClothierNames.James,PAPEHRUS
+ClothierNames.Lincoln,PAPYRUS
+ClothierNames.Lloyd,PAPYRUS
+ClothierNames.Mervyn,PAPS
+ClothierNames.Nigel,PAPY
+ClothierNames.Pip,PAPEHRUS
+ClothierNames.Rodney,PAPYRUS
+ClothierNames.Rodrick,PAPYRUS
+ClothierNames.Roland,PAPS
+ClothierNames.Rupert,PAPY
+ClothierNames.Sebastian,PAPEHRUS
+
+
+#[ mechanic ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Mechanic,Gaster!
+
+MechanicNames.Amy,Sans
+MechanicNames.Autumn,Sans
+MechanicNames.Brooke,Sans
+MechanicNames.Dawn,Sans
+MechanicNames.Ella,Sans
+MechanicNames.Ellen,Sans
+MechanicNames.Ginger,Sans
+MechanicNames.Jenny,Sans
+MechanicNames.Kayla,Sans
+MechanicNames.Korrie,Sans
+MechanicNames.Lauren,Sans
+MechanicNames.Marshanna,Sans
+MechanicNames.Meredith,Sans
+MechanicNames.Nancy,Sans
+MechanicNames.Sally,Sans
+MechanicNames.Selah,Sans
+MechanicNames.Selene,Sans
+MechanicNames.Shayna,Sans
+MechanicNames.Sheena,Sans
+MechanicNames.Shirlena,Sans
+MechanicNames.Sophia,Sans
+MechanicNames.Susana,Sans
+MechanicNames.Terra,Sans
+MechanicNames.Trisha,Gaster
+
+
+#[ taxt collector ],<<-|-----------------------------------------|->>
+
+
+NPCName.TaxCollector,Fell!
+
+TaxCollectorNames.Agnew,Sans
+TaxCollectorNames.Blanton,Sans
+TaxCollectorNames.Carroll,Sans
+TaxCollectorNames.Chester,Sans
+TaxCollectorNames.Cleveland,Sans
+TaxCollectorNames.Dwyer,Sans
+TaxCollectorNames.Fillmore,Sans
+TaxCollectorNames.Grover,Sans
+TaxCollectorNames.Harrison,Sans
+TaxCollectorNames.Herbert,Sans
+TaxCollectorNames.Lyndon,Sans
+TaxCollectorNames.McKinly,Sans
+TaxCollectorNames.Millard,Sans
+TaxCollectorNames.Ronald,Sans
+TaxCollectorNames.Rutherford,Sans
+TaxCollectorNames.Theodore,Sans
+TaxCollectorNames.Tweed,Sans
+TaxCollectorNames.Warren,Sans
+TaxCollectorNames.Woodrow,Sansy UwU
+
+
+#[ wizard ],<<-|-------------------------------------------------|->>
+
+
+NPCName.Wizard,StorySwap!
+
+WizardNames.Abram,Sans
+WizardNames.Alasdair,Sans
+WizardNames.Arddun,Sans
+WizardNames.Arwyn,Sans
+WizardNames.Berwyn,Sans
+WizardNames.Dalamar,Sans
+WizardNames.Dulais,Sans
+WizardNames.Elric,Sans
+WizardNames.Fizban,Sans
+WizardNames.Gearroid,Sans
+WizardNames.Greum,Sans
+WizardNames.Gwentor,Sans
+WizardNames.Hirael,Sans
+WizardNames.Leomund,Sans
+WizardNames.Maelor,Sans
+WizardNames.Magius,Sans
+WizardNames.Merlyn,Sans
+WizardNames.Ningauble,Sans
+WizardNames.Sargon,Sans
+WizardNames.Seonag,Sans
+WizardNames.Tagar,Sans
+WizardNames.Xanadu,Sans
+
+
+#[ pirate ],<<-|-------------------------------------------------|->>
+
+
+NPCName.Pirate,Sail!
+
+PirateNames.Black Beard,Sans
+PirateNames.Captain Bullywort,Sans
+PirateNames.Captain Morgan,Sans
+PirateNames.Captain Stoney Dirt,Sans
+PirateNames.David,Sans
+PirateNames.Gunpowder Garry,Sans
+PirateNames.Jack,Sans
+PirateNames.Jake,Sans
+PirateNames.James T. Beard,Sans
+PirateNames.Red Beard,Sans
+PirateNames.Wet Beard,Sans
+
+
+#[ steampunker ],<<-|--------------------------------------------|->>
+
+
+NPCName.SteamPunker,""
+
+#comment,TODO: Replace names with "Seam".
+
+
+#[ cyborg ],<<-|-------------------------------------------------|->>
+
+
+NPCName.Cyborg,MTT!
+
+CyborgNames.A.N.D.Y.,S.A.N.S.
+CyborgNames.Alpha,Sans
+CyborgNames.Beta,Sans
+CyborgNames.Ci,Sans
+CyborgNames.Delta,Sans
+CyborgNames.Fender,Sans
+CyborgNames.Gamma,Sans
+CyborgNames.Kappa,Sans
+CyborgNames.Lambda,Sans
+CyborgNames.Mu,Sans
+CyborgNames.Niner-7,Sans
+CyborgNames.Nu,Sans
+CyborgNames.Omega,Sans
+CyborgNames.Omicron,Sans
+CyborgNames.Phi,Sans
+CyborgNames.Rho,Sans
+CyborgNames.Sigma,Sans
+CyborgNames.Syn-X,Sans
+CyborgNames.T-3E0,Sans
+CyborgNames.Theta,Sans
+CyborgNames.Upsilon,Sans
+CyborgNames.Zeta,Sans
+
+
+#[ truffle ],<<-|------------------------------------------------|->>
+
+
+NPCName.Truffle,Error!
+
+TruffleNames.Agaric,Sans
+TruffleNames.Amanita,Sans
+TruffleNames.Chanterelle,Sans
+TruffleNames.Cremini,Sans
+TruffleNames.Enoki,Sans
+TruffleNames.Maitake,Sans
+TruffleNames.Morel,Sans
+TruffleNames.Muscaria,Sans
+TruffleNames.Porcini,Sans
+TruffleNames.Reishi,Sans
+TruffleNames.Shiitake,Sans
+TruffleNames.Shimeji,Sans
+
+
+#[ princess ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Princess,Swap!
+
+
+#[ santa claus ],<<-|--------------------------------------------|->>
+
+
+NPCName.SantaClaus,Jolly!
+
+
+#[ skeleton merchant ],<<-|--------------------------------------|->>
+
+
+NPCName.SkeletonMerchant,"Lorekeeper "
+
+
+#[ travelling merchant ],<<-|------------------------------------|->>
+
+
+NPCName.TravellingMerchant,[nutDealeR]!
+
+TravelingMerchantNames.Abraham,SPAMTON
+TravelingMerchantNames.Aedan,SPAMTON
+TravelingMerchantNames.Aphraim,SPAMTON
+TravelingMerchantNames.Bohemas,SPAMTON
+TravelingMerchantNames.Eladon,SPAMTON
+TravelingMerchantNames.Gallius,SPAMTON
+TravelingMerchantNames.Llewellyn,SPAMTON
+TravelingMerchantNames.Mercer,SCAMPTON
+TravelingMerchantNames.Rawleigh,SPAMTONGUE
+TravelingMerchantNames.Riley,SPAMTON G. SPAMPTON
+TravelingMerchantNames.Romeo,SPAMTON G. SPAMPTON
+TravelingMerchantNames.Shipton,SPAMTON G. SPAMPTON
+TravelingMerchantNames.Willy,SPAMTON G. SPAMPTON
+
+
+#[ pets ],<<-|---------------------------------------------------|->>
+
+
+NPCName.TownBunny,Bun
+NPCName.TownCat,Neko
+NPCName.TownDog,Doggo
+NPCName.TownSlime,Slans
+
+#[  ],<<-|-------------------------------------------------------|->>

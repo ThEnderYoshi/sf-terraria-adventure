@@ -1,0 +1,18 @@
+Key,Translation
+
+
+#comment,"I'm uncluding all unused texts, sprites, etc."
+#comment,"But I also need to change them, hence why these are here."
+
+
+Bestiary_Biomes.Hallow,                              |> >>=/=>   UNUSED   <=/=<< <|
+Bestiary_ItemDropConditions.IsCorruptionAndNotExpert,|> >>=/=>   UNUSED   <=/=<< <|
+Bestiary_ItemDropConditions.IsCrimsonAndNotExpert,   |> >>=/=>   UNUSED   <=/=<< <|
+Bestiary_ItemDropConditions.NotExpert,               |> >>=/=>   UNUSED   <=/=<< <|
+Bestiary_ItemDropConditions.NotFromStatue,           |> >>=/=>   UNUSED   <=/=<< <|
+Bestiary_ItemDropConditions.NotMasterMode,           |> >>=/=>   UNUSED   <=/=<< <|
+
+Game.RespawnInPrefix,|> >>=/=>   UNUSED   <=/=<< <|
+LegacyMisc.100,      |> >>=/=>   UNUSED   <=/=<< <|
+
+NPCName.DeerclopsLeg,|> >>=/=>   UNUSED   <=/=<< <|

@@ -1,0 +1,61 @@
+Key,Translation
+
+
+#[ reference ],<<-|----------------------------------------------|->>
+
+
+#( color : buff ),4782c9
+#( color : debuff ),e9581c
+#( color : minion ),ffc700
+
+
+#[ buffs ],<<-|--------------------------------------------------|->>
+
+
+BuffName.Sunflower,[c/4782c9:Echo Whispers]
+BuffDescription.Sunflower,"Encouraging whispers and puns increase your movement speed and decreases hostile spawns"
+
+BuffName.Campfire,[c/4782c9:Sansy Fire]
+BuffDescription.Campfire,"The eerie and borderline uncanny fire is somehow increasing HP regen"
+
+BuffName.Inferno,[c/4782c9:Maws of Richeous Judgement]
+BuffDescription.Inferno,"L + Ratio + Heathen + No Maidens"
+
+BuffName.Ironskin,[c/4782c9:Reinforced Membrane]
+BuffDescription.Ironskin,"DF increased by 8"
+
+BuffName.MonsterBanner,[c/4782c9:Sansnner]
+BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
+
+
+#[ debuffs ],<<-|------------------------------------------------|->>
+
+
+BuffName.Frozen,[c/e9581c:Snowgraved]
+BuffDescription.Frozen,"Certified Snowgrave moment"
+
+
+#[ minions ],<<-|------------------------------------------------|->>
+
+
+BuffName.FlinxMinion,[c/ffc700:Stable Symmetric Sans]
+BuffDescription.FlinxMinion,"The stable symmetric sans will protect your behind"
+
+BuffName.ImpMinion,[c/ffc700:Lancer]
+BuffDescription.ImpMinion,"The bouncy little pumpkin will protect your behind"
+
+
+#[ pets ],<<-|---------------------------------------------------|->>
+
+
+BuffName.BabyPenguin,"[c/ffc700:Pingus]"
+BuffDescription.BabyPenguin,"'make that the penguin in terraria'"
+
+BuffName.MiniMinotaur,[c/ffc700:Mini Tey]
+BuffDescription.MiniMinotaur,"They want to waffle on about their current hyperfixation to you"
+
+BuffName.ShadowMimic,[c/ffc700:Mini Goomb]
+BuffDescription.ShadowMimic,"Time to take a piss"
+
+
+#[ mounts ],<<-|-------------------------------------------------|->>

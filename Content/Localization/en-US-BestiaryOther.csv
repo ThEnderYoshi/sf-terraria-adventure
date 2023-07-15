@@ -1,0 +1,186 @@
+Key,Translation
+
+
+#[ tags : purity ],<<-|------------------------------------------|->>
+
+Bestiary_Biomes.Graveyard,Raveyard
+# Bestiary_Biomes.Meteor,|> >>--->   UNSET   <---<< <|
+Bestiary_Biomes.Ocean,Edge of [ B I G   S A N S ]
+Bestiary_Biomes.Sky,Skans (Sky Sans)
+Bestiary_Biomes.Surface,Sansface (sans surface)
+Bestiary_Biomes.TheDungeon,Gamestop
+
+
+#[ tags : underground ],<<-|-------------------------------------|->>
+
+Bestiary_Biomes.Caverns,Sansverns (sans caverns)
+Bestiary_Biomes.Granite,Grans (granite sans)
+Bestiary_Biomes.Marble,Mars (marble sans)
+Bestiary_Biomes.SpiderNest,Sansder (sans spider) Nest
+Bestiary_Biomes.TheUnderworld,The Undersans
+Bestiary_Biomes.Underground,Sansderground (sans underground)
+
+
+#[ tags : mushroom ],<<-|----------------------------------------|->>
+
+# Bestiary_Biomes.SurfaceMushroom,    |> >>--->   UNSET   <---<< <|
+# Bestiary_Biomes.UndergroundMushroom,|> >>--->   UNSET   <---<< <|
+
+
+#[ tags : desert ],<<-|------------------------------------------|->>
+
+Bestiary_Biomes.Desert,The Wastes
+Bestiary_Biomes.Oasis,Osansis (sans oasis)
+Bestiary_Biomes.UndergroundDesert,The Organism
+
+
+#[ tags : snow ],<<-|--------------------------------------------|->>
+
+Bestiary_Biomes.Snow,The Snans
+Bestiary_Biomes.UndergroundSnow,The Consanstrate
+
+
+#[ tags : jungle ],<<-|------------------------------------------|->>
+
+# Bestiary_Biomes.Jungle,           |> >>--->   UNSET   <---<< <|
+# Bestiary_Biomes.TheTemple,        |> >>--->   UNSET   <---<< <|
+# Bestiary_Biomes.UndergroundJungle,|> >>--->   UNSET   <---<< <|
+
+
+#[ tags : corruption ],<<-|--------------------------------------|->>
+
+Bestiary_Biomes.CorruptDesert,Thunderous Wastes
+Bestiary_Biomes.CorruptIce,Constantigi (luigi consnanstrate)
+Bestiary_Biomes.CorruptUndergroundDesert,Thunderous Organism
+Bestiary_Biomes.TheCorruption,Luigi Fanfic
+Bestiary_Biomes.UndergroundCorruption,Looderground (loogie underground)
+
+
+#[ tags : crimson ],<<-|-----------------------------------------|->>
+
+Bestiary_Biomes.Crimson,No San's Land
+Bestiary_Biomes.CrimsonDesert,No San's Wastes
+Bestiary_Biomes.CrimsonIce,No San's Consanstrate
+Bestiary_Biomes.CrimsonUndergroundDesert,Deep San's Wastes
+Bestiary_Biomes.UndergroundCrimson,Deep San's Land
+
+
+#[ tags : hallow ],<<-|------------------------------------------|->>
+
+Bestiary_Biomes.HallowDesert,Shadow Wastes
+Bestiary_Biomes.HallowIce,Concentraster
+Bestiary_Biomes.HallowUndergroundDesert,Phyto-shadow
+Bestiary_Biomes.TheHallow,The Dark World
+Bestiary_Biomes.UndergroundHallow,The Darker World
+
+
+#[ tags : pillars ],<<-|-----------------------------------------|->>
+
+# Bestiary_Biomes.NebulaPillar,  |> >>--->   UNSET   <---<< <|
+# Bestiary_Biomes.SolarPillar,   |> >>--->   UNSET   <---<< <|
+# Bestiary_Biomes.StardustPillar,|> >>--->   UNSET   <---<< <|
+# Bestiary_Biomes.VortexPillar,  |> >>--->   UNSET   <---<< <|
+
+
+#[ tags : times ],<<-|-------------------------------------------|->>
+
+Bestiary_Times.DayTime,:flushed:time
+Bestiary_Times.NightTime,Mans(moon sans)time
+
+
+#[ tags : events ],<<-|------------------------------------------|->>
+
+Bestiary_Events.Blizzard,Titan!Duststorm
+Bestiary_Events.BloodMoon,My Mans is PISSED
+# Bestiary_Events.Christmas,|> >>--->   UNSET   <---<< <|
+# Bestiary_Events.Eclipse,  |> >>--->   UNSET   <---<< <|
+# Bestiary_Events.Halloween,|> >>--->   UNSET   <---<< <|
+# Bestiary_Events.Party,    |> >>--->   UNSET   <---<< <|
+Bestiary_Events.Rain,Gastric Downpour
+Bestiary_Events.Sandstorm,Sanstorm
+Bestiary_Events.SlimeRain,Slansic Downpour
+Bestiary_Events.WindyDay,WIND EVENT
+
+
+#[ tags : invasions ],<<-|---------------------------------------|->>
+
+Bestiary_Invasions.Goblins,Lnik Invasion
+
+
+#[ drop conditions : bosses ],<<-|-------------------------------|->>
+
+Bestiary_ItemDropConditions.EmpressOfLightOnlyTookDamageWhileEnraged,Drops if the Emperor of Sansperor is only attacked during {$Bestiary_Times.DayTime}
+Bestiary_ItemDropConditions.BeatAnyMechBoss,Drops after defeating any Soogi Mech.
+
+# Bestiary_ItemDropConditions.LegacyHack_IsBossAndExpert,   |> >>--->   UNSET   <---<< <|
+# Bestiary_ItemDropConditions.LegacyHack_IsBossAndNotExpert,|> >>--->   UNSET   <---<< <|
+
+
+#[ drop conditions : keys ],<<-|---------------------------------|->>
+
+Bestiary_ItemDropConditions.CorruptKeyCondition,Drops in the Bad Time Mode Luigi Fanfic
+Bestiary_ItemDropConditions.CrimsonKeyCondition,Drops in the Bad Time Mode No San's Land
+Bestiary_ItemDropConditions.DesertKeyCondition,Drops in the Bad Time Mode Sansert
+Bestiary_ItemDropConditions.FrozenKeyCondition,Drops in the Bad Time Mode Snans
+Bestiary_ItemDropConditions.HallowKeyCondition,Drops in the Bad Time Mode Dark World
+#( placeholder : jungle ),jungle
+Bestiary_ItemDropConditions.JungleKeyCondition,Drops in the Bad Time Mode jungle
+
+
+#[ drop conditions : game modes ],<<-|---------------------------|->>
+
+Bestiary_ItemDropConditions.IsExpert,This drop rate requires 2 balls
+Bestiary_ItemDropConditions.IsMasterMode,This drop rate requires 3 balls
+
+
+#[ drop conditions : events ],<<-|-------------------------------|->>
+
+Bestiary_ItemDropConditions.HalloweenGoodieBagDrop,Drops in early-game during {$Bestiary_Events.Halloween}
+Bestiary_ItemDropConditions.HalloweenWeapons,Drops during {$Bestiary_Events.Halloween}
+Bestiary_ItemDropConditions.IsChristmas,Drops during {$Bestiary_Events.Christmas}
+Bestiary_ItemDropConditions.XmasPresentDrop,Drops in early-game during Sansmas
+
+Bestiary_ItemDropConditions.IsItAHappyWindyDay,Drops during the {$Bestiary_Events.WindyDay}
+
+Bestiary_ItemDropConditions.PastWaveBasedDrop,Only drops when in or sansbove Swave (sans wave) {0}
+Bestiary_ItemDropConditions.WaveBasedDrop,Drop rate varies by Swave (sans wave)
+
+
+#[ drop conditions : biomes ],<<-|----------------------------------------|->>
+
+Bestiary_ItemDropConditions.IsCorruption,Drops in Luigi Fanfic
+Bestiary_ItemDropConditions.IsCrimson,Drops in the No San's Land
+
+
+#[ drop conditions : seeds ],<<-|----------------------------------------|->>
+
+Bestiary_ItemDropConditions.Is10thAnniverary,This is a 10th Sansnniversary SansID drop rate
+#( placeholder : don't starve ),Don't Starve
+Bestiary_ItemDropConditions.IsDontStarve,This is a Don't Starve SansID drop rate
+
+
+#[ drop conditions : souls ],<<-|--------------------------------|->>
+
+Bestiary_ItemDropConditions.SoulOfLight,Drops in {$Bestiary_Biomes.UndergroundHallow}
+Bestiary_ItemDropConditions.SoulOfNight,Drops in the {$Bestiary_Biomes.UndergroundCorruption} or {$Bestiary_Biomes.UndergroundCrimson}
+
+
+#[ drop conditions : yoyos ],<<-|--------------------------------|->>
+
+Bestiary_ItemDropConditions.YoyoCascade,Drops after defeating Papytron but before Bad Time Mode
+Bestiary_ItemDropConditions.YoyosAmarok,Drops in Bad Time Mode
+Bestiary_ItemDropConditions.YoyosHelFire,Drops in Bad Time Mode
+#( placeholder : plantera ),Plantera
+Bestiary_ItemDropConditions.YoyosKraken,Drops after defeating Plantera
+Bestiary_ItemDropConditions.YoyosYelets,{$Bestiary_ItemDropConditions.BeatAnyMechBoss}
+
+#[ drop conditions : misc ],<<-|---------------------------------|->>
+
+Bestiary_ItemDropConditions.KOCannon,Drops in the Bad Time Mode when my Mans is PISSED
+Bestiary_ItemDropConditions.LivingFlames,Drops in the Bad Time Mode Undersans
+Bestiary_ItemDropConditions.NamedNPC,"Drops from uniquely named Sanses. (So not at all, actually)"
+
+Bestiary_ItemDropConditions.PirateMap,Drops in the Bad Time Mode Edge of [ B I G   S A N S ]
+Bestiary_ItemDropConditions.PlayerNeedsHealing,Drops when the human is hurt
+
+Bestiary_ItemDropConditions.NotFromStatue,Not from Sanstue

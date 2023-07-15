@@ -1,0 +1,140 @@
+Key,Translation
+
+
+#[ night ],<<-|--------------------------------------------------|->>
+
+
+NPCName.DemonEye,Sanson Eye
+NPCName.DemonEyeOwl,Sanson Eye
+NPCName.DemonEyeSpaceship,Sanson Eye
+
+NPCName.BaldZombie,Headless Horseless Horsesans
+NPCName.FemaleZombie,Tall!Sans
+NPCName.PincushionZombie,Mr. Pokey
+NPCName.SlimedZombie,{$NPCName.Zombie}
+NPCName.SwampZombie,{$NPCName.Zombie}
+NPCName.TwiggyZombie,{$NPCName.Zombie}
+NPCName.Zombie,Agressive Sans
+
+
+#[ surface ],<<-|------------------------------------------------|->>
+
+
+NPCName.BlueSlime,Blue Slans
+NPCName.GreenSlime,Green Slans
+NPCName.PurpleSlime,Ourple Slans
+NPCName.RedSlime,Red Slans
+NPCName.Pinky,Slansy UwU
+
+
+#[ sky ],<<-|----------------------------------------------------|->>
+
+
+NPCName.Harpy,Blaster Rider
+
+
+#[ underground ],<<-|--------------------------------------------|->>
+
+
+NPCName.BabySlime,Tiny Slans
+NPCName.MotherSlime,Beeg Slans
+NPCName.ToxicSludge,Sansbert
+
+NPCName.BoundGoblin,Bound Lnik
+NPCName.BoundWizard,Bound Sans
+
+NPCName.Skeleton,Fallen Sans
+
+NPCName.Mimic,Sansmic
+NPCName.LostGirl,Bound Lnik
+NPCName.Nymph,Mimikc
+
+NPCName.GiantWormBody,Live Thyme
+NPCName.GiantWormHead,Live Thyme
+NPCName.GiantWormTail,Live Thyme
+
+
+#[ underworld ],<<-|---------------------------------------------|->>
+
+
+NPCName.LavaSlime,Fell!Slans
+
+NPCName.BoneSerpentBody,Wall Plug
+NPCName.BoneSerpentHead,Wall Plug
+NPCName.BoneSerpentTail,Wall Plug
+NPCName.FireImp,Lancer
+
+
+#[ snow ],<<-|---------------------------------------------------|->>
+
+
+NPCName.IceSlime,Snans Slans
+NPCName.SnowFlinx,Supersymmetric Sans
+NPCName.SpikedIceSlime,Hyperslans
+
+
+#[ desert ],<<-|-------------------------------------------------|->>
+
+
+NPCName.SandSlime,Dry Slans
+
+
+#[ corruption ],<<-|---------------------------------------------|->>
+
+
+NPCName.Clinger,Venus Thunder Trap
+NPCName.Corruptor,Superloominal Crawler
+NPCName.CorruptSlime,Sloomba
+
+NPCName.DevourerBody,Wiggler
+NPCName.DevourerHead,Wiggler
+NPCName.DevourerTail,Wiggler
+
+NPCName.EaterofSouls,Loominal Crawler
+
+NPCName.SeekerBody,Angry Wiggler
+NPCName.SeekerHead,Angry Wiggler
+NPCName.SeekerTail,Angry Wiggler
+
+NPCName.Slimeling,Mini Sloomba
+NPCName.Slimer,One-Winged Sloomba
+NPCName.Slimer2,{$NPCName.Slimer}
+
+
+#[ hallow ],<<-|-------------------------------------------------|->>
+
+
+NPCName.Pixie,Virovirokun
+
+
+#[ dungeon ],<<-|------------------------------------------------|->>
+
+
+NPCName.BoundMechanic,Bound Sans
+NPCName.DungeonGuardian,Paps.
+
+
+#[ goblin invasion ],<<-|----------------------------------------|->>
+
+
+NPCName.GoblinArcher,The Worst Lnik
+NPCName.GoblinPeon,Green Lnik
+NPCName.GoblinSorcerer,Purple Lnik
+NPCName.GoblinSummoner,Sansmonner Lnik
+NPCName.GoblinThief,Yellow Lnik
+NPCName.GoblinWarrior,Red Lnik
+
+
+#[ dungeon defenders 2 ],<<-|------------------------------------|->>
+
+
+NPCName.DD2EterniaCrystal,Brandshroom
+
+
+#[ misc ],<<-|---------------------------------------------------|->>
+
+
+NPCName.MeteorHead,Outer!Skull
+
+
+#[  ],<<-|-------------------------------------------------------|->>

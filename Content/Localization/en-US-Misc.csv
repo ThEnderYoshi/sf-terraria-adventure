@@ -1,0 +1,248 @@
+Key,Translation
+
+
+#[ announcements ],<<-|------------------------------------------|->>
+
+
+Announcement.HasArrived,{0} has arrived wether you like it or not!
+Announcement.HasAwoken,{0} is here to kick your behind!
+Announcement.HasBeenDefeated_Single,{0}'s behind was kicked!
+Announcement.HasBeenDefeated_Plural,{0}'s behinds were kicked!
+
+Game.BedObstructed,Your bad is sansbstructed.
+Game.BirthdayParty_1,{0} is getting funky!
+Game.BirthdayParty_2,{0} and {1} are getting it on!
+Game.BirthdayParty_3,"{0}, {1} and {2} are party rockin' in the house tonight!"
+Game.InvasionPoints,[c/001111:{0} sans points]
+Game.InvasionWave_Type1,"[ {0} ] : {1}"
+Game.InvasionWave_Type2,"[ {0} ] : {1} and {2}"
+Game.InvasionWave_Type3,"[ {0} ] : {1}, {2} and {3}"
+Game.InvasionWave_Type4,"[ {0} ] : {1}, {2}, {3} and {4}"
+Game.InvasionWave_Type5,"[ {0} ] : {1}, {2}, {3}, {4} and {5}"
+Game.InvasionWave_Type6,"[ {0} ] : {1}, {2}, {3}, {4}, {5} and {6}"
+Game.InvasionWave_Type7,"[ {0} ] : {1}, {2}, {3}, {4}, {5}, {6} and {7}"
+Game.InvasionWave_Type8,"[ {0} ] : {1}, {2}, {3}, {4}, {5}, {6}, {7} and {8}"
+
+Game.JoinGreeting,Current victims: {0}.
+
+LegacyMisc.1,A Lnik army is approaching from the weast!
+LegacyMisc.2,A Lnik army is approaching from the east!
+LegacyMisc.3,The Lnik army is here to kick your behind!
+LegacyMisc.0,The Lnik army's behind was kicked!
+
+LegacyMisc.8,My Mans (moon sans) is PISSED!
+LegacyMisc.9,You feel like you're gonna have a bad time...
+LegacyMisc.15,The spirits of dark and darker have become yet darker.
+
+
+#[ currency ],<<-|-----------------------------------------------|->>
+
+
+Currency.Copper,Gastter
+Currency.Silver,Sansver
+Currency.Gold,Papyld
+Currency.Platinum,Sans Bux
+
+Currency.DefenderMedals,Luigium Coins
+
+
+#[ controls ],<<-|-----------------------------------------------|->>
+
+
+Controls.LeftClick,L-Click
+Controls.RightClick,Mouse II
+
+
+#[ game ],<<-|---------------------------------------------------|->>
+
+
+Game.DroppedCoins,"Don't lose hope! (But you did lose: {0})"
+
+Game.NPCTitle,{1}!{0}
+Game.PlayerDeathTime,{0}'s behind was kicked {1} ago.
+
+Game.RespawnInSuffix,"{0}. Hold yer horses"
+
+Game.SpawnPointRemoved,Sanspoint removed!
+Game.SpawnPointSet,Sanspoint set!
+Game.TeleportTo,Sansleport to {0}
+Game.Time,{0} ST (Sans Time)
+
+
+#[ ui : game ],<<-|----------------------------------------------|->>
+
+
+GameUI.Bestiary,Open Sanstiary
+GameUI.Cancel,Cansans
+GameUI.CompassCenter,Sanster
+GameUI.CompassEast,{0} ½m East
+GameUI.CompassWest,{0} ½m Weast
+GameUI.DPS,{0} sansmage per sanscond
+
+
+#[ map objects ],<<-|--------------------------------------------|->>
+
+
+MapObject.Copper,Gastter
+MapObject.CrimsonAltar,Wartorn Altar
+MapObject.Crimtane,Sansnium
+MapObject.DemonAltar,Loogie Altar
+MapObject.Demonite,Luigium
+MapObject.DesertFossil,Sans Matter
+MapObject.Fossil,Sans Matter
+MapObject.Gold,Papyld
+MapObject.Iron,Iriel
+MapObject.Lead,Toriad
+MapObject.Platinum,Papynum
+MapObject.Silver,Sansver
+MapObject.Tin,Gastin
+MapObject.Toilet,Dispatch Hatch
+MapObject.Tungsten,Tungsans
+
+
+#[ misc ],<<-|---------------------------------------------------|->>
+
+
+Misc.CanBePlacedInVanity,[c/ff7f7f:Can be equipped in sansnity slots]
+
+Misc.Crimstone,Wartorn Stans
+Misc.Ebonstone,Loostone
+Misc.Fruit,Froot
+
+
+#[ world creation ],<<-|-----------------------------------------|->>
+
+
+LegacyMisc.101,Loogies
+LegacyMisc.102,No San's Land
+LegacyMisc.103,Idk
+
+
+#[ world gen ],<<-|----------------------------------------------|->>
+
+
+LegacyWorldGen.0,Sansnerating [ B I G   S A N S ]
+LegacyWorldGen.1,Adding sans
+LegacyWorldGen.2,Sansnerating hills
+LegacyWorldGen.3,Putting sirt behind sirt
+LegacyWorldGen.4,Placing stans in the sirt
+
+LegacyWorldGen.5,Placing sirt in the stans
+
+# LegacyWorldGen.6,|> >>--->   UNSET   <---<< <| # adding clay
+
+LegacyWorldGen.7,Making random orifices
+LegacyWorldGen.8,Sansnerating small sanves
+LegacyWorldGen.9,Sansnerating large sanves
+
+LegacyWorldGen.10,Sansnerating sansface orifices
+LegacyWorldGen.11,Sansnerating the twilight sansrest
+LegacyWorldGen.12,Sansnerating floating [ S A N S E S ]
+LegacyWorldGen.13,Infecting the [ B I G   S A N S ]
+LegacyWorldGen.14,Placing muns in the sirt
+
+LegacyWorldGen.15,Adding salt (sans silt)
+LegacyWorldGen.16,Adding sansnies
+
+# LegacyWorldGen.17,|> >>--->   UNSET   <---<< <| # adding webs
+
+LegacyWorldGen.18,Sealing the Dark World in hell
+LegacyWorldGen.19,Adding gastric ponds
+
+LegacyWorldGen.20,Making the [ B I G   S A N S ] IMPURE.
+LegacyWorldGen.21,Sansnerating large orifices
+LegacyWorldGen.22,Adding edges to the [ B I G   S A N S ]
+LegacyWorldGen.23,Adding sams
+LegacyWorldGen.24,Sansvitating sans
+
+LegacyWorldGen.25,Cleaining up sirt walls
+LegacyWorldGen.26,Placing Sans Shrines
+LegacyWorldGen.27,Sansttling fluids
+LegacyWorldGen.28,Placing human SOULs
+LegacyWorldGen.29,Placing sanstues
+
+LegacyWorldGen.30,Hiding sansure (sans treasusre)
+LegacyWorldGen.31,Hiding more sansure (sans treasusre)
+LegacyWorldGen.32,Hiding twilight sansrest sansure (sans treasusre)
+LegacyWorldGen.33,Hiding gastric sansure (sans treasusre)
+LegacyWorldGen.34,Placing sansps (sans traps)
+
+LegacyWorldGen.35,Placing sanskables
+LegacyWorldGen.36,Placing smog forges
+LegacyWorldGen.37,Reverse-defacing the [ B I G   S A N S ]
+LegacyWorldGen.38,Growing sanscti
+LegacyWorldGen.39,Planting echo flowers
+
+LegacyWorldGen.40,Planting thyme growths
+LegacyWorldGen.41,Planting sansbs (sans herbs)
+LegacyWorldGen.42,Planting bad thymes
+LegacyWorldGen.43,Growing bad vines
+
+# LegacyWorldGen.44,|> >>--->   UNSET   <---<< <| # planting flowers
+
+LegacyWorldGen.45,Planting sanshrooms
+LegacyWorldGen.46,Freeing resources from this mortal coil
+LegacyWorldGen.47,Sansetting Sans Fanfic: Terraria Adventure objects
+LegacyWorldGen.48,Sanstting bad time mode
+LegacyWorldGen.49,Sansving [ B I G   S A N S ] data:
+
+LegacyWorldGen.50,Backing up [ B I G   S A N S ] file
+LegacyWorldGen.51,Loading [ B I G   S A N S ] data:
+LegacyWorldGen.52,Checking tile sanslignment:
+LegacyWorldGen.53,LOAD FAILED WTF!!!
+LegacyWorldGen.54,No backup found :(
+
+LegacyWorldGen.55,Finding tile sansmes:
+LegacyWorldGen.56,Adding snans
+LegacyWorldGen.57,[ B I G   S A N S ]
+LegacyWorldGen.58,Creating sansgeon
+
+# LegacyWorldGen.59,|> >>--->   UNSET   <---<< <| # a meteorite has landed!
+
+LegacyWorldGen.60,Soothing the [ B I G   S A N S ]
+
+# LegacyWorldGen.61,|> >>--->   UNSET   <---<< <| # mossification
+
+LegacyWorldGen.62,Samification
+LegacyWorldGen.63,Making sansve walls
+
+#LegacyWorldGen.64,|> >>--->   UNSET   <---<< <| # growing spider caves
+
+LegacyWorldGen.65,Clearing mappe data:
+LegacyWorldGen.66,Sansving mappe data:
+LegacyWorldGen.67,Loading mappe data:
+LegacyWorldGen.68,Drawing mappe:
+LegacyWorldGen.69,Creating gastrofalls
+
+LegacyWorldGen.70,Creating twilight sansrest ruans
+
+# LegacyWorldGen.71,|> >>--->   UNSET   <---<< <| # creating hornet nests
+
+LegacyWorldGen.72,Making the [ B I G   S A N S ] dusty
+LegacyWorldGen.73,Validating [ B I G   S A N S ] save:
+LegacyWorldGen.74,Slanses are falling from the skans!
+
+LegacyWorldGen.75,Slanses have stopped falling from the skans.
+LegacyWorldGen.76,Generating sansctures
+LegacyWorldGen.77,Adding more sass
+LegacyWorldGen.78,Sansertification
+LegacyWorldGen.79,Weathering sansverns
+
+LegacyWorldGen.80,Chiseling mars
+LegacyWorldGen.81,Growing grans
+LegacyWorldGen.82,Disarming broken sansps
+
+# LegacyWorldGen.83,|> >>--->   UNSET   <---<< <| # growing rich mahogany
+
+LegacyWorldGen.84,SANS IT UP!
+
+LegacyWorldGen.85,Felling growths
+LegacyWorldGen.86,FINAL SANS UP! ARE YOU READY?
+LegacyWorldGen.87,Sansnalizing [ B I G   S A N S ]
+LegacyWorldGen.88,Growing gastric plants
+LegacyWorldGen.89,Placing sansbjects
+
+LegacyWorldGen.90,Forming edge orifice
+
+
+#[  ],<<-|-------------------------------------------------------|->>

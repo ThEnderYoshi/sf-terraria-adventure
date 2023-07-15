@@ -1,0 +1,328 @@
+Key,Translation
+
+
+#[ achievements ],<<-|-------------------------------------------|->>
+
+
+UI.Achievements,Sanschievements
+
+
+#[ emotes ],<<-|-------------------------------------------------|->>
+
+
+UI.EmoteCategoryBiomesAndEvents,Flora and Fauna
+UI.EmoteCategoryBosses,Big Boys
+UI.EmoteCategoryCritters,Entities
+UI.EmoteCategoryGeneral,Sansneral
+UI.EmoteCategoryItems,Sanstems
+UI.EmoteCategoryRPS,"Stans, Pans, Sanssors!"
+UI.EmoteCategoryTownNPCs,Sanses
+
+
+#[ game titles ],<<-|--------------------------------------------|->>
+
+
+GameTitle.0,Sans Fanfic: Terraria Adventure - May God have mercy on your SOUL
+GameTitle.1,Sans Fanfic: Terraria Adventure - Not this pack again
+GameTitle.2,Sans Fanfic: Terraria Adventure - Maybe it's the way you're dressed!
+GameTitle.3,Sans Fanfic: Terraria Adventure - Even the title's infected!
+GameTitle.15,Sans Fanfic: Terraria Adventure - The Gastric Downpour of contempt!
+
+GameTitle.28,Luigi Fanfic: Terraria Adventure - May God have mercy on your 1-ups
+GameTitle.29,Luigi Fanfic: Terraria Adventure - Not this pack again
+GameTitle.30,Luigi Fanfic: Terraria Adventure - OH MY GOD!!! WAAAAAAHHH!!!
+GameTitle.31,Luigi Fanfic: Terraria Adventure - If you read this title you're Branded
+GameTitle.37,Luigi Fanfic: Terraria Adventure - The Cream Soda Fall of Deliciousness!
+
+
+#[ crafting ],<<-|-----------------------------------------------|->>
+
+
+LegacyInterface.21,Showing sansipies that use
+LegacyInterface.22,Sansquired sansbjects:
+LegacyInterface.23,"Nothing, nada, zilch"
+LegacyInterface.24,Place a sansterial here
+LegacyInterface.25,Help
+
+
+#[ currency ],<<-|-----------------------------------------------|->>
+
+#comment,"jfc how many 'currency' entries are there"
+
+LegacyInterface.15,sans bux
+LegacyInterface.16,papyld
+LegacyInterface.17,sansver
+LegacyInterface.18,gastter
+
+
+#[ death ],<<-|--------------------------------------------------|->>
+
+
+LegacyInterface.38,GAME OVER
+
+
+#[ dialog ],<<-|-------------------------------------------------|->>
+
+
+LegacyInterface.51,Crafting
+LegacyInterface.52,Shop
+UI.BartenderHelp,Brandshroom
+
+
+#[ equipment ],<<-|----------------------------------------------|->>
+
+
+LegacyInterface.11,Sansnity
+LegacyInterface.12,Sansmet
+LegacyInterface.13,Shans
+LegacyInterface.14,Sants
+
+
+#[ housing ],<<-|------------------------------------------------|->>
+
+
+LegacyInterface.7,Habitats
+LegacyInterface.8,Query Habitat
+LegacyInterface.9,Sansccessory
+
+
+#[ interface names ],<<-|----------------------------------------|->>
+
+
+LegacyInterface.4,Sansventory
+LegacyInterface.26,Bux
+LegacyInterface.27,Sansmmo
+LegacyInterface.32,Piggy!Sans
+LegacyInterface.80,Habitats
+
+
+#[ inventory ],<<-|----------------------------------------------|->>
+
+
+LegacyInterface.3,Trash!Sans
+LegacyInterface.5,Hotsans sanslocked
+LegacyInterface.6,Hotsans locked
+LegacyInterface.28,Close
+LegacyInterface.29,Deposit All
+LegacyInterface.30,Loot All
+LegacyInterface.66,Sanvings
+
+
+#[ pause menu ],<<-|---------------------------------------------|->>
+
+
+LegacyInterface.35,Sansve & Sansxit
+LegacyInterface.36,Sansconnect
+LegacyInterface.62,Sansttings
+LegacyInterface.63,Cansans
+LegacyInterface.68,Sansttings
+
+
+#[ reforging ],<<-|----------------------------------------------|->>
+
+
+LegacyInterface.19,Resans
+LegacyInterface.20,Place an item here to resans
+
+
+#[ resources ],<<-|----------------------------------------------|->>
+
+
+LegacyInterface.0,HP:
+LegacyInterface.1,Brans (breath sans)
+LegacyInterface.2,TP
+LegacyInterface.10,DF
+
+
+#[ menu ],<<-|---------------------------------------------------|->>
+
+
+LegacyMenu.5,New
+
+LegacyMenu.12,Exit
+LegacyMenu.15,Single Player
+
+UI.Cancel,Cansans
+UI.New,Back
+
+
+#[ player modes ],<<-|-------------------------------------------|->>
+
+
+UI.Softcore,Balls of Iron
+UI.Mediumcore,Balls of Steel
+UI.Hardcore,Ball of Netherite
+
+LegacyMenu.24,{$UI.Hardcore}
+LegacyMenu.25,{$UI.Mediumcore}
+LegacyMenu.26,{$UI.Softcore}
+
+LegacyMenu.29,"You won't be able SAVE or LOAD. This will be very, very, interesting."
+LegacyMenu.30,"Losing items on death? Sorry, you've got the wrong game."
+LegacyMenu.31,"Your everyday human. Prone to losing Sans Bux upon heart faliure."
+UI.CreativeDescriptionPlayer,"You get to start dripped out, but can only play in ball-less worlds. Dems the rules!"
+
+
+#[ world creation : attrs ],<<-|---------------------------------|->>
+
+
+UI.Creative,No Ball
+UI.Normal,1 Ball
+UI.Expert,2 Ball
+UI.Master,3 Ball
+UI.Legendary,4 Ball
+
+LegacyMenu.92,{$UI.WorldSizeLarge}
+LegacyMenu.93,{$UI.WorldSizeMedium}
+LegacyMenu.94,{$UI.WorldSizeSmall}
+
+UI.WorldCreationDifficulty,Balls required:
+UI.WorldDescriptionCreative,:3
+UI.WorldDescriptionNormal,:)
+UI.WorldDescriptionExpert,>:)
+UI.WorldDescriptionMaster,>8]
+
+UI.WorldSizeFormat,{0} Size
+UI.WorldSizeLarge,smol beanz
+UI.WorldSizeMedium,Family
+UI.WorldSizeSmall,JUMBO
+UI.WorldSizeUnknown,Idfk
+
+UI.WorldCreationEvil,Anomaly:
+UI.WorldDescriptionEvilCorrupt,[ B I G   L O O G I E ] will infect your wans.
+UI.WorldDescriptionEvilCrimson,Unending war will plague your sans.
+UI.WorldDescriptionEvilRandom,"Idk which evil will infect your sans, but it won't be good"
+
+UI.WorldCreationSize,Size of [ B I G   S A N S ]:
+UI.WorldDescriptionSizeLarge,Prepare for a lot of walking.
+UI.WorldDescriptionSizeMedium,Right in the Goldiloch's zone.
+UI.WorldDescriptionSizeSmall,Prone to worldgen errors.
+
+
+#[ world creation : misc ],<<-|----------------------------------|->>
+
+
+UI.CopySeed,Soppy (sans copy) SansID: {0}
+
+UI.WorldDescriptionDefault,Please enjoy your last moments of peace before you enter a world.
+
+UI.WorldCreationName,Forbidden words:
+UI.WorldCreationNameEmpty,"<nothing, nada, zilch>"
+UI.WorldDescriptionName,"If you call your sans anything other than ""sans"", what's even the point?"
+
+
+UI.WorldCreationNumberOfWorlds,# of [ B I G   S A N S ]'s
+
+UI.WorldCreationNumberOfWorldsDescription,Number of hells to unleash at once.
+
+UI.WorldCreationRandomizeNameDescription,Does nothing.
+
+UI.WorldCreationRandomizeSeedDescription,Does nothing ;)
+
+UI.WorldCreationSeed,SansID
+UI.WorldCreationSeedEmpty,<Random>
+UI.WorldDescriptionSeed,Set a SansID.
+
+
+#[ menu : titles ],<<-|------------------------------------------|->>
+
+
+UI.ResourcePacks,Menu where you make sure that Sans Fanfic: Terraria Adventure is enabled
+UI.WorkshopHub,Worksans Hub
+
+Workshop.CategoryTitleDisclaimer,Sansvice Agreement
+Workshop.CategoryTitlePublicity,Sansibility
+Workshop.CategoryTitleTags,Sans Tags
+
+
+#[ minimap : items ],<<-|----------------------------------------|->>
+
+
+UI.SpawnPoint,Gates of Hell
+
+
+#[ minimap : frames ],<<-|---------------------------------------|->>
+
+
+UI.MinimapFrame_Default,Sansfault
+UI.MinimapFrame_Golden,Palyld
+UI.MinimapFrame_Leaf,DeltaWarriors
+UI.MinimapFrame_Remix,Sansmix
+UI.MinimapFrame_Retro,FallenChild
+UI.MinimapFrame_Sticks,MysteryMan
+UI.MinimapFrame_StoneGold,Hologram
+UI.MinimapFrame_TwigLeaf,HumanSouls
+UI.MinimapFrame_Valkyrie,Loogiefault
+
+
+#[ workshop ],<<-|-----------------------------------------------|->>
+
+
+UI.Author,Culprit: {0}
+UI.AvailableResourcePacksTitle,Not Sans Fanfic: Terraria Adventure ({Amount})
+UI.EnabledResourcePacksTitle,Sans Fanfic: Terraria Adventure ({Amount})
+
+Workshop.EnterNewNameForImportedWorld,Enter [ B I G   S A N S ] name:
+Workshop.HubDescriptionImportWorlds,Import sanses from the worksans.
+
+
+Workshop.HubPublishWorlds,Publish Sanses
+
+Workshop.HubResourcePacks,Enable Sans Fanfic: Terraria Adventure
+
+Workshop.HubPublishResourcePacks,Unnecessary Feature
+
+Workshop.HubWorlds,Import Sanses
+
+Workshop.InfoDescriptionDefault,Why are you publishing something while this pack is enabled?
+
+Workshop.PreviewImagePathTitle,Sansmage:
+Workshop.PreviewImagePathEmpty,"<nothing, nada, zilch>"
+Workshop.PreviewImagePathDescription,Choose a nice picture of Sans. (max size 512x512)
+
+Workshop.Publish,[ U N L E A S H ]
+
+
+#[ workshop : descriptions ],<<-|--------------------------------|->>
+
+
+Workshop.HubDescriptionDefault,"[c/ff0000:PREPARE YOU'RE POSTERIOR]"
+Workshop.HubDescriptionPublishResourcePacks,"Why would you publish a Resource Pack? You don't need anything other than Sans Fanfic: Terraria Adventure."
+Workshop.HubDescriptionPublishWorlds,"Publish your [ B I G   S A N S ] and have it spread across the galaxy."
+Workshop.HubDescriptionUseResourcePacks,"Just in case you forgot to enable Sans Fanfic: Terraria Adventure."
+
+
+#[ workshop : issues ],<<-|--------------------------------------|->>
+
+
+Workshop.ReportIssue_CannotPublishZips,"You can't publish zip files, dumbass"
+Workshop.ReportIssue_CouldNotCreateResourcePackManifestFile,Could not manifest a sansnifest file.
+Workshop.ReportIssue_CouldNotCreateTemporaryFolder,Could not create a temp sansder.
+Workshop.ReportIssue_FailedToLoadSubscribedFile,Failed to load sansbscribed file (I hope that wasn't Sans Fanfic: Terraria Adventure)
+Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp,"Congrats, you found the string with the longest identifier (probably): Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForApp"
+Workshop.ReportIssue_FailedToPublish_Common,Couldn't publish for some reason LMAO
+Workshop.ReportIssue_FailedToPublish_CouldNotFindFolderToUpload,Couldn't find folder to sanspload.
+Workshop.ReportIssue_FailedToPublish_ImageSizeIsTooLarge,"Image is too lawge OwO
+Current sanze: {Width}x{Height}"
+
+
+#[ misc ],<<-|---------------------------------------------------|->>
+
+
+
+UI.Ellipsis,",,,,,,,,,,,,,,,"
+
+GameUI.NotEnoughWater,Hmm... Needs more gastric acid...
+
+LegacyInterface.53,Gastric Acid
+
+
+#[ worldgen ],<<-|-----------------------------------------------|->>
+
+
+UI.WorldGenEasterEgg_GeneratingBees,YES THE BEEEEEEEEEEEEEES!
+Misc.ForceWaterSettling,Forcing gastric acid to sansttle.
+Misc.WaterSettled,Gastric acid has been sansttled.
+
+
+#[  ],<<-|-------------------------------------------------------|->>

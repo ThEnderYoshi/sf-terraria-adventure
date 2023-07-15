@@ -1,0 +1,96 @@
+Key,Translation
+
+
+#[ reference ],<<-|----------------------------------------------|->>
+
+
+#( color : title ),00ff80
+#( color : card number ),008762
+
+#( template : title ),Trading Card (<set> Set)
+#( template : desc ),"[c/00ff80:'<card-name>']
+[c/008762:Card <n> out of <nf>]
+[c/7f7f7f:-------]
+<description
+make it
+4 lines
+OwO>"
+
+
+#[ invent a universe ],<<-|--------------------------------------|->>
+
+
+ItemName.Sunflowers,Trading Card (Invent a Universe Set)
+ItemTooltip.Sunflowers,"[c/00ff80:'Back']
+[c/008762:Card 1 out of 8]
+[c/7f7f7f:-------]
+Wether very close or very far,
+the [c/ffff00:Back] type can
+always give great depth to
+your builds."
+
+ItemName.TerrarianGothic,Trading Card (Invent A Universe Set)
+ItemTooltip.TerrarianGothic,"[c/00ff80:'Slidey']
+[c/008762:Card #2 out of 8]
+[c/7f7f7f:-------]
+Slippery and sometimes
+sloped, the [c/ffff00:Slidey] type
+brings a great challenge
+to many areas."
+
+ItemName.GuidePicasso,Trading Card (Invent A Universe Set)
+ItemTooltip.GuidePicasso,"[c/00ff80:'Solid']
+[c/008762:Card #3 out of 8]
+[c/7f7f7f:-------]
+Incredibly simple, yet
+incredibly versitle.
+The [c/ffff00:Solid] type makes
+the foundation of Infinity."
+
+ItemName.Discover,Trading Card (Invent A Universe Set)
+ItemTooltip.Discover,"[c/00ff80:'Thing']
+[c/008762:Card #4 out of 8]
+[c/7f7f7f:-------]
+Miscellaneous yet specific,
+the [c/ffff00:Thing] type covers a
+wide variety of uses, be that a sign,
+a highlight, or even...a furry?"
+
+ItemName.HandEarth,Trading Card (Invent A Universe Set)
+ItemTooltip.HandEarth,"[c/00ff80:'Climbable']
+[c/008762:Card #5 out of 8]
+[c/7f7f7f:-------]
+From slow to fast, whatever
+form it takes, the [c/ffff00:Climbable]
+type allows anyone to reach
+for the skies."
+
+ItemName.OldMiner,Trading Card (Invent A Universe Set)
+ItemTooltip.OldMiner,"[c/00ff80:'Dynamic']
+[c/008762:Card #6 out of 8]
+[c/7f7f7f:-------]
+It could be an animation,
+a pet, weapon, anything,
+really. The [c/ffff00:Dynamic type]
+is one of the most powerful."
+
+ItemName.Skelehead,Trading Card (Invent A Universe Set)
+ItemTooltip.Skelehead,"[c/00ff80:'Interacting']
+[c/008762:Card #7 out of 8]
+[c/7f7f7f:-------]
+Even the simplest understanding
+of its language allows you a
+glimpse into the true power of
+the [c/ffff00:Interacting] type."
+
+ItemName.ImpFace,Trading Card (Invent A Universe Set)
+ItemTooltip.ImpFace,"[c/00ff80:'Automation']
+[c/008762:Card #8 out of 8]
+[c/7f7f7f:-------]
+Tapping into the very DNA of
+Infinity, the [c/ffff00:Automation] types
+allow you to meld and warp the
+very fabric of reality."
+
+
+#[  ],<<-|-------------------------------------------------------|->>

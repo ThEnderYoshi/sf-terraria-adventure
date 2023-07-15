@@ -1,0 +1,91 @@
+Key,Translation
+
+
+#[ king slime ],<<-|---------------------------------------------|->>
+
+
+NPCName.KingSlime,King Slans
+
+
+#[ eye of cthulhu ],<<-|-----------------------------------------|->>
+
+
+NPCName.EyeofCthulhu,Eye of Sans
+NPCName.ServantofCthulhu,Young Sanson Eye
+
+
+#[ eater of worlds ],<<-|----------------------------------------|->>
+
+
+NPCName.EaterofWorldsBody,Biggler of Wigglers
+NPCName.EaterofWorldsHead,Biggler of Wigglers
+NPCName.EaterofWorldsTail,Biggler of Wigglers
+NPCName.VileSpitEaterOfWorlds,THUNDERRR
+
+
+#[ brain of cthulhu ],<<-|---------------------------------------|->>
+
+
+NPCName.BrainofCthulhu,Sevenbones
+NPCName.Creeper,Shrooper
+
+
+#[ skeletron ],<<-|----------------------------------------------|->>
+
+
+NPCName.SkeletronHand,Papytron
+NPCName.SkeletronHead,Papytron
+
+
+#[ deerclops ],<<-|----------------------------------------------|->>
+
+
+NPCName.Deerclops,Sanstrocity Prime
+
+
+#[ wall of flesh ],<<-|------------------------------------------|->>
+
+
+NPCName.WallofFlesh,Wall of Bone
+NPCName.WallofFleshEye,Wall of Bone
+NPCName.LeechBody,Floppy Bone
+NPCName.LeechHead,Floppy Bone
+NPCName.LeechTail,Floppy Bone
+NPCName.TheHungry,The Funny
+NPCName.TheHungryII,The Funny
+
+
+#[ queen slime ],<<-|--------------------------------------------|->>
+
+
+NPCName.QueenSlimeBoss,Emperor Slans
+
+
+#[ destroyer ],<<-|----------------------------------------------|->>
+
+
+NPCName.Probe,Sansian Core
+NPCName.TheDestroyer,Mecha Biggler
+NPCName.TheDestroyerBody,Mecha Biggler
+NPCName.TheDestroyerTail,Mecha Biggler
+
+
+#[ empress of light ],<<-|---------------------------------------|->>
+
+
+NPCName.HallowBoss,Emperor of Sansperor
+
+
+#[ moon lord ],<<-|----------------------------------------------|->>
+
+
+NPCName.MoonLordCore,[ B I G   S A N S ] SOUL Core
+NPCName.MoonLordFreeEye,True Eye of Sans
+NPCName.MoonLordHand,[ B I G   S A N S ] SOUL Hand
+NPCName.MoonLordHead,[ B I G   S A N S ] SOUL Head
+NPCName.MoonLordLeechBlob,Sanar Leech Clot
+
+Enemies.MoonLord,[ B I G   S A N S ] SOUL
+
+
+#[  ],<<-|-------------------------------------------------------|->>

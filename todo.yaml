@@ -1,0 +1,164 @@
+# Let's just hope I actually remember to check and update this list...
+
+important:
+
+next commit:
+  - Complete repo overhaul
+  - Also redid coin sprites (Item_ & Coin_)
+  - Also added some sprites to Tiles_185
+
+milestones:
+  start: 2022-07-12
+  update 01: <TBD>  # 1K images
+  update 02: <TBD>  # 2K images
+  update 03: <TBD>  # 3K images
+  update 04: <TBD>  # 4K images
+  update 05: <TBD>  # 5K images
+  update 06: <TBD>  # 6K images
+  update 07: <TBD>  # 7K images
+  update 08: <TBD>  # 8K images
+  update 09: <TBD>  # 9K images
+  update 10: <TBD>  # 10K images
+  update 11: <TBD>  # 11K images
+  update 12: <TBD>  # 12K images
+  update 13: <TBD>  # 13K images
+  update ω:  <TBD>  # ALL images
+  all tiles: <TBD>  # (Tiles_ + Misc/TileOutlines/Tiles_ + _Cactus)
+  all npcs:  <TBD>  # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
+  all items: <TBD>  # (Item_ + Coin_ + ItemFlame_)
+
+unfinished textures:
+  Background_:
+    - '93/160-170'  # Could use some more touches
+    - '261-262'     # Recolor of vanilla image
+  Extra_:
+    - '48'          # See !chat bubbles.ase
+    - '54'          # Equipment slot icons.
+  Flame_:
+    - '0'           # See Flame_0.ase
+    - '1'           # See Flame_1.ase
+    - '2'           # See Flame_2.ase
+    - '3'           # See Flame_3.ase
+    - '4'           # See Flame_4.ase
+    - '13'          # See Flame_13.ase
+    - '15'          # See Flame_15.ase
+  Item_:
+    - '511-512'     # (In)active stone blocks. They're still using vanilla wire textures.
+  Tiles_:
+    - '0'           # Dirt. Missing mud connections.
+    - '3/73'        # Natural plants/flowers.
+    - '4'           # Torches.
+    - '5'           # Trees. Missing: Mahogany, Shadewood, Ungerground Mah., Mushroom.
+    - '10/11'       # Doors.
+    - '13'          # Placed liquid containers. (Bottles, Potions, etc.)
+    - '14'          # Tables.
+    - '15'          # Chairs + Iron Toilet.
+    - '18'          # Work Benches.
+    - '19'          # Platforms.
+    - '20'          # Saplings.
+    - '21'          # Chests + Barrel + Trash Can.
+    - '33'          # Candle.
+    - '34'          # Chandelier.
+    - '35'          # Lanterns.
+    - '79'          # Beds.
+    - '80'          # Cacti.
+    - '81'          # Pianos.
+    - '82'          # Drawers.
+    - '83'          # Bench + Sofas + Chippy's Couch.
+    - '90'          # Bathtubs.
+    - '91'          # Banners.
+    - '93'          # Lamp.
+    - '100'         # Candelabras.
+    - '101'         # Bookshelves.
+    - '104'         # Grandfather Clocks.
+    - '105'         # Statues.
+    - '109'         # Hallowed Grass. Still based on Card Kingdom instead of Cyber World.
+    - '165'         # Stalactites/stalagmites.
+    - '172'         # Sinks.
+    - '185'         # Debree. Also check for tiles placed by Rubblemaker.
+    - '215'         # Campfire.
+    - '239'         # Bars.
+    - '240/242'     # 3x3/6x4 paintings.
+    - '497'         # Toilets.
+  UI/Bestiary/:
+    - 'Icon_Tags_Shadow'
+reconsider:
+  Gore_:
+    - '1218'        # These coins are being spewed by the goomba pet.
+                    # Maybe make them more related to the goomber?
+  Item_:
+    - '7/10'        # Iron hammer/axe. They look really similar.
+    - '31'          # Bottle. Didn't like how this one turned out.
+    - '2348'        # Potion. Not sure how to feel about the design.
+    - '2587'        # Scarf not present in current design.
+  NPC_:
+    - '16'          # Mother slime. Don't like how the bottom turned out.
+    - '48'          # Harpy. Outdated sans design + p sure i could do a better blaster now.
+    - '121'         # Slimer. Wing animation sucks.
+    - '458'         # Eternia Crystal. Sprite feels like it needs a couple tweaks.
+  Projectile_:
+    - '398'         # Related to Item_2587
+  UI/Cursor_:
+    - '3'           # Star cursor. Looks weird.
+  <specific names>:
+    - MiniMinotaur  # Related to Item_2587
+  <other>:
+    - Achievement UI assets
+broken:
+  Extra_:
+    - '259'         # Loadout UI. Loadout II's outline clips into selected frame.
+image sets:
+  Daybreak:
+    - Missing explosion sprite.
+  Flaming Mace:
+    - Chain textures scrungled.
+  The Rotted Fork:
+    - Missing shockwave sprite.
+  King Slime:
+    - <check for related items, etc.>
+  EoC:
+    - <check for related items, etc.>
+  Skelet:
+    - Add Chippy's Couch.
+    - <check for related items, etc.>
+  WoF:
+    - Bestiary icon
+    - <check for related items, etc.>
+  The Hungry:
+    - Bestiary icon
+  Shadowflame Apparition:
+    - Missing glow sprite.
+music notes:
+  Boss 1:
+    - Intro is repeated at the end, breaking the loop.
+  Title:
+    - Lower volume so it better matches the rest of the soundtrack.
+tools:
+  pack_diagnostic:
+    - Make scan check for image sizes.
+    - Make scan keep track of different (and invalid) languages.
+    - Make scan cross reference with vanilla language CSV.
+    - |
+      Make helpers::update_progress() more efficient:
+      https://rust-cli.github.io/book/tutorial/output.html#a-note-on-printing-performance
+
+text placeholders:
+  format: '#( placeholder : { name } )[,{ aliases }]'
+  where:
+    name: The placeholder.
+    aliases: Pipe-separated list of aliases.
+  example: '#( placeholder : jungle ),Jungle | Sansgle'
+  items:
+    - don't starve
+    - mushroom biome
+    - jungle
+    - plantera
+
+other:
+  - Hallow splash still depicts card kingdom instead of cyber world.
+  - >
+    Considering the Hallow's current lore, it'd make more sense to make
+    EoL based on deltarune instead of just being a 7-souled sans.
+  - >
+    Create a world specifically for testing Resource Packs.
+    Builder's workshop just doesn't cut it sometimes :(

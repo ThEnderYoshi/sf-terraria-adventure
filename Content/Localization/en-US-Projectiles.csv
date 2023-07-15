@@ -1,0 +1,99 @@
+Key,Translation
+
+
+#[ friendly : mage ],<<-|----------------------------------------|->>
+
+
+ProjectileName.Flamelash,Burning Ice
+ProjectileName.GreenLaser,Solar Beam
+ProjectileName.VilethornBase,""Rocket"" Clam
+ProjectileName.VilethornTip,""Rocket"" Clam
+ProjectileName.WandOfSparkingSpark,Fabulous Spark
+
+
+#[ friendly : melee ],<<-|---------------------------------------|->>
+
+
+ProjectileName.WoodenBoomerang,Thyme Leaf Scarf
+ProjectileName.Flamarang,Ragger
+
+ProjectileName.Mace,Sansce
+ProjectileName.FlamingMace,Fell!Sansce
+ProjectileName.BallOHurt,Undertoad!Sansce
+ProjectileName.TheMeatball,Bundle o' Bones
+ProjectileName.BlueMoon,Sansce Seraph
+ProjectileName.Sunfury,Lower!Sansce
+
+ProjectileName.CopperShortswordStab,Gastter Rapier
+ProjectileName.TinShortswordStab,Gastin Rapier
+ProjectileName.IronShortswordStab,Iriel Rapier
+ProjectileName.LeadShortswordStab,Toriad Rapier
+ProjectileName.SilverShortswordStab,Sansver Rapier
+ProjectileName.TungstenShortswordStab,Tungsans Rapier
+ProjectileName.GoldShortswordStab,Papyld Rapier
+ProjectileName.PlatinumShortswordStab,Papynum Rapier
+
+ProjectileName.Spear,Lost Spear
+ProjectileName.TheRottedFork,Spear of Patience
+ProjectileName.Daybreak,Bergentrücker
+ProjectileName.DaybreakExplosion,Bergentrücker
+
+ProjectileName.Starfury,Chaos Blade
+ProjectileName.StarWrath,Chaos Saber
+ProjectileName.Meowmere,Temmie
+
+
+#[ friendly : ranged ],<<-|--------------------------------------|->>
+
+
+ProjectileName.JestersArrow,Heaven Sansrrow
+ProjectileName.Seed,Tiny Sprout
+
+ProjectileName.ThrowingKnife,Hateful Knife
+
+
+#[ friendly : summoner ],<<-|------------------------------------|->>
+
+
+ProjectileName.FlinxMinion,Stable Symmetric Sans
+ProjectileName.FlyingImp,Lancer
+
+
+#[ friendly : pets ],<<-|----------------------------------------|->>
+
+
+ProjectileName.MiniMinotaur,Mini Tey
+ProjectileName.Penguin,Pingus
+ProjectileName.ShadowMimic,Mini Goomb
+
+
+#[ friendly : other ],<<-|---------------------------------------|->>
+
+
+ProjectileName.FlyingPiggyBank,Lil' Sansy
+
+ProjectileName.RopeCoil,{$ItemName.RopeCoil}
+
+
+#[ hostile : bosses ],<<-|---------------------------------------|->>
+
+
+ProjectileName.DeerclopsIceSpike,Sance Spike
+ProjectileName.DeerclopsRangedProjectile,Sansbris
+
+ProjectileName.EyeLaser,San's Fired Lazor
+
+
+#[ hostile : snow ],<<-|-----------------------------------------|->>
+
+
+ProjectileName.IceSpike,Fractured Bone
+
+
+#[ hostile : sky ],<<-|------------------------------------------|->>
+
+
+ProjectileName.HarpyFeather,Blaster Rider Feather
+
+
+#[  ],<<-|-------------------------------------------------------|->>
