@@ -14,6 +14,14 @@ to a lesser extent, over **27,000** text entries.
 
 ![demo of early ore tools](.github/images/tool-demo.png)
 
+![demo of some pre-hardmode weapons](.github/images/weapon-demo.png)
+
+![demo of some pre-hardmode enemies](.github/images/enemy-demo.png)
+
+![snapshot of a forest pond](.github/images/purity.png)
+
+![snapshot of a forest pond](.github/images/corruption.png)
+
 ## ![releases](.github/images/icon-releases.png) Releases
 
 > ![info](.github/images/thyme.png)
@@ -48,7 +56,7 @@ Last updated: _2023-07-17 UTC_
 
 ### "When will next update be out?"
 
-thats a good quetion megaman
+thats a good question megaman
 
 ### "Where is the player model?"
 
