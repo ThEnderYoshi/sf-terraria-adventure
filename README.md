@@ -93,7 +93,6 @@ belong to their respective owners.
 [Resource Pack]: https://terraria.wiki.gg/wiki/Resource_Pack
 [_Sans Fanfic_]: sans-fanfic.tumblr.com
 [Forum Page]: https://forums.terraria.org/index.php?threads/sans-fanfic-terraria-adventure.113654/#post-275484
-<!-- TODO: Add proper link to the Steam page -->
-[Steam Workshop Page]: https://
+[Steam Workshop Page]: https://steamcommunity.com/sharedfiles/filedetails/?id=3006001590
 [MIT License]: https://github.com/ThEnderYoshi/sf-terraria-adventure/blob/main/LICENSE
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]: http://creativecommons.org/licenses/by-nc-sa/4.0/
