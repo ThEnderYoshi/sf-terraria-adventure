@@ -10,7 +10,7 @@ to a lesser extent, over **27,000** text entries.
 > ![info](.github/images/thyme.png)
 > You can find out more info on the [Forum Page].
 
-## ![images](.github/images/icon-images.png) Image Demos
+## ![icon](.github/images/icon-images.png) Image Demos
 
 ![demo of early ore tools](.github/images/tool-demo.png)
 
@@ -22,7 +22,7 @@ to a lesser extent, over **27,000** text entries.
 
 ![snapshot of a forest pond](.github/images/corruption.png)
 
-## ![releases](.github/images/icon-releases.png) Releases
+## ![icon](.github/images/icon-releases.png) Releases
 
 > ![info](.github/images/thyme.png)
 > Get the pack on the [Steam Workshop Page]!
@@ -33,7 +33,7 @@ to a lesser extent, over **27,000** text entries.
 In total, there will be at least 13 major releases,
 judging by the total image count.
 
-## ![status](.github/images/icon-status.png) Status
+## ![icon](.github/images/icon-status.png) Status
 
 <!--@template FileCount
 Last updated: _{@p time @} UTC_
@@ -52,7 +52,7 @@ Last updated: _2023-07-17 UTC_
 - **22** Sounds
 <!--@end-region-->
 
-## ![other](.github/images/icon-other.png) QnA
+## ![icon](.github/images/icon-other.png) QnA
 
 ### "When will next update be out?"
 
@@ -74,6 +74,19 @@ If you have any more questions, send me an ask...
 - [here](sans-fanfic.tumblr.com/ask) for questions related to _Sans Fanfic_.
 - [here](tey-dev.tumblr.com/ask) for questions related to development.
 
+---
+
+This is a fan project.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+The original images are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]
+
+The code in this project is under the [MIT License]
+
+The rights to Undertale, Deltarune, Mario and Portal
+belong to their respective owners.
+
 <!-- References -->
 
 [_Terraria_]: https://terraria.org/
@@ -82,3 +95,5 @@ If you have any more questions, send me an ask...
 [Forum Page]: https://forums.terraria.org/index.php?threads/sans-fanfic-terraria-adventure.113654/#post-275484
 <!-- TODO: Add proper link to the Steam page -->
 [Steam Workshop Page]: https://
+[MIT License]: https://github.com/ThEnderYoshi/sf-terraria-adventure/blob/main/LICENSE
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]: http://creativecommons.org/licenses/by-nc-sa/4.0/
