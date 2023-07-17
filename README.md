@@ -36,12 +36,12 @@ Last updated: _{@p time @} UTC_
 - **{@p snd @}** Sounds
 @end-template-->
 <!--@region FileCount-->
-Last updated: _2023-07-04 UTC_
+Last updated: _2023-07-17 UTC_
 
-- **993** Images (**93%** of the way to the next update)
-- **2951** Text Entries
+- **1006** Images (**0%** of the way to the next update)
+- **2964** Text Entries
 - **17** Songs
-- **21** Sounds
+- **22** Sounds
 <!--@end-region-->
 
 ## ![other](.github/images/icon-other.png) QnA

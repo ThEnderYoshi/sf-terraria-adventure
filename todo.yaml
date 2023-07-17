@@ -3,9 +3,7 @@
 important:
 
 next commit:
-  - Complete repo overhaul
-  - Also redid coin sprites (Item_ & Coin_)
-  - Also added some sprites to Tiles_185
+  # Committed.
 
 milestones:
   start: 2022-07-12
@@ -90,23 +88,18 @@ reconsider:
     - '7/10'        # Iron hammer/axe. They look really similar.
     - '31'          # Bottle. Didn't like how this one turned out.
     - '2348'        # Potion. Not sure how to feel about the design.
-    - '2587'        # Scarf not present in current design.
   NPC_:
     - '16'          # Mother slime. Don't like how the bottom turned out.
-    - '48'          # Harpy. Outdated sans design + p sure i could do a better blaster now.
+    - '48'          # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
     - '121'         # Slimer. Wing animation sucks.
+    - '134'         # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
     - '458'         # Eternia Crystal. Sprite feels like it needs a couple tweaks.
-  Projectile_:
-    - '398'         # Related to Item_2587
   UI/Cursor_:
     - '3'           # Star cursor. Looks weird.
-  <specific names>:
-    - MiniMinotaur  # Related to Item_2587
   <other>:
     - Achievement UI assets
 broken:
-  Extra_:
-    - '259'         # Loadout UI. Loadout II's outline clips into selected frame.
+  # None!
 image sets:
   Daybreak:
     - Missing explosion sprite.
