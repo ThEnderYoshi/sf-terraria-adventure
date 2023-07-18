@@ -1,7 +1,7 @@
 # Changelog
 
-Current version: **UPDATE 1**
-Upcoming version: **MINOR 1.1**
+Current version: **MINOR 1.1**
+Upcoming version: **N/A**
 
 ## Planned Updates
 
@@ -15,7 +15,7 @@ or already have some content done for it.
 - The Desert/Snow Update
 - The Player Update
 
-## MINOR 1.1 - _Smaller Shipments_ - [ Upcoming ]
+## MINOR 1.1 - _Smaller Shipments_ - 2023-07-17
 
 The pack's first minor update!
 From now on, the pack should no longer ship with non-resource pack files.
