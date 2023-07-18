@@ -1,11 +1,11 @@
 # Changelog
 
-Current version: **N/A**
-Upcoming version: **UPDATE 1**
+Current version: **UPDATE 1**
+Upcoming version: **MINOR 1.1**
 
 ## Planned Updates
 
-Generally, each category (biome, event, etc.) will have its own updated,
+Generally, each category (biome, event, etc.) will have its own update,
 if large enough.
 
 The following list shows updates that have a concrete theme set in place,
@@ -15,7 +15,22 @@ or already have some content done for it.
 - The Desert/Snow Update
 - The Player Update
 
-## UPDATE 1 - _Initial Release_ - [ Upcoming ]
+## MINOR 1.1 - _Smaller Shipments_ - [ Upcoming ]
+
+The pack's first minor update!
+From now on, the pack should no longer ship with non-resource pack files.
+(such as the ones in `Tools/` or `ExternalAssets/`)
+
+### Changes
+
+- _(tool) `pack_diagnostic`:_
+  Added a new `build` action. See the tool's own `README.md` for info.
+
+### Fixed
+
+- Resource Pack was shiping with non-essential files.
+
+## UPDATE 1 - _Initial Release_ - 2023-07-17
 
 This is STFA's initial release!
 

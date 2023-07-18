@@ -2,6 +2,7 @@ pub mod crawlers;
 mod generator;
 mod slop;
 mod helpers;
+mod build;
 //mod user_interface;
 
 use std::{io, path::{PathBuf, Path}, str::FromStr, error::Error};
@@ -9,6 +10,8 @@ use std::{io, path::{PathBuf, Path}, str::FromStr, error::Error};
 use ansi_term::Style;
 use clap::{arg, Parser};
 use crawlers::{images, print_divider, texts};
+
+type GeneralResult<T> = Result<T, Box<dyn Error>>;
 
 fn get_default_arg_path() -> PathBuf {
     PathBuf::from_str(".").unwrap()
@@ -26,15 +29,19 @@ struct CliArgs {
     /// Output path directory. Not used by all commands.
     #[arg(short, long, default_value = get_default_arg_path().into_os_string())]
     output: PathBuf,
+    /// Reference path directory. Not used by all commands.
+    #[arg(short, long, default_value = get_default_arg_path().into_os_string())]
+    reference: PathBuf,
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
+fn main() -> GeneralResult<()> {
     let args = CliArgs::parse();
-    println!("Welcome to the Resource Pack Diagnostic Tool version 0.1.0");
+    println!("Welcome to the Resource Pack Diagnostic Tool version 0.2.0");
 
     match args.action.as_str() {
         "gen" => generate_references(&args.input, &args.output)?,
         "scan" => scan_directory(&args.input, &args.output)?,
+        "build" => build_resource_pack(&args.input, &args.output, &args.reference)?,
         action => panic!("Invalid action '{action}'. See README.md for a list"),
     }
 
@@ -42,7 +49,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn scan_directory(input_dir: &PathBuf, output_dir: &PathBuf) -> Result<(), Box<dyn Error>> {
+fn scan_directory(input_dir: &PathBuf, output_dir: &PathBuf) -> GeneralResult<()> {
     print_divider("OPERATION : Scan Directory");
     images::crawl_images(input_dir, output_dir)?;
     let mut texts_dir = input_dir.clone().to_path_buf();
@@ -54,6 +61,16 @@ fn scan_directory(input_dir: &PathBuf, output_dir: &PathBuf) -> Result<(), Box<d
 fn generate_references(input_dir: &PathBuf, output_dir: &PathBuf) -> io::Result<()> {
     print_divider("OPERATION : Generate References");
     generator::generate_from_extracted_files(input_dir, output_dir)?;
+    Ok(())
+}
+
+fn build_resource_pack(
+    input_dir: &PathBuf,
+    output_dir: &PathBuf,
+    refs: &PathBuf
+) -> GeneralResult<()> {
+    print_divider("OPERATION : Build Resource Pack");
+    build::build_resource_pack(input_dir, output_dir, refs)?;
     Ok(())
 }
 

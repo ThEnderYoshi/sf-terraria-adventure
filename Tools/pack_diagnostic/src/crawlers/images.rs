@@ -73,7 +73,7 @@ impl CrawlData {
     }
 }
 
-fn is_item_valid(path: &PathBuf, images_dir: &Path, reference: &SLOP) -> bool {
+pub fn is_item_valid(path: &PathBuf, images_dir: &Path, reference: &SLOP) -> bool {
     match path.extension() {
         Some(extension) => {
             if extension.to_str() != Some("png") {
