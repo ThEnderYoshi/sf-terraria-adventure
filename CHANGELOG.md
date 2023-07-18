@@ -1,7 +1,7 @@
 # Changelog
 
-Current version: **MINOR 1.1**
-Upcoming version: **N/A**
+Current version: **MINOR 1.2**
+Upcoming version: **UPDATE 2**
 
 ## Planned Updates
 
@@ -14,6 +14,15 @@ or already have some content done for it.
 - **UPDATE 2** - The Jungle Update
 - The Desert/Snow Update
 - The Player Update
+
+## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
+
+Fixed an oversight in `pack_diagnostic`
+that made it not copy `.mp3` music files.
+
+### Added
+
+- _(tool) `pack_diagnostic`:_ Now copies `icon.png` and `pack.json`.
 
 ## MINOR 1.1 - _Smaller Shipments_ - 2023-07-17
 

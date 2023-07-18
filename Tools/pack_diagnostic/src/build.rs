@@ -30,7 +30,7 @@ pub fn build_resource_pack(
 ) -> crate::GeneralResult<()> {
     prepare_copy_dir(&copy_root)?;
 
-    //copy_root_dir(&orig_root, &copy_root)?;
+    copy_root_dir(&orig_root, &copy_root)?;
     copy_images_dir(&orig_root, &copy_root, &refs)?;
     copy_localization_dir(&orig_root, &copy_root)?;
     copy_by_extension(
@@ -38,7 +38,7 @@ pub fn build_resource_pack(
         &copy_root,
         false,
         "Content/Music",
-        &vec!["ogg", "wav"],
+        &vec!["mp3", "ogg", "wav"],
     )?;
     copy_by_extension(&orig_root, &copy_root, true, "Content/Sounds", &vec!["xnb"])?;
 
@@ -53,18 +53,19 @@ fn prepare_copy_dir(copy_root: &PathBuf) -> io::Result<()> {
     Ok(())
 }
 
-// fn copy_root_dir(orig_root: &PathBuf, copy_root: &PathBuf) -> crate::GeneralResult<()> {
-//     crawlers::print_divider("Copying <root>...");
-//     let root_files = path_vec!["icon.png", "pack.json", "workshop.json"];
-//     copy_files_if(
-//         &orig_root,
-//         &copy_root,
-//         false,
-//         |path| root_files.iter().any(|x| x == path),
-//     )?;
+fn copy_root_dir(orig_root: &PathBuf, copy_root: &PathBuf) -> crate::GeneralResult<()> {
+    crawlers::print_divider("Copying <root>...");
+    //let root_files = path_vec!["icon.png", "pack.json", "workshop.json"];
+    let root_files = path_vec!["icon.png", "pack.json"];
+    copy_files_if(
+        &orig_root,
+        &copy_root,
+        false,
+        |path| root_files.iter().any(|x| x == path),
+    )?;
 
-//     Ok(())
-// }
+    Ok(())
+}
 
 fn copy_images_dir(
     orig_root: &PathBuf,
