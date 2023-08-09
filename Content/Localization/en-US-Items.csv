@@ -218,6 +218,12 @@ ItemName.RuneRobe,Snowy Robe
 
 ItemName.DirtBlock,Sirt (sans dirt)
 ItemName.ClayBlock,Slay (sans clay)
+ItemName.MudBlock,Ruined Bricks
+
+ItemName.GrassSeeds,Sans Panelling
+ItemName.JungleGrassSeeds,Homely Panelling
+ItemName.CorruptSeeds,Loogie Panelling
+ItemName.CrimsonSeeds,Wartorn Panelling
 
 
 #[ blocks : underground ],<<-|-----------------------------------|->>
