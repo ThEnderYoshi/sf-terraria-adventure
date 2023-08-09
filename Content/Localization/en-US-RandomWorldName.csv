@@ -23,7 +23,6 @@ RandomWorldName_Location.Backwater,Sans
 RandomWorldName_Location.Backwoods,Sans
 RandomWorldName_Location.Badlands,Sans
 RandomWorldName_Location.Bank,Sans
-RandomWorldName_Location.Barleycorn,Sans
 RandomWorldName_Location.Barren,Sans
 RandomWorldName_Location.Base,Sans
 RandomWorldName_Location.Basin,Sans
@@ -455,7 +454,7 @@ RandomWorldName_Noun.Blood,Sans
 RandomWorldName_Noun.Bloodletting,Sans
 RandomWorldName_Noun.Bloodshed,Sans
 RandomWorldName_Noun.Blossoms,Sans
-RandomWorldName_Noun.Body,Sans
+RandomWorldName_Noun.Bodies,Sans
 RandomWorldName_Noun.Bone,Sans
 RandomWorldName_Noun.Bones,Sans
 RandomWorldName_Noun.Boomers,Sans
@@ -526,7 +525,6 @@ RandomWorldName_Noun.Copper,Sans
 RandomWorldName_Noun.Corpses,Sans
 RandomWorldName_Noun.Corruption,Sans
 RandomWorldName_Noun.Courage,Sans
-RandomWorldName_Noun.Covfefe,Sans
 RandomWorldName_Noun.Creation,Sans
 RandomWorldName_Noun.Creatures,Sans
 RandomWorldName_Noun.Creepers,Sans
@@ -718,7 +716,6 @@ RandomWorldName_Noun.Hurt,Sans
 RandomWorldName_Noun.Hysteria,Sans
 RandomWorldName_Noun.Ice,Sans
 RandomWorldName_Noun.Ichor,Sans
-RandomWorldName_Noun.IDidntInhale,Sans
 RandomWorldName_Noun.Illness,Sans
 RandomWorldName_Noun.Indictments,Sans
 RandomWorldName_Noun.Indigestion,Sans
@@ -768,7 +765,7 @@ RandomWorldName_Noun.Life,Sans
 RandomWorldName_Noun.LightningBugs,Sans
 RandomWorldName_Noun.Lilies,Sans
 RandomWorldName_Noun.Lilith,Sans
-RandomWorldName_Noun.Lilypad,Sans
+RandomWorldName_Noun.Lilypads,Sans
 RandomWorldName_Noun.Lips,Sans
 RandomWorldName_Noun.Litigation,Sans
 RandomWorldName_Noun.Livers,Sans
@@ -1006,7 +1003,7 @@ RandomWorldName_Noun.the Bat,Sans
 RandomWorldName_Noun.the Beast,Sans
 RandomWorldName_Noun.the Betrayed,Sans
 RandomWorldName_Noun.the Blender,Sans
-RandomWorldName_Noun.the Blood,Sans
+RandomWorldName_Noun.the Blood Moon,Sans
 RandomWorldName_Noun.the Bow,Sans
 RandomWorldName_Noun.the Bride,Sans
 RandomWorldName_Noun.the Brony,Sans
@@ -1048,7 +1045,7 @@ RandomWorldName_Noun.the Law,Sans
 RandomWorldName_Noun.the Library,Sans
 RandomWorldName_Noun.the Lihzahrd,Sans
 RandomWorldName_Noun.the Lilith,Sans
-RandomWorldName_Noun.the Lizard,Sans
+RandomWorldName_Noun.the Lizard King,Sans
 RandomWorldName_Noun.the LostGeneration,Sans
 RandomWorldName_Noun.the Mirror,Sans
 RandomWorldName_Noun.the Monster,Sans
@@ -1059,13 +1056,13 @@ RandomWorldName_Noun.the Mushroom,Sans
 RandomWorldName_Noun.the Narc,Sans
 RandomWorldName_Noun.the Needy,Sans
 RandomWorldName_Noun.the Nude,Sans
-RandomWorldName_Noun.the Old,Sans
+RandomWorldName_Noun.the Old One,Sans
 RandomWorldName_Noun.the Pandemic,Sans
 RandomWorldName_Noun.the Pickaxe,Sans
 RandomWorldName_Noun.the Picksaw,Sans
 RandomWorldName_Noun.the Pigron,Sans
-RandomWorldName_Noun.the Po,Sans
-RandomWorldName_Noun.the Porcelain,Sans
+RandomWorldName_Noun.the Po Boy,Sans
+RandomWorldName_Noun.the Porcelain God,Sans
 RandomWorldName_Noun.the Prism,Sans
 RandomWorldName_Noun.the Prophecy,Sans
 RandomWorldName_Noun.the Pwnhammer,Sans
@@ -1086,7 +1083,7 @@ RandomWorldName_Noun.the Stooge,Sans
 RandomWorldName_Noun.the Sun,Sans
 RandomWorldName_Noun.the Sword,Sans
 RandomWorldName_Noun.the Tooth,Sans
-RandomWorldName_Noun.The Torch,Sans
+RandomWorldName_Noun.The Torch God,Sans
 RandomWorldName_Noun.the Tortoise,Sans
 RandomWorldName_Noun.the Tree,Sans
 RandomWorldName_Noun.the Trend,Sans

@@ -532,7 +532,7 @@ PirateNames.Wet Beard,Sans
 #[ steampunker ],<<-|--------------------------------------------|->>
 
 
-NPCName.SteamPunker,""
+NPCName.Steampunker,""
 
 #comment,TODO: Replace names with "Seam".
 
@@ -629,6 +629,5 @@ TravelingMerchantNames.Willy,SPAMTON G. SPAMPTON
 NPCName.TownBunny,Bun
 NPCName.TownCat,Neko
 NPCName.TownDog,Doggo
-NPCName.TownSlime,Slans
 
 #[  ],<<-|-------------------------------------------------------|->>

@@ -471,7 +471,7 @@ ItemName.Pearlwood,Cyber Thyme
 ItemName.PearlwoodPlatform,Cyber Thyme Comic
 ItemName.PearlwoodWall,Cyber Thyme Sall
 
-ItemName.PearlwoodBathtub,Cyber Thyme Badtub 
+ItemName.PearlwoodBathtub,Cyber Thyme Badtub
 ItemName.PearlwoodBed,Cyber Thyme Bad
 ItemName.PearlwoodBookcase,Cyber Thyme Copy-of-UNDERALEcase
 ItemName.PearlwoodCandelabra,Cyber Thyme Sansdelabra
@@ -659,7 +659,7 @@ ItemTooltip.GoblinWarriorBanner,"{$CommonItemTooltip.BannerBonus}Red Lniks"
 ItemTooltip.HarpyBanner,"{$CommonItemTooltip.BannerBonus}Blaster Riders"
 
 ItemTooltip.IceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Snansy Slanses"
-ItemToolTip.LavaSlimeBanner,"{$CommonItemTooltip.BannerBonus}Fell!Slanses"
+ItemTooltip.LavaSlimeBanner,"{$CommonItemTooltip.BannerBonus}Fell!Slanses"
 ItemTooltip.MeteorHeadBanner,"{$CommonItemTooltip.BannerBonus}Outer!Skulls"
 ItemTooltip.PinkyBanner,"{$CommonItemTooltip.BannerBonus}Slansies (UwU)"
 
