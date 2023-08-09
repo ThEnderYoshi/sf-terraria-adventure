@@ -1,14 +1,15 @@
-:: Builds the pack into SansFanficTerrariaAdventureRelease
+:: Builds the pack into %output%.
 :: Run with `--check` to scan the copy.
 
 ECHO OFF
+SET output=../SansFanficTerrariaAdventureRelease
+SET refs=Tools/generated_refs
 
 ECHO.
 ECHO "Building pack..."
 ECHO.
 
-CD Tools\pack_diagnostic
-cargo run -- build -i ../.. -o ../../../SansFanficTerrariaAdventureRelease -r ../generated_refs
+Tools\t_pack_diagnostic.exe build -i . -o %output% -r %refs%
 
 if "%~1"=="--check" (GOTO CHECK) ELSE GOTO DONE
 
@@ -18,6 +19,6 @@ ECHO.
 ECHO "Scanning copy..."
 ECHO.
 
-cargo run -- scan -i ../../../SansFanficTerrariaAdventureRelease/Content -o ../generated_refs
+Tools\t_pack_diagnostic.exe scan -i %output% -r %refs%
 
 :DONE

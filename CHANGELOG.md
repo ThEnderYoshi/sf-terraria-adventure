@@ -11,9 +11,12 @@ if large enough.
 The following list shows updates that have a concrete theme set in place,
 or already have some content done for it.
 
-- **UPDATE 2** - The Jungle Update
 - The Desert/Snow Update
 - The Player Update
+
+## UPDATE 2 - _The Jungle Update_ - [ Upcoming ]
+
+As the name implies, this is the update that retextures the Jungle biome.
 
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 

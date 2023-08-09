@@ -1,9 +1,0 @@
-F:\Games\Terraria\ResourcePacks\SansFanficTerrariaAdventure\Tools\pack_diagnostic\target\debug\deps\anstyle_parse-57a38aefb0951559.rmeta: C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\lib.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\params.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\mod.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\definitions.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\table.rs
-
-F:\Games\Terraria\ResourcePacks\SansFanficTerrariaAdventure\Tools\pack_diagnostic\target\debug\deps\anstyle_parse-57a38aefb0951559.d: C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\lib.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\params.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\mod.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\definitions.rs C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\table.rs
-
-C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\lib.rs:
-C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\params.rs:
-C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\mod.rs:
-C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\definitions.rs:
-C:\Users\Gabriel\.cargo\registry\src\github.com-1ecc6299db9ec823\anstyle-parse-0.2.1\src\state\table.rs:
