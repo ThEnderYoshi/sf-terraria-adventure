@@ -213,6 +213,14 @@ ItemName.RuneHat,Snowy Antlers
 ItemName.RuneRobe,Snowy Robe
 
 
+#[ vanity : sets ],<<-|------------------------------------------|->>
+
+
+ItemName.ArchaeologistsHat,Boss Horns
+ItemName.ArchaeologistsJacket,Boss Robe
+ItemName.ArchaeologistsPants,Boss Slippers
+
+
 #[ blocks : surface ],<<-|---------------------------------------|->>
 
 
@@ -366,6 +374,12 @@ ItemName.FallenStar,Blazing Star
 ItemTooltip.FallenStar,"'Contains a glimmer of hopes and dreams'"
 
 ItemName.Feather,Feathery Bone
+
+
+#[ materials : jungle ],<<-|-------------------------------------|->>
+
+
+ItemName.Leather,Ruined Cloth
 
 
 #[ materials : hallow ],<<-|-------------------------------------|->>
@@ -649,6 +663,8 @@ ItemName.SpikedIceSlimeBanner,Hyperslans Sansnner
 
 ItemName.JungleSlimeBanner,Moldy Slans Sansnner
 ItemName.JungleBatBanner,Molddoo Sansnner
+ItemName.SnatcherBanner,Hand of Gaster Sansnner
+ItemName.DoctorBonesBanner,Husk Sansnner
 
 ItemName.ClingerBanner,Venus Thunder Trap Sansnner
 ItemName.CorruptorBanner,Superloominal Crawler Sansnner
@@ -672,6 +688,7 @@ ItemName.MeteorHeadBanner,Outer!Skull Sansnner
 ItemTooltip.BatBanner,"{$CommonItemTooltip.BannerBonus}Sanccoos"
 ItemTooltip.GiantBatBanner,"{$CommonItemTooltip.BannerBonus}Twooccoos"
 ItemTooltip.PiranhaBanner,"{$CommonItemTooltip.BannerBonus}Jape Worms"
+ItemTooltip.DoctorBonesBanner,"{$CommonItemTooltip.BannerBonus}Husks"
 
 ItemTooltip.SlimeBanner,"{$CommonItemTooltip.BannerBonus}Slanses"
 ItemTooltip.GreenSlimeBanner,"{$CommonItemTooltip.BannerBonus}Normal Slanses"
@@ -701,6 +718,7 @@ ItemTooltip.IceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Snansy Slanses"
 
 ItemTooltip.JungleSlimeBanner,"{$CommonItemTooltip.BannerBonus}Moldy Slanses"
 ItemTooltip.JungleBatBanner,"{$CommonItemTooltip.BannerBonus}Molddoos"
+ItemTooltip.SnatcherBanner,"{$CommonItemTooltip.BannerBonus}Hands of Gaster"
 
 ItemTooltip.LavaSlimeBanner,"{$CommonItemTooltip.BannerBonus}Fell!Slanses"
 ItemTooltip.FireImpBanner,"{$CommonItemTooltip.BannerBonus}Lancers"
@@ -710,7 +728,7 @@ ItemTooltip.MeteorHeadBanner,"{$CommonItemTooltip.BannerBonus}Outer!Skulls"
 ItemTooltip.PixieBanner,"{$CommonItemTooltip.BannerBonus}Virovirokuns"
 ItemTooltip.SnowFlinxBanner,"{$CommonItemTooltip.BannerBonus}Supersymmetric Sanses"
 ItemTooltip.SpikedIceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Hyperslanses"
-ItemTooltip.SlimerBanner,"{$CommonItemTooltip.BannerBonus}One-Winged Sloomba"
+ItemTooltip.SlimerBanner,"{$CommonItemTooltip.BannerBonus}One-Winged Sloombas"
 
 ItemTooltip.RedSlimeBanner,"{$CommonItemTooltip.BannerBonus}Default Slanses"
 ItemTooltip.YellowSlimeBanner,"{$CommonItemTooltip.BannerBonus}Average Slanses"
