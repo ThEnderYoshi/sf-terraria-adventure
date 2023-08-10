@@ -689,7 +689,7 @@ ItemTooltip.ZombieBanner,"{$CommonItemTooltip.BannerBonus}Aggressive Sanses"
 
 ItemTooltip.EaterofSoulsBanner,"{$CommonItemTooltip.BannerBonus}Loominal Crawlers"
 ItemTooltip.GoblinArcherBanner,"{$CommonItemTooltip.BannerBonus}The Worst Lniks"
-ItemTooltip.GoblinPeon,"{$CommonItemTooltip.BannerBonus}Green Lniks"
+ItemTooltip.GoblinPeonBanner,"{$CommonItemTooltip.BannerBonus}Green Lniks"
 ItemTooltip.GoblinSorcererBanner,"{$CommonItemTooltip.BannerBonus}Purple Lniks"
 ItemTooltip.GoblinSummonerBanner,"{$CommonItemTooltip.BannerBonus}Warlniks"
 ItemTooltip.GoblinThiefBanner,"{$CommonItemTooltip.BannerBonus}Yellow Lniks"
