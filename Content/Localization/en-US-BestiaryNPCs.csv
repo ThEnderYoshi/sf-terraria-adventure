@@ -13,7 +13,7 @@ CommonBestiaryFlavor.Zombie,"These nocturnal pranksters are here to mess you up!
 Bestiary_FlavorText.npc_Clinger,"In an incredible - and terrifying - feat of ingenuity, these plant-like creatures are actually heavily modified Loogies. Some of their many new organs can produce the THUNDERRR they spit."
 Bestiary_FlavorText.npc_Corruptor,"Loominal Crawlers that have spent ages honing their reality-warping abilites, they have developed incrediple power."
 Bestiary_FlavorText.npc_CorruptSlime,"Slanses affected by the luigification process take on far firmer shapes. However, they do maintain their jumpy nature."
-Bestiary_FlavorText.npc_DevourerHead,"Worms affected by the Loogies' [c/ff0000:S'ahns Ritual], they become a familiar centipide-like creature, minus the impressive legs. Or flower. How they're not angry remains a mystery."
+Bestiary_FlavorText.npc_DevourerHead,"Worms affected by the Loogies' S'ahns Ritual, they become a familiar centipide-like creature, minus the impressive legs. Or flower. How they're not angry remains a mystery."
 Bestiary_FlavorText.npc_EaterofSouls,"Hailing from the Dream Realm, Loogies have a tighter grasp on the fabric of reality than most. These ones have managed to ""crawl"" along it, using their tendril-like 'stache hairs."
 Bestiary_FlavorText.npc_SeekerHead,"The wigglers' enraged counterparts, they hit twice as hard! (Probably more than that, I didn't check)"
 Bestiary_FlavorText.npc_Slimeling,"HA HA HA! IT WAS A BIG GOOMBER ALL ALONG LUIGI!!!"
@@ -62,24 +62,58 @@ Bestiary_FlavorText.npc_SnowFlinx,"Created from several superpositioned Sanses. 
 Bestiary_FlavorText.npc_SpikedIceSlime,"Overflowing with sansnergies (sans energies), this slans is highly unstable, and prone to ejecting bone fragments at anyone that approaches."
 
 
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+Bestiary_FlavorText.npc_JungleSlime,"Slanses in Toriel's House end up absorbing the mold that grows on the wallpaper, hence why they're this shade of green. Yucky!"
+Bestiary_FlavorText.npc_JungleBat,"Drawn by what they though were the love of their lives, these sanccoos have found their home in Toriel's House. Exposure to the walpaper mold, however, has had some nasty effects on the poor things."
+
+
 #[ surface ],<<-|------------------------------------------------|->>
 
+Bestiary_FlavorText.npc_BlueSlime,"These friendly little fellas aren't affraid to defend themselves!"
+Bestiary_FlavorText.npc_GreenSlime,"As the normal slanses, they are quite small, but they still pack a punch!"
+Bestiary_FlavorText.npc_PurpleSlime,"As the standard slanses, these guy's are quite hefty. Take care around them!"
 Bestiary_FlavorText.npc_Pinky,"If you know anything about Sans, you know never to underestimate seemingly small and weak characters."
 
 
 #[ underground ],<<-|--------------------------------------------|->>
+
+Bestiary_FlavorText.npc_RedSlime,"As the default slanses, they like to hang out in the sansderground."
+Bestiary_FlavorText.npc_YellowSlime,"As the average slans, these guys can be quite dangerous."
+Bestiary_FlavorText.npc_BlackSlime,"This is indeed a regular slans, you just can't tell because it's really dark."
+Bestiary_FlavorText.npc_MotherSlime,"These slanses are learning ninja duplication moves from their king!"
+Bestiary_FlavorText.npc_BabySlime,"A clone created by Ninja Slanses. These can do a Ninji's signature move: Jumping."
+
+Bestiary_FlavorText.npc_CaveBat,"Members of an ancient and highly advanced society, these Sanccoos have fallen from their long lost city and now hide in the darkness."
+Bestiary_FlavorText.npc_GiantBat,"What at first looks like a giant sanccoo is actually just two sanccoos in a trenchcoat! This is pretty confusing."
+
+Bestiary_FlavorText.npc_Piranha,"These hardy lil' fellas can survive gastric acid! However, they're pretty bad parasites - usually you don't want to kill a potential host."
 
 Bestiary_FlavorText.npc_GiantWormHead,"Those little Sans ""heads"" are actually the flowers of the Bad Thyme plants... most of the time. Sometimes, they sprout with actual brains, and uproot themselves, in search of easy prey."
 Bestiary_FlavorText.npc_LostGirl,"What at first appears to be your friendly neighborhood Nerd!Lnik might actually be a trap! Look closely: this one isn't wearing glasses."
 Bestiary_FlavorText.npc_Nymph,"This shape-shifter from another realm changes its form to what its victim desires most. You aren't the victim, by the way."
 Bestiary_FlavorText.npc_ToxicSludge,"Nuberts are known for their aborbant properties. After being unleashed, they absorbed the background sanergies, (sans energies) creating whatevereth this thingue is."
 
+Bestiary_FlavorText.npc_Skeleton,"{$CommonBestiaryFlavor.Skeleton} They call this one the Blinkster."
+
 
 #[ underworld ],<<-|---------------------------------------------|->>
 
 Bestiary_FlavorText.npc_BoneSerpentHead,"Who unplugged these guys?! They love to chomp at things, especially lightners, so be careful around them!"
-Bestiary_FlavorText.npc_FireImp,"This firendly spade is here to throw spades he dug up with his spade at you! It's nothing personal, he just really needs to throw spades at someone."
+Bestiary_FlavorText.npc_FireImp,"This firendly spade is here to throw spades he dug up with his spade at you! It's nothing personal, he just really needs to throw spades."
 Bestiary_FlavorText.npc_LavaSlime,"The Underfell variant of Slanses, these guys travelled all the way to the Undersans because, after all, it's a lot cooler than the lame Sansface."
+
+
+#[ goblin invasion ],<<-|----------------------------------------|->>
+
+Bestiary_FlavorText.npc_GoblinArcher,"These Lniks were literally appointed by Satan himself to be an absolute pain in the neck. This bestiary is not biased."
+Bestiary_FlavorText.npc_GoblinPeon,"The classic Lniks! Not only are their sprites not hue-shifted, but they're the reason the Lniks allied with the Loogies in the first place! (they're both green)"
+Bestiary_FlavorText.npc_GoblinSorcerer,"These Lniks were only appointed by Satan's secretary. They are inside your walls, will shoot at you, miss, and hit your Sanses instead!"
+Bestiary_FlavorText.npc_GoblinThief,"Watch out, this Lnik has a sword and shield. Just wait until he figures out how to take them out!"
+Bestiary_FlavorText.npc_GoblinWarrior,"Unlike Yellow Lniks, these know how to use swords and shields, they just prefer fisticuffs."
+
+Bestiary_FlavorText.npc_GoblinSummoner,"Lniks who learn the dark, darker, yet darker arts of Sansmmoning get to become Warlniks, the most powerful members of their army."
+Bestiary_FlavorText.npc_ShadowFlameApparition,"The pinnacle of a Warlnik's power: the merging of sansnian and lnikular energies!"
 
 
 #[ misc ],<<-|---------------------------------------------------|->>

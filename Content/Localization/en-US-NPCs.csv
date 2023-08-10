@@ -7,6 +7,7 @@ Key,Translation
 NPCName.DemonEye,Sanson Eye
 NPCName.DemonEyeOwl,Sanson Eye
 NPCName.DemonEyeSpaceship,Sanson Eye
+NPCName.WanderingEye,Mature Sanson Eye
 
 NPCName.BaldZombie,Headless Horseless Horsesans
 NPCName.FemaleZombie,Tall!Sans
@@ -20,10 +21,9 @@ NPCName.Zombie,Agressive Sans
 #[ surface ],<<-|------------------------------------------------|->>
 
 
-NPCName.BlueSlime,Blue Slans
-NPCName.GreenSlime,Green Slans
-NPCName.PurpleSlime,Ourple Slans
-NPCName.RedSlime,Red Slans
+NPCName.BlueSlime,Slans
+NPCName.GreenSlime,Normal Slans
+NPCName.PurpleSlime,Standard Slans
 NPCName.Pinky,Slansy UwU
 
 
@@ -36,9 +36,19 @@ NPCName.Harpy,Blaster Rider
 #[ underground ],<<-|--------------------------------------------|->>
 
 
-NPCName.BabySlime,Tiny Slans
-NPCName.MotherSlime,Beeg Slans
+NPCName.RedSlime,Default Slans
+NPCName.YellowSlime,Average Slans
+NPCName.BlackSlime,Regular Slans
+NPCName.BabySlime,Ninji Slans
+NPCName.MotherSlime,Ninja Slans
 NPCName.ToxicSludge,Sansbert
+
+NPCName.CaveBat,Sanccoo
+NPCName.GiantBat,Twooccoo
+
+NPCName.Skeleton,Lost Sans
+
+NPCName.Piranha,Jape Worm
 
 NPCName.BoundGoblin,Bound Lnik
 NPCName.BoundWizard,Bound Sans
@@ -79,16 +89,27 @@ NPCName.SpikedIceSlime,Hyperslans
 NPCName.SandSlime,Dry Slans
 
 
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+
+NPCName.JungleSlime,Moldy Slans
+NPCName.JungleBat,Molddoo
+
+
 #[ corruption ],<<-|---------------------------------------------|->>
 
 
-NPCName.Clinger,Venus Thunder Trap
+NPCName.Clinger,Venus THUNDERRR Trap
 NPCName.Corruptor,Superloominal Crawler
 NPCName.CorruptSlime,Sloomba
 
 NPCName.DevourerBody,Wiggler
 NPCName.DevourerHead,Wiggler
 NPCName.DevourerTail,Wiggler
+
+NPCName.SeekerBody,Biggler
+NPCName.SeekerHead,Biggler
+NPCName.SeekerTail,Biggler
 
 NPCName.EaterofSouls,Loominal Crawler
 
@@ -120,9 +141,11 @@ NPCName.DungeonGuardian,Paps.
 NPCName.GoblinArcher,The Worst Lnik
 NPCName.GoblinPeon,Green Lnik
 NPCName.GoblinSorcerer,Purple Lnik
-NPCName.GoblinSummoner,Sansmonner Lnik
 NPCName.GoblinThief,Yellow Lnik
 NPCName.GoblinWarrior,Red Lnik
+
+NPCName.GoblinSummoner,Warlnik
+NPCName.ShadowFlameApparition,Sansnian Apparition
 
 
 #[ dungeon defenders 2 ],<<-|------------------------------------|->>
