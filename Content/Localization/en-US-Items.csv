@@ -45,9 +45,9 @@ CommonItemTooltip.RestoresMana,[c/00ff00:+{0}TP]
 #[ common : item stats ],<<-|------------------------------------|->>
 
 
-LegacyTooltip.25,DF
-LegacyTooltip.30,HP
-LegacyTooltip.31,TP
+LegacyTooltip.25," DF"
+LegacyTooltip.30," HP"
+LegacyTooltip.31," TP"
 
 LegacyTooltip.5,% bad time chance
 LegacyTooltip.34,[c/ff7f7f:Sansmmo]
@@ -181,36 +181,6 @@ ItemTooltip.MagicMirror,"Sansleports you back to whatever
 could be considered ""home"" here"
 
 ItemTooltip.IceMirror,"{$ItemTooltip.MagicMirror}"
-
-
-#[ armor : pre-hardmode ],<<-|-----------------------------------|->>
-
-
-# ItemName.CrimsonGreaves,  |> >>--->   UNSET   <---<< <|
-# ItemName.CrimsonHelmet,   |> >>--->   UNSET   <---<< <|
-# ItemName.CrimsonScalemail,|> >>--->   UNSET   <---<< <|
-ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
-ItemTooltip.CrimsonGreaves,[c/ff0000:+2% AT]
-ItemTooltip.CrimsonHelmet,"[c/ff0000:+2% AT]
-'maybe it's the way you're dressed'"
-ItemTooltip.CrimsonScalemail,[c/ff0000:+2% AT]
-
-# ItemName.EbonwoodBreastplate,|> >>--->   UNSET   <---<< <|
-# ItemName.EbonwoodGreaves,    |> >>--->   UNSET   <---<< <|
-# ItemName.EbonwoodHelmet,     |> >>--->   UNSET   <---<< <|
-
-# ItemName.ShadowGreaves,  |> >>--->   UNSET   <---<< <|
-# ItemName.ShadowHelmet,   |> >>--->   UNSET   <---<< <|
-# ItemName.ShadowScalemail,|> >>--->   UNSET   <---<< <|
-
-ItemName.Goggles,Sansggles
-
-
-#[ armor : hardmode ],<<-|---------------------------------------|->>
-
-
-ItemName.RuneHat,Snowy Antlers
-ItemName.RuneRobe,Snowy Robe
 
 
 #[ vanity : sets ],<<-|------------------------------------------|->>

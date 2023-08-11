@@ -1,0 +1,61 @@
+Key,Translation
+
+
+#[ woods ],<<-|--------------------------------------------------|->>
+
+
+# ItemName.EbonwoodBreastplate,|> >>--->   UNSET   <---<< <|
+# ItemName.EbonwoodGreaves,    |> >>--->   UNSET   <---<< <|
+# ItemName.EbonwoodHelmet,     |> >>--->   UNSET   <---<< <|
+
+
+#[ early ores ],<<-|---------------------------------------------|->>
+
+
+ItemName.CopperHelmet,Gastter Cap
+ItemName.CopperChainmail,Gastter Hoodie
+ItemName.CopperGreaves,Gastter Slippers
+
+ItemName.IronHelmet,Iriel Cap
+ItemName.IronChainmail,Iriel Hoodie
+ItemName.IronGreaves,Iriel Slippers
+
+ItemName.SilverHelmet,Sansver Cap
+ItemName.SilverChainmail,Sansver Hoodie
+ItemName.SilverGreaves,Sansver Slippers
+
+ItemName.GoldHelmet,Papyld Cap
+ItemName.GoldChainmail,Papyld Hoodie
+ItemName.GoldGreaves,Papyld Slippers
+
+
+#[ evil ores ],<<-|----------------------------------------------|->>
+
+
+# ItemName.ShadowGreaves,  |> >>--->   UNSET   <---<< <|
+# ItemName.ShadowHelmet,   |> >>--->   UNSET   <---<< <|
+# ItemName.ShadowScalemail,|> >>--->   UNSET   <---<< <|
+
+# ItemName.CrimsonGreaves,  |> >>--->   UNSET   <---<< <|
+# ItemName.CrimsonHelmet,   |> >>--->   UNSET   <---<< <|
+# ItemName.CrimsonScalemail,|> >>--->   UNSET   <---<< <|
+
+ItemTooltip.CrimsonGreaves,[c/ff0000:+2% AT]
+ItemTooltip.CrimsonHelmet,"[c/ff0000:+2% AT]
+'maybe it's the way you're dressed'"
+ItemTooltip.CrimsonScalemail,[c/ff0000:+2% AT]
+
+ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
+
+
+#[ misc. ],<<-|--------------------------------------------------|->>
+
+
+ItemName.Goggles,Sansggles
+
+
+#[ vanity : sets ],<<-|------------------------------------------|->>
+
+
+ItemName.RuneHat,Snowy Antlers
+ItemName.RuneRobe,Snowy Robe
