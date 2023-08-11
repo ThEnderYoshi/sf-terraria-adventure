@@ -30,6 +30,12 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Jungle:_ Jungle Slime, Jungle Bat, Piranha
 - _Underground:_ Cave/Giant Bat
 
+#### Armors
+
+(Equipped armor GFX will not be part of the pack for a good while)
+
+- _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum
+
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 
 Fixed an oversight in `pack_diagnostic`
