@@ -905,13 +905,16 @@ ItemName.MeteorHamaxe,Planetarium Sansmmaxe
 ItemName.MoltenPickaxe,ShadowPick
 ItemName.MoltenHamaxe,BraveHamax
 
-ItemName.EmptyBucket,Empty Capsule
-ItemName.WaterBucket,Gastric Acid Capsule
-ItemName.LavaBucket,Dark'Ness Capsule
+ItemName.EmptyBucket,Empty Jug
+ItemName.WaterBucket,Jug of Gastric Acid
+ItemName.LavaBucket,Jug of Dark'Ness
+ItemName.HoneyBucket,Jug of Battery Acid
 ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
 ItemTooltip.WaterBucket,"Contains a small amount of gastric acid
 Can be sansed out"
 ItemTooltip.LavaBucket,"Contains a small amount of dark'ness
+Can be sansed out"
+ItemTooltip.HoneyBucket,"Contains a small amount of delicious battery acid
 Can be sansed out"
 
 
