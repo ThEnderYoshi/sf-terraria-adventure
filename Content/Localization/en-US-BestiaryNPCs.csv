@@ -7,6 +7,18 @@ CommonBestiaryFlavor.DemonEye,"Created by a powerful Sans, these little prankste
 CommonBestiaryFlavor.Skeleton,"Sanses that get lost in the Sansverns eventually go insane. Jealous, they attack those who've yet to join their ranks."
 CommonBestiaryFlavor.Zombie,"These nocturnal pranksters are here to mess you up! "
 
+CommonBestiaryFlavor.GoldCritter,"
+(COOL VARIANT: It may be hard to spot, but some critters are cooler than others!)"
+
+#[ critters ],<<-|-----------------------------------------------|->>
+
+
+Bestiary_FlavorText.npc_Frog,"Frog? More like
+
+pog"
+Bestiary_FlavorText.npc_GoldFrog,"{$Bestiary_FlavorText.npc_Frog}{$CommonBestiaryFlavor.GoldCritter}"
+
+Bestiary_FlavorText.npc_Stinkbug,"ERROR: NPC NOT FOUND"
 
 #[ corruption ],<<-|---------------------------------------------|->>
 

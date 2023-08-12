@@ -27,6 +27,15 @@ NPCName.PurpleSlime,Standard Slans
 NPCName.Pinky,Slansy UwU
 
 
+#[ critters ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Frog,Pog
+NPCName.GoldFrog,Cool Pog
+
+NPCName.Stinkbug,UNUSED
+
+
 #[ sky ],<<-|----------------------------------------------------|->>
 
 

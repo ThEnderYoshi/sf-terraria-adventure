@@ -371,6 +371,22 @@ ItemName.PixieDust,GIASFELFEBREHBER
 ItemTooltip.SoulofLight,"'The essanse of darkners'"
 
 
+#[ critters ],<<-|-----------------------------------------------|->>
+
+
+ItemName.Frog,Pog
+ItemName.GoldFrog,Cool Pog
+
+ItemName.Terrarium,Test Chamber
+ItemName.FrogCage,Pog Chamber
+ItemName.GoldFrogCage,Cool Pog Chamber
+
+ItemName.Stinkbug,UNUSED
+ItemName.StinkbugCage,UNUSED Chamber
+
+MapObject.GoldFrogCage,{$ItemName.GoldFrogCage}
+
+
 #[ furniture : wood ],<<-|---------------------------------------|->>
 
 

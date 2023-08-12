@@ -46,8 +46,8 @@ Last updated: _{@p time @} UTC_
 <!--@region FileCount-->
 Last updated: _2023-08-11 UTC_
 
-- **1089** Images (**8%** of the way to the next update)
-- **3061** Text Entries
+- **1102** Images (**10%** of the way to the next update)
+- **3076** Text Entries
 - **17** Songs
 - **22** Sounds
 <!--@end-region-->
@@ -64,8 +64,11 @@ While the actual `Player_*` sprites are complete,
 most of the hair, armor, accessories, etc. are not.
 
 Due to this, the visuals really clash.
-So the player model will only be brought to the main branch
+So the player model will only be brought to the main pack
 when most of its sprites are done.
+
+Currently, the player model is in a separate Resource Pack.
+But I'm not sure it'll be made public.
 
 ---
 
