@@ -229,11 +229,18 @@ ItemName.IceBlock,Hypersans Block
 ItemName.IceEcho,Hypersans Sall
 
 
+#[ blocks : jungle ],<<-|----------------------------------------|->>
+
+
+ItemName.JungleWall,Toriel's House's Sallpaper
+ItemName.MudWallEcho,Ruined Brick Sall
+
+
 #[ blocks : corruption ],<<-|------------------------------------|->>
 
 
 ItemName.DemoniteBrick,Luigium Plating
-ItemName.DemoniteBrickWall,Luigium Plating Wall
+ItemName.DemoniteBrickWall,Luigium Plating Sall
 
 
 #[ blocks : crimson ],<<-|---------------------------------------|->>

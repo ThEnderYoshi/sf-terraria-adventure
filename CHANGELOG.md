@@ -21,6 +21,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 ### Added
 
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants)
+- _Walls:_ Mud, Jungle
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
