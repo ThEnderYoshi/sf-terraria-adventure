@@ -1,7 +1,7 @@
 # Changelog
 
-Current version: **MINOR 1.2**
-Upcoming version: **UPDATE 2**
+Current version: **UPDATE 2** \
+Upcoming version: _N/A_
 
 ## Planned Updates
 
@@ -25,6 +25,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
+- The "Spampton NutriNose&trade;"
 
 #### NPCs
 

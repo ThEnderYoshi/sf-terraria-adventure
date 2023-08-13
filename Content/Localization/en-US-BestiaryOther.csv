@@ -123,8 +123,7 @@ Bestiary_ItemDropConditions.CrimsonKeyCondition,Drops in the Bad Time Mode No Sa
 Bestiary_ItemDropConditions.DesertKeyCondition,Drops in the Bad Time Mode Sansert
 Bestiary_ItemDropConditions.FrozenKeyCondition,Drops in the Bad Time Mode Snans
 Bestiary_ItemDropConditions.HallowKeyCondition,Drops in the Bad Time Mode Dark World
-#( placeholder : jungle ),jungle
-Bestiary_ItemDropConditions.JungleKeyCondition,Drops in the Bad Time Mode jungle
+Bestiary_ItemDropConditions.JungleKeyCondition,Drops in the Bad Time Mode Toriel's House
 
 
 #[ drop conditions : game modes ],<<-|---------------------------|->>

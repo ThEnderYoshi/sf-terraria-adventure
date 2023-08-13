@@ -6,24 +6,25 @@ next commit:
   # Committed.
 
 milestones:
-  start: 2022-07-12
-  update 01: <TBD>  # 1K images
-  update 02: <TBD>  # 2K images
-  update 03: <TBD>  # 3K images
-  update 04: <TBD>  # 4K images
-  update 05: <TBD>  # 5K images
-  update 06: <TBD>  # 6K images
-  update 07: <TBD>  # 7K images
-  update 08: <TBD>  # 8K images
-  update 09: <TBD>  # 9K images
-  update 10: <TBD>  # 10K images
-  update 11: <TBD>  # 11K images
-  update 12: <TBD>  # 12K images
-  update 13: <TBD>  # 13K images
-  update ω:  <TBD>  # ALL images
-  all tiles: <TBD>  # (Tiles_ + Misc/TileOutlines/Tiles_ + _Cactus)
-  all npcs:  <TBD>  # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
-  all items: <TBD>  # (Item_ + Coin_ + ItemFlame_)
+  start:     2022-07-12
+  update 01: 2023-07-17 # 1K images
+  update 02: <TBD>      # 2K images
+  update 03: <TBD>      # 3K images
+  update 04: <TBD>      # 4K images
+  update 05: <TBD>      # 5K images
+  update 06: <TBD>      # 6K images
+  update 07: <TBD>      # 7K images
+  update 08: <TBD>      # 8K images
+  update 09: <TBD>      # 9K images
+  update 10: <TBD>      # 10K images
+  update 11: <TBD>      # 11K images
+  update 12: <TBD>      # 12K images
+  update 13: <TBD>      # 13K images
+  update ω:  <TBD>      # ALL images
+  all tiles: <TBD>      # (Tiles_ + Misc/TileOutlines/Tiles_ + _Cactus)
+  all npcs:  <TBD>      # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
+  all items: <TBD>      # (Item_ + Coin_ + ItemFlame_)
+  all particles: <TBD>  # (Gore_ + Dust.png)
 
 bosse todos:
   queen bee:
@@ -156,7 +157,6 @@ text placeholders:
   items:
     - don't starve
     - mushroom biome
-    - jungle
     - plantera
 
 other:

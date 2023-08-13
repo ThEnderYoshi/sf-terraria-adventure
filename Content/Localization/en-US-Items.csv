@@ -857,6 +857,11 @@ ItemName.RopeCoil,{$ItemName.Rope} Soil (sans coil)
 #[ tools ],<<-|--------------------------------------------------|->>
 
 
+ItemName.Bomb,Spamton NutriNose™
+ItemTooltip.Bomb,"Provides delicious improvements to stats
+(do not blow into the nose)
+'Spamton NutriNose™: Try it inside your house!'"
+
 ItemName.WoodenHammer,Bad Thyme Sansmmer
 ItemName.BorealWoodHammer,Dense Thyme Sansmmer
 ItemName.EbonwoodHammer,Better Cauli Sansmmer
