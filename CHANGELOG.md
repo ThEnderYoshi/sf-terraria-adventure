@@ -20,15 +20,15 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 ### Added
 
-- _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants)
-- _Walls:_ Mud, Jungle
+- _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive
+- _Walls:_ Mud, Jungle, Hive
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
 
 #### NPCs
 
-- _Jungle:_ Jungle Slime, Jungle Bat, Piranha
+- _Jungle:_ Jungle Slime, Jungle Bat, Piranha, Derpling, Giant Tortoise
 - _Underground:_ Cave/Giant Bat
 
 #### Armors
