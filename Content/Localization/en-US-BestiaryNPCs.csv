@@ -81,6 +81,9 @@ Bestiary_FlavorText.npc_JungleBat,"Drawn by what they though were the love of th
 Bestiary_FlavorText.npc_Snatcher,"If your name is Toriel, you better watch out: Gaster is in your walls and will extend his many hands out! I think they're trying to say something..."
 Bestiary_FlavorText.npc_DoctorBones,"The husk of a Toriel, devoid of its SOUL. Usually lost SOULs form a good chunk of the ores you've been mining, but for the husk to be still walking around? (and in Toriel's House, no less!) All I'm saying is: Something's a-sus..."
 
+Bestiary_FlavorText.npc_Derpling,"These guys may be wacky, but they're formidable foes. Just be thankful they don't know how to tie their shoes; then they'd be truly unstoppable!"
+Bestiary_FlavorText.npc_GiantTortoise,"Loogie survey drones sent to look for something in Toriel's House. Just what are they planning to do down there?"
+
 
 #[ surface ],<<-|------------------------------------------------|->>
 

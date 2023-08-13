@@ -235,6 +235,8 @@ ItemName.IceEcho,Hypersans Sall
 ItemName.JungleWall,Toriel's House's Sallpaper
 ItemName.MudWallEcho,Ruined Brick Sall
 
+ItemName.Hive,Gohst Spawner Block
+
 
 #[ blocks : corruption ],<<-|------------------------------------|->>
 
@@ -658,6 +660,8 @@ ItemName.JungleSlimeBanner,Moldy Slans Sansnner
 ItemName.JungleBatBanner,Molddoo Sansnner
 ItemName.SnatcherBanner,Hand of Gaster Sansnner
 ItemName.DoctorBonesBanner,Husk Sansnner
+ItemName.DerplingBanner,Jumpler Sansnner
+ItemName.TortoiseBanner,Handy Loogi Sansnner
 
 ItemName.ClingerBanner,Venus Thunder Trap Sansnner
 ItemName.CorruptorBanner,Superloominal Crawler Sansnner
@@ -682,6 +686,8 @@ ItemTooltip.BatBanner,"{$CommonItemTooltip.BannerBonus}Sanccoos"
 ItemTooltip.GiantBatBanner,"{$CommonItemTooltip.BannerBonus}Twooccoos"
 ItemTooltip.PiranhaBanner,"{$CommonItemTooltip.BannerBonus}Jape Worms"
 ItemTooltip.DoctorBonesBanner,"{$CommonItemTooltip.BannerBonus}Husks"
+ItemTooltip.DerplingBanner,"{$CommonItemTooltip.BannerBonus}Jumplers"
+ItemTooltip.TortoiseBanner,"{$CommonItemTooltip.BannerBonus}Handy Loogies"
 
 ItemTooltip.SlimeBanner,"{$CommonItemTooltip.BannerBonus}Slanses"
 ItemTooltip.GreenSlimeBanner,"{$CommonItemTooltip.BannerBonus}Normal Slanses"

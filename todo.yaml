@@ -25,6 +25,18 @@ milestones:
   all npcs:  <TBD>  # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
   all items: <TBD>  # (Item_ + Coin_ + ItemFlame_)
 
+bosse todos:
+  queen bee:
+    # Reminder that all of these need have their own text entries
+    npcs: #TODO: Queen Bee (and servants) NPC sprites
+    gores: #TODO: Queen Bee (and servants) Gore sprites
+    projectiles: #TODO: Queen Bee (and servants) Projectile sprites
+    items:
+      - Abeemination
+      #TODO: Queen Bee-related items
+    blocks:
+      - Larvae
+
 unfinished textures:
   Background_:
     - '93/160-170'  # Could use some more touches
