@@ -83,6 +83,8 @@ Bestiary_FlavorText.npc_DoctorBones,"The husk of a Toriel, devoid of its SOUL. U
 
 Bestiary_FlavorText.npc_Derpling,"These guys may be wacky, but they're formidable foes. Just be thankful they don't know how to tie their shoes; then they'd be truly unstoppable!"
 Bestiary_FlavorText.npc_GiantTortoise,"Loogie survey drones sent to look for something in Toriel's House. Just what are they planning to do down there?"
+Bestiary_FlavorText.npc_GiantFlyingFox,"Molddoos that have spent a long time in Toriel's House, empowered by the darker, yet darker energies. This form truly is Terminal."
+Bestiary_FlavorText.npc_AnglerFish,"What a pathetic, miserable excuse of a living being. You might as well just put it out of its misery."
 
 
 #[ surface ],<<-|------------------------------------------------|->>

@@ -662,6 +662,8 @@ ItemName.SnatcherBanner,Hand of Gaster Sansnner
 ItemName.DoctorBonesBanner,Husk Sansnner
 ItemName.DerplingBanner,Jumpler Sansnner
 ItemName.TortoiseBanner,Handy Loogi Sansnner
+ItemName.GiantFlyingFoxBanner,Stage 7 Molddoo Sansnner
+ItemName.AnglerFishBanner,Worm from the String Sansnner
 
 ItemName.ClingerBanner,Venus Thunder Trap Sansnner
 ItemName.CorruptorBanner,Superloominal Crawler Sansnner
@@ -688,6 +690,8 @@ ItemTooltip.PiranhaBanner,"{$CommonItemTooltip.BannerBonus}Jape Worms"
 ItemTooltip.DoctorBonesBanner,"{$CommonItemTooltip.BannerBonus}Husks"
 ItemTooltip.DerplingBanner,"{$CommonItemTooltip.BannerBonus}Jumplers"
 ItemTooltip.TortoiseBanner,"{$CommonItemTooltip.BannerBonus}Handy Loogies"
+ItemTooltip.GiantFlyingFoxBanner,"{$CommonItemTooltip.BannerBonus}Stage 7 Molddoos"
+ItemTooltip.AnglerFishBanner,"{$CommonItemTooltip.BannerBonus}Worms from the String"
 
 ItemTooltip.SlimeBanner,"{$CommonItemTooltip.BannerBonus}Slanses"
 ItemTooltip.GreenSlimeBanner,"{$CommonItemTooltip.BannerBonus}Normal Slanses"
