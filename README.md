@@ -46,8 +46,8 @@ Last updated: _{@p time @} UTC_
 <!--@region FileCount-->
 Last updated: _2023-08-11 UTC_
 
-- **1130** Images (**13%** of the way to the next update)
-- **3097** Text Entries
+- **1156** Images (**15%** of the way to the next update)
+- **3121** Text Entries
 - **17** Songs
 - **22** Sounds
 <!--@end-region-->
@@ -83,7 +83,8 @@ This is a fan project.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-The original images are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]
+The original images are licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]
 
 The code in this project is under the [MIT License]
 

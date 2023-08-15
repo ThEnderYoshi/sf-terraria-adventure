@@ -511,6 +511,36 @@ LegacyChestType.9,{$ItemName.PearlwoodChest}
 LegacyDresserType.3,{$ItemName.PearlwoodDresser}
 
 
+#[ furniture : rich mahogany ],<<-|------------------------------|->>
+
+
+ItemName.RichMahogany,Homely Fungus
+ItemName.RichMahoganyPlatform,Homely Comic
+ItemName.RichMahoganyWall,Homely Sall
+ItemName.RichMahoganyBeam,Homely Seam (sans beam)
+
+ItemName.RichMahoganyBathtub,Homely Badtub
+ItemName.RichMahoganyBed,Homely Bad
+ItemName.RichMahoganyBookcase,Homely Copy-of-UNDERTALEcase
+ItemName.RichMahoganyCandelabra,Homely Sansdelabra
+ItemName.RichMahoganyCandle,Homely Sansdle
+ItemName.RichMahoganyChair,Homely Sair
+ItemName.RichMahoganyChandelier,Homely Sansdelier
+ItemName.RichMahoganyChest,Homely Chanst (sans chest)
+ItemName.RichMahoganyClock,Homely Potted Plant That Somehow Tells the Time
+ItemName.RichMahoganyDoor,Homely Door
+ItemName.RichMahoganyDresser,Homely Sansser
+ItemName.RichMahoganyFence,Homely Sance (sans fence)
+ItemName.RichMahoganyLamp,Homely Sasnsp
+ItemName.RichMahoganyLantern,Homely Sanstern
+ItemName.RichMahoganyPiano,Homely Pans
+ItemName.RichMahoganySink,Homely Sansk
+ItemName.RichMahoganySofa,Homely Sansfa
+ItemName.RichMahoganyTable,Homely Sansble
+ItemName.RichMahoganyWorkBench,Homely Work Bans (bench sans)
+ItemName.ToiletRichMahogany,Homely Dispatch Hatch
+
+
 #[ furniture : paintings ],<<-|----------------------------------|->>
 
 

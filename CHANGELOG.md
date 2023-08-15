@@ -20,12 +20,15 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 ### Added
 
-- _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive
-- _Walls:_ Mud, Jungle, Hive
+- _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
+  Rich Mahogany
+- _Walls:_ Mud, Jungle, Hive, Rich Mahogany
+- _Furniture Sets:_ Rich Mahogany
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
 - The "Spampton NutriNose&trade;"
+- Honey.
 
 #### NPCs
 
@@ -37,6 +40,10 @@ As the name implies, this is the update that retextures the Jungle biome.
 (Equipped armor GFX will not be part of the pack for a good while)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum
+
+### Changed
+
+- Buckets are now jugs instead of capsules.
 
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 
