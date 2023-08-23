@@ -48,6 +48,26 @@ ItemTooltip.CrimsonScalemail,[c/ff0000:+2% AT]
 ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
 
 
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+
+ItemName.TurtleHelmet,Reinforced Luigium Stache n' Cap
+ItemName.TurtleScaleMail,Reinforced Luigium Plumbin' Overalls
+ItemName.TurtleLeggings,Reinforced Luigium Stompin' Boots
+
+#( placeholder : melee ),melee
+ItemTooltip.TurtleHelmet,"[c/ff0000:+15% melee DMG]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.TurtleLeggings,"[c/ff0000:+8% melee DMG]
+[c/ff0000:+8% melee CRIT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% melee DMG]
+[c/ff0000:AGGR ↗]"
+
+ArmorSetBonus.Turtle,"Attackers cut themselves on the plating's sharp corners
+[c/ff0000:+15% DMG Red.]"
+
+
 #[ misc. ],<<-|--------------------------------------------------|->>
 
 
