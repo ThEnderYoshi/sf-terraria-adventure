@@ -42,9 +42,9 @@ Bestiary_Biomes.UndergroundSnow,The Consanstrate
 
 #[ tags : jungle ],<<-|------------------------------------------|->>
 
-# Bestiary_Biomes.Jungle,           |> >>--->   UNSET   <---<< <|
-# Bestiary_Biomes.TheTemple,        |> >>--->   UNSET   <---<< <|
-# Bestiary_Biomes.UndergroundJungle,|> >>--->   UNSET   <---<< <|
+Bestiary_Biomes.Jungle,Toriel's House (sansface)
+Bestiary_Biomes.UndergroundJungle,Toriel's House
+# Bestiary_Biomes.TheTemple,|> >>--->   UNSET   <---<< <|
 
 
 #[ tags : corruption ],<<-|--------------------------------------|->>

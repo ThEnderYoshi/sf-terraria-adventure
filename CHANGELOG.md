@@ -12,6 +12,8 @@ The following list shows updates that have a concrete theme set in place,
 or already have some content done for it.
 
 - The Desert/Snow Update
+- The Sky/Underground Update
+- The Dungeon Update
 - The Player Update
 
 ## UPDATE 2 - _The Jungle Update_ - [ Upcoming ]
@@ -39,11 +41,21 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 (Equipped armor GFX will not be part of the pack for a good while)
 
-- _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum
+- _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle
+- _Vanity:_ Archaeologist's Set
+
+#### Weapons
+
+- _Yoyos:_ Amazon, Yelets
 
 ### Changed
 
 - Buckets are now jugs instead of capsules.
+
+### Fixes
+
+- Vanilla Bestiary icons are no longer transparent.
+- Rain bestriary icon now no longer in the place of the Ocean's icon.
 
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 
