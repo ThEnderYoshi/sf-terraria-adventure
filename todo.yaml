@@ -56,8 +56,8 @@ unfinished textures:
   Item_:
     - '511-512'     # (In)active stone blocks. They're still using vanilla wire textures.
   Tiles_:
-    - '0'           # Dirt. Missing mud connections.
     - '3/73'        # Natural plants/flowers.
+    - '61'          # Natural jungle plants + jungle rose + jungle spores + nature's gift.
     - '4'           # Torches.
     - '5'           # Trees. Missing: Mahogany, Shadewood, Ungerground Mah., Mushroom.
     - '10/11'       # Doors.
@@ -73,9 +73,10 @@ unfinished textures:
     - '35'          # Lanterns.
     - '79'          # Beds.
     - '80'          # Cacti.
-    - '81'          # Pianos.
-    - '82'          # Drawers.
-    - '83'          # Bench + Sofas + Chippy's Couch.
+    - '81/82/83'    # Herbs. See also: Tiles_380
+    - '87'          # Pianos.
+    - '88'          # Drawers.
+    - '89'          # Bench + Sofas + Chippy's Couch.
     - '90'          # Bathtubs.
     - '91'          # Banners.
     - '93'          # Lamp.
@@ -90,6 +91,7 @@ unfinished textures:
     - '215'         # Campfire.
     - '239'         # Bars.
     - '240/242'     # 3x3/6x4 paintings.
+    - '380'         # Planter Boxes.
     - '497'         # Toilets.
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'

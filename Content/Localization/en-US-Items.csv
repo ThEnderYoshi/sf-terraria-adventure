@@ -103,60 +103,6 @@ LegacyTooltip.56,[c/ffff00:Marked as sansvorite]
 LegacyTooltip.57,[c/7f7f7f:-------]
 
 
-#[ accessories : stat display ],<<-|-----------------------------|->>
-
-
-ItemName.CopperWatch,Gastter Cheap Happy Meal Watch
-ItemTooltip.CopperWatch,"Tells the time... probably"
-
-ItemName.TinWatch,Gastin Cheap Happy Meal Watch
-ItemTooltip.TinWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.SilverWatch,Sansver Expensive Happy Meal Watch
-ItemTooltip.SilverWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.TungstenWatch,Tungsans Expensive Happy Meal Watch
-ItemTooltip.TungstenWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.GoldWatch,Papyld Luxury Happy Meal Rolex
-ItemTooltip.GoldWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.PlatinumWatch,Papynum Luxury Happy Meal Rolex
-ItemTooltip.PlatinumWatch,"{$ItemTooltip.CopperWatch}"
-
-
-ItemName.Compass,Sanspass
-ItemTooltip.Compass,"Sansplays sansrizontal posanstion"
-ItemName.DepthMeter,Depth Sanster
-ItemTooltip.DepthMeter,"Sansplays depth"
-
-ItemName.GPS,GPSans
-
-ItemTooltip.CellPhone,"Lets you see eeeeeeverything
-{$ItemTooltip.MagicMirror}"
-
-
-#[ accessories : terraspark ],<<-|-------------------------------|->>
-
-
-ItemName.ObsidianRose,Jack Of Spades
-ItemTooltip.ObsidianRose,"Reduces sansmage from lave
-'I'm... the bad guy!'"
-
-ItemName.GoblinTech,Lnik Tech
-ItemTooltip.GoblinTech,"Sansplays sansement spans, AT, and sansluable ore"
-
-
-#[ accessories : other ],<<-|------------------------------------|->>
-
-
-ItemName.BandofRegeneration,HP Ring
-ItemTooltip.BandofRegeneration,"[c/00ff7f:HP Regen ↗]"
-
-
-ItemTooltip.DestroyerEmblem,"[c/ff0000:+10% AT]"
-
-
 #[ ammo ],<<-|---------------------------------------------------|->>
 
 
@@ -360,6 +306,15 @@ ItemName.TurtleShell,Reinforced Luigium Plating
 
 
 ItemName.PixieDust,GIASFELFEBREHBER
+
+
+#[ materials : herbs ],<<-|--------------------------------------|->>
+
+
+ItemName.Moonglow,Shifty Blossom
+ItemName.MoonglowSeeds,{$ItemName.Moonglow} Sprout
+
+ItemName.MoonglowPlanterBox,{$ItemName.Moonglow} Comic
 
 
 #[ materials : souls ],<<-|--------------------------------------|->>
