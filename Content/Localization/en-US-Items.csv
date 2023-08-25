@@ -125,6 +125,8 @@ ItemName.PlatinumWatch,Papynum Luxury Happy Meal Rolex
 ItemTooltip.PlatinumWatch,"{$ItemTooltip.CopperWatch}"
 
 
+ItemName.Compass,Sanspass
+ItemTooltip.Compass,"Sansplays sansrizontal posanstion"
 ItemName.DepthMeter,Depth Sanster
 ItemTooltip.DepthMeter,"Sansplays depth"
 
@@ -181,14 +183,6 @@ ItemTooltip.MagicMirror,"Sansleports you back to whatever
 could be considered ""home"" here"
 
 ItemTooltip.IceMirror,"{$ItemTooltip.MagicMirror}"
-
-
-#[ vanity : sets ],<<-|------------------------------------------|->>
-
-
-ItemName.ArchaeologistsHat,Boss Horns
-ItemName.ArchaeologistsJacket,Boss Robe
-ItemName.ArchaeologistsPants,Boss Slippers
 
 
 #[ blocks : surface ],<<-|---------------------------------------|->>
@@ -598,6 +592,11 @@ ItemName.BottledWater,Bottled Acid
 
 ItemTooltip.Spaghetti,"{$CommonItemTooltip.MajorStats}
 'Spaghetti! Spaghetti!? Spaghetti!?! Spaghetti!?!?'"
+
+ItemName.CoffeeCup,Human Energy Drink
+ItemTooltip.CoffeeCup,"{$CommonItemTooltip.MediumStats}
+'Gotta be careful with this one,
+they're weirdly protective of their IP'"
 
 
 #[ crafting stations ],<<-|--------------------------------------|->>
@@ -1076,6 +1075,9 @@ ItemName.Musket,Bad Bird-Omen
 ItemName.TheUndertaker,Sudden Justice
 ItemName.Handgun,GUN
 ItemName.PhoenixBlaster,SuperGUN
+ItemName.Uzi,Suzi
+
+ItemTooltip.Uzi,"'Oh look it's my neighbor'"
 
 ItemName.Shuriken,Sansriken
 ItemName.ThrowingKnife,Hateful Knife

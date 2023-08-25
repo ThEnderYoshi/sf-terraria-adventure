@@ -74,8 +74,18 @@ ArmorSetBonus.Turtle,"Attackers cut themselves on the plating's sharp corners
 ItemName.Goggles,Sansggles
 
 
+#[ vanity : hats ],<<-|------------------------------------------|->>
+
+
+ItemName.RobotHat,Pathetic Visage
+
+
 #[ vanity : sets ],<<-|------------------------------------------|->>
 
+
+ItemName.ArchaeologistsHat,Boss Horns
+ItemName.ArchaeologistsJacket,Boss Robe
+ItemName.ArchaeologistsPants,Boss Slippers
 
 ItemName.RuneHat,Snowy Antlers
 ItemName.RuneRobe,Snowy Robe

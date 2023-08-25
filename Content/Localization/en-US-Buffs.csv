@@ -12,6 +12,12 @@ Key,Translation
 #[ buffs ],<<-|--------------------------------------------------|->>
 
 
+BuffName.Regeneration,[c/4782c9:Sansgeneration]
+BuffDescription.Regeneration,"HP regen ↗"
+
+BuffName.Honey,[c/4782c9:Melting]
+BuffDescription.Honey,"Your skin is healing from the battery acid; HP regen ↗↗"
+
 BuffName.Sunflower,[c/4782c9:Echo Whispers]
 BuffDescription.Sunflower,"Encouraging whispers and puns increase your movement speed and decreases hostile spawns"
 
@@ -22,7 +28,7 @@ BuffName.Inferno,[c/4782c9:Maws of Richeous Judgement]
 BuffDescription.Inferno,"L + Ratio + Heathen + No Maidens"
 
 BuffName.Ironskin,[c/4782c9:Reinforced Membrane]
-BuffDescription.Ironskin,"DF increased by 8"
+BuffDescription.Ironskin,"+8 DF"
 
 BuffName.MonsterBanner,[c/4782c9:Sansnner]
 BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
@@ -33,6 +39,9 @@ BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
 
 BuffName.Frozen,[c/e9581c:Snowgraved]
 BuffDescription.Frozen,"Certified Snowgrave moment"
+
+BuffName.Bleeding,[c/e9581c:Rapid Growth]
+BuffDescription.Bleeding,"Your body is spending too many resources growing new organs; HP regen disabled"
 
 
 #[ minions ],<<-|------------------------------------------------|->>
