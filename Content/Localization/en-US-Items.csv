@@ -491,6 +491,38 @@ ItemName.RichMahoganyWorkBench,Homely Work Bans (bench sans)
 ItemName.ToiletRichMahogany,Homely Dispatch Hatch
 
 
+#[ furniture : bamboo ],<<-|-------------------------------------|->>
+
+
+ItemName.BambooBlock,Tooth Stack
+ItemName.BambooBlockWall,Tooth Stack Sall
+ItemName.BambooPlatform,Tooth Stack Comic
+ItemName.BambooWorkbench,Tooth Stack Work Bans (bench sans)
+
+ItemName.LargeBambooBlock,Tooth Array
+ItemName.LargeBambooBlockWall,Tooth Array Sall
+
+ItemName.BambooBathtub,Tooth Stack Badtub
+ItemName.BambooBed,Tooth Stack Bad
+ItemName.BambooBookcase,Tooth Stack Copy-of-UNDERTALEcase
+ItemName.BambooCandelabra,Tooth Stack Sansdelabra
+ItemName.BambooCandle,Tooth Stack Sansdle
+ItemName.BambooChair,Tooth Stack Sair
+ItemName.BambooChandelier,Tooth Stack Sansdelier
+ItemName.BambooChest,Tooth Stack Chanst (sans chest)
+ItemName.BambooClock,Tooth Stack Sock (sans clock)
+ItemName.BambooDoor,Tooth Stack Door
+ItemName.BambooDresser,Tooth Stack Sansser
+ItemName.BambooFence,Tooth Stack Sance (sans fence)
+ItemName.BambooLamp,Tooth Stack Samp
+ItemName.BambooLantern,Tooth Stack Sanstern
+ItemName.BambooPiano,Tooth Stack Pans
+ItemName.BambooSink,Tooth Stack Sansk
+ItemName.BambooSofa,Tooth Stack Sansfa
+ItemName.BambooTable,Tooth Stack Sansble
+ItemName.BambooToilet,Tooth Stack Dispatch Hatch
+
+
 #[ furniture : paintings ],<<-|----------------------------------|->>
 
 

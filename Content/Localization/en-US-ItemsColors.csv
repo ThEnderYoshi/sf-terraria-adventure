@@ -1,0 +1,24 @@
+Key,Translation
+
+
+#[ dyes ],<<-|---------------------------------------------------|->>
+
+
+ItemName.SkyBlueDye,Melanin That Refracts Light in Such a way That it Looks Baby Blue
+
+
+#[ dye materials ],<<-|------------------------------------------|->>
+
+
+ItemName.SkyBlueFlower,Baby Blue Bone
+ItemTooltip.SkyBlueFlower,"Its pigment can be extracted"
+
+
+#[ strings ],<<-|------------------------------------------------|->>
+
+
+#( placeholder : string ),String
+ItemName.SkyBlueString,Baby Blue String
+
+
+#[ misc. ],<<-|--------------------------------------------------|->>

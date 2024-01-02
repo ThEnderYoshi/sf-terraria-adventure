@@ -44,10 +44,10 @@ Last updated: _{@p time @} UTC_
 - **{@p snd @}** Sounds
 @end-template-->
 <!--@region FileCount-->
-Last updated: _2023-08-25 UTC_
+Last updated: _2024-01-01 UTC_
 
-- **1188** Images (**18%** of the way to the next update)
-- **3159** Text Entries
+- **1201** Images (**20%** of the way to the next update)
+- **3188** Text Entries
 - **17** Songs
 - **22** Sounds
 <!--@end-region-->

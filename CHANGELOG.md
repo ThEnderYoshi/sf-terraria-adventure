@@ -25,9 +25,9 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Buffs:_ Regeneration, Honey
 - _Debuffs:_ Bleeding
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
-  Rich Mahogany
-- _Walls:_ Mud, Jungle, Hive, Rich Mahogany
-- _Furniture Sets:_ Rich Mahogany
+  Rich Mahogany, Bamboo, Large Bamboo
+- _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
+- _Furniture Sets:_ Rich Mahogany, Bamboo
 - _Accessories:_ Compass, Adhesive Bandage
 - _Food:_ Coffee Cup
 - Seeds for all currently added grasses
@@ -35,6 +35,7 @@ As the name implies, this is the update that retextures the Jungle biome.
   Enemies with these banners now all properly have names and bestiary entries.
 - The "Spampton NutriNose&trade;"
 - Moonglow (plus seeds and planter box)
+- Sky Blue Dye/Flower
 - Honey.
 
 #### NPCs

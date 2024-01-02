@@ -1,14 +1,13 @@
 # Let's just hope I actually remember to check and update this list...
 
 important:
-
-next commit:
-  # Committed.
+  BEFORE UPDATE 2 RELEASES:
+    - Add statues for all current enemies.
 
 milestones:
   start:     2022-07-12
-  update 01: 2023-07-17 # 1K images
-  update 02: <TBD>      # 2K images
+  update 01: 2023-07-17 # 1K images; Initial Release
+  update 02: <TBD>      # 2K images; Jungle Update
   update 03: <TBD>      # 3K images
   update 04: <TBD>      # 4K images
   update 05: <TBD>      # 5K images
@@ -26,7 +25,7 @@ milestones:
   all items: <TBD>      # (Item_ + Coin_ + ItemFlame_)
   all particles: <TBD>  # (Gore_ + Dust.png)
 
-bosse todos:
+boss todos:
   queen bee:
     # Reminder that all of these need have their own text entries
     npcs: #TODO: Queen Bee (and servants) NPC sprites
@@ -57,7 +56,6 @@ unfinished textures:
     - '511-512'     # (In)active stone blocks. They're still using vanilla wire textures.
   Tiles_:
     - '3/73'        # Natural plants/flowers.
-    - '61'          # Natural jungle plants + jungle rose + jungle spores + nature's gift.
     - '4'           # Torches.
     - '5'           # Trees. Missing: Mahogany, Shadewood, Ungerground Mah., Mushroom.
     - '10/11'       # Doors.
@@ -71,6 +69,8 @@ unfinished textures:
     - '33'          # Candle.
     - '34'          # Chandelier.
     - '35'          # Lanterns.
+    - '61'          # Natural jungle plants + jungle rose + jungle spores + nature's gift.
+    - '74'          # Natural jungle tall plants/flowers.
     - '79'          # Beds.
     - '80'          # Cacti.
     - '81/82/83'    # Herbs. See also: Tiles_380
@@ -89,6 +89,7 @@ unfinished textures:
     - '172'         # Sinks.
     - '185'         # Debree. Also check for tiles placed by Rubblemaker.
     - '215'         # Campfire.
+    - '227'         # Dye Plants.
     - '239'         # Bars.
     - '240/242'     # 3x3/6x4 paintings.
     - '380'         # Planter Boxes.
@@ -104,7 +105,6 @@ reconsider:
     - '31'          # Bottle. Didn't like how this one turned out.
     - '2348'        # Potion. Not sure how to feel about the design.
   NPC_:
-    - '16'          # Mother slime. Don't like how the bottom turned out.
     - '48'          # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
     - '121'         # Slimer. Wing animation sucks.
     - '134'         # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
@@ -130,10 +130,7 @@ image sets:
     - Add Chippy's Couch.
     - <check for related items, etc.>
   WoF:
-    - Bestiary icon
     - <check for related items, etc.>
-  The Hungry:
-    - Bestiary icon
   Shadowflame Apparition:
     - Missing glow sprite.
 music notes:
@@ -142,13 +139,9 @@ music notes:
   Title:
     - Lower volume so it better matches the rest of the soundtrack.
 tools:
-  pack_diagnostic:
+  t_pack_diagnostic:
     - Make scan check for image sizes.
     - Make scan keep track of different (and invalid) languages.
-    - Make scan cross reference with vanilla language CSV.
-    - |
-      Make helpers::update_progress() more efficient:
-      https://rust-cli.github.io/book/tutorial/output.html#a-note-on-printing-performance
 
 text placeholders:
   format: '#( placeholder : { name } )[,{ aliases }]'
@@ -161,6 +154,7 @@ text placeholders:
     - mushroom biome
     - plantera
     - melee
+    - string
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.
