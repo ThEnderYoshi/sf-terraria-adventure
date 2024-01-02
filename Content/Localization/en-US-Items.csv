@@ -38,8 +38,8 @@ CommonItemTooltip.MinorStats,[c/ffff00:Minor sansprovements to all stats]
 #[ common : resource change ],<<-|-------------------------------|->>
 
 
-CommonItemTooltip.RestoresLife,[c/00ff00:+{0}HP]
-CommonItemTooltip.RestoresMana,[c/00ff00:+{0}TP]
+CommonItemTooltip.RestoresLife,[c/00ff00:+{0} HP]
+CommonItemTooltip.RestoresMana,[c/00ff00:+{0} TP]
 
 
 #[ common : item stats ],<<-|------------------------------------|->>

@@ -25,6 +25,9 @@ milestones:
   all items: <TBD>      # (Item_ + Coin_ + ItemFlame_)
   all particles: <TBD>  # (Gore_ + Dust.png)
 
+future ideas:
+  - Potions are condiments.
+
 boss todos:
   queen bee:
     # Reminder that all of these need have their own text entries
