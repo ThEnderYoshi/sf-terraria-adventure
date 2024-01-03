@@ -1,0 +1,69 @@
+Key,Translation
+
+
+#[ quest ],<<-|--------------------------------------------------|->>
+
+
+ItemName.Mudfish,Brickworm
+ItemTooltip.Mudfish,"'Caught in Toriel's House'"
+AnglerQuestText.Quest_Mudfish,"Blub blub
+(I swear I saw some Ruined Bricks swimming in the acid once! Can you get them for me? It had a really funny face and I wanna stare at it.)
+
+(Caught in Toriel's House)"
+
+ItemName.Catfish,Catboy Maidworm
+ItemTooltip.Catfish,"'Caught in Toriel's House, Sansface'"
+AnglerQuestText.Quest_Catfish,"Blub blub
+(I finally found Jerma in worm form, but the slippery rascal managed to escape my fins! Can you go get it back pleeeease?)
+
+(Caught in Toriel's House, Sansface)"
+
+ItemName.TropicalBarracuda,Moldworm
+ItemTooltip.TropicalBarracuda,"'Caught in Toriel's House, Sansface'"
+AnglerQuestText.Quest_TropicalBarracuda,"Blub blub
+(The poor worms that stay at Toriel's House for too long end up moldy. I kinda wanna see one up close, but I don't want to go there after... the last time...)
+
+(Caught in Toriel's House, Sansface)"
+
+ItemName.Derpfish,Kickworm
+ItemTooltip.Derpfish,"'Caught in Toriel's House, Sansface'"
+AnglerQuestText.Quest_Derpfish,"Blub blub
+(Y'know, the Jumplers always forget to tie their shoes, so they keep loosing 'em! Some worms use these lost shoes as a kind of defensive shell. Anyway, can you get me one of these worms? I could use a new pair of Kicks.)
+
+(Caught in Toriel's House, Sansface)"
+
+
+#[ crates ],<<-|-------------------------------------------------|->>
+
+
+ItemName.WoodenCrate,Lucky Block
+ItemTooltip.WoodenCrate,"{$CommonItemTooltip.RightClickToOpen}
+'Wow the name isn't even different huh'"
+
+ItemName.IronCrate,Sansy Block
+ItemTooltip.IronCrate,"{$CommonItemTooltip.RightClickToOpen}
+'Surprinsingly not rusted considering
+how long it's been in literal acid'"
+
+ItemName.GoldenCrate,Pappy Block
+ItemTooltip.GoldenCrate,"{$CommonItemTooltip.RightClickToOpen}
+'FUCK yes SIR, GG'"
+
+ItemName.JungleFishingCrate,Yucky Crate
+ItemTooltip.JungleFishingCrate,"{$CommonItemTooltip.RightClickToOpen}
+'Absolutely covered in Walpaper Mold'"
+
+
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+
+ItemName.DoubleCod,WormroW
+
+ItemName.NeonTetra,Raveworm
+ItemTooltip.NeonTetra,'YOOOOO look at this guy!'
+
+
+#[ misc ],<<-|---------------------------------------------------|->>
+
+
+ItemName.Bass,Tapeworm

@@ -31,6 +31,9 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Accessories:_ Compass, Adhesive Bandage
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice
+- _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
+  Derpfish
+- _Crates:_ Wooden, Iron, Gold, Jungle
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.

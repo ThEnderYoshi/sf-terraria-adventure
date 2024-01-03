@@ -3,6 +3,7 @@
 important:
   BEFORE UPDATE 2 RELEASES:
     - Add statues for all current enemies.
+    - Add Bramble Crate. (waiting on Temple)
 
 milestones:
   start:     2022-07-12
@@ -100,6 +101,7 @@ unfinished textures:
     - '227'         # Dye Plants.
     - '239'         # Bars.
     - '240/242'     # 3x3/6x4 paintings.
+    - '376'         # Placed Crates.
     - '380'         # Planter Boxes.
     - '497'         # Toilets.
   UI/Bestiary/:

@@ -46,8 +46,8 @@ Last updated: _{@p time @} UTC_
 <!--@region FileCount-->
 Last updated: _2024-01-02 UTC_
 
-- **1231** Images (**23%** of the way to the next update)
-- **3202** Text Entries
+- **1243** Images (**24%** of the way to the next update)
+- **3226** Text Entries
 - **17** Songs
 - **22** Sounds
 <!--@end-region-->
