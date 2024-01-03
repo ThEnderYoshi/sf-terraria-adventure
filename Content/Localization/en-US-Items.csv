@@ -574,18 +574,6 @@ ItemName.SuperHealingPotion,HP Potion NEO
 ItemName.BottledWater,Bottled Acid
 
 
-#[ food ],<<-|---------------------------------------------------|->>
-
-
-ItemTooltip.Spaghetti,"{$CommonItemTooltip.MajorStats}
-'Spaghetti! Spaghetti!? Spaghetti!?! Spaghetti!?!?'"
-
-ItemName.CoffeeCup,Human Energy Drink
-ItemTooltip.CoffeeCup,"{$CommonItemTooltip.MediumStats}
-'Gotta be careful with this one,
-they're weirdly protective of their IP'"
-
-
 #[ crafting stations ],<<-|--------------------------------------|->>
 
 

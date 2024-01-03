@@ -29,7 +29,8 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
 - _Furniture Sets:_ Rich Mahogany, Bamboo
 - _Accessories:_ Compass, Adhesive Bandage
-- _Food:_ Coffee Cup
+- _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
+  Apple, Apple Juice
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.

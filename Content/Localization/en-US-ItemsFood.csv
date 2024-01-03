@@ -1,0 +1,58 @@
+Key,Translation
+
+
+#[ purity ],<<-|-------------------------------------------------|->>
+
+
+ItemName.Apple,"Sans' Slipper"
+ItemTooltip.Apple,"{$CommonItemTooltip.MinorStats}
+'As in belonging to sans. Not to be confused with the Sans Slipper.'"
+
+ItemName.AppleJuice,Sans Syrup
+ItemTooltip.AppleJuice,"{$CommonItemTooltip.MinorStats}
+'Jam-packed with that iconically delicious Sans Fragrance™!'"
+
+
+#[ underground / caverns ],<<-|----------------------------------|->>
+
+
+ItemTooltip.Spaghetti,"{$CommonItemTooltip.MajorStats}
+'Spaghetti! Spaghetti!? Spaghetti!?! Spaghetti!?!?'"
+
+
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+
+ItemName.Grapes,Nike Slipper
+ItemTooltip.Grapes,"{$CommonItemTooltip.MediumStats}
+'Yo bro come over here, come over here!
+Check out my new shoes, they're the brand new
+1, 2, buckle my shoe ~
+3, 4, bucke some moooore ~
+5, 6, nike KICKS!
+Oohoohoohoo, that is so FIRE'"
+
+ItemName.GrapeJuice,Kick Punch
+ItemTooltip.GrapeJuice,"{$CommonItemTooltip.MajorStats}
+'Just a hit and it really gets
+you in that swingin' mood'"
+
+ItemName.CoffeeCup,Human Energy Drink
+ItemTooltip.CoffeeCup,"{$CommonItemTooltip.MediumStats}
+'Gotta be careful with this one,
+they're weirdly protective of their IP'"
+
+ItemName.Mango,Toriel Slipper
+ItemTooltip.Mango,"{$CommonItemTooltip.MinorStats}
+'Golly gee I sure hope this doesn't get modly!'"
+
+ItemName.Pineapple,Moldy Toriel Slipper
+ItemTooltip.Pineapple,"{$CommonItemTooltip.MinorStats}
+'Goddamnit it's moldy'"
+
+ItemName.TropicalSmoothie,Mold Juice
+ItemTooltip.TropicalSmoothie,"{$CommonItemTooltip.MinorStats}
+'Moist and delicious'"
+
+
+#[ misc ],<<-|---------------------------------------------------|->>

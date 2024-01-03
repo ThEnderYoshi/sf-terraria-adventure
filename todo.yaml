@@ -26,7 +26,12 @@ milestones:
   all particles: <TBD>  # (Gore_ + Dust.png)
 
 future ideas:
+  - Dreadnautilus -> Onionsans
+
+long-term notes:
   - Potions are condiments.
+  - Foods are slippers.
+  - Fishes are (happy) worms (parasites).
 
 boss todos:
   queen bee:
@@ -136,6 +141,24 @@ image sets:
     - <check for related items, etc.>
   Shadowflame Apparition:
     - Missing glow sprite.
+  Fruit: # Once these are done I should start spriting the fruit-based items.
+    - Missing apple.
+    - Missing apricot.
+    - Missing banana.
+    - Missing blackcurrant.
+    - Missing blood orange.
+    - Missing cherry.
+    - Missing coconut.
+    - Missing dragon fruit.
+    - Missing elderberry.
+    - Missing grapefruit.
+    - Missing lemon.
+    - Missing peach.
+    - Missing plum.
+    - Missing rambutan.
+    - Missing star fruit.
+    - Missing spicy pepper.
+    - Missing pomegranate.
 music notes:
   Boss 1:
     - Intro is repeated at the end, breaking the loop.
