@@ -101,6 +101,7 @@ unfinished textures:
     - '227'         # Dye Plants.
     - '239'         # Bars.
     - '240/242'     # 3x3/6x4 paintings.
+    - '245/246'     # 2x3/3x2 paintings.
     - '376'         # Placed Crates.
     - '380'         # Planter Boxes.
     - '497'         # Toilets.
@@ -144,7 +145,6 @@ image sets:
   Shadowflame Apparition:
     - Missing glow sprite.
   Fruit: # Once these are done I should start spriting the fruit-based items.
-    - Missing apple.
     - Missing apricot.
     - Missing banana.
     - Missing blackcurrant.

@@ -28,7 +28,6 @@ As the name implies, this is the update that retextures the Jungle biome.
   Rich Mahogany, Bamboo, Large Bamboo
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
 - _Furniture Sets:_ Rich Mahogany, Bamboo
-- _Accessories:_ Compass, Adhesive Bandage
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
@@ -58,6 +57,15 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 - _Yoyos:_ Amazon, Yelets
 - _Guns:_ Uzi
+
+### Tools
+
+- _Powders_: Purification Powder, Vile Powder, Vicious Powder
+
+### Accessories
+
+- _Info Display_: Compass
+- _Debuff Immunity_: Adhesive Bandage
 
 ### Changed
 

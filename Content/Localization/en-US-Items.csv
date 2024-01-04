@@ -530,6 +530,10 @@ ItemName.GoblinsPlayingPoker,The Fanfic
 ItemTooltip.GoblinsPlayingPoker,"By SansFanfic!Sans
 'Love wins'"
 
+ItemName.DoNotStepontheGrass,Days Gone By
+ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Era)'
+'Things used to be good'"
+
 
 #[ furniture : statues ],<<-|------------------------------------|->>
 
@@ -863,13 +867,17 @@ ItemTooltip.RopeCoil,"Throw to create a climbable line of {$ItemName.Rope}!"
 ItemName.RopeCoil,{$ItemName.Rope} Soil (sans coil)
 
 
-#[ tools ],<<-|--------------------------------------------------|->>
+#[ tools : bombs ],<<-|------------------------------------------|->>
 
 
 ItemName.Bomb,Spamton NutriNose™
 ItemTooltip.Bomb,"Provides delicious improvements to stats
 (do not blow into the nose)
 'Spamton NutriNose™: Try it inside your house!'"
+
+
+#[ tools : diggers ],<<-|----------------------------------------|->
+
 
 ItemName.WoodenHammer,Bad Thyme Sansmmer
 ItemName.BorealWoodHammer,Dense Thyme Sansmmer
@@ -925,15 +933,34 @@ ItemName.MeteorHamaxe,Planetarium Sansmmaxe
 ItemName.MoltenPickaxe,ShadowPick
 ItemName.MoltenHamaxe,BraveHamax
 
+
+#[ tools : misc ],<<-|----------------------------------------|->>
+
+
+ItemName.PurificationPowder,Sansing Powder
+ItemTooltip.PurificationPowder,"Spreads Sans Fanfic
+'It's like a mini Sahn's Ritual in a bag!'"
+
+ItemName.VilePowder,Luiging Powder
+ItemTooltip.VilePowder,"Spreads Luigi Fanfic
+'This isn't going to make things any better'"
+
+ItemName.ViciousPowder,Powder of War
+ItemTooltip.ViciousPowder,"Spreads the No San's Land
+'Why are you spreading war'"
+
 ItemName.EmptyBucket,Empty Jug
-ItemName.WaterBucket,Jug of Gastric Acid
-ItemName.LavaBucket,Jug of Dark'Ness
-ItemName.HoneyBucket,Jug of Battery Acid
 ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
+
+ItemName.WaterBucket,Jug of Gastric Acid
 ItemTooltip.WaterBucket,"Contains a small amount of gastric acid
 Can be sansed out"
+
+ItemName.LavaBucket,Jug of Dark'Ness
 ItemTooltip.LavaBucket,"Contains a small amount of dark'ness
 Can be sansed out"
+
+ItemName.HoneyBucket,Jug of Battery Acid
 ItemTooltip.HoneyBucket,"Contains a small amount of delicious battery acid
 Can be sansed out"
 

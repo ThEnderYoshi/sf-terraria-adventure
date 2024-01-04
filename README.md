@@ -5,7 +5,7 @@ aims to change _**every single**_ asset in the game
 to be themed around [_Sans Fanfic_].
 
 That mainly includes the game's **13,594** images and,
-to a lesser extent, over **27,000** text entries.
+to a lesser extent, **18,288** text entries.
 
 > ![info](.github/images/thyme.png)
 > You can find out more info on the [Forum Page].
@@ -44,10 +44,10 @@ Last updated: _{@p time @} UTC_
 - **{@p snd @}** Sounds
 @end-template-->
 <!--@region FileCount-->
-Last updated: _2024-01-02 UTC_
+Last updated: _2024-01-04 UTC_
 
-- **1243** Images (**24%** of the way to the next update)
-- **3226** Text Entries
+- **1251** Images (**25%** of the way to the next update)
+- **3237** Text Entries
 - **17** Songs
 - **22** Sounds
 <!--@end-region-->

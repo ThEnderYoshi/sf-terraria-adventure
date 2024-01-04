@@ -74,6 +74,14 @@ ProjectileName.Penguin,Pingus
 ProjectileName.ShadowMimic,Mini Goomb
 
 
+#[ friendly : tools ],<<-|---------------------------------------|->>
+
+
+ProjectileName.PurificationPowder,{$ItemName.PurificationPowder}
+ProjectileName.VilePowder,{$ItemName.VilePowder}
+ProjectileName.ViciousPowder,{$ItemName.ViciousPowder}
+
+
 #[ friendly : other ],<<-|---------------------------------------|->>
 
 
