@@ -632,6 +632,25 @@ ItemTooltip.LifeFruit,"+5 Max HP
 'Per-sans-verance'"
 
 
+#[ pylons ],<<-|-------------------------------------------------|->>
+
+
+ItemName.TeleportationPylonJungle,"Toriel's House Sanslon"
+ItemTooltip.TeleportationPylonJungle,"{$CommonItemTooltip.TeleportationPylon}
+[c/7f7f7f:------]
+""Every iteration of [c/ff0000:Sans Fanfic] requires an iteration of
+[c/0000ff:Toriel's House]. [...] Oddly, it seems the walpaper lining
+the [ B I G   S A N S ] in this iteration is a very aggressive fungus.""
+- WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
+
+ItemName.TeleportationPylonPurity,"Sansface Sanslon"
+ItemTooltip.TeleportationPylonPurity,"{$CommonItemTooltip.TeleportationPylon}
+[c/7f7f7f:------]
+""The Sansface (sans surface) is the sufrace of the [ B I G   S A N S ],
+and is the most common biome of [c/ff0000:Sans Fanfic] [...]""
+- WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
+
+
 #[ banners ],<<-|------------------------------------------------|->>
 
 
@@ -949,6 +968,14 @@ ItemName.ViciousPowder,Powder of War
 ItemTooltip.ViciousPowder,"Spreads the No San's Land
 'Why are you spreading war'"
 
+ItemName.DontHurtNatureBook,Little Guy That Tells You Not To Hurt Plants
+ItemTooltip.DontHurtNatureBook,"What it says on the tin
+<right> to trick into sleeping"
+
+ItemName.DontHurtNatureBookInactive,Little Guy That Tells You Not To Hurt Plants (sleeping)
+ItemTooltip.DontHurtNatureBookInactive,"What it says on the tin
+<right> to feel bad for tricking him and wake him up"
+
 ItemName.EmptyBucket,Empty Jug
 ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
 
@@ -1113,6 +1140,9 @@ ItemTooltip.OrnateShadowKey,"Sansmmons a Mini Goomb
 ItemName.TartarSauce,Head Band
 ItemTooltip.TartarSauce,"Sansmmons a Mini Ender
 'Worn by gamers of the highest caliber'"
+
+ItemName.TikiTotem,Sanssay (sans essay)
+ItemTooltip.TikiTotem,"Summons Sans (not the Man, but the Idea)"
 
 
 #[ dungeon defenders 2 ],<<-|------------------------------------|->>

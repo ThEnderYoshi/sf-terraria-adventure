@@ -1,6 +1,28 @@
 Key,Translation
 
 
+#[ summoner ],<<-|-----------------------------------------------|->>
+
+
+ItemName.HerculesBeetle,Drip Snail
+ItemTooltip.HerculesBeetle,"+15% sansmonner DMG
++sansmonner KB"
+
+
+#[ wings ],<<-|--------------------------------------------------|->>
+
+
+ItemName.LeafWings,Artificial Loominal 'Stache
+ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'Articial enhancements cause this
+'stache to be severely powered up'"
+
+#comment,Not completely removing this because the idea is neat.
+# ItemName.LeafWings,Ruined Cape
+# ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}
+# 'It has a faded Delta Rune on it'"
+
+
 #[ tree : stat display ],<<-|------------------------------------|->>
 
 

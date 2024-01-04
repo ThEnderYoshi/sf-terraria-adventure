@@ -53,6 +53,7 @@ unfinished textures:
   Extra_:
     - '48'          # See !chat bubbles.ase
     - '54'          # Equipment slot icons.
+    - '181/182'     # Pylon Crystals/Map Icons.
   Flame_:
     - '0'           # See Flame_0.ase
     - '1'           # See Flame_1.ase

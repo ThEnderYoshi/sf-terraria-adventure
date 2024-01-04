@@ -38,7 +38,7 @@ BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
 
 
 BuffName.Frozen,[c/e9581c:Snowgraved]
-BuffDescription.Frozen,"Certified Snowgrave moment"
+BuffDescription.Frozen,"THIS IS A CERTIFIED SNOWGRAVE MOMENT"
 
 BuffName.Bleeding,[c/e9581c:Rapid Growth]
 BuffDescription.Bleeding,"Your body is spending too many resources growing new organs; HP regen disabled"
@@ -65,6 +65,9 @@ BuffDescription.MiniMinotaur,":/ Trying to make a change"
 
 BuffName.ShadowMimic,[c/ffc700:Mini Goomb]
 BuffDescription.ShadowMimic,"Time to take a piss"
+
+BuffName.TikiSpirit,[c/ffc700:Sans the Idea]
+BuffDescription.TikiSpirit,"Sans has been on your mind lately"
 
 
 #[ mounts ],<<-|-------------------------------------------------|->>

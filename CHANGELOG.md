@@ -13,6 +13,7 @@ or already have some content done for it.
 
 - The Desert/Snow Update
 - The Sky/Underground Update
+- The Corruption/Crimson Update
 - The Dungeon Update
 - The Player Update
 
@@ -28,6 +29,7 @@ As the name implies, this is the update that retextures the Jungle biome.
   Rich Mahogany, Bamboo, Large Bamboo
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
 - _Furniture Sets:_ Rich Mahogany, Bamboo
+- _Pylons:_ Forest, Jungle
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
@@ -40,6 +42,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Moonglow (plus seeds and planter box)
 - Sky Blue Dye/Flower
 - Honey.
+- Guide to Environmental Preservation
 
 #### NPCs
 
@@ -64,8 +67,11 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 ### Accessories
 
-- _Info Display_: Compass
-- _Debuff Immunity_: Adhesive Bandage
+- _Summoner:_ Hercules Beetle
+- _Info Display:_ Compass
+- _Debuff Immunity:_ Adhesive Bandage
+- _Wings:_ Leaf Wings
+- _Pets:_ Tiki Totem
 
 ### Changed
 
