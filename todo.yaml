@@ -95,6 +95,7 @@ unfinished textures:
     - '104'         # Grandfather Clocks.
     - '105'         # Statues.
     - '109'         # Hallowed Grass. Still based on Card Kingdom instead of Cyber World.
+    - '139'         # Placed Music Boxes.
     - '165'         # Stalactites/stalagmites.
     - '172'         # Sinks.
     - '185'         # Debree. Also check for tiles placed by Rubblemaker.
@@ -106,6 +107,7 @@ unfinished textures:
     - '376'         # Placed Crates.
     - '380'         # Planter Boxes.
     - '497'         # Toilets.
+    - '597'         # Pylon bases.
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'
 reconsider:
