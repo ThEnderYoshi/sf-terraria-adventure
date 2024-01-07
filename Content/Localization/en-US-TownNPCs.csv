@@ -1,11 +1,19 @@
 Key,Translation
 
 
+#[ global ],<<-|-------------------------------------------------|->>
+
+
+Game.NPCTitle,{1}{0}
+
+
 #[ guide ],<<-|--------------------------------------------------|->>
 
 
 NPCName.Guide,Classic!
-Bestiary_FlavorText.npc_Guide,"Good ol' classic Sans. He's always there to help a pal out."
+Bestiary_FlavorText.npc_Guide,"Sans by Toby Fox
+
+Good ol' classic Sans. He's always there to help a pal out."
 
 GuideNames.Andrew,Sans
 GuideNames.Asher,Sans
@@ -48,7 +56,9 @@ GuideNames.Zach,Sans
 
 
 NPCName.Merchant,Koridai!
-Bestiary_FlavorText.npc_Merchant,"The lovable merchant from a distant land. He'll sell you anything, as long as you've got enoguh RUBIES!"
+Bestiary_FlavorText.npc_Merchant,"(Original Sans)
+
+The lovable merchant from a distant land. He'll sell you anything, as long as you've got enoguh RUBIES!"
 
 MerchantNames.Alfred,Sans
 MerchantNames.Barney,Sans
@@ -79,7 +89,9 @@ MerchantNames.Wilbur,Morshans
 
 
 NPCName.Nurse,Medic!
-Bestiary_FlavorText.npc_Nurse,"The medic guy. Yeah, that's it."
+Bestiary_FlavorText.npc_Nurse,"(Original Sans - likely to change)
+
+The medic guy. Yeah, that's it."
 
 NurseNames.Abigail,Sans
 NurseNames.Allison,Sans
@@ -111,7 +123,9 @@ NurseNames.Molly,Sans
 
 
 NPCName.Demolitionist,Bomb!
-Bestiary_FlavorText.npc_Demolitionist,"His explosive personality and witty jokes are sure to make you forget the fact he's insecure about his height."
+Bestiary_FlavorText.npc_Demolitionist,"(Original Sans - likely to change)
+
+His explosive personality and witty jokes are sure to make you forget the fact he's insecure about his height."
 
 DemolitionistNames.Bazdin,Sans
 DemolitionistNames.Beldin,Sans
@@ -140,15 +154,17 @@ DemolitionistNames.Urist,Sans
 #[ dye trader ],<<-|---------------------------------------------|->>
 
 
-NPCName.DyeTrader,Ink!
-Bestiary_FlavorText.npc_DyeTrader,"The morally dubious creator of many AUs, he loves to check out newly-made ones."
+# NPCName.DyeTrader,Ink!
+# Bestiary_FlavorText.npc_DyeTrader,"The morally dubious creator of many AUs, he loves to check out newly-made ones."
 
 
 #[ angler ],<<-|-------------------------------------------------|->>
 
 
 NPCName.Angler,Fish!
-Bestiary_FlavorText.npc_Angler,"Can you believe it!? Sans is a FISH!? WTF!?"
+Bestiary_FlavorText.npc_Angler,"(Original Sans)
+
+Can you believe it!? Sans is a FISH!? WTF!?"
 
 AnglerNames.Adam,Adam Sansler
 AnglerNames.Bart,Sans
@@ -177,7 +193,9 @@ AnglerNames.Tyler,Sans
 
 
 NPCName.BestiaryGirl,Fur!
-Bestiary_FlavorText.npc_BestiaryGirl,"Sans, but as a furry. Wait, aren't the Undertale characters already furries?"
+Bestiary_FlavorText.npc_BestiaryGirl,"(Original Sans)
+
+Sans, but as a furry. Wait, aren't the Undertale characters already... whatever."
 
 BestiaryGirlNames.Name_1,Sans
 BestiaryGirlNames.Name_2,Sans
@@ -205,7 +223,9 @@ BestiaryGirlNames.Name_20,Sans
 
 
 NPCName.Dryad,"Possessed "
-Bestiary_FlavorText.npc_Dryad,"This Sans is really only possessed in name. Flowey is there, sure, but Sans just doesn't seem to be affected. This is mildly akward for both parties."
+Bestiary_FlavorText.npc_Dryad,"Possessed Sans by Jitterz (https://jitterzart.tumblr.com/)
+
+This Sans is really only possessed in name. Flowey is there, sure, but Sans just doesn't seem to be affected. This is mildly akward for both parties."
 
 DryadNames.Alalia,Sans
 DryadNames.Alura,Sans
@@ -233,15 +253,38 @@ DryadNames.Xylia,Sans
 #[ painter ],<<-|------------------------------------------------|->>
 
 
-NPCName.Painter,other Ink!
-Bestiary_FlavorText.npc_Painter,"Wait what theres another one"
+NPCName.Painter,Ink!
+Bestiary_FlavorText.npc_Painter,"Ink!Sans by Comyet (https://comyet.tumblr.com)
+
+The guardian of Undertale's countless AUs, Ink!Sans has noticed your efforts in stopping the spread of Sans Fanfic and is here to support you!"
+
+PainterNames.Bruno,Sans
+PainterNames.Carlo,Sans
+PainterNames.Darren,Sans
+PainterNames.Enzo,Sans
+PainterNames.Esreadel,Sans
+PainterNames.Guido,Sans
+PainterNames.Leonardo,Sans
+PainterNames.Lorenzo,Sans
+PainterNames.Luca,Sans
+PainterNames.Luciano,Sans
+PainterNames.Ludo,Sans
+PainterNames.Luigi,Sans
+PainterNames.Marco,Sans
+PainterNames.Mario,Sans
+PainterNames.Martino,Sans
+PainterNames.Mauro,Sans
+PainterNames.Raphael,Sans
+PainterNames.Stefano,Sans
 
 
 #[ golfer ],<<-|-------------------------------------------------|->>
 
 
 NPCName.Golfer,Sport!
-Bestiary_FlavorText.npc_Golfer,"Of course the sports version of Sans would pick the laziest sport of all: GOLF."
+Bestiary_FlavorText.npc_Golfer,"(Unknown authorship - please contact me)
+
+Of course the sports version of Sans would pick the laziest sport of all: GOLF."
 
 GolferNames.Name_1,Sans
 GolferNames.Name_2,Sans
@@ -256,8 +299,10 @@ GolferNames.Name_8,Sans
 #[ arms dealer ],<<-|--------------------------------------------|->>
 
 
-NPCName.ArmsDealer,Sudden Changes!
-Bestiary_FlavorText.npc_ArmsDealer,"A sans created from countless consecutive resets, in a destabilized timeline."
+NPCName.ArmsDealer,SC!
+Bestiary_FlavorText.npc_ArmsDealer,"SC!Sans by Leo (https://ut-sudden-changes.tumblr.com)
+
+A sans created from countless consecutive resets, in a destabilized timeline."
 
 ArmsDealerNames.Andre,Sans
 ArmsDealerNames.Brimst,Sans
@@ -288,7 +333,9 @@ ArmsDealerNames.Xavier,Sans
 #[ tavernkeep ],<<-|---------------------------------------------|->>
 
 NPCName.DD2Bartender,Punished!
-Bestiary_FlavorText.npc_DD2Bartender,"A loogie, for once! He was banished from Luigi Fanfic for going to the Timeout Corner. If you take a good whiff, you can smell the Brand he recieved."
+Bestiary_FlavorText.npc_DD2Bartender,"(Original Loogie)
+
+A loogie, for once! He was banished from Luigi Fanfic for going to the Timeout Corner. If you take a good whiff, you can smell the Brand he recieved."
 
 BartenderNames.Name_1,Loogie
 BartenderNames.Name_2,Loogie
@@ -312,7 +359,9 @@ BartenderNames.Name_16,Loogie
 
 
 NPCName.Stylist,Fashion!
-Bestiary_FlavorText.npc_Stylist,"The most fashionable of all sanses."
+Bestiary_FlavorText.npc_Stylist,"(Original Sans - likely to change)
+
+The most fashionable of all sanses."
 
 StylistNames.Annabel,Sans
 StylistNames.Biah,Sans
@@ -346,7 +395,9 @@ NPCName.PartyGirl,Fresh!
 
 
 NPCName.GoblinTinkerer,Nerd!
-Bestiary_FlavorText.npc_GoblinTinkerer,"The one friendly lnik. He never liked those jock Lniks, with their bows, and swords... UGH! Sanses are all smart scientists, so he just fits right in!"
+Bestiary_FlavorText.npc_GoblinTinkerer,"(Original Lnik)
+
+The one friendly lnik. He never liked those jock Lniks, with their bows, and swords... UGH! Sanses are all smart scientists, so he just fits right in!"
 
 GoblinTinkererNames.Arback,Lnik
 GoblinTinkererNames.Dalek,Lnik
@@ -378,18 +429,18 @@ GoblinTinkererNames.Xon,Lnik
 #[ witch doctor ],<<-|-------------------------------------------|->>
 
 
-NPCName.WitchDoctor,other Fur!
+# NPCName.WitchDoctor,other Fur!
 
-WitchDoctorNames.Abibe,Sans
-WitchDoctorNames.Gboto,Sans
-WitchDoctorNames.Jamundi,Sans
-WitchDoctorNames.Kogi-ghi,Sans
-WitchDoctorNames.Konah,Sans
-WitchDoctorNames.Opuni,Sans
-WitchDoctorNames.Tairona,Sans
-WitchDoctorNames.U'wa,Sans
-WitchDoctorNames.Xirigua,Sans
-WitchDoctorNames.Zop'a,Sans
+# WitchDoctorNames.Abibe,Sans
+# WitchDoctorNames.Gboto,Sans
+# WitchDoctorNames.Jamundi,Sans
+# WitchDoctorNames.Kogi-ghi,Sans
+# WitchDoctorNames.Konah,Sans
+# WitchDoctorNames.Opuni,Sans
+# WitchDoctorNames.Tairona,Sans
+# WitchDoctorNames.U'wa,Sans
+# WitchDoctorNames.Xirigua,Sans
+# WitchDoctorNames.Zop'a,Sans
 
 
 #[ clothier ],<<-|-----------------------------------------------|->>
@@ -460,6 +511,9 @@ MechanicNames.Trisha,Gaster
 
 
 NPCName.TaxCollector,Fell!
+Bestiary_FlavorText.npc_TaxCollector,"Fell!Sans by Underfella (https://underfell.tumblr.com)
+
+Hailing from a world where the Human-Monster War drove the monsters crazy, this Sans is not to be messed with! He'll give you some chump change he bullied out of the other Sanses if it means you'll leave him alone though."
 
 TaxCollectorNames.Agnew,Sans
 TaxCollectorNames.Blanton,Sans
@@ -486,6 +540,7 @@ TaxCollectorNames.Woodrow,Sansy UwU
 
 
 NPCName.Wizard,StorySwap!
+Bestiary_FlavorText.npc_Wizard,"(Unknown authorship - please contact me)"
 
 WizardNames.Abram,Sans
 WizardNames.Alasdair,Sans
@@ -515,6 +570,7 @@ WizardNames.Xanadu,Sans
 
 
 NPCName.Pirate,Sail!
+Bestiary_FlavorText.npc_Pirate,"(Unknown authorship - please contact me)"
 
 PirateNames.Black Beard,Sans
 PirateNames.Captain Bullywort,Sans
@@ -541,6 +597,7 @@ NPCName.Steampunker,""
 
 
 NPCName.Cyborg,MTT!
+Bestiary_FlavorText.npc_Cyborg,"<insert AU where sans is a robot> by <insert whoever made that AU>"
 
 CyborgNames.A.N.D.Y.,S.A.N.S.
 CyborgNames.Alpha,Sans
@@ -570,6 +627,7 @@ CyborgNames.Zeta,Sans
 
 
 NPCName.Truffle,Error!
+Bestiary_FlavorText.npc_Truffle,"Error!Sans by Crayon Queen (https://loverofpiggies.tumblr.com)"
 
 TruffleNames.Agaric,Sans
 TruffleNames.Amanita,Sans
@@ -595,6 +653,7 @@ NPCName.Princess,Swap!
 
 
 NPCName.SantaClaus,Jolly!
+Bestiary_FlavorText.npc_SantaClaus,"Jolly!Sans by the Catholic Church"
 
 
 #[ skeleton merchant ],<<-|--------------------------------------|->>
@@ -607,6 +666,7 @@ NPCName.SkeletonMerchant,"Lorekeeper "
 
 
 NPCName.TravellingMerchant,[nutDealeR]!
+Bestiary_FlavorText.npc_TravellingMerchant,"SPAMTON G. SPAMTON BY [sloppy] FOX"
 
 TravelingMerchantNames.Abraham,SPAMTON
 TravelingMerchantNames.Aedan,SPAMTON

@@ -1,6 +1,19 @@
 Key,Translation
 
 
+#[ paint : standard ],<<-|---------------------------------------|->>
+
+
+ItemName.SkyBluePaint,Baby Blue Vial
+
+
+#[ paint : deep ],<<-|-------------------------------------------|->>
+
+
+ItemName.DeepSkyBluePaint,"Vibrant {$ItemName.SkyBluePaint}"
+
+
+#[ paint : special / coatings ],<<-|-----------------------------|->>
 #[ dyes ],<<-|---------------------------------------------------|->>
 
 
@@ -19,6 +32,4 @@ ItemTooltip.SkyBlueFlower,"Its pigment can be extracted"
 
 #( placeholder : string ),String
 ItemName.SkyBlueString,Baby Blue String
-
-
 #[ misc. ],<<-|--------------------------------------------------|->>

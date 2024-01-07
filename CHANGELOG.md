@@ -40,12 +40,13 @@ As the name implies, this is the update that retextures the Jungle biome.
   Enemies with these banners now all properly have names and bestiary entries.
 - The "Spampton NutriNose&trade;"
 - Moonglow (plus seeds and planter box)
-- Sky Blue Dye/Flower
+- Sky Blue Dye/Paint/Flower
 - Honey.
 - Guide to Environmental Preservation
 
 #### NPCs
 
+- _Town NPCs:_ Painter
 - _Jungle:_ Jungle Slime, Jungle Bat, Piranha, Derpling, Giant Tortoise
 - _Underground:_ Cave/Giant Bat
 
@@ -54,15 +55,17 @@ As the name implies, this is the update that retextures the Jungle biome.
 (Equipped armor GFX will not be part of the pack for a good while)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle
-- _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose
+- _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap
 
 #### Weapons
 
 - _Yoyos:_ Amazon, Yelets
-- _Guns:_ Uzi
+- _Guns:_ Uzi, Paintball Gun
 
 ### Tools
 
+- _Painting_: Paintbrush (+ spectral), Paint Roller (+ spectral),
+  Paint Scraper (+ spectral)
 - _Powders_: Purification Powder, Vile Powder, Vicious Powder
 
 ### Accessories

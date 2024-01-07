@@ -186,6 +186,7 @@ text placeholders:
     - plantera
     - melee
     - string
+    - moss
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.

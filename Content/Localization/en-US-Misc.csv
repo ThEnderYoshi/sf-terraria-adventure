@@ -58,7 +58,6 @@ Controls.RightClick,Mouse II
 
 Game.DroppedCoins,"Don't lose hope! (But you did lose: {0})"
 
-Game.NPCTitle,{1}!{0}
 Game.PlayerDeathTime,{0}'s behind was kicked {1} ago.
 
 Game.RespawnInSuffix,"{0}. Hold yer horses"

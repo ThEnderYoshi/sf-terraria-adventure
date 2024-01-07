@@ -895,6 +895,33 @@ ItemTooltip.Bomb,"Provides delicious improvements to stats
 'Spamton NutriNose™: Try it inside your house!'"
 
 
+#[ tools : painters ],<<-|---------------------------------------|->
+
+
+ItemName.Paintbrush,Inky Pencil
+ItemTooltip.Paintbrush,"Paints socks (sans blocks) using color vials"
+
+ItemName.PaintRoller,Inky Marker
+ItemTooltip.PaintRoller,"Paints salls (sans walls) using color vials"
+
+ItemName.PaintScraper,Inky Eraser
+#( placeholder : moss ),moss
+ItemTooltip.PaintScraper,"Removes color and scrapes moss"
+
+ItemName.SpectrePaintbrush,Ink's Pencil
+ItemTooltip.SpectrePaintbrush,"{$ItemName.Paintbrush}
+'Can you believe this once belonged to Ink?'"
+
+ItemName.SpectrePaintRoller,Ink's Marker
+ItemTooltip.SpectrePaintRoller,"{$ItemName.PaintRoller}
+'Can you believe this once belonged to Ink???'"
+
+ItemName.SpectrePaintScraper,Ink's Eraser
+ItemTooltip.SpectrePaintScraper,"{$ItemName.PaintScraper}
+'Do you actually believe this once belonged to Ink???'"
+
+
+
 #[ tools : diggers ],<<-|----------------------------------------|->
 
 
@@ -990,140 +1017,6 @@ Can be sansed out"
 ItemName.HoneyBucket,Jug of Battery Acid
 ItemTooltip.HoneyBucket,"Contains a small amount of delicious battery acid
 Can be sansed out"
-
-
-#[ weapons : mage ],<<-|-----------------------------------------|->>
-
-
-ItemName.WandofSparking,Robot Leg
-ItemTooltip.WandofSparking,"'Looks broken, but might be of use'"
-
-ItemName.Vilethorn,Extendo-Clam
-ItemTooltip.Vilethorn,"Sansmmons a ""Rocket"" Clam"
-
-ItemName.Flamelash,BurningIceStaff
-ItemTooltip.Flamelash,"Sansmmons a controllable block of burning ice
-'HOW'"
-
-ItemName.SpaceGun,Solar Harvester
-
-
-#[ weapons : melee ],<<-|----------------------------------------|->>
-
-
-ItemName.WoodenBoomerang,Thyme Leaf Scarf
-ItemName.Flamarang,Ragger
-
-ItemName.Spear,Lost Spear
-ItemName.TheRottedFork,Spear of Patience
-
-ItemName.DayBreak,Bergentrücker
-ItemTooltip.DayBreak,"'It'll be like a day at the dentist'"
-
-ItemName.Mace,Sansce (sans mace)
-ItemTooltip.Mace,"'Not to be confused with Sance (sans FENCE)'"
-
-ItemName.FlamingMace,Fell!Sansce
-ItemTooltip.FlamingMace,"Lighs enemies ablaze using its evil sansnergies"
-
-ItemName.BallOHurt,Undertoad!Sansce
-ItemName.TheMeatball,Bundle o' Bones
-ItemName.BlueMoon,Sansce Seraph
-ItemName.Sunfury,Lower!Sansce
-
-ItemName.CopperShortsword,Gastter Rapier
-ItemName.TinShortsword,Gastin Rapier
-ItemName.IronShortsword,Iriel Rapier
-ItemName.LeadShortsword,Toriad Rapier
-ItemName.SilverShortsword,Sansver Rapier
-ItemName.TungstenShortsword,Tungsans Rapier
-ItemName.GoldShortsword,Papyld Rapier
-ItemName.PlatinumShortsword,Papynum Rapier
-ItemName.Umbrella,Sansbrella
-
-ItemName.WoodenSword,Bad Thyme Swans (sword sans)
-ItemName.BorealWoodSword,Dense Thyme Swans (sword sans)
-ItemName.EbonwoodSword,Better Cauli Swans (sword sans)
-ItemName.CactusSword,Petri-Poker
-
-ItemName.CopperBroadsword,Gastter Broadswans
-ItemName.TinBroadsword,Gastin Broadswans
-ItemName.IronBroadsword,Iriel Broadswans
-ItemName.LeadBroadsword,Toriad Boradswans
-ItemName.SilverBroadsword,Sansver Broadswans
-ItemName.TungstenBroadsword,Tungsans Broadswans
-ItemName.GoldBroadsword,Papyld Boradswyrus
-ItemName.PlatinumBroadsword,Papynum Broadswyrus
-
-ItemName.Starfury,Chaos Blade
-ItemTooltip.Starfury,"Blazes stars right out of the skans
-'Once wielded by a god, now in your hands'"
-
-ItemName.LightsBane,Sans' Bane
-ItemName.BloodButcherer,Justicemaker
-
-ItemName.FieryGreatsword,TwistedSword
-ItemTooltip.FieryGreatsword,'It's... kind of scary...'
-
-ItemName.Meowmere,Dogsword
-ItemName.StarWrath,Chaos Saber
-ItemTooltip.StarWrath,"Brings forth a starstorm unlike any other"
-
-ItemName.WoodYoyo,ThEYEme (thyme eye)
-ItemName.CorruptYoyo,Dreamy Eye
-ItemName.CrimsonYoyo,Eye of the War
-ItemName.JungleYoyo,EYEriel
-ItemName.Cascade,Sanscade
-ItemName.Yelets,Eye of the GOAT
-
-
-#[ weapons : ranged ],<<-|---------------------------------------|->>
-
-
-ItemName.WoodenBow,Bad Bhyme Bow
-ItemName.BorealWoodBow,Dense Thyme Bow
-ItemName.EbonwoodBow,Better Cauli Bow
-
-ItemName.CopperBow,Gastter Bow
-ItemName.TinBow,Gastin Bow
-ItemName.IronBow,Iriel Bow
-ItemName.LeadBow,Toriad Bow
-ItemName.SilverBow,Sansver Bow
-ItemName.TungstenBow,Tungsans Bow
-ItemName.GoldBow,Papyld Bow
-ItemName.PlatinumBow,Papynum Bow
-
-ItemName.DemonBow,Stache Scorcher
-
-ItemName.MoltenFury,SpiralBow
-ItemTooltip.MoltenFury,"Sets Bad Thyme Sansrrows on fire"
-
-ItemName.TendonBow,Funny Bone
-
-ItemName.Musket,Bad Bird-Omen
-ItemName.TheUndertaker,Sudden Justice
-ItemName.Handgun,GUN
-ItemName.PhoenixBlaster,SuperGUN
-ItemName.Uzi,Suzi
-
-ItemTooltip.Uzi,"'Oh look it's my neighbor'"
-
-ItemName.Shuriken,Sansriken
-ItemName.ThrowingKnife,Hateful Knife
-
-ItemName.Blowpipe,Petri-Pipe
-ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo"
-ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}"
-
-
-#[ weapons : summoner ],<<-|-------------------------------------|->>
-
-
-ItemName.FlinxStaff,Stable Saff (Sans Staff)
-ItemTooltip.FlinxStaff,"Sansmmons a stable symmetric Sans to protect you"
-
-ItemName.ImpStaff,CookieStaff
-ItemTooltip.ImpStaff,"Sansmmons a round boy to protect you"
 
 
 #[ pets ],<<-|---------------------------------------------------|->>
