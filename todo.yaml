@@ -2,6 +2,7 @@
 
 important:
   BEFORE UPDATE 2 RELEASES:
+    - Add Surface Jungle backgrounds.
     - Add statues for all current enemies.
     - Add Bramble Crate. (waiting on Temple)
     - Add Witch Doctor. (waiting on Temple)
@@ -97,7 +98,6 @@ unfinished textures:
     - '34'          # Chandelier.
     - '35'          # Lanterns.
     - '61'          # Natural jungle plants + jungle rose + jungle spores + nature's gift.
-    - '74'          # Natural jungle tall plants/flowers.
     - '79'          # Beds.
     - '80'          # Cacti.
     - '81/82/83'    # Herbs. See also: Tiles_380
