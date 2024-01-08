@@ -70,8 +70,14 @@ ItemTooltip.ObsidianRose,"[c/00ff00:DMG from Dark'ness ↘]
 #[ tree : ankh shield ],<<-|-------------------------------------|->>
 
 
+ItemName.Bezoar,Exorcism Cross
+ItemTooltip.Bezoar,"Prevents you from getting Spook'd"
+
 ItemName.AdhesiveBandage,Snake Oil
 ItemTooltip.AdhesiveBandage,"Stops Rapid Growth (I swear)"
+
+ItemName.MedicatedBandage,Ghost Oil
+ItemTooltip.MedicatedBandage,"Prevents Spook'd and Rapid Growth"
 
 
 #[ vanity ],<<-|-------------------------------------------------|->>

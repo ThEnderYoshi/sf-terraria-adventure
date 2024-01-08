@@ -112,4 +112,10 @@ ProjectileName.IceSpike,Fractured Bone
 ProjectileName.HarpyFeather,Blaster Rider Feather
 
 
+#[ hostile : jungle ],<<-|---------------------------------------|->>
+
+
+ProjectileName.Stinger,Gohst Ball
+
+
 #[  ],<<-|-------------------------------------------------------|->>

@@ -111,6 +111,17 @@ NPCName.GiantFlyingFox,Stage 7 Molddoo
 NPCName.AnglerFish,Worm from the String
 
 
+#[ underground jungle ],<<-|-------------------------------------|->>
+
+
+NPCName.Hornet,Gohst
+# NPCName.HornetFatty,Boxy Gohst
+NPCName.HornetHoney,Motherly Gohst
+NPCName.HornetLeafy,Sansy Gohst
+NPCName.HornetSpikey,Spinny Gohst
+NPCName.HornetStingy,Bitey Gohst
+
+
 #[ corruption ],<<-|---------------------------------------------|->>
 
 

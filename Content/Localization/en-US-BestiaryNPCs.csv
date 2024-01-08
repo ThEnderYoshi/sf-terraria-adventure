@@ -7,6 +7,8 @@ CommonBestiaryFlavor.DemonEye,"Created by a powerful Sans, these little prankste
 CommonBestiaryFlavor.Skeleton,"Sanses that get lost in the Sansverns eventually go insane. Jealous, they attack those who've yet to join their ranks."
 CommonBestiaryFlavor.Zombie,"These nocturnal pranksters are here to mess you up! "
 
+CommonBestiaryFlavor.Hornet,"How odd. A ghost, and not a particularly sansular one. "
+
 CommonBestiaryFlavor.GoldCritter,"
 (COOL VARIANT: It may be hard to spot, but some critters are cooler than others!)"
 
@@ -85,6 +87,16 @@ Bestiary_FlavorText.npc_Derpling,"These guys may be wacky, but they're formidabl
 Bestiary_FlavorText.npc_GiantTortoise,"Loogie survey drones sent to look for something in Toriel's House. Just what are they planning to do down there?"
 Bestiary_FlavorText.npc_GiantFlyingFox,"Molddoos that have spent a long time in Toriel's House, empowered by the darker, yet darker energies. This form truly is Terminal."
 Bestiary_FlavorText.npc_AnglerFish,"What a pathetic, miserable excuse of a living being. You might as well just put it out of its misery."
+
+
+#[ underground jungle ],<<-|-------------------------------------|->>
+
+Bestiary_FlavorText.npc_Hornet,"{$CommonBestiaryFlavor.Hornet}Who could be creating these?"
+Bestiary_FlavorText.npc_HornetFatty,"{$CommonBestiaryFlavor.Hornet}Someone told this Gohst to ""be there or be square."""
+Bestiary_FlavorText.npc_HornetHoney,"{$CommonBestiaryFlavor.Hornet}This one resembles a Toriel, but there's no sign of a Mold infection. How strange."
+Bestiary_FlavorText.npc_HornetLeafy,"How odd. A ghost, and not a particularly sansu-- Wait this one's pretty sansular actually. Nevermind!"
+Bestiary_FlavorText.npc_HornetSpikey,"Speen."
+Bestiary_FlavorText.npc_HornetStingy,"{$CommonBestiaryFlavor.Hornet}These ones seem to have a particular appetite for human (and monster) flesh."
 
 
 #[ surface ],<<-|------------------------------------------------|->>

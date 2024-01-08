@@ -43,18 +43,21 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Sky Blue Dye/Paint/Flower
 - Honey.
 - Guide to Environmental Preservation
+- Stinger
 
 #### NPCs
 
 - _Town NPCs:_ Painter
-- _Jungle:_ Jungle Slime, Jungle Bat, Piranha, Derpling, Giant Tortoise
+- _Jungle:_ Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
+  Giant Tortoise, Hornet, Man Eater
 - _Underground:_ Cave/Giant Bat
 
 #### Armors
 
 (Equipped armor GFX will not be part of the pack for a good while)
 
-- _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle
+- _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
+  Ancient Cobalt
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap
 
 #### Weapons

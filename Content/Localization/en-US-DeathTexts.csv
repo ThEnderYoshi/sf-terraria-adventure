@@ -1,0 +1,30 @@
+Key,Translation
+
+
+#[ sources ],<<-|------------------------------------------------|->>
+
+
+DeathSource.NPC,"{0} thanks to {1}"
+DeathSource.Player,"{0}. Blame {1} and their {2}"
+DeathSource.Projectile,"{0} because of {1}"
+
+
+#[ from debuff ],<<-|--------------------------------------------|->>
+
+
+DeathText.Poisoned,"{0} was simply too scared."
+
+
+#[ world ],<<-|--------------------------------------------------|->>
+
+
+DeathText.Lava_1,"{0} succumbed to the dark'ness."
+DeathText.Lava_2,"{0} is about to write Entry 17."
+DeathText.Lava_3,"{0} became dark, darker, yet darker."
+DeathText.Lava_4,"{0} just met Dess."
+
+
+#[ misc. ],<<-|--------------------------------------------------|->>
+
+
+DeathText.Default,"{0}!"

@@ -1,0 +1,171 @@
+Key,Translation
+
+
+#[ slimes ],<<-|-------------------------------------------------|->>
+
+
+ItemName.SlimeBanner,Slans Sansnner
+ItemName.GreenSlimeBanner,Normal Slans Sansnner
+ItemName.PinkyBanner,Slansy UwU Sansnner
+
+ItemName.RedSlimeBanner,Default Slans Sansnner
+ItemName.YellowSlimeBanner,Average Slans Sansnner
+ItemName.BlackSlimeBanner,Regular Slans Sansnner
+ItemName.MotherSlimeBanner,Ninja Slans Sansnner
+
+ItemName.CorruptSlimeBanner,Sloomba Sansnner
+ItemName.SlimerBanner,One-Wingled Sloomba Sansnner
+
+ItemName.LavaSlimeBanner,Fell!Slans Sansnner
+
+ItemName.JungleSlimeBanner,Moldy Slans Sansnner
+
+ItemName.IceSlimeBanner,Snansy Slans Sansnner
+ItemName.SpikedIceSlimeBanner,Hyperslans Sansnner
+
+ItemTooltip.SlimeBanner,"{$CommonItemTooltip.BannerBonus}Slanses"
+ItemTooltip.GreenSlimeBanner,"{$CommonItemTooltip.BannerBonus}Normal Slanses"
+ItemTooltip.PinkyBanner,"{$CommonItemTooltip.BannerBonus}Slansies (UwU)"
+
+ItemTooltip.RedSlimeBanner,"{$CommonItemTooltip.BannerBonus}Default Slanses"
+ItemTooltip.YellowSlimeBanner,"{$CommonItemTooltip.BannerBonus}Average Slanses"
+ItemTooltip.BlackSlimeBanner,"{$CommonItemTooltip.BannerBonus}Regular Slanses"
+ItemTooltip.MotherSlimeBanner,"{$CommonItemTooltip.BannerBonus}Ninja Slanses"
+
+ItemTooltip.CorruptSlimeBanner,"{$CommonItemTooltip.BannerBonus}Sloombas"
+ItemTooltip.SlimerBanner,"{$CommonItemTooltip.BannerBonus}One-Winged Sloombas"
+
+ItemTooltip.LavaSlimeBanner,"{$CommonItemTooltip.BannerBonus}Fell!Slanses"
+
+ItemTooltip.JungleSlimeBanner,"{$CommonItemTooltip.BannerBonus}Moldy Slanses"
+
+ItemTooltip.IceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Snansy Slanses"
+ItemTooltip.SpikedIceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Hyperslanses"
+
+
+#[ night ],<<-|--------------------------------------------------|->>
+
+
+ItemName.DemonEyeBanner,Sanson Eye Sansnner
+ItemName.WanderingEyeBanner,Mature Sanson Eye Sansnner
+ItemName.ZombieBanner,Aggressive Sans Sansnner
+
+ItemTooltip.DemonEyeBanner,"{$CommonItemTooltip.BannerBonus}Sanson Eyes"
+ItemTooltip.WanderingEyeBanner,"{$CommonItemTooltip.BannerBonus}Mature Sanson Eyes"
+ItemTooltip.ZombieBanner,"{$CommonItemTooltip.BannerBonus}Aggressive Sanses"
+
+
+#[ space ],<<-|--------------------------------------------------|->>
+
+
+ItemName.HarpyBanner,Blaster Rider Sansnner
+
+ItemTooltip.HarpyBanner,"{$CommonItemTooltip.BannerBonus}Blaster Riders"
+
+
+#[ underground ],<<-|--------------------------------------------|->>
+
+
+ItemName.BatBanner,Sanccoo Sansnner
+ItemName.GiantBatBanner,Twooccoo Sansnner
+ItemName.PiranhaBanner,Jape Worm Sansnner
+ItemName.ToxicSludgeBanner,Sansbert Sansnner
+ItemName.WormBanner,Live Thyme Sansnner
+ItemName.SkeletonBanner,Lost Sans Sansnner
+ItemName.NypmhBanner,Mimikc Sansnner
+
+ItemTooltip.BatBanner,"{$CommonItemTooltip.BannerBonus}Sanccoos"
+ItemTooltip.GiantBatBanner,"{$CommonItemTooltip.BannerBonus}Twooccoos"
+ItemTooltip.PiranhaBanner,"{$CommonItemTootip.BannerBonus}Jape Worms"
+ItemTooltip.ToxicSludgeBanner,"{$CommonItemTooltip.BannerBonus}Sansberts"
+ItemTooltip.WormBanner,"{$CommonItemTooltip.BannerBonus}Live Thymes"
+ItemTooltip.SkeletonBanner,"{$CommonItemTooltip.BannerBonus}Lost Sanses"
+ItemTooltip.NypmhBanner,"{$CommonItemTooltip.BannerBonus}Mimikcs"
+
+
+#[ underworld ],<<-|---------------------------------------------|->>
+
+
+ItemName.FireImpBanner,Lancer Sansnner
+
+ItemTooltip.FireImpBanner,"{$CommonItemTooltip.BannerBonus}Lancers"
+
+
+#[ snow / ice ],<<-|---------------------------------------------|->>
+
+
+ItemName.SnowFlinxBanner,Supersymmetric Sans Sansnner
+
+ItemTooltip.SnowFlinxBanner,"{$CommonItemTooltip.BannerBonus}Supersymmetric Sanses"
+
+
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+
+ItemName.JungleBatBanner,Molddoo Sansnner
+ItemName.SnatcherBanner,Hand of Gaster Sansnner
+ItemName.DoctorBonesBanner,Husk Sansnner
+ItemName.DerplingBanner,Jumpler Sansnner
+ItemName.TortoiseBanner,Handy Loogi Sansnner
+ItemName.GiantFlyingFoxBanner,Stage 7 Molddoo Sansnner
+ItemName.AnglerFishBanner,Worm from the String Sansnner
+ItemName.HornetBanner,Gohst Sansnner
+
+ItemTooltip.JungleBatBanner,"{$CommonItemTooltip.BannerBonus}Molddoos"
+ItemTooltip.SnatcherBanner,"{$CommonItemTooltip.BannerBonus}Hands of Gaster"
+ItemTooltip.DoctorBonesBanner,"{$CommonItemTooltip.BannerBonus}Husks"
+ItemTooltip.DerplingBanner,"{$CommonItemTooltip.BannerBonus}Jumplers"
+ItemTooltip.TortoiseBanner,"{$CommonItemTooltip.BannerBonus}Handy Loogies"
+ItemTooltip.GiantFlyingFoxBanner,"{$CommonItemTooltip.BannerBonus}Stage 7 Molddoos"
+ItemTooltip.AnglerFishBanner,"{$CommonItemTooltip.BannerBonus}Worms from the String"
+ItemTooltip.HornetBanner,"{$CommonItemTooltip.BannerBonus}Gohsts"
+
+
+#[ corruption ],<<-|---------------------------------------------|->>
+
+
+ItemName.ClingerBanner,Venus Thunder Trap Sansnner
+ItemName.CorruptorBanner,Superloominal Crawler Sansnner
+ItemName.EaterofSoulsBanner,Loominal Crawler Sansnner
+ItemName.DevourerBanner,Wiggler Sansnner
+ItemName.WorldFeederBanner,Biggler Sansnner
+
+ItemTooltip.ClingerBanner,"{$CommonItemTooltip.BannerBonus}Venus THUNDERRR Traps"
+ItemTooltip.CorruptorBanner,"{$CommonItemTooltip.BannerBonus}Superloominal Crawlers"
+ItemTooltip.DevourerBanner,"{$CommonItemTooltip.BannerBonus}Wigglers"
+ItemTooltip.WorldFeederBanner,"{$CommonItemTooltip.BannerBonus}Bigglers"
+ItemTooltip.EaterofSoulsBanner,"{$CommonItemTooltip.BannerBonus}Loominal Crawlers"
+
+
+#[ hallow ],<<-|-------------------------------------------------|->>
+
+
+ItemName.PixieBanner,Virovirokun Sansnner
+
+ItemTooltip.PixieBanner,"{$CommonItemTooltip.BannerBonus}Virovirokuns"
+
+
+#[ events : goblin army ],<<-|-----------------------------------|->>
+
+
+ItemName.GoblinArcherBanner,The Worst Lnik Sansnner
+ItemName.GoblinPeonBanner,Green Lnik Sansnner
+ItemName.GoblinSorcererBanner,Purple Lnik Sansnner
+ItemName.GoblinSummonerBanner,Warlniks Sansnner
+ItemName.GoblinThiefBanner,Yellow Lnik Sansnner
+ItemName.GoblinWarriorBanner,Red Lnik Sansnner
+
+ItemTooltip.GoblinArcherBanner,"{$CommonItemTooltip.BannerBonus}The Worst Lniks"
+ItemTooltip.GoblinPeonBanner,"{$CommonItemTooltip.BannerBonus}Green Lniks"
+ItemTooltip.GoblinSorcererBanner,"{$CommonItemTooltip.BannerBonus}Purple Lniks"
+ItemTooltip.GoblinSummonerBanner,"{$CommonItemTooltip.BannerBonus}Warlniks"
+ItemTooltip.GoblinThiefBanner,"{$CommonItemTooltip.BannerBonus}Yellow Lniks"
+ItemTooltip.GoblinWarriorBanner,"{$CommonItemTooltip.BannerBonus}Red Lniks"
+
+
+#[ misc. ],<<-|--------------------------------------------------|->>
+
+
+ItemName.MeteorHeadBanner,Outer!Skull Sansnner
+
+ItemTooltip.MeteorHeadBanner,"{$CommonItemTooltip.BannerBonus}Outer!Skulls"

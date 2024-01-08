@@ -44,10 +44,10 @@ Last updated: _{@p time @} UTC_
 - **{@p snd @}** Sounds
 @end-template-->
 <!--@region FileCount-->
-Last updated: _2024-01-07 UTC_
+Last updated: _2024-01-08 UTC_
 
-- **1283** Images (**28%** of the way to the next update)
-- **3289** Text Entries
+- **1300** Images (**30%** of the way to the next update)
+- **3326** Text Entries
 - **19** Songs
 - **22** Sounds
 <!--@end-region-->
@@ -83,13 +83,14 @@ This is a fan project.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-The original images are licensed under a
+The images original to this project are licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License]
 
 The code in this project is under the [MIT License]
 
 The rights to Undertale, Deltarune, Mario and Portal
 belong to their respective owners.
+None of these owners endorse or are associated with this project.
 
 <!-- References -->
 

@@ -43,6 +43,9 @@ BuffDescription.Frozen,"THIS IS A CERTIFIED SNOWGRAVE MOMENT"
 BuffName.Bleeding,[c/e9581c:Rapid Growth]
 BuffDescription.Bleeding,"Your body is spending too many resources growing new organs; HP regen disabled"
 
+BuffName.Poisoned,[c/e9581c:Spook'd!]
+BuffDescription.Poisoned,"You are being scared to death"
+
 
 #[ minions ],<<-|------------------------------------------------|->>
 

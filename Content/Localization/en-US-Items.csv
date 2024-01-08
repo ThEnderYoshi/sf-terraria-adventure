@@ -300,6 +300,7 @@ ItemName.Feather,Feathery Bone
 
 ItemName.Leather,Ruined Cloth
 ItemName.TurtleShell,Reinforced Luigium Plating
+ItemName.Stinger,Gohst Ball
 
 
 #[ materials : hallow ],<<-|-------------------------------------|->>
@@ -649,127 +650,6 @@ ItemTooltip.TeleportationPylonPurity,"{$CommonItemTooltip.TeleportationPylon}
 ""The Sansface (sans surface) is the sufrace of the [ B I G   S A N S ],
 and is the most common biome of [c/ff0000:Sans Fanfic] [...]""
 - WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
-
-
-#[ banners ],<<-|------------------------------------------------|->>
-
-
-ItemName.SlimeBanner,Slans Sansnner
-ItemName.GreenSlimeBanner,Normal Slans Sansnner
-ItemName.PinkyBanner,Slansy UwU Sansnner
-
-ItemName.DemonEyeBanner,Sanson Eye Sansnner
-ItemName.WanderingEyeBanner,Mature Sanson Eye Sansnner
-ItemName.ZombieBanner,Aggressive Sans Sansnner
-
-ItemName.HarpyBanner,Blaster Rider Sansnner
-
-ItemName.RedSlimeBanner,Default Slans Sansnner
-ItemName.YellowSlimeBanner,Average Slans Sansnner
-ItemName.BlackSlimeBanner,Regular Slans Sansnner
-ItemName.MotherSlimeBanner,Ninja Slans Sansnner
-ItemName.BatBanner,Sanccoo Sansnner
-ItemName.GiantBatBanner,Twooccoo Sansnner
-ItemName.PiranhaBanner,Jape Worm Sansnner
-ItemName.ToxicSludgeBanner,Sansbert Sansnner
-ItemName.WormBanner,Live Thyme Sansnner
-ItemName.SkeletonBanner,Lost Sans Sansnner
-ItemName.NypmhBanner,Mimikc Sansnner
-
-
-ItemName.FireImpBanner,Lancer Sansnner
-ItemName.LavaSlimeBanner,Fell!Slans Sansnner
-
-ItemName.IceSlimeBanner,Snansy Slans Sansnner
-ItemName.SnowFlinxBanner,Supersymmetric Sans Sansnner
-ItemName.SpikedIceSlimeBanner,Hyperslans Sansnner
-
-ItemName.JungleSlimeBanner,Moldy Slans Sansnner
-ItemName.JungleBatBanner,Molddoo Sansnner
-ItemName.SnatcherBanner,Hand of Gaster Sansnner
-ItemName.DoctorBonesBanner,Husk Sansnner
-ItemName.DerplingBanner,Jumpler Sansnner
-ItemName.TortoiseBanner,Handy Loogi Sansnner
-ItemName.GiantFlyingFoxBanner,Stage 7 Molddoo Sansnner
-ItemName.AnglerFishBanner,Worm from the String Sansnner
-
-ItemName.ClingerBanner,Venus Thunder Trap Sansnner
-ItemName.CorruptorBanner,Superloominal Crawler Sansnner
-ItemName.CorruptSlimeBanner,Sloomba Sansnner
-ItemName.EaterofSoulsBanner,Loominal Crawler Sansnner
-ItemName.SlimerBanner,One-Wingled Sloomba Sansnner
-ItemName.DevourerBanner,Wiggler Sansnner
-ItemName.WorldFeederBanner,Biggler Sansnner
-
-ItemName.PixieBanner,Virovirokun Sansnner
-
-ItemName.GoblinArcherBanner,The Worst Lnik Sansnner
-ItemName.GoblinPeonBanner,Green Lnik Sansnner
-ItemName.GoblinSorcererBanner,Purple Lnik Sansnner
-ItemName.GoblinSummonerBanner,Warlniks Sansnner
-ItemName.GoblinThiefBanner,Yellow Lnik Sansnner
-ItemName.GoblinWarriorBanner,Red Lnik Sansnner
-
-ItemName.MeteorHeadBanner,Outer!Skull Sansnner
-
-ItemTooltip.BatBanner,"{$CommonItemTooltip.BannerBonus}Sanccoos"
-ItemTooltip.GiantBatBanner,"{$CommonItemTooltip.BannerBonus}Twooccoos"
-ItemTooltip.PiranhaBanner,"{$CommonItemTooltip.BannerBonus}Jape Worms"
-ItemTooltip.DoctorBonesBanner,"{$CommonItemTooltip.BannerBonus}Husks"
-ItemTooltip.DerplingBanner,"{$CommonItemTooltip.BannerBonus}Jumplers"
-ItemTooltip.TortoiseBanner,"{$CommonItemTooltip.BannerBonus}Handy Loogies"
-ItemTooltip.GiantFlyingFoxBanner,"{$CommonItemTooltip.BannerBonus}Stage 7 Molddoos"
-ItemTooltip.AnglerFishBanner,"{$CommonItemTooltip.BannerBonus}Worms from the String"
-
-ItemTooltip.SlimeBanner,"{$CommonItemTooltip.BannerBonus}Slanses"
-ItemTooltip.GreenSlimeBanner,"{$CommonItemTooltip.BannerBonus}Normal Slanses"
-ItemTooltip.PinkyBanner,"{$CommonItemTooltip.BannerBonus}Slansies (UwU)"
-
-ItemTooltip.ClingerBanner,"{$CommonItemTooltip.BannerBonus}Venus THUNDERRR Traps"
-ItemTooltip.CorruptorBanner,"{$CommonItemTooltip.BannerBonus}Superloominal Crawlers"
-ItemTooltip.CorruptSlimeBanner,"{$CommonItemTooltip.BannerBonus}Sloombas"
-ItemTooltip.DevourerBanner,"{$CommonItemTooltip.BannerBonus}Wigglers"
-ItemTooltip.WorldFeederBanner,"{$CommonItemTooltip.BannerBonus}Bigglers"
-
-ItemTooltip.DemonEyeBanner,"{$CommonItemTooltip.BannerBonus}Sanson Eyes"
-ItemTooltip.WanderingEyeBanner,"{$CommonItemTooltip.BannerBonus}Mature Sanson Eyes"
-ItemTooltip.ZombieBanner,"{$CommonItemTooltip.BannerBonus}Aggressive Sanses"
-
-ItemTooltip.EaterofSoulsBanner,"{$CommonItemTooltip.BannerBonus}Loominal Crawlers"
-ItemTooltip.GoblinArcherBanner,"{$CommonItemTooltip.BannerBonus}The Worst Lniks"
-ItemTooltip.GoblinPeonBanner,"{$CommonItemTooltip.BannerBonus}Green Lniks"
-ItemTooltip.GoblinSorcererBanner,"{$CommonItemTooltip.BannerBonus}Purple Lniks"
-ItemTooltip.GoblinSummonerBanner,"{$CommonItemTooltip.BannerBonus}Warlniks"
-ItemTooltip.GoblinThiefBanner,"{$CommonItemTooltip.BannerBonus}Yellow Lniks"
-ItemTooltip.GoblinWarriorBanner,"{$CommonItemTooltip.BannerBonus}Red Lniks"
-
-ItemTooltip.HarpyBanner,"{$CommonItemTooltip.BannerBonus}Blaster Riders"
-
-ItemTooltip.IceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Snansy Slanses"
-
-ItemTooltip.JungleSlimeBanner,"{$CommonItemTooltip.BannerBonus}Moldy Slanses"
-ItemTooltip.JungleBatBanner,"{$CommonItemTooltip.BannerBonus}Molddoos"
-ItemTooltip.SnatcherBanner,"{$CommonItemTooltip.BannerBonus}Hands of Gaster"
-
-ItemTooltip.LavaSlimeBanner,"{$CommonItemTooltip.BannerBonus}Fell!Slanses"
-ItemTooltip.FireImpBanner,"{$CommonItemTooltip.BannerBonus}Lancers"
-
-ItemTooltip.MeteorHeadBanner,"{$CommonItemTooltip.BannerBonus}Outer!Skulls"
-
-ItemTooltip.PixieBanner,"{$CommonItemTooltip.BannerBonus}Virovirokuns"
-ItemTooltip.SnowFlinxBanner,"{$CommonItemTooltip.BannerBonus}Supersymmetric Sanses"
-ItemTooltip.SpikedIceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Hyperslanses"
-ItemTooltip.SlimerBanner,"{$CommonItemTooltip.BannerBonus}One-Winged Sloombas"
-
-ItemTooltip.RedSlimeBanner,"{$CommonItemTooltip.BannerBonus}Default Slanses"
-ItemTooltip.YellowSlimeBanner,"{$CommonItemTooltip.BannerBonus}Average Slanses"
-ItemTooltip.BlackSlimeBanner,"{$CommonItemTooltip.BannerBonus}Regular Slanses"
-ItemTooltip.MotherSlimeBanner,"{$CommonItemTooltip.BannerBonus}Ninja Slanses"
-ItemTooltip.ToxicSludgeBanner,"{$CommonItemTooltip.BannerBonus}Sansberts"
-ItemTooltip.WormBanner,"{$CommonItemTooltip.BannerBonus}Live Thymes"
-ItemTooltip.SkeletonBanner,"{$CommonItemTooltip.BannerBonus}Lost Sanses"
-ItemTooltip.NypmhBanner,"{$CommonItemTooltip.BannerBonus}Mimikcs"
-
 
 
 #[ boss items ],<<-|---------------------------------------------|->>

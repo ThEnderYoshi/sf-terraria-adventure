@@ -50,6 +50,18 @@ ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
 
 #[ jungle ],<<-|-------------------------------------------------|->>
 
+ItemName.AncientCobaltHelmet,Megamet
+ItemName.AncientCobaltBreastplate,Megaplate
+ItemName.AncientCobaltLeggings,Megaboots
+
+#( placeholder : magic ),magic
+ItemTooltip.AncientCobaltHelmet,"[c/ff0000:+40 max TP]
+[c/ff0000:+6% magic CRIT]
+'what'"
+ItemTooltip.AncientCobaltBreastplate,"[c/ff0000:+10 max TP]
+[c/ff0000:+6% magic DMG]"
+ItemTooltip.AncientCobaltLeggings,"[c/ff0000:+20 max TP]
+[c/ff0000:+6% magic CRIT]"
 
 ItemName.TurtleHelmet,Reinforced Luigium Stache n' Cap
 ItemName.TurtleScaleMail,Reinforced Luigium Plumbin' Overalls
