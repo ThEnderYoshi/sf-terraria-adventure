@@ -110,6 +110,8 @@ ItemName.TortoiseBanner,Handy Loogi Sansnner
 ItemName.GiantFlyingFoxBanner,Stage 7 Molddoo Sansnner
 ItemName.AnglerFishBanner,Worm from the String Sansnner
 ItemName.HornetBanner,Gohst Sansnner
+ItemName.SpikedJungleSlimeBanner,Spooky Slans Sansnner
+ItemName.LacBeetleBanner,Perseverant Bones Sansnner
 
 ItemTooltip.JungleBatBanner,"{$CommonItemTooltip.BannerBonus}Molddoos"
 ItemTooltip.SnatcherBanner,"{$CommonItemTooltip.BannerBonus}Hands of Gaster"
@@ -119,6 +121,8 @@ ItemTooltip.TortoiseBanner,"{$CommonItemTooltip.BannerBonus}Handy Loogies"
 ItemTooltip.GiantFlyingFoxBanner,"{$CommonItemTooltip.BannerBonus}Stage 7 Molddoos"
 ItemTooltip.AnglerFishBanner,"{$CommonItemTooltip.BannerBonus}Worms from the String"
 ItemTooltip.HornetBanner,"{$CommonItemTooltip.BannerBonus}Gohsts"
+ItemTooltip.SpikedJungleSlimeBanner,"{$CommonItemTooltip.BannerBonus}Spooky Slanses"
+ItemTooltip.LacBeetleBanner,"{$CommonItemTooltip.BannerBonus}Perseverant Bones"
 
 
 #[ corruption ],<<-|---------------------------------------------|->>

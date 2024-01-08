@@ -41,6 +41,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - The "Spampton NutriNose&trade;"
 - Moonglow (plus seeds and planter box)
 - Sky Blue Dye/Paint/Flower
+- Violet Dye/Paint/Husk
 - Honey.
 - Guide to Environmental Preservation
 - Stinger
@@ -48,8 +49,8 @@ As the name implies, this is the update that retextures the Jungle biome.
 #### NPCs
 
 - _Town NPCs:_ Painter
-- _Jungle:_ Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
-  Giant Tortoise, Hornet, Man Eater
+- _Jungle:_ (Spiked) Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
+  Giant Tortoise, Hornet, Man Eater, Lac Beetle, Bee, Small Bee
 - _Underground:_ Cave/Giant Bat
 
 #### Armors

@@ -115,11 +115,18 @@ NPCName.AnglerFish,Worm from the String
 
 
 NPCName.Hornet,Gohst
-# NPCName.HornetFatty,Boxy Gohst
+NPCName.HornetFatty,Boxy Gohst
 NPCName.HornetHoney,Motherly Gohst
 NPCName.HornetLeafy,Sansy Gohst
 NPCName.HornetSpikey,Spinny Gohst
 NPCName.HornetStingy,Bitey Gohst
+NPCName.Bee,Ghst
+NPCName.BeeSmall,Gst
+
+NPCName.ManEater,Other Hand of Gaster
+NPCName.SpikedJungleSlime,Spooky Slans
+
+NPCName.LacBeetle,Perseverant Bones
 
 
 #[ corruption ],<<-|---------------------------------------------|->>

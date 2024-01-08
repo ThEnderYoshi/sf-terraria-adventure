@@ -97,7 +97,13 @@ Bestiary_FlavorText.npc_HornetHoney,"{$CommonBestiaryFlavor.Hornet}This one rese
 Bestiary_FlavorText.npc_HornetLeafy,"How odd. A ghost, and not a particularly sansu-- Wait this one's pretty sansular actually. Nevermind!"
 Bestiary_FlavorText.npc_HornetSpikey,"Speen."
 Bestiary_FlavorText.npc_HornetStingy,"{$CommonBestiaryFlavor.Hornet}These ones seem to have a particular appetite for human (and monster) flesh."
+Bestiary_FlavorText.npc_Bee,"This is like a Gohst, if it was smaller."
+Bestiary_FlavorText.npc_BeeSmall,"This is like a Ghst, if it was smaller."
 
+Bestiary_FlavorText.npc_ManEater,"Did you know that Gaster is left-handed? Well me neither, but that seems to be the case - his many left hands are way stronger than his right ones!"
+Bestiary_FlavorText.npc_SpikedJungleSlime,"Wallpaper Mold and battery acid seem to have a strange reaction together. This Moldy Slans found out first-hand, and is here to share the spooks with you!"
+
+Bestiary_FlavorText.npc_LacBeetle,"This used to be a normal purple sans, but is no more. However, through sheer Perseverance, what is now a small pile of bones has started moving on its own!"
 
 #[ surface ],<<-|------------------------------------------------|->>
 

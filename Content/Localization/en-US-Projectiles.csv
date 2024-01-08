@@ -116,6 +116,7 @@ ProjectileName.HarpyFeather,Blaster Rider Feather
 
 
 ProjectileName.Stinger,Gohst Ball
+ProjectileName.BeeHive,{$ItemName.BeeHive}
 
 
 #[  ],<<-|-------------------------------------------------------|->>

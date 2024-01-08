@@ -301,6 +301,7 @@ ItemName.Feather,Feathery Bone
 ItemName.Leather,Ruined Cloth
 ItemName.TurtleShell,Reinforced Luigium Plating
 ItemName.Stinger,Gohst Ball
+ItemName.Vine,Dingbat
 
 
 #[ materials : hallow ],<<-|-------------------------------------|->>
@@ -542,6 +543,14 @@ ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Er
 ItemName.AngelStatue,Sansgel Stanstue
 ItemName.GoblinStatue,Lnik Sanstue
 ItemName.HarpyStatue,Blaster Rider Sanstue
+ItemName.HornetStatue,Gohst Stanstue
+
+
+#[ furniture : traps ],<<-|--------------------------------------|->>
+
+
+ItemName.BeeHive,Remote Spawner
+MapObject.BeeHive,"{$ItemName.BeeHive}"
 
 
 #[ furniture : other ],<<-|--------------------------------------|->>
