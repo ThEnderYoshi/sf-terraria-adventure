@@ -20,14 +20,37 @@ Known for having a large amount of [Bad Thyme].
 > Replaces Snow/Ice biomes.
 
 A region highly dense in sans and sansnergies (sans energies).
-So dense in fact, that several of its inhabitants - especially its [guardian](#sanstrocity-prime) - are composed of multiple fused Sanses.
+So dense in fact, that several of its inhabitants - especially its
+[guardian](#sanstrocity-prime) - are composed of multiple fused Sanses.
 
 Such high density would have caused the consanstrate
 to have violently burst long ago
 if it wasn't for its surface shell, the Snans biome.
 
 It is a very thick layer of snans (snow sans),
-made of the frigid dust of hundreds of thousands of [Titan Sanses](#titan-sanses).
+made of the frigid dust of hundreds of thousands of
+[Titan Sanses](#titan-sanses).
+
+### Toriel's House
+
+> Replaces Jungle/Underground Jungle biomes.
+
+Every version of Sans Fanfic needs its version of Toriel's House.
+In this case, it takes form of a massive blister worming its way across
+the [ B I G   S A N S ].
+
+Specifically, the House's wallpaper is an aggressive species of Mold called
+Wallpaper Mold.
+This mold is known to cause serious infections, to the point of serious physical
+alterations and the host loosing control of their own body.
+
+Toriel's House also features several "Spawners": structures made of blue
+metallic mesh, ranging in size to 4' cubes to giant hive-like structures.
+It appears the Spawners are malfunctioning, as the only thing they produce is
+battery acid that pools at the bottom of these structures.
+
+The Wallpaper Mold and Battey Acid also have an
+[interesting reaction together](#gohst-sauce).
 
 ### No San's Land
 
@@ -164,6 +187,26 @@ the being now known as Sevenbones was sealed underground.
 
 Its 2 halves **hate** eachother,
 so Sevenbones keeps trying to attack itself.
+
+### MOTHERSPAWNER
+
+> Replaces Queen Bee.
+>
+> _"my child you are breaking my heart"_
+
+A large Gohst resembling a Toriel created from a specific flavor of
+[Gohst Sauce].
+
+MOTHERSPAWNERS are highly territorial and will fiercely guard the Spawners they
+were born in - _especially_ their Successors.
+
+These gohsts begin their lives in coocoon-like structures. Once hatched, the
+new gohst will feed on the body of the previous MOTHERSPAWNER, who does not even
+fight back. This dynamic of overtaking grants these larval MOTHERSPAWNERS the
+name of "successors".
+
+Destroying a successor will enrage the currently standing MOTHERSPAWNER and
+cause it to attack the intruder. (you)
 
 ### Papytron
 
@@ -315,6 +358,21 @@ but they have been observed to grow like plants on their own.
 Studies suggest that right under The Wastes lies a massive,
 plant-like organism that produces these growths as some kind of waste product.
 
+### Gohst Sauce
+
+> Replaces Bee Wax.
+
+The Battery Acid produced by the many Spawners of [Toriel's House] will often
+leak out and mix with the surrounding Wallpaper Mold, creating a substance
+called "Gohst Sauce".
+
+Different amounts of each ingredients create different "flavors", as they're
+coloquially called. Each flavor has its own properties.
+Certain concentrations, in large quantities, form the many "Gohsts" that plague
+Toriel's House.
+The right amount of Wallpaper Mold, however, can create a being known
+as [MOTHERSPAWNER].
+
 ### SOULs
 
 > Replaces ores, life crystals/fruits and crystals.
@@ -377,8 +435,11 @@ their remains are still shedding large amounts of dust.
 [Bad Thyme]: #bad-thyme
 [Consanstrate]: #the-snansconsanstrate
 [Gamestop]: #gamestop
+[Gohst Sauce]: #gohst-sauce
 [King Slans]: #king-slans
+[MOTHERSPAWNER]: #motherspawner
 [No San's Land]: #no-sans-land
 [Sansface]: #the-sansface
 [Sevenbones]: #sevenbones
+[Toriel's House]: #toriels-house
 [Wall of Bone]: #wall-of-bone

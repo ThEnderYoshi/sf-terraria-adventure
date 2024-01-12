@@ -46,12 +46,18 @@ BuffDescription.Bleeding,"Your body is spending too many resources growing new o
 BuffName.Poisoned,[c/e9581c:Spook'd!]
 BuffDescription.Poisoned,"You are being scared to death"
 
+BuffName.Confused,[c/e9581c:Turn Your Controller Upside Down]
+BuffDescription.Confused,"Or keyboard. Whatever."
+
 
 #[ minions ],<<-|------------------------------------------------|->>
 
 
 BuffName.FlinxMinion,[c/ffc700:Stable Symmetric Sans]
 BuffDescription.FlinxMinion,"The stable symmetric sans will protect your behind"
+
+BuffName.HornetMinion,[c/ffc700:Anger Gohst]
+BuffDescription.HornetMinion,"OoooooOOOOOHHH you better watch out! The gohst has a KNIFE!!!"
 
 BuffName.ImpMinion,[c/ffc700:Lancer]
 BuffDescription.ImpMinion,"The bouncy little pumpkin will protect your behind"
@@ -64,7 +70,7 @@ BuffName.BabyPenguin,"[c/ffc700:Pingus]"
 BuffDescription.BabyPenguin,"'make that the penguin in terraria'"
 
 BuffName.MiniMinotaur,[c/ffc700:Mini Tey]
-BuffDescription.MiniMinotaur,":/ Trying to make a change"
+BuffDescription.MiniMinotaur,"'You're mother'"
 
 BuffName.ShadowMimic,[c/ffc700:Mini Goomb]
 BuffDescription.ShadowMimic,"Time to take a piss"
@@ -72,5 +78,15 @@ BuffDescription.ShadowMimic,"Time to take a piss"
 BuffName.TikiSpirit,[c/ffc700:Sans the Idea]
 BuffDescription.TikiSpirit,"Sans has been on your mind lately"
 
+BuffName.BabyHornet,[c/ffc700:Gohst]
+BuffDescription.BabyHornet,"Who's the MOTHERSPAWNER now?"
+
+BuffName.QueenBeePet,[c/ffc700:Young MOTHERSPAWNER]
+BuffDescription.QueenBeePet,"At least it doesn't think you're its mother"
+
 
 #[ mounts ],<<-|-------------------------------------------------|->>
+
+
+BuffName.BeeMount,[c/ffc700:Toirel]
+BuffDescription.BeeMount,"Uhh..."

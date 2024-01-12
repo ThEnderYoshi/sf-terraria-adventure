@@ -176,6 +176,7 @@ ItemName.JungleWall,Toriel's House's Sallpaper
 ItemName.MudWallEcho,Ruined Brick Sall
 
 ItemName.Hive,Gohst Spawner Block
+ItemName.HiveWall,Gohst Spawner Sall
 
 
 #[ blocks : corruption ],<<-|------------------------------------|->>
@@ -585,7 +586,9 @@ ItemName.SuperHealingPotion,HP Potion NEO
 #[ potion ingredients ],<<-|-------------------------------------|->>
 
 
-ItemName.BottledWater,Bottled Acid
+ItemName.Bottle,Condiment Bottle
+ItemName.BottledWater,Condiment Base
+ItemName.BottledHoney,Battery-flavored Ketchup
 
 
 #[ crafting stations ],<<-|--------------------------------------|->>
@@ -661,109 +664,6 @@ and is the most common biome of [c/ff0000:Sans Fanfic] [...]""
 - WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
 
 
-#[ boss items ],<<-|---------------------------------------------|->>
-
-
-ItemName.KingSlimeTrophy,King Slans Trophans
-
-
-ItemName.SuspiciousLookingEye,Segg (sans egg)
-ItemTooltip.SuspiciousLookingEye,"Sansmmons the Eye of Sans
-'It's almost out of it's shell'"
-
-ItemName.EyeOfCthulhuBossBag,Bag of Regret (Eye of Sans)
-ItemTooltip.EyeOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'[c/ff0000:On days like these...]'"
-
-ItemName.EyeofCthulhuMasterTrophy,Eye of Sans Sanslic
-ItemName.EyeofCthulhuTrophy,Eye of Sans Trophy
-
-
-ItemName.EaterOfWorldsBossBag,Bag of Regret (Biggler of Wigglers)
-ItemTooltip.EaterOfWorldsBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'booty blasted'"
-
-ItemName.EaterofWorldsMasterTrophy,Biggler of Wigglers Sanslic
-ItemName.EaterofWorldsTrophy,Biggler of Wigglers Trophy
-
-
-ItemName.BrainOfCthulhuBossBag,Bag of Regret (Sevenbones)
-ItemTooltip.BrainOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'⨋↖↖◉∰◍'"
-
-ItemName.BrainofCthulhuMasterTrophy,Sevenbones Sanslic
-ItemName.BrainofCthulhuTrophy,Sevenbones Trophy
-
-
-ItemName.SkeletronBossBag,Bag of Regret (Papytron)
-ItemTooltip.SkeletronBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'NYEH HEH HEH!'"
-
-ItemName.SkeletronHand,Papytron's Cooking Hand
-ItemName.SkeletronMask,Papytron Mask
-ItemName.SkeletronMasterTrophy,Papytron Sanslic
-ItemName.SkeletronTrophy,Papytron Papytrophy
-
-
-ItemName.DeerThing,Sanscentrator (sans concentrator)
-ItemTooltip.DeerThing,"Sansmmons Sanstrocity Prime"
-
-ItemName.DeerclopsBossBag,Bag of Regret (Sanstrocity Prime)
-ItemTooltip.DeerclopsBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'But something has CHANGED
-CHANGED
-CHANGED
-CHANGED'"
-
-ItemName.DeerclopsMask,Sanstrocity Prime Mask
-ItemName.DeerclopsMasterTrophy,Sanstrocity Prime Sanslic
-ItemName.DeerclopsTrophy,Sanstrocity Prime Trophy
-
-
-ItemName.WallOfFleshBossBag,Bag of Regret (Wall of Bone)
-ItemTooltip.WallOfFleshBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'[c/ff0000:...kids like you...]'"
-
-ItemName.WallofFleshMasterTrophy,Wall of Bone Sanslic
-ItemName.WallofFleshTrophy,Wall of Bone Trophy
-
-
-ItemName.QueenSlimeBossBag,Bag of Regret (Emperor Slans)
-ItemTooltip.QueenSlimeBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'It was worth a shot...'"
-
-ItemName.QueenSlimeMask,Emperor Slans Mask
-ItemName.QueenSlimeMasterTrophy,Emperor Slans Sanslic
-ItemName.QueenSlimeTrophy,Emperor Slans Trophy
-
-
-ItemTooltip.MechanicalWorm,"Sansmmons the Mecha Biggler"
-
-ItemName.DestroyerBossBag,"Bag of Regret (Mecha Biggler)"
-ItemTooltip.DestroyerBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'mega booty blasted'"
-
-ItemName.DestroyerEmblem,Sanstroyer Sansblem
-ItemName.DestroyerMask,Mecha Biggler Mask
-ItemName.DestroyerMasterTrophy,Mecha Biggler Sanslic
-ItemName.DestroyerTrophy,Mecha Biggler Trophy
-
-
-ItemName.FairyQueenBossBag,Bag of Regret (Emperor of Sansperor)
-ItemTooltip.FairyQueenBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'Bones and more bones'"
-
-ItemName.FairyQueenMasterTrophy,Emperor of Sansperor Sanslic
-ItemName.FairyQueenTrophy,Emperor of Sansperor Trophy
-
-
-ItemName.MoonLordBossBag,Bag of Regret ([ B I G   S A N S ] SOUL)
-ItemTooltip.MoonLordBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'[c/ff0000:...should be burning in hell]'"
-
-ItemName.MoonLordMasterTrophy,[ B I G   S A N S ] SOUL Sanslic
-
-
 #[ ropes ],<<-|--------------------------------------------------|->>
 
 
@@ -798,17 +698,23 @@ ItemName.PaintScraper,Inky Eraser
 ItemTooltip.PaintScraper,"Removes color and scrapes moss"
 
 ItemName.SpectrePaintbrush,Ink's Pencil
-ItemTooltip.SpectrePaintbrush,"{$ItemName.Paintbrush}
+ItemTooltip.SpectrePaintbrush,"{$ItemTooltip.Paintbrush}
 'Can you believe this once belonged to Ink?'"
 
 ItemName.SpectrePaintRoller,Ink's Marker
-ItemTooltip.SpectrePaintRoller,"{$ItemName.PaintRoller}
+ItemTooltip.SpectrePaintRoller,"{$ItemTooltip.PaintRoller}
 'Can you believe this once belonged to Ink???'"
 
 ItemName.SpectrePaintScraper,Ink's Eraser
-ItemTooltip.SpectrePaintScraper,"{$ItemName.PaintScraper}
+ItemTooltip.SpectrePaintScraper,"{$ItemTooltip.PaintScraper}
 'Do you actually believe this once belonged to Ink???'"
 
+
+#[ tools : placers ],<<-|----------------------------------------|->
+
+
+ItemName.HiveWand,Spawner Spawner
+ItemTooltip.HiveWand,"Spawns Spawner Blocks"
 
 
 #[ tools : diggers ],<<-|----------------------------------------|->

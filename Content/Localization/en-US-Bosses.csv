@@ -1,0 +1,260 @@
+Key,Translation
+
+
+#comment,"This file should contain most things relevant to bosses."
+#comment,"The order for entries is:
+NPCs -> Bestiary -> Summons -> Boss Bag/Trophy/Relic -> Drops -> Drop Recipes"
+
+
+#[ king slime ],<<-|---------------------------------------------|->>
+
+
+NPCName.KingSlime,King Slans
+
+Bestiary_FlavorText.npc_KingSlime,"A massive and powerful slans, he harnesses the power of the Ninja!Sans he ate to perform ninja multiplication moves."
+
+ItemName.KingSlimeTrophy,King Slans Trophans
+
+
+#[ eye of cthulhu ],<<-|-----------------------------------------|->>
+
+
+NPCName.EyeofCthulhu,Eye of Sans
+NPCName.ServantofCthulhu,Young Sanson Eye
+
+Bestiary_FlavorText.npc_EyeofCthulhu,"A piece of a Titan Sans ripped from its body at least 2 ago. Now it seeks unsuspecting n00bs to epically troll!"
+Bestiary_FlavorText.npc_ServantofCthulhu,"A young Sanson Eye that hasn't even left its shell yet."
+
+ItemName.SuspiciousLookingEye,Segg (sans egg)
+ItemTooltip.SuspiciousLookingEye,"Sansmmons the Eye of Sans
+'It's almost out of it's shell'"
+
+ItemName.EyeOfCthulhuBossBag,Bag of Regret (Eye of Sans)
+ItemTooltip.EyeOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'[c/ff0000:On days like these...]'"
+
+ItemName.EyeofCthulhuTrophy,Eye of Sans Trophy
+ItemName.EyeofCthulhuMasterTrophy,Eye of Sans Sanslic
+
+
+#[ eater of worlds ],<<-|----------------------------------------|->>
+
+
+NPCName.EaterofWorldsBody,Biggler of Wigglers
+NPCName.EaterofWorldsHead,Biggler of Wigglers
+NPCName.EaterofWorldsTail,Biggler of Wigglers
+NPCName.VileSpitEaterOfWorlds,THUNDERRR
+
+Bestiary_FlavorText.npc_EaterofWorldsHead,"A massive, enraged wiggler, hellbent on finding its lost flower. It will stop at nothing to achieve its goal."
+
+ItemName.EaterOfWorldsBossBag,Bag of Regret (Biggler of Wigglers)
+ItemTooltip.EaterOfWorldsBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'booty blasted'"
+
+ItemName.EaterofWorldsTrophy,Biggler of Wigglers Trophy
+ItemName.EaterofWorldsMasterTrophy,Biggler of Wigglers Sanslic
+
+
+#[ brain of cthulhu ],<<-|---------------------------------------|->>
+
+
+NPCName.BrainofCthulhu,Sevenbones
+NPCName.Creeper,Shrooper
+
+Bestiary_FlavorText.npc_BrainofCthulhu,"Formally called “:bone::bone::bone::bone::bone::bone::bone:”, this amalgam was fromed from Sixbones merging with a Loogie during a bloody fight. A great amount of hatred emanates from it."
+Bestiary_FlavorText.npc_Creeper,"The fused manifestation of a mushroom and a sanson eye. Psychically controlled by Sevenbones as their main method of defense, as the fused Loogie hinders the Sans and Papyrus's magic."
+
+ItemName.BrainOfCthulhuBossBag,Bag of Regret (Sevenbones)
+ItemTooltip.BrainOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'⨋↖↖◉∰◍'"
+
+ItemName.BrainofCthulhuTrophy,Sevenbones Trophy
+ItemName.BrainofCthulhuMasterTrophy,Sevenbones Sanslic
+
+
+#[ queen bee ],<<-|----------------------------------------------|->>
+
+
+NPCName.QueenBee,MOTHERSPAWNER
+
+Bestiary_FlavorText.npc_QueenBee,"The overgrown spawners' battery acid mixes with the surrounding Wallpaper Mold to create Gohsts. Add too much Mold however, and you get a fully formed ""Toriel"" like this one. These aren't too pleased to see you destroying their successors."
+
+MapObject.Larva,"Successor"
+ItemName.Abeemination,Artificial Successor
+ItemTooltip.Abeemination,"Sansmmons MOTHERSPAWNER
+'Looks just like the real thing!'"
+
+ItemName.QueenBeeBossBag,Bag of Regret (MOTHERSPAWNER)
+ItemTooltip.QueenBeeBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'my child you are breaking my [c/ff0000:heart]'"
+
+ItemName.BeeMask,MOTHERSPAWNER Sask (sans mask)
+
+ItemName.QueenBeeTrophy,MOTHERSPAWNER Trophy
+ItemName.QueenBeeMasterTrophy,MOTHERSPAWNER Sanslic
+
+ItemName.HiveBackpack,Super Gohstpack
+ItemTooltip.HiveBackpack,"[c/ff0000:GHOST AT ↗]
+'NOOO! You're supposed to CAPTURE the ghosts,
+not RELEASE release them you idiot!!!'"
+
+ItemName.QueenBeePetItem,Orphaned Successor
+ItemTooltip.QueenBeePetItem,"Sansmmons a young MOTHERSPAWNER
+[c/7f7f7f:------]
+""[...] the young MOTHERSPAWNERS don't become aggressive
+until they've fed on the corpse of their predecessor.""
+- WD!Alphys, [c/ff0000:Sans Fanfic]'s Conquered Worlds"
+
+ItemName.HoneyComb,Ball of Gohst
+ItemTooltip.HoneyComb,"Releases gohsts and melts the user's skin when sansmaged
+'As in: Ball made of Gohst. Not to be confused with Gohst Ball'"
+
+ItemName.Nectar,Bowl of Acid
+ItemTooltip.Nectar,"Sansmmons a scary gohst!!"
+
+ItemName.HoneyedGoggles,Shmuckcessor
+ItemTooltip.HoneyedGoggles,"Sansmmons Toirel
+'Looks just like the rael tignh !'"
+
+ItemName.BeeWax,Gohst Sauce
+
+
+#[ skeletron ],<<-|----------------------------------------------|->>
+
+
+NPCName.SkeletronHand,Papytron
+NPCName.SkeletronHead,Papytron
+
+Bestiary_FlavorText.npc_SkeletronHead,"In hopes of becoming a Royal Knight, Papyrus has stationed himself in front of a Gamestop, waiting for a human (a gamer, no doubt) to just waltz in."
+
+ItemName.SkeletronBossBag,Bag of Regret (Papytron)
+ItemTooltip.SkeletronBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'NYEH HEH HEH!'"
+
+ItemName.SkeletronTrophy,Papytron Papytrophy
+ItemName.SkeletronMasterTrophy,Papytron Sanslic
+ItemName.SkeletronMask,Papytron Mask
+
+ItemName.SkeletronHand,Papytron's Cooking Hand
+
+
+#[ deerclops ],<<-|----------------------------------------------|->>
+
+
+NPCName.Deerclops,Sanstrocity Prime
+
+Bestiary_FlavorText.npc_Deerclops,"Hailing from the land of HELP_TALE, the Sanstrocity found familiarity in the Consanstrate. All the added Sanses around it elevated the Sanstrocty to Twitch Prime tier!"
+
+ItemName.DeerThing,Sanscentrator (sans concentrator)
+ItemTooltip.DeerThing,"Sansmmons Sanstrocity Prime"
+
+ItemName.DeerclopsBossBag,Bag of Regret (Sanstrocity Prime)
+ItemTooltip.DeerclopsBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'But something has CHANGED
+CHANGED
+CHANGED
+CHANGED'"
+
+ItemName.DeerclopsTrophy,Sanstrocity Prime Trophy
+ItemName.DeerclopsMasterTrophy,Sanstrocity Prime Sanslic
+ItemName.DeerclopsMask,Sanstrocity Prime Mask
+
+
+#[ wall of flesh ],<<-|------------------------------------------|->>
+
+
+NPCName.WallofFlesh,Wall of Bone
+NPCName.WallofFleshEye,Wall of Bone
+NPCName.LeechBody,Floppy Bone
+NPCName.LeechHead,Floppy Bone
+NPCName.LeechTail,Floppy Bone
+NPCName.TheHungry,The Funny
+NPCName.TheHungryII,The Funny
+
+Bestiary_FlavorText.npc_WallofFlesh,"Keeper of the Undersans, his job is to keep the Dark World from spreading beyond the Undersans. Well, it WAS. Now DELTARUNE's all over your Sans!"
+Bestiary_FlavorText.npc_LeechHead,"Oh that just... That's just dissapointing... Why is it floppy..."
+Bestiary_FlavorText.npc_TheHungry,"Why the laughter, what's so funny? Your certain doom most certainly is!"
+Bestiary_FlavorText.npc_TheHungryII,{$Bestiary_FlavorText.npc_TheHungry}
+
+ItemName.WallOfFleshBossBag,Bag of Regret (Wall of Bone)
+ItemTooltip.WallOfFleshBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'[c/ff0000:...kids like you...]'"
+
+ItemName.WallofFleshTrophy,Wall of Bone Trophy
+ItemName.WallofFleshMasterTrophy,Wall of Bone Sanslic
+
+
+#[ queen slime ],<<-|--------------------------------------------|->>
+
+
+NPCName.QueenSlimeBoss,Emperor Slans
+
+Bestiary_FlavorText.npc_QueenSlimeBoss,"Hey, y'know how they first discovered some really big penguins and were like ""wow, these guys must be the kings of penguins, let's call them King Penguins!"", but then they found EVEN BIGGER penguins, so they were like ""shit uuuuuuhh Emperor Penguins""? Yeah this is like that."
+
+ItemName.QueenSlimeBossBag,Bag of Regret (Emperor Slans)
+ItemTooltip.QueenSlimeBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'It was worth a shot...'"
+
+ItemName.QueenSlimeTrophy,Emperor Slans Trophy
+ItemName.QueenSlimeMasterTrophy,Emperor Slans Sanslic
+ItemName.QueenSlimeMask,Emperor Slans Mask
+
+
+#[ destroyer ],<<-|----------------------------------------------|->>
+
+
+NPCName.Probe,Sansian Core
+NPCName.TheDestroyer,Mecha Biggler
+NPCName.TheDestroyerBody,Mecha Biggler
+NPCName.TheDestroyerTail,Mecha Biggler
+
+Bestiary_FlavorText.npc_TheDestroyer,"A massive mech modelled off a biggler, but partly made of Sansnian technology. Made to seek out non-loogie entities, its many segments open up whenever it finds a target, revealing its many sansnic cores."
+Bestiary_FlavorText.npc_Probe,"Counter-intuitively, the many cores of the Mecha Biggler are sansnium-based. They come equipped with powerful sansers (sans lasers) and propulsion sanstems (sans systems), just in case."
+
+ItemTooltip.MechanicalWorm,"Sansmmons the Mecha Biggler"
+
+ItemName.DestroyerBossBag,"Bag of Regret (Mecha Biggler)"
+ItemTooltip.DestroyerBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'mega booty blasted'"
+
+ItemName.DestroyerTrophy,Mecha Biggler Trophy
+ItemName.DestroyerMasterTrophy,Mecha Biggler Sanslic
+ItemName.DestroyerMask,Mecha Biggler Mask
+
+ItemName.DestroyerEmblem,Sanstroyer Sansblem
+
+
+#[ empress of light ],<<-|---------------------------------------|->>
+
+
+NPCName.HallowBoss,Emperor of Sansperor
+
+Bestiary_FlavorText.npc_HallowBoss,"A Sans that has absorbed the power of 7 human SOULs, his new god-like abilities (and height) strike fear on the locals. Not to be confused with Sans Seraphim."
+
+ItemName.FairyQueenBossBag,Bag of Regret (Emperor of Sansperor)
+ItemTooltip.FairyQueenBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'Bones and more bones'"
+
+ItemName.FairyQueenTrophy,Emperor of Sansperor Trophy
+ItemName.FairyQueenMasterTrophy,Emperor of Sansperor Sanslic
+
+
+#[ moon lord ],<<-|----------------------------------------------|->>
+
+
+NPCName.MoonLordCore,[ B I G   S A N S ] SOUL Core
+NPCName.MoonLordFreeEye,True Eye of Sans
+NPCName.MoonLordHand,[ B I G   S A N S ] SOUL Hand
+NPCName.MoonLordHead,[ B I G   S A N S ] SOUL Head
+NPCName.MoonLordLeechBlob,Sanar Leech Clot
+
+Enemies.MoonLord,[ B I G   S A N S ] SOUL
+
+ItemName.MoonLordBossBag,Bag of Regret ([ B I G   S A N S ] SOUL)
+ItemTooltip.MoonLordBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'[c/ff0000:...should be burning in hell]'"
+
+ItemName.MoonLordMasterTrophy,[ B I G   S A N S ] SOUL Sanslic
+
+
+#[  ],<<-|-------------------------------------------------------|->>

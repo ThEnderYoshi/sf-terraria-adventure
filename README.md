@@ -20,7 +20,7 @@ to a lesser extent, **18,288** text entries.
 
 ![snapshot of a forest pond](.github/images/purity.png)
 
-![snapshot of a forest pond](.github/images/corruption.png)
+![snapshot a corruption biome](.github/images/corruption.png)
 
 ## ![icon](.github/images/icon-releases.png) Releases
 
@@ -44,12 +44,12 @@ Last updated: _{@p time @} UTC_
 - **{@p snd @}** Sounds
 @end-template-->
 <!--@region FileCount-->
-Last updated: _2024-01-08 UTC_
+Last updated: _2024-01-12 UTC_
 
-- **1329** Images (**32%** of the way to the next update)
-- **3353** Text Entries
-- **19** Songs
-- **22** Sounds
+- **1379** Images (**37%** of the way to the next update)
+- **3452** Text Entries
+- **20** Songs
+- **25** Sounds
 <!--@end-region-->
 
 ## ![icon](.github/images/icon-other.png) QnA

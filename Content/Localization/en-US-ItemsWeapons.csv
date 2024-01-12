@@ -20,6 +20,11 @@ ItemTooltip.Flamelash,"Sansmmons a controllable block of burning ice
 
 ItemName.SpaceGun,Solar Harvester
 
+ItemName.BeeGun,Ghost Grill
+ItemTooltip.BeeGun,"Leaks a bunch of gohsts that chase Sanses
+'WHY IS ALL THEIR FOOD
+FULL OF GHOSTS'"
+
 
 #[ melee : boomerangs ],<<-|-------------------------------------|->>
 
@@ -92,6 +97,10 @@ ItemTooltip.Starfury,"Blazes stars right out of the skans
 ItemName.LightsBane,Sans' Bane
 ItemName.BloodButcherer,Justicemaker
 
+ItemName.BeeKeeper,Mothersword
+ItemTooltip.BeeKeeper,"Sansmmons killer gohsts after striking Sanses
+Small chance to turn their controllers upside-down"
+
 ItemName.FieryGreatsword,TwistedSword
 ItemTooltip.FieryGreatsword,'It's... kind of scary...'
 
@@ -107,6 +116,11 @@ ItemName.WoodYoyo,ThEYEme (thyme eye)
 ItemName.CorruptYoyo,Dreamy Eye
 ItemName.CrimsonYoyo,Eye of the War
 ItemName.JungleYoyo,EYEriel
+
+ItemName.HiveFive,Gohst Eye
+ItemTooltip.HiveFive,"Spawns killer Gohsts after striking sanses
+'Under the SPAWNER's watchful eye (singular)'"
+
 ItemName.Cascade,Sanscade
 ItemName.Yelets,Eye of the GOAT
 
@@ -128,6 +142,10 @@ ItemName.GoldBow,Papyld Bow
 ItemName.PlatinumBow,Papynum Bow
 
 ItemName.DemonBow,Stache Scorcher
+
+ItemName.BeesKnees,Carbo
+ItemTooltip.BeesKnees,"Douses Bad Thyme Sansrrows with mold and battery acid
+'Now THIS is the kind of bow a car would use!'"
 
 ItemName.MoltenFury,SpiralBow
 ItemTooltip.MoltenFury,"Sets Bad Thyme Sansrrows on fire"
@@ -153,6 +171,9 @@ ItemTooltip.Uzi,"'Oh look it's my neighbor'"
 ItemName.Shuriken,Sansriken
 ItemName.ThrowingKnife,Hateful Knife
 
+ItemName.Beenade,Spooky Cocktail
+ItemTooltip.Beenade,Explodes into many Gohsts
+
 
 #[ ranged : misc. ammo ],<<-|------------------------------------|->>
 
@@ -172,10 +193,13 @@ ItemName.PainterPaintballGun,"Out!Code Standard Issue Ink Rifle"
 
 
 ItemName.FlinxStaff,Stable Saff (Sans Staff)
-ItemTooltip.FlinxStaff,"Sansmmons a stable symmetric Sans to protect you"
+ItemTooltip.FlinxStaff,"Sansmmons a stable symmetric Sans to protect your behind"
+
+ItemName.HornetStaff,Gohst Spawner
+ItemTooltip.HornetStaff,"Sansmmons an anger gohst to protect your behind"
 
 ItemName.ImpStaff,CookieStaff
-ItemTooltip.ImpStaff,"Sansmmons a round boy to protect you"
+ItemTooltip.ImpStaff,"Sansmmons a round boy to protect your behind"
 
 
 #[ summoner : whips ],<<-|---------------------------------------|->>

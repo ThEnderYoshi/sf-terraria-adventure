@@ -35,6 +35,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
   Derpfish
 - _Crates:_ Wooden, Iron, Gold, Jungle
+- _Summons:_ Abeemination
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
@@ -42,9 +43,17 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Moonglow (plus seeds and planter box)
 - Sky Blue Dye/Paint/Flower
 - Violet Dye/Paint/Husk
-- Honey.
+- Honey (liquid + bucket + bottled)
 - Guide to Environmental Preservation
 - Stinger
+- Bee Wax
+
+#### Bosses
+
+(Trophies and Relics are not inclided, they'll be done all at once when all
+bosses have been completed)
+
+- Queen Bee
 
 #### NPCs
 
@@ -58,31 +67,38 @@ As the name implies, this is the update that retextures the Jungle biome.
 (Equipped armor GFX will not be part of the pack for a good while)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt
-- _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap
+  Ancient Cobalt, Bee Armor
+- _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
+  Queen Bee Mask, Bee Set
 
 #### Weapons
 
-- _Yoyos:_ Amazon, Yelets
+- _Yoyos:_ Amazon, Yelets, Hive-Five
+- _Swords:_ Bee Keeper
+- _Bows:_ The Bee's Knees
 - _Guns:_ Uzi, Paintball Gun
+- _Magic Guns:_ Bee Gun
+- _Minions:_ Hornet Staff
 
-### Tools
+#### Tools
 
-- _Painting_: Paintbrush (+ spectral), Paint Roller (+ spectral),
+- _Painting:_ Paintbrush (+ spectral), Paint Roller (+ spectral),
   Paint Scraper (+ spectral)
-- _Powders_: Purification Powder, Vile Powder, Vicious Powder
+- _Powders:_ Purification Powder, Vile Powder, Vicious Powder
 
-### Accessories
+#### Accessories
 
 - _Summoner:_ Hercules Beetle
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
 - _Wings:_ Leaf Wings
-- _Pets:_ Tiki Totem
+- _Pets:_ Tiki Totem, Nectar, Sparkling Honey
+- _Expert:_ Hive Pack
 
 ### Changed
 
 - Buckets are now jugs instead of capsules.
+- Bottles are now for condiments instead of being sans-shaped.
 
 ### Fixes
 

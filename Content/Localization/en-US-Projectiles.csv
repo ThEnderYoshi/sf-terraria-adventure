@@ -10,6 +10,10 @@ ProjectileName.VilethornBase,""Rocket"" Clam
 ProjectileName.VilethornTip,""Rocket"" Clam
 ProjectileName.WandOfSparkingSpark,Fabulous Spark
 
+ProjectileName.Bee,Gst
+ProjectileName.GiantBee,Ghst
+ProjectileName.BeeArrow,Gsts
+
 
 #[ friendly : melee ],<<-|---------------------------------------|->>
 
@@ -48,6 +52,7 @@ ProjectileName.CrimsonYoyo,Eye of the War
 ProjectileName.JungleYoyo,EYEriel
 ProjectileName.Cascade,Sanscade
 ProjectileName.Yelets,Eye of the GOAT
+ProjectileName.HiveFive,Gohst Eye
 
 
 #[ friendly : ranged ],<<-|--------------------------------------|->>
@@ -58,11 +63,15 @@ ProjectileName.Seed,Tiny Sprout
 
 ProjectileName.ThrowingKnife,Hateful Knife
 
+ProjectileName.Beenade,Spooky Cocktail
+
 
 #[ friendly : summoner ],<<-|------------------------------------|->>
 
 
 ProjectileName.FlinxMinion,Stable Symmetric Sans
+ProjectileName.Hornet,Anger Gohst
+ProjectileName.HornetStinger,Anger Gohst Ball
 ProjectileName.FlyingImp,Lancer
 
 
@@ -73,6 +82,7 @@ ProjectileName.MiniMinotaur,Mini Tey
 ProjectileName.Penguin,Pingus
 ProjectileName.ShadowMimic,Mini Goomb
 ProjectileName.TikiSpirit,Sans the Idea
+ProjectileName.BabyHornet,Gohst
 
 
 #[ friendly : tools ],<<-|---------------------------------------|->>
@@ -98,6 +108,8 @@ ProjectileName.DeerclopsIceSpike,Sance Spike
 ProjectileName.DeerclopsRangedProjectile,Sansbris
 
 ProjectileName.EyeLaser,San's Fired Lazor
+
+ProjectileName.QueenBeeStinger,MOTHERBALL
 
 
 #[ hostile : snow ],<<-|-----------------------------------------|->>

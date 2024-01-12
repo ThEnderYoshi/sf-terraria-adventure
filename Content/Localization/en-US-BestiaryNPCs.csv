@@ -101,13 +101,13 @@ Bestiary_FlavorText.npc_Bee,"This is like a Gohst, if it was smaller."
 Bestiary_FlavorText.npc_BeeSmall,"This is like a Ghst, if it was smaller."
 
 Bestiary_FlavorText.npc_ManEater,"Did you know that Gaster is left-handed? Well me neither, but that seems to be the case - his many left hands are way stronger than his right ones!"
-Bestiary_FlavorText.npc_SpikedJungleSlime,"Wallpaper Mold and battery acid seem to have a strange reaction together. This Moldy Slans found out first-hand, and is here to share the spooks with you!"
+Bestiary_FlavorText.npc_SpikedJungleSlime,"Wallpaper Mold and battery acid seem to have a scary reaction together. This Moldy Slans found out first-hand, and is here to share the spooks with you!"
 
 Bestiary_FlavorText.npc_LacBeetle,"This used to be a normal purple sans, but is no more. However, through sheer Perseverance, what is now a small pile of bones has started moving on its own!"
 
 #[ surface ],<<-|------------------------------------------------|->>
 
-Bestiary_FlavorText.npc_BlueSlime,"These friendly little fellas aren't affraid to defend themselves!"
+Bestiary_FlavorText.npc_BlueSlime,"These friendly little fellas aren't afraid to defend themselves!"
 Bestiary_FlavorText.npc_GreenSlime,"As the normal slanses, they are quite small, but they still pack a punch!"
 Bestiary_FlavorText.npc_PurpleSlime,"As the standard slanses, these guy's are quite hefty. Take care around them!"
 Bestiary_FlavorText.npc_Pinky,"If you know anything about Sans, you know never to underestimate seemingly small and weak characters."

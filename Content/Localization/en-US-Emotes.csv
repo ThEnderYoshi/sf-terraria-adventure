@@ -1,0 +1,53 @@
+Key,Translation
+
+
+#[ biomes ],<<-|-------------------------------------------------|->>
+
+
+EmojiName.BiomeCorruption,luigifanfic
+EmojiName.BiomeCrimson,nosansland
+EmojiName.BiomeDesert,wastes
+EmojiName.BiomeHallow,darkworld
+EmojiName.BiomeJungle,torielshouse
+EmojiName.BiomeLavalayer,undersans
+EmojiName.BiomeOtherworld,sansface
+EmojiName.BiomeRocklayer,sansverns
+EmojiName.BiomeSnow,consanstrate
+
+
+#[ bosses ],<<-|-------------------------------------------------|->>
+
+
+EmojiName.BossBoC,sevenbones
+EmojiName.BossDeerclops,sanstrocity
+EmojiName.BossDestroyer,mechabiggler
+EmojiName.BossEmpressOfLight,sansperor
+EmojiName.BossEoC,eos
+EmojiName.BossEoW,bow
+EmojiName.BossKingSlime,kingslans
+EmojiName.BossMoonmoon,bigsanssoul
+EmojiName.BossQueenBee,motherspawner
+EmojiName.BossWoF,wob
+
+
+#[ critters ],<<-|-----------------------------------------------|->>
+
+
+EmojiName.CritterBee,gohst
+EmojiName.CritterSlime,slans
+
+
+#[ debuffs ],<<-|------------------------------------------------|->>
+#[ town npcs ],<<-|----------------------------------------------|->>
+
+
+EmojiName.TownArmsDealer,sc
+EmojiName.TownBartender,punished
+EmojiName.TownBestiaryGirl,fur
+EmojiName.TownBestiaryGirlFox,fur2
+EmojiName.TownGoblinTinkerer,nerd
+EmojiName.TownGuide,classic
+EmojiName.TownMechanic,gaster
+EmojiName.TownMerchant,koridai
+EmojiName.TownNurse,medic
+EmojiName.TownPainter,ink

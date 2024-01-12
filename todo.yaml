@@ -6,14 +6,14 @@ important:
     - Add statues for all current enemies.
     - Add Bramble Crate. (waiting on Temple)
     - Add Witch Doctor. (waiting on Temple)
+    - Add Queen Bee pet.
     - sort out stinger recipes:
-        abeemination: Waiting on Queen Bee
         poison dart: Waiting on a theme for dart weapons
         flask of poison: Waiting on Witch Doctor (after Temple)
-        amazon: Waiting on Vine & Jungle Spore
-        blade of grass: Waiting on Vine & Jungle Spore
+        amazon: Waiting on Jungle Spore
+        blade of grass: Waiting on Jungle Spore
         jungle shirt: Waiting on Jungle Spore
-        snapthorn: Waiting on Vine & Jungle Spore
+        snapthorn: Waiting on Jungle Spore
         thorn chakram: Waiting on Jungle Spore
     - sort out vine recipes:
         amazon: see above
@@ -22,6 +22,8 @@ important:
         jungle pants: Waiting on Jungle Spore
         snapthorn: see above
         axe of regrowth: Waiting on Staff of Regrowth & Jungle Spores
+  BEFORE DST UPDATE RELEASES:
+    - Check out DSTNoise.png ;)
 
 milestones:
   start:     2022-07-12
@@ -48,6 +50,7 @@ future ideas:
   - Dreadnautilus -> Onionsans
 
 long-term notes:
+  - Move ItemName.DestroyedEmblem out of en-US-Bosses.csv
   - Potions are condiments.
   - Foods are slippers.
   - Fishes are (happy) worms (parasites).
@@ -129,19 +132,18 @@ unfinished textures:
     - 'Icon_Tags_Shadow'
 reconsider:
   Gore_:
-    - '1218'        # These coins are being spewed by the goomba pet.
-                    # Maybe make them more related to the goomber?
+    - '1218' # These coins are being spewed by the goomba pet.
+             # Maybe make them more related to the goomber?
   Item_:
-    - '7/10'        # Iron hammer/axe. They look really similar.
-    - '31'          # Bottle. Didn't like how this one turned out.
-    - '2348'        # Potion. Not sure how to feel about the design.
+    - '7/10' # Iron hammer/axe. They look really similar.
+    - '2348' # Potion. Not sure how to feel about the design.
   NPC_:
-    - '48'          # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
-    - '121'         # Slimer. Wing animation sucks.
-    - '134'         # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
-    - '458'         # Eternia Crystal. Sprite feels like it needs a couple tweaks.
+    - '48'   # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
+    - '121'  # Slimer. Wing animation sucks.
+    - '134'  # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
+    - '458'  # Eternia Crystal. Sprite feels like it needs a couple tweaks.
   UI/Cursor_:
-    - '3'           # Star cursor. Looks weird.
+    - '3'    # Star cursor. Looks weird.
   <other>:
     - Achievement UI assets
 broken:
@@ -190,6 +192,7 @@ tools:
   t_pack_diagnostic:
     - Make scan check for image sizes.
     - Make scan keep track of different (and invalid) languages.
+    - Make scan at least count music and sounds.
 
 text placeholders:
   format: '#( placeholder : { name } )[,{ aliases }]'

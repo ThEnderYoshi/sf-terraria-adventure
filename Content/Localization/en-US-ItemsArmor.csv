@@ -50,6 +50,9 @@ ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
 
 #[ jungle ],<<-|-------------------------------------------------|->>
 
+
+#comment,Ancient Cobalt
+
 ItemName.AncientCobaltHelmet,Megamet
 ItemName.AncientCobaltBreastplate,Megaplate
 ItemName.AncientCobaltLeggings,Megaboots
@@ -59,25 +62,42 @@ ItemTooltip.AncientCobaltHelmet,"[c/ff0000:+40 max TP]
 [c/ff0000:+6% magic CRIT]
 'what'"
 ItemTooltip.AncientCobaltBreastplate,"[c/ff0000:+10 max TP]
-[c/ff0000:+6% magic DMG]"
+[c/ff0000:+6% magic AT]"
 ItemTooltip.AncientCobaltLeggings,"[c/ff0000:+20 max TP]
 [c/ff0000:+6% magic CRIT]"
+
+#comment,Bee Armor
+
+ItemName.BeeHeadgear,Gohst Cap
+ItemName.BeeBreastplate,Gohst Robe
+ItemName.BeeGreaves,Gohst Slippers
+
+#( placeholder : minion ),minion
+ItemTooltip.BeeHeadgear,"[c/ff0000:+4% minion AT]
+[c/ff0000:+1 minion]"
+ItemTooltip.BeeBreastplate,"[c/ff0000:+4% minion AT]
+[c/ff0000:+1 minion]"
+ItemTooltip.BeeGreaves,"[c/ff0000:+5% minion AT]"
+
+ArmorSetBonus.Bee,"+10% minion AT"
+
+#comment,Turtle
 
 ItemName.TurtleHelmet,Reinforced Luigium Stache n' Cap
 ItemName.TurtleScaleMail,Reinforced Luigium Plumbin' Overalls
 ItemName.TurtleLeggings,Reinforced Luigium Stompin' Boots
 
 #( placeholder : melee ),melee
-ItemTooltip.TurtleHelmet,"[c/ff0000:+15% melee DMG]
+ItemTooltip.TurtleHelmet,"[c/ff0000:+15% melee AT]
 [c/ff0000:AGGR ↗]"
-ItemTooltip.TurtleLeggings,"[c/ff0000:+8% melee DMG]
+ItemTooltip.TurtleLeggings,"[c/ff0000:+8% melee AT]
 [c/ff0000:+8% melee CRIT]
 [c/ff0000:AGGR ↗]"
-ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% melee DMG]
+ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% melee AT]
 [c/ff0000:AGGR ↗]"
 
 ArmorSetBonus.Turtle,"Attackers cut themselves on the plating's sharp corners
-[c/ff0000:+15% DMG Red.]"
+[c/ff0000:+15% AT Red.]"
 
 
 #[ misc. ],<<-|--------------------------------------------------|->>
@@ -96,9 +116,19 @@ ItemName.JimsCap,Boney's Cap
 #[ vanity : sets ],<<-|------------------------------------------|->>
 
 
+#comment,Archaeologist
+
 ItemName.ArchaeologistsHat,Boss Horns
 ItemName.ArchaeologistsJacket,Boss Robe
 ItemName.ArchaeologistsPants,Boss Slippers
+
+#comment,Bee Set
+
+ItemName.BeeHat,Kind Hat
+ItemName.BeeShirt,Kind Apron
+ItemName.BeePants,Kind Boots
+
+#comment,Rune Set
 
 ItemName.RuneHat,Snowy Antlers
 ItemName.RuneRobe,Snowy Robe
