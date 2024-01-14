@@ -54,5 +54,9 @@ ItemName.TropicalSmoothie,Mold Juice
 ItemTooltip.TropicalSmoothie,"{$CommonItemTooltip.MinorStats}
 'Moist and delicious'"
 
+ItemName.GrubSoup,Mold Ball
+ItemTooltip.GrubSoup,"{$CommonItemTooltip.MediumStats}
+'Mold salad, yummy yummy!'"
+
 
 #[ misc ],<<-|---------------------------------------------------|->>

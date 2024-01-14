@@ -6,7 +6,6 @@ important:
     - Add statues for all current enemies.
     - Add Bramble Crate. (waiting on Temple)
     - Add Witch Doctor. (waiting on Temple)
-    - Add Queen Bee pet.
     - sort out stinger recipes:
         poison dart: Waiting on a theme for dart weapons
         flask of poison: Waiting on Witch Doctor (after Temple)
@@ -68,6 +67,58 @@ boss todos:
       - Larvae
 
 unfinished textures:
+  critter cages:
+    - '275'         # Bunny
+    - '276'         # Squirrel
+    - '277'         # Mallard Duck
+    - '278'         # White Duck
+    - '279'         # White Bird
+    - '280'         # Blue Bird
+    - '281'         # Red Bird
+    - '282'         # Goldfish
+    - '285'         # Snail
+    - '286'         # Glow Snail
+    - '288'         # Monarch Butterfly
+    - '289'         # Purple Butterfly
+    - '290'         # Red Butterfly
+    - '291'         # Blue Butterfly
+    - '292'         # Yellow Butterfly
+    - '293'         # White Butterfly
+    - '294'         # Zebra Butterfly
+    - '295'         # Orange Butterfly
+    - '296'         # Yellow Scorpion
+    - '297'         # Black Scorpion
+    - '298'         # Frog
+    - '299'         # Mouse
+    - '309'         # Penguin
+    - '310'         # Worm
+    - '339'         # Grasshopper
+    - '391'         # Enchanted Nightcrawler
+    - '412'         # Squirrel 2.0
+    - '413'         # Gold Squirrel
+    - '582'         # Lava Snail
+    - '598'         # Obsidifish?
+    - '599'         # Amethyst Bunny
+    - '600'         # Topaz Bunny
+    - '601'         # Sapphire Bunny
+    - '602'         # Emerald Bunny
+    - '603'         # Ruby Bunny
+    - '604'         # Diamond Bunny
+    - '605'         # Amber Bunny
+    - '606'         # Amethyst Squirrel
+    - '607'         # Topaz Squirrel
+    - '608'         # Sapphire Squirrel
+    - '609'         # Emerald Squirrel
+    - '610'         # Ruby Squirrel
+    - '611'         # Diamond Squirrel
+    - '612'         # Amber Squirrel
+    - '619'         # Truffle Worm
+    - '629'         # Stinkbug
+    - '632'         # Red Macaw
+    - '640'         # Blue Macaw
+    - '643'         # Toucan
+    - '644'         # Cockatiel 1
+    - '645'         # Cockatiel 2
   Background_:
     - '93/160-170'  # Could use some more touches
     - '261-262'     # Recolor of vanilla image
@@ -193,6 +244,8 @@ tools:
     - Make scan check for image sizes.
     - Make scan keep track of different (and invalid) languages.
     - Make scan at least count music and sounds.
+  other:
+    - Make README updates automatic again.
 
 text placeholders:
   format: '#( placeholder : { name } )[,{ aliases }]'

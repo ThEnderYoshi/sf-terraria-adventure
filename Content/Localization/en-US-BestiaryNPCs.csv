@@ -15,10 +15,15 @@ CommonBestiaryFlavor.GoldCritter,"
 #[ critters ],<<-|-----------------------------------------------|->>
 
 
+#comment,"Bait power: 15% -> ok, 25% -> good, 40% -> great"
+
 Bestiary_FlavorText.npc_Frog,"Frog? More like
 
 pog"
 Bestiary_FlavorText.npc_GoldFrog,"{$Bestiary_FlavorText.npc_Frog}{$CommonBestiaryFlavor.GoldCritter}"
+Bestiary_FlavorText.npc_Grubby,"A little chunk of Wallpaper Mold that seeks to spread Toriel's House. Makes for ok parasite bait."
+Bestiary_FlavorText.npc_Sluggy,"A little chunk of Wallpaper Mold that seeks to spread Toriel's House. Makes for good parasite bait."
+Bestiary_FlavorText.npc_Buggy,"A little chunk of Wallpaper Mold that seeks to spread Toriel's House. Makes for great parasite bait."
 
 Bestiary_FlavorText.npc_Stinkbug,"ERROR: NPC NOT FOUND"
 

@@ -87,13 +87,14 @@ LegacyTooltip.51,Absolutely worthlans
 
 
 CommonItemTooltip.BannerBonus,"Provides [ B I G   S A N S ]'s blessing against "
+CommonItemTooltip.SpecialCrafting,"Used to craft "
 
 CommonItemTooltip.RightClickToOpen,<right> to sanspen (sans open)
 CommonItemTooltip.Sentry,Sansmmons a sanstry
 CommonItemTooltip.TeleportationPylon,"Telesans to another sanslon when 2 friendly sanses are nearby
 You can only place one per type and in a matching biome"
 
-LegacyTooltip.32,Costs
+LegacyTooltip.32,"Costs"
 LegacyTooltip.52,"Costs "
 
 LegacyTooltip.33,[c/7f7f7f:Sansumable]
@@ -331,10 +332,16 @@ ItemTooltip.SoulofLight,"'The essanse of darkners'"
 
 ItemName.Frog,Pog
 ItemName.GoldFrog,Cool Pog
+ItemName.Grubby,Purple Moldbug
+ItemName.Sluggy,Yellow Moldbug
+ItemName.Buggy,White Moldbug
 
 ItemName.Terrarium,Test Chamber
 ItemName.FrogCage,Pog Chamber
 ItemName.GoldFrogCage,Cool Pog Chamber
+ItemName.CageGrubby,Purple Moldbug Chamber
+ItemName.CageSluggy,Yellow Moldbug Chamber
+ItemName.CageBuggy,White Moldbug Chamber
 
 ItemName.Stinkbug,UNUSED
 ItemName.StinkbugCage,UNUSED Chamber
@@ -526,6 +533,14 @@ ItemName.BambooTable,Tooth Stack Sansble
 ItemName.BambooToilet,Tooth Stack Dispatch Hatch
 
 
+#[ furniture : honey ],<<-|--------------------------------------|->>
+
+
+ItemName.HoneyBlock,Coagulated Battery Acid
+ItemName.CrispyHoneyBlock,Gohst Sauce Block
+ItemName.HoneyPlatform,Car Exhaust Comic
+
+
 #[ furniture : paintings ],<<-|----------------------------------|->>
 
 
@@ -536,22 +551,6 @@ ItemTooltip.GoblinsPlayingPoker,"By SansFanfic!Sans
 ItemName.DoNotStepontheGrass,Days Gone By
 ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Era)'
 'Things used to be good'"
-
-
-#[ furniture : statues ],<<-|------------------------------------|->>
-
-
-ItemName.AngelStatue,Sansgel Stanstue
-ItemName.GoblinStatue,Lnik Sanstue
-ItemName.HarpyStatue,Blaster Rider Sanstue
-ItemName.HornetStatue,Gohst Stanstue
-
-
-#[ furniture : traps ],<<-|--------------------------------------|->>
-
-
-ItemName.BeeHive,Remote Spawner
-MapObject.BeeHive,"{$ItemName.BeeHive}"
 
 
 #[ furniture : other ],<<-|--------------------------------------|->>
@@ -576,6 +575,11 @@ ItemTooltip.IronskinPotion,"[c/00ff00:+8DF]"
 ItemName.InfernoPotion,Sanstion of Richeous Judgement
 ItemTooltip.InfernoPotion,"A biblically accurate sansgel smites
 nearby enemies with richeous flames"
+
+ItemName.FishingPotion,Biltricide Sauce
+ItemTooltip.FishingPotion,"Makes you more attractive to parasites
+'Don't ask me where the extra
+parasites are coming from'"
 
 ItemName.GreaterHealingPotion,HP Potion EX
 ItemName.HealingPotion,HP Potion+
@@ -604,6 +608,9 @@ ItemTooltip.LeadAnvil,"{$ItemTooltip.IronAnvil}"
 
 ItemName.Sawmill,Sansmill
 ItemTooltip.Sawmill,"Used for advanced thyme crafting"
+
+ItemName.HoneyDispenser,Automotive Workshop
+ItemTooltip.HoneyDispenser,"{$CommonItemTooltip.SpecialCrafting}Coagulated Battery Acid furniture"
 
 
 #[ ender chests ],<<-|-------------------------------------------|->>
@@ -684,7 +691,7 @@ ItemTooltip.Bomb,"Provides delicious improvements to stats
 'Spamton NutriNose™: Try it inside your house!'"
 
 
-#[ tools : painters ],<<-|---------------------------------------|->
+#[ tools : painters ],<<-|---------------------------------------|->>
 
 
 ItemName.Paintbrush,Inky Pencil
@@ -710,14 +717,14 @@ ItemTooltip.SpectrePaintScraper,"{$ItemTooltip.PaintScraper}
 'Do you actually believe this once belonged to Ink???'"
 
 
-#[ tools : placers ],<<-|----------------------------------------|->
+#[ tools : placers ],<<-|----------------------------------------|->>
 
 
 ItemName.HiveWand,Spawner Spawner
 ItemTooltip.HiveWand,"Spawns Spawner Blocks"
 
 
-#[ tools : diggers ],<<-|----------------------------------------|->
+#[ tools : diggers ],<<-|----------------------------------------|->>
 
 
 ItemName.WoodenHammer,Bad Thyme Sansmmer

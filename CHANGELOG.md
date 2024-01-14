@@ -19,19 +19,21 @@ or already have some content done for it.
 
 ## UPDATE 2 - _The Jungle Update_ - [ Upcoming ]
 
+<!-- NOTE: Organize this changelog before the update releases. -->
+
 As the name implies, this is the update that retextures the Jungle biome.
 
 ### Added
 
-- _Buffs:_ Regeneration, Honey
-- _Debuffs:_ Bleeding
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
-  Rich Mahogany, Bamboo, Large Bamboo
+  Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
+- _Potions:_ Fishing
+- _Crafting Stations:_ Honey Dispenser
 - _Furniture Sets:_ Rich Mahogany, Bamboo
 - _Pylons:_ Forest, Jungle
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
-  Apple, Apple Juice
+  Apple, Apple Juice, Grub Soup
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
   Derpfish
 - _Crates:_ Wooden, Iron, Gold, Jungle
@@ -50,7 +52,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 #### Bosses
 
-(Trophies and Relics are not inclided, they'll be done all at once when all
+(Trophies and Relics are not included, they'll be done all at once when all
 bosses have been completed)
 
 - Queen Bee
@@ -61,6 +63,14 @@ bosses have been completed)
 - _Jungle:_ (Spiked) Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
   Giant Tortoise, Hornet, Man Eater, Lac Beetle, Bee, Small Bee
 - _Underground:_ Cave/Giant Bat
+- _Critters:_ Grubby, Sluggy, Buggy
+
+#### Buffs
+
+Minion/pet/minecart buffs are not included here.
+
+- _Positive:_ Regeneration, Honey, Fishing
+- _Negative:_ Bleeding
 
 #### Armors
 

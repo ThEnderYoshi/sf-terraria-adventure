@@ -30,6 +30,9 @@ BuffDescription.Inferno,"L + Ratio + Heathen + No Maidens"
 BuffName.Ironskin,[c/4782c9:Reinforced Membrane]
 BuffDescription.Ironskin,"+8 DF"
 
+BuffName.Fishing,[c/4782c9:Dewormed]
+BuffDescription.Fishing,"You are more attractive to parasites"
+
 BuffName.MonsterBanner,[c/4782c9:Sansnner]
 BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
 

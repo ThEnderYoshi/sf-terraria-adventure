@@ -1,0 +1,32 @@
+Key,Translation
+
+
+#[ traps ],<<-|--------------------------------------------------|->>
+
+
+ItemName.BeeHive,Remote Spawner
+MapObject.BeeHive,"{$ItemName.BeeHive}"
+
+
+#[ statues : enemies ],<<-|--------------------------------------|->>
+
+
+ItemName.GoblinStatue,Lnik Sanstue
+ItemName.HarpyStatue,Blaster Rider Sanstue
+ItemName.HornetStatue,Gohst Stanstue
+
+
+#[ statues : critters ],<<-|-------------------------------------|->>
+
+
+ItemName.FrogStatue,Pog Stanstue
+ItemName.BuggyStatue,Moldbug Stanstue
+
+
+#[ statues : decorative ],<<-|-----------------------------------|->>
+
+
+ItemName.AngelStatue,Sansgel Stanstue
+
+
+#[  ],<<-|-------------------------------------------------------|->>
