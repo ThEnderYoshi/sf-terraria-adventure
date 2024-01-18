@@ -30,7 +30,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
-- _Furniture Sets:_ Rich Mahogany, Bamboo
+- _Furniture Sets:_ Rich Mahogany, Bamboo, Honey
 - _Pylons:_ Forest, Jungle
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice, Grub Soup
@@ -114,6 +114,7 @@ Minion/pet/minecart buffs are not included here.
 
 - Vanilla Bestiary icons are no longer transparent.
 - Rain bestriary icon now no longer in the place of the Ocean's icon.
+- Ebonwood Lamp is no longer offset by 1 pixel when turned off.
 
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 

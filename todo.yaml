@@ -181,6 +181,8 @@ unfinished textures:
     - '597'         # Pylon bases.
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'
+  other:
+    - 'Rain.png'    # Needs updated water colors.
 reconsider:
   Gore_:
     - '1218' # These coins are being spewed by the goomba pet.

@@ -87,7 +87,7 @@ LegacyTooltip.51,Absolutely worthlans
 
 
 CommonItemTooltip.BannerBonus,"Provides [ B I G   S A N S ]'s blessing against "
-CommonItemTooltip.SpecialCrafting,"Used to craft "
+CommonItemTooltip.SpecialCrafting,"Used to make furniture out of "
 
 CommonItemTooltip.RightClickToOpen,<right> to sanspen (sans open)
 CommonItemTooltip.Sentry,Sansmmons a sanstry
@@ -539,6 +539,26 @@ ItemName.BambooToilet,Tooth Stack Dispatch Hatch
 ItemName.HoneyBlock,Coagulated Battery Acid
 ItemName.CrispyHoneyBlock,Gohst Sauce Block
 ItemName.HoneyPlatform,Car Exhaust Comic
+ItemName.HoneyWorkBench,Automotive Work Bans (bench sans)
+
+ItemName.HoneyBathtub,Automotive Badtub
+ItemName.HoneyBed,Automotive Bad
+ItemName.HoneyBookcase,Automotive Copy-of-UNDERTALEcase
+ItemName.HoneyCandelabra,Automotive Sansdelabra
+ItemName.HoneyCandle,Automotive Sansdle
+ItemName.HoneyChair,Automotive Sair
+ItemName.HoneyChandelier,Automotive Sansdelier
+ItemName.HoneyChest,Automotive Chanst (sans chest)
+ItemName.HoneyClock,Automotive Sock (sans clock)
+ItemName.HoneyDoor,Automotive Door
+ItemName.HoneyDresser,Automotive Sansser
+ItemName.HoneyLamp,Automotive Samp
+ItemName.HoneyLantern,Automotive Sanstern
+ItemName.HoneyPiano,Automotive Pans
+ItemName.HoneySink,Automotive Sansk
+ItemName.HoneySofa,Automotive Sansfa
+ItemName.HoneyTable,Automotive Sansble
+ItemName.ToiletHoney,Automotive Dispatch Hatch
 
 
 #[ furniture : paintings ],<<-|----------------------------------|->>
@@ -610,7 +630,7 @@ ItemName.Sawmill,Sansmill
 ItemTooltip.Sawmill,"Used for advanced thyme crafting"
 
 ItemName.HoneyDispenser,Automotive Workshop
-ItemTooltip.HoneyDispenser,"{$CommonItemTooltip.SpecialCrafting}Coagulated Battery Acid furniture"
+ItemTooltip.HoneyDispenser,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.HoneyBlock}"
 
 
 #[ ender chests ],<<-|-------------------------------------------|->>
