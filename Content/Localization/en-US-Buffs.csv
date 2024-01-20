@@ -37,6 +37,14 @@ BuffName.MonsterBanner,[c/4782c9:Sansnner]
 BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
 
 
+#[ whips ],<<-|--------------------------------------------------|->>
+
+
+
+BuffName.ThornWhipPlayerBuff,[c/4782c9:Gasted Out]
+BuffDescription.ThornWhipPlayerBuff,"You are in lockstep with Gaster; AT SPD ↗"
+
+
 #[ debuffs ],<<-|------------------------------------------------|->>
 
 

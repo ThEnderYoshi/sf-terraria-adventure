@@ -129,7 +129,7 @@ LegacyWorldGen.4,Placing stans in the sirt
 
 LegacyWorldGen.5,Placing sirt in the stans
 
-# LegacyWorldGen.6,|> >>--->   UNSET   <---<< <| # adding clay
+LegacyWorldGen.6,Placing brown bricks with Minecrap!
 
 LegacyWorldGen.7,Making random orifices
 LegacyWorldGen.8,Sansnerating small sanves
@@ -214,10 +214,8 @@ LegacyWorldGen.67,Loading mappe data:
 LegacyWorldGen.68,Drawing mappe:
 LegacyWorldGen.69,Creating gastrofalls
 
-LegacyWorldGen.70,Creating twilight sansrest ruans
-
-# LegacyWorldGen.71,|> >>--->   UNSET   <---<< <| # creating hornet nests
-
+LegacyWorldGen.70,Creating Toriel's House
+LegacyWorldGen.71,Spawning Spawners
 LegacyWorldGen.72,Making the [ B I G   S A N S ] dusty
 LegacyWorldGen.73,Validating [ B I G   S A N S ] save:
 LegacyWorldGen.74,Slanses are falling from the skans!
@@ -231,9 +229,7 @@ LegacyWorldGen.79,Weathering sansverns
 LegacyWorldGen.80,Chiseling mars
 LegacyWorldGen.81,Growing grans
 LegacyWorldGen.82,Disarming broken sansps
-
-# LegacyWorldGen.83,|> >>--->   UNSET   <---<< <| # growing rich mahogany
-
+LegacyWorldGen.83,Growing Wallpaper Mold
 LegacyWorldGen.84,SANS IT UP!
 
 LegacyWorldGen.85,Felling growths

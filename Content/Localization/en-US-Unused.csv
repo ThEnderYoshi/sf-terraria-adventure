@@ -13,3 +13,14 @@ Bestiary_ItemDropConditions.NotMasterMode,           |> >>=/=>   UNUSED   <=/=<<
 
 Game.RespawnInPrefix,|> >>=/=>   UNUSED   <=/=<< <|
 LegacyMisc.100,      |> >>=/=>   UNUSED   <=/=<< <|
+
+ItemName.CorruptionKeyMold,   |> >>=/=>   UNUSED   <=/=<< <|
+ItemName.CrimsonKeyMold,      |> >>=/=>   UNUSED   <=/=<< <|
+ItemName.FrozenKeyMold,       |> >>=/=>   UNUSED   <=/=<< <|
+ItemName.JungleKeyMold,       |> >>=/=>   UNUSED   <=/=<< <|
+ItemName.HallowedKeyMold,     |> >>=/=>   UNUSED   <=/=<< <|
+ItemTooltip.CorruptionKeyMold,|> >>=/=>   UNUSED   <=/=<< <|
+ItemTooltip.CrimsonKeyMold,   |> >>=/=>   UNUSED   <=/=<< <|
+ItemTooltip.FrozenKeyMold,    |> >>=/=>   UNUSED   <=/=<< <|
+ItemTooltip.HallowedKeyMold,  |> >>=/=>   UNUSED   <=/=<< <|
+ItemTooltip.JungleKeyMold,    |> >>=/=>   UNUSED   <=/=<< <|

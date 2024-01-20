@@ -45,12 +45,22 @@ CommonItemTooltip.RestoresMana,[c/00ff00:+{0} TP]
 #[ common : item stats ],<<-|------------------------------------|->>
 
 
+LegacyTooltip.0,
+
+LegacyTooltip.2," MLE AT"
+LegacyTooltip.3," RNG AT"
+LegacyTooltip.4," MGC AT"
+LegacyTooltip.53," SMN AT"
+LegacyTooltip.55," AT"
+LegacyTooltip.58," THROWING DAMAGE OMEGALUL"
+
 LegacyTooltip.25," DF"
 LegacyTooltip.30," HP"
 LegacyTooltip.31," TP"
 
 LegacyTooltip.5,% bad time chance
 LegacyTooltip.34,[c/ff7f7f:Sansmmo]
+LegacyTooltip.39,% AT
 LegacyTooltip.40,% spans (sans speed)
 LegacyTooltip.41,% bad time chance
 LegacyTooltip.42,% TP cost
@@ -63,8 +73,6 @@ LegacyTooltip.47,% sanslee spans (sans speed)
 LegacyTooltip.26,% sansxe power
 LegacyTooltip.27,% axans power
 LegacyTooltip.28,% sansmmer power
-
-LegacyTooltip.58,THROWING DAMAGE OMEGALUL
 
 
 #[ common : equipment / vanity ],<<-|----------------------------|->>
@@ -102,6 +110,8 @@ LegacyTooltip.35,[c/7f7f7f:Can't be placed]
 LegacyTooltip.36,[c/7f7f7f:Sansterial]
 LegacyTooltip.56,[c/ffff00:Marked as sansvorite]
 LegacyTooltip.57,[c/7f7f7f:-------]
+LegacyTooltip.0,[c/7f7f7f:-------]
+LegacyTooltip.1,[c/7f7f7f:Sansquipped in sanscial slot]
 
 
 #[ ammo ],<<-|---------------------------------------------------|->>
@@ -304,6 +314,7 @@ ItemName.Leather,Ruined Cloth
 ItemName.TurtleShell,Reinforced Luigium Plating
 ItemName.Stinger,Gohst Ball
 ItemName.Vine,Dingbat
+ItemName.JungleSpores,Ripe Wallpaper Mold
 
 
 #[ materials : hallow ],<<-|-------------------------------------|->>
@@ -858,6 +869,12 @@ ItemTooltip.TartarSauce,"Sansmmons a Mini Ender
 
 ItemName.TikiTotem,Sanssay (sans essay)
 ItemTooltip.TikiTotem,"Summons Sans (not the Man, but the Idea)"
+
+
+#[ grappling hooks ],<<-|----------------------------------------|->>
+
+
+ItemName.IvyWhip,WD's Grabbers
 
 
 #[ dungeon defenders 2 ],<<-|------------------------------------|->>

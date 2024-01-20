@@ -1,11 +1,11 @@
 # This is a short-term list of the next things to be added, sorted by the
 # planned order of creation.
 
+- Jungle Armor
+
 # -- End of Commit --
 
-- Jungle Spores
-- <jungle spore recipes>
-- Vine Rope
+- <hardmode jungle enemies> # Except plantera
 
 # Underground Jungle cabins
 - Ivy Chest
@@ -13,10 +13,14 @@
 - <ivy chest loot>
 - Underground Rich Mahogany Tree tiles.
 - Rich Mahogany Fence
+- Axe of Regrowth
+
+- Platera
+- <plantera-related sprites> # Except Temple Key
 
 
 # For later - BEFORE JUNGLE UPDATE RELEASES
-- Jungle Torch
+- Fix Life Fruit tooltip. # It references the wrong soul.
 - Jungle Water
 - Frog Cage
 - Gold Frog Cage
@@ -30,9 +34,15 @@
 - Axe of Regrowth
 - Bee Minecart
 - Tiles_233.png
+- <jungle-related kites>
+- Jungle splash screen
+- Jungle Echo walls
 
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
+
+# For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
+- Torch God's Favor
 
 # For later - Once all bosses are done
 - Trophies # A trading card set.

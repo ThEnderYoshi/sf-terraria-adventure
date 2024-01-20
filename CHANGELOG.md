@@ -31,6 +31,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
 - _Furniture Sets:_ Rich Mahogany, Bamboo, Honey
+- _Campfires:_ Wood, Jungle
 - _Pylons:_ Forest, Jungle
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice, Grub Soup
@@ -38,6 +39,7 @@ As the name implies, this is the update that retextures the Jungle biome.
   Derpfish
 - _Crates:_ Wooden, Iron, Gold, Jungle
 - _Summons:_ Abeemination
+- _UI:_ Summon focus indicator
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
@@ -49,6 +51,8 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Guide to Environmental Preservation
 - Stinger
 - Bee Wax
+- Jungle Spores
+- Jungle Torch
 
 #### Bosses
 
@@ -70,25 +74,27 @@ bosses have been completed)
 Minion/pet/minecart buffs are not included here.
 
 - _Positive:_ Regeneration, Honey, Fishing
-- _Negative:_ Bleeding
+- _Negative:_ Bleeding, Confusion
 
 #### Armors
 
 (Equipped armor GFX will not be part of the pack for a good while)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt, Bee Armor
+  Ancient Cobalt, Bee Armor, Jungle
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
   Queen Bee Mask, Bee Set
 
 #### Weapons
 
 - _Yoyos:_ Amazon, Yelets, Hive-Five
-- _Swords:_ Bee Keeper
+- _Swords:_ Bee Keeper, Blade of Grass
+- _Boomerangs:_ Thorn Chakram
 - _Bows:_ The Bee's Knees
 - _Guns:_ Uzi, Paintball Gun
 - _Magic Guns:_ Bee Gun
 - _Minions:_ Hornet Staff
+- _Whips:_ Leather, Snapthorn
 
 #### Tools
 
@@ -103,6 +109,7 @@ Minion/pet/minecart buffs are not included here.
 - _Debuff Immunity:_ Adhesive Bandage
 - _Wings:_ Leaf Wings
 - _Pets:_ Tiki Totem, Nectar, Sparkling Honey
+- _Hooks:_ Ivy Whip
 - _Expert:_ Hive Pack
 
 ### Changed
@@ -110,11 +117,12 @@ Minion/pet/minecart buffs are not included here.
 - Buckets are now jugs instead of capsules.
 - Bottles are now for condiments instead of being sans-shaped.
 
-### Fixes
+### Fixed
 
 - Vanilla Bestiary icons are no longer transparent.
 - Rain bestriary icon now no longer in the place of the Ocean's icon.
 - Ebonwood Lamp is no longer offset by 1 pixel when turned off.
+- Title Screen theme is not as loud anymore.
 
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 

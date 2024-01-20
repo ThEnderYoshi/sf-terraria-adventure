@@ -19,6 +19,7 @@ ProjectileName.BeeArrow,Gsts
 
 
 ProjectileName.WoodenBoomerang,Thyme Leaf Scarf
+ProjectileName.ThornChakram,Epsilon
 ProjectileName.Flamarang,Ragger
 
 ProjectileName.Mace,Sansce
@@ -44,6 +45,7 @@ ProjectileName.DaybreakExplosion,Bergentrücker
 
 ProjectileName.Starfury,Chaos Blade
 ProjectileName.StarWrath,Chaos Saber
+ProjectileName.BladeOfGrass,Dingbat Gohst
 ProjectileName.Meowmere,Temmie
 
 ProjectileName.WoodYoyo,ThEYEme (thyme eye)
@@ -74,6 +76,9 @@ ProjectileName.Hornet,Anger Gohst
 ProjectileName.HornetStinger,Anger Gohst Ball
 ProjectileName.FlyingImp,Lancer
 
+ProjectileName.BlandWhip,Sansy Tongue
+ProjectileName.ThornWhip,Gastongue
+
 
 #[ friendly : pets ],<<-|----------------------------------------|->>
 
@@ -91,6 +96,12 @@ ProjectileName.BabyHornet,Gohst
 ProjectileName.PurificationPowder,{$ItemName.PurificationPowder}
 ProjectileName.VilePowder,{$ItemName.VilePowder}
 ProjectileName.ViciousPowder,{$ItemName.ViciousPowder}
+
+
+#[ friendly : hooks ],<<-|---------------------------------------|->>
+
+
+ProjectileName.IvyWhip,{$ItemName.IvyWhip}
 
 
 #[ friendly : other ],<<-|---------------------------------------|->>

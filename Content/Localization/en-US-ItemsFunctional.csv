@@ -1,6 +1,23 @@
 Key,Translation
 
 
+#[ torches ],<<-|------------------------------------------------|->>
+
+
+ItemName.Torch,Sanch (sans torch)
+ItemName.JungleTorch,Toriel's Houch (house torch)
+
+
+#[ campfires ],<<-|----------------------------------------------|->>
+
+
+ItemName.Campfire,Campsans
+ItemName.JungleCampfire,Toriel's Camphouse
+
+ItemTooltip.Campfire,"When near a campsans: [c/00ff7f:HP regen ↗]"
+ItemTooltip.JungleCampfire,"{ItemTooltip.Campfire}"
+
+
 #[ traps ],<<-|--------------------------------------------------|->>
 
 

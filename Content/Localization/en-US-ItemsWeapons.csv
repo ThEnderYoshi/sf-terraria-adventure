@@ -30,6 +30,7 @@ FULL OF GHOSTS'"
 
 
 ItemName.WoodenBoomerang,Thyme Leaf Scarf
+ItemName.ThornChakram,Epsilon
 ItemName.Flamarang,Ragger
 
 
@@ -100,6 +101,11 @@ ItemName.BloodButcherer,Justicemaker
 ItemName.BeeKeeper,Mothersword
 ItemTooltip.BeeKeeper,"Sansmmons killer gohsts after striking Sanses
 Small chance to turn their controllers upside-down"
+
+ItemName.BladeofGrass,The Mailboxer
+ItemTooltip.BladeofGrass,"[c/ff0000:-{ Sword of WINGDINGS }-]
+Shoots Dingbat Gohsts
+Has a chance to spook sanses"
 
 ItemName.FieryGreatsword,TwistedSword
 ItemTooltip.FieryGreatsword,'It's... kind of scary...'
@@ -203,3 +209,16 @@ ItemTooltip.ImpStaff,"Sansmmons a round boy to protect your behind"
 
 
 #[ summoner : whips ],<<-|---------------------------------------|->>
+
+
+CommonItemTooltip.Whips,"Your sansmmons will focus licked sanses"
+
+ItemName.BlandWhip,Sansy Tongue
+ItemTooltip.BlandWhip,"4 SMN TAG-AT
+{$CommonItemTooltip.Whips}
+'Why does he have a tongue'"
+
+ItemName.ThornWhip,Gastongue
+ItemTooltip.ThornWhip,"6 SMN TAG-AT
+{$CommonItemTooltip.Whips}
+Lick sanses to gain AT SPD"

@@ -28,6 +28,9 @@ ItemName.GoldHelmet,Papyld Cap
 ItemName.GoldChainmail,Papyld Hoodie
 ItemName.GoldGreaves,Papyld Slippers
 
+ArmorSetBonus.MetalTier1,"[c/ff0000:+2 DF]"
+ArmorSetBonus.MetalTier2,"[c/ff0000:+3 DF]"
+
 
 #[ evil ores ],<<-|----------------------------------------------|->>
 
@@ -51,20 +54,35 @@ ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
 #[ jungle ],<<-|-------------------------------------------------|->>
 
 
+#comment,Jungle
+
+ItemName.JungleHat,Gastic Mask
+ItemName.JungleShirt,Gastic Coat
+ItemName.JunglePants,Gastic Trousers
+
+ItemTooltip.JungleHat,"[c/00ff00:+40 max TP]
+[c/ff0000:+6% MGC CRIT]
+'That's what the point of the mask is'"
+ItemTooltip.JungleShirt,"[c/00ff00:+20 max TP]
+[c/ff0000:+6% MGC AT]"
+ItemTooltip.JunglePants,"[c/00ff00:+20 max TP]
+[c/ff0000:+6% MGC CRIT]"
+
+ArmorSetBonus.Jungle,"[c/00ff7f:-16% TP usage]"
+
 #comment,Ancient Cobalt
 
 ItemName.AncientCobaltHelmet,Megamet
 ItemName.AncientCobaltBreastplate,Megaplate
 ItemName.AncientCobaltLeggings,Megaboots
 
-#( placeholder : magic ),magic
-ItemTooltip.AncientCobaltHelmet,"[c/ff0000:+40 max TP]
-[c/ff0000:+6% magic CRIT]
+ItemTooltip.AncientCobaltHelmet,"[c/00ff00:+40 max TP]
+[c/ff0000:+6% MGC CRIT]
 'what'"
-ItemTooltip.AncientCobaltBreastplate,"[c/ff0000:+10 max TP]
-[c/ff0000:+6% magic AT]"
-ItemTooltip.AncientCobaltLeggings,"[c/ff0000:+20 max TP]
-[c/ff0000:+6% magic CRIT]"
+ItemTooltip.AncientCobaltBreastplate,"[c/00ff00:+10 max TP]
+[c/ff0000:+6% MGC AT]"
+ItemTooltip.AncientCobaltLeggings,"[c/00ff00:+20 max TP]
+[c/ff0000:+6% MGC CRIT]"
 
 #comment,Bee Armor
 
@@ -72,14 +90,13 @@ ItemName.BeeHeadgear,Gohst Cap
 ItemName.BeeBreastplate,Gohst Robe
 ItemName.BeeGreaves,Gohst Slippers
 
-#( placeholder : minion ),minion
-ItemTooltip.BeeHeadgear,"[c/ff0000:+4% minion AT]
-[c/ff0000:+1 minion]"
-ItemTooltip.BeeBreastplate,"[c/ff0000:+4% minion AT]
-[c/ff0000:+1 minion]"
-ItemTooltip.BeeGreaves,"[c/ff0000:+5% minion AT]"
+ItemTooltip.BeeHeadgear,"[c/ff0000:+4% SMN AT]
+[c/00ff00:+1 SMN]"
+ItemTooltip.BeeBreastplate,"[c/ff0000:+4% SMN AT]
+[c/00ff00:+1 SMN]"
+ItemTooltip.BeeGreaves,"[c/ff0000:+5% SMN AT]"
 
-ArmorSetBonus.Bee,"+10% minion AT"
+ArmorSetBonus.Bee,"+10% SMN AT"
 
 #comment,Turtle
 
@@ -87,13 +104,12 @@ ItemName.TurtleHelmet,Reinforced Luigium Stache n' Cap
 ItemName.TurtleScaleMail,Reinforced Luigium Plumbin' Overalls
 ItemName.TurtleLeggings,Reinforced Luigium Stompin' Boots
 
-#( placeholder : melee ),melee
-ItemTooltip.TurtleHelmet,"[c/ff0000:+15% melee AT]
+ItemTooltip.TurtleHelmet,"[c/ff0000:+15% MLE AT]
 [c/ff0000:AGGR ↗]"
-ItemTooltip.TurtleLeggings,"[c/ff0000:+8% melee AT]
-[c/ff0000:+8% melee CRIT]
+ItemTooltip.TurtleLeggings,"[c/ff0000:+8% MLE AT]
+[c/ff0000:+8% MLE CRIT]
 [c/ff0000:AGGR ↗]"
-ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% melee AT]
+ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% MLE AT]
 [c/ff0000:AGGR ↗]"
 
 ArmorSetBonus.Turtle,"Attackers cut themselves on the plating's sharp corners

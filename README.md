@@ -44,15 +44,15 @@ Last updated: _{@p time @} UTC_
 - **{@p snd @}** Sounds
 @end-template-->
 <!--@region FileCount-->
-Last updated: _2024-01-18 UTC_
+Last updated: _2024-01-20 UTC_
 
 &block;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;
-**10.46%** of all images
+**10.61%** of all images
 
-- **1422/13594** Images (**42%** of the way to the next update)
-- **3497/18288** Text Entries
+- **1442/13594** Images (**44%** of the way to the next update)
+- **3551/18288** Text Entries
 - **20/91** Songs
-- **28/??** Sounds
+- **30/??** Sounds
 <!--@end-region-->
 
 ## ![icon](.github/images/icon-other.png) QnA
