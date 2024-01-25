@@ -47,9 +47,9 @@ Last updated: _{@p time @} UTC_
 Last updated: _2024-01-25 UTC_
 
 &block;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;
-**10.61%** of all images
+**10.62%** of all images
 
-- **1442/13594** Images (**44%** of the way to the next update)
+- **1444/13594** Images (**44%** of the way to the next update)
 - **3551/18288** Text Entries
 - **20/91** Songs
 - **30/765** Sounds
