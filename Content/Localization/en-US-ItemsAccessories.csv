@@ -17,6 +17,14 @@ ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}
 'Articial enhancements cause this
 'stache to be severely powered up'"
 
+ItemName.BeeWings,Flighty Leaf
+ItemTooltip.BeeWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'I'd say he's hot on our tail!'"
+
+ItemName.ButterflyWings,Flighty Feather
+ItemTooltip.ButterflyWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'Legends speak of the feather - the most powerful powerup'"
+
 #comment,Not completely removing this because the idea is neat.
 # ItemName.LeafWings,Ruined Cape
 # ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}

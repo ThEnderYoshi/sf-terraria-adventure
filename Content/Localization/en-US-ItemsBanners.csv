@@ -110,7 +110,13 @@ ItemName.TortoiseBanner,Handy Loogi Sansnner
 ItemName.GiantFlyingFoxBanner,Stage 7 Molddoo Sansnner
 ItemName.AnglerFishBanner,Worm from the String Sansnner
 ItemName.HornetBanner,Gohst Sansnner
+ItemName.MossHornetBanner,Bo Sansnner
+ItemName.ManEaterBanner,Other Hand of Gaster Sansnner
+ItemName.AngryTrapperBanner,Fist of Gaster Sansnner
 ItemName.SpikedJungleSlimeBanner,Spooky Slans Sansnner
+ItemName.JungleCreeperBanner,Landliner Sansnner
+ItemName.ArapaimaBanner,Deathcan Sansnner
+ItemName.MothBanner,Hammer Sansnner
 ItemName.LacBeetleBanner,Perseverant Bones Sansnner
 
 ItemTooltip.JungleBatBanner,"{$CommonItemTooltip.BannerBonus}Molddoos"
@@ -121,7 +127,13 @@ ItemTooltip.TortoiseBanner,"{$CommonItemTooltip.BannerBonus}Handy Loogies"
 ItemTooltip.GiantFlyingFoxBanner,"{$CommonItemTooltip.BannerBonus}Stage 7 Molddoos"
 ItemTooltip.AnglerFishBanner,"{$CommonItemTooltip.BannerBonus}Worms from the String"
 ItemTooltip.HornetBanner,"{$CommonItemTooltip.BannerBonus}Gohsts"
+ItemTooltip.MossHornetBanner,"{$CommonItemTooltip.BannerBonus}Bos"
+ItemTooltip.ManEaterBanner,"{$CommonItemTooltip.BannerBonus}Other Hands of Gaster"
+ItemTooltip.AngryTrapperBanner,"{$CommonItemTooltip.BannerBonus}Fists of Gaster"
 ItemTooltip.SpikedJungleSlimeBanner,"{$CommonItemTooltip.BannerBonus}Spooky Slanses"
+ItemTooltip.JungleCreeperBanner,"{$CommonItemTooltip.BannerBonus}Landliners"
+ItemTooltip.ArapaimaBanner,"{$CommonItemTooltip.BannerBonus}Deathcans"
+ItemTooltip.MothBanner,"{$CommonItemTooltip.BannerBonus}Hammers"
 ItemTooltip.LacBeetleBanner,"{$CommonItemTooltip.BannerBonus}Perseverant Bones"
 
 

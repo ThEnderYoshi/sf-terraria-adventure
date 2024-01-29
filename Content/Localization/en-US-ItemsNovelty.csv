@@ -1,0 +1,23 @@
+Key,Translation
+
+
+#[ kites ],<<-|--------------------------------------------------|->>
+
+
+#( placeholder : fishing ),fish up
+CommonItemTooltip.Kite,"Can be used to fish up air parasites
+Well, it would if that was actually a thing
+Reel it in with <right>"
+
+#( placeholder : bait ),bait
+ItemName.KiteAngryTrapper,Fist of Gaster Aero-bait
+ItemTooltip.KiteAngryTrapper,"{$CommonItemTooltip.Kite}
+'Now you too can engage in fisticuffs!'"
+
+#( placeholder : bait ),bait
+ItemName.KiteManEater,Hand of Gaster Aero-bait
+ItemTooltip.KiteManEater,"{$CommonItemTooltip.Kite}
+'Now you too can be in Toriel's walls!'"
+
+
+#[  ],<<-|-------------------------------------------------------|->>

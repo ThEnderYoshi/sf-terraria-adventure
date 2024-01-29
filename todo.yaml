@@ -9,17 +9,7 @@ important:
     - sort out stinger recipes:
         poison dart: Waiting on a theme for dart weapons
         flask of poison: Waiting on Witch Doctor (after Temple)
-        amazon: Waiting on Jungle Spore
-        blade of grass: Waiting on Jungle Spore
-        jungle shirt: Waiting on Jungle Spore
-        snapthorn: Waiting on Jungle Spore
-        thorn chakram: Waiting on Jungle Spore
     - sort out vine recipes:
-        amazon: see above
-        blade of grass: see above
-        ivy whip: Waiting on Jungle Spore
-        jungle pants: Waiting on Jungle Spore
-        snapthorn: see above
         axe of regrowth: Waiting on Staff of Regrowth & Jungle Spores
   BEFORE DST UPDATE RELEASES:
     - Check out DSTNoise.png ;)
@@ -136,6 +126,8 @@ unfinished textures:
     - '15'          # See Flame_15.ase
   Item_:
     - '511-512'     # (In)active stone blocks. They're still using vanilla wire textures.
+  NPC_:
+    - '205'         # Moth. Missing an animation. See `Moth.ase`.
   Tiles_:
     - '3/73'        # Natural plants/flowers.
     - '4'           # Torches.
@@ -185,11 +177,14 @@ unfinished textures:
     - 'Rain.png'    # Needs updated water colors.
 reconsider:
   Gore_:
+    - '914'  # Falling Jungle Leaves. Just a recolor of forest leaves.
+             # Didn't feel like making them unique, but they probably
+             # should be.
     - '1218' # These coins are being spewed by the goomba pet.
              # Maybe make them more related to the goomber?
   Item_:
     - '7/10' # Iron hammer/axe. They look really similar.
-    - '2348' # Potion. Not sure how to feel about the design.
+    - '2348' # Potion. Potions are now condiment bottles; this one hasn't got the memo.
   NPC_:
     - '48'   # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
     - '121'  # Slimer. Wing animation sucks.
@@ -261,6 +256,8 @@ text placeholders:
     - plantera
     - string
     - moss
+    - fishing
+    - bait
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.

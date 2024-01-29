@@ -38,6 +38,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
   Derpfish
 - _Crates:_ Wooden, Iron, Gold, Jungle
+- _Kites:_ Man Eater, Angry Trapper
 - _Summons:_ Abeemination
 - _UI:_ Summon focus indicator
 - Seeds for all currently added grasses
@@ -65,7 +66,8 @@ bosses have been completed)
 
 - _Town NPCs:_ Painter
 - _Jungle:_ (Spiked) Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
-  Giant Tortoise, Hornet, Man Eater, Lac Beetle, Bee, Small Bee
+  Giant Tortoise, Hornet, Man Eater, Lac Beetle, Bee, Small Bee, Moss Hornet,
+  Angry Trapper, Jungle Creeper, Moth, Arapaima
 - _Underground:_ Cave/Giant Bat
 - _Critters:_ Grubby, Sluggy, Buggy
 
@@ -74,7 +76,7 @@ bosses have been completed)
 Minion/pet/minecart buffs are not included here.
 
 - _Positive:_ Regeneration, Honey, Fishing
-- _Negative:_ Bleeding, Confusion
+- _Negative:_ Bleeding, Confusion, Venom, Webbed
 
 #### Armors
 
@@ -107,7 +109,7 @@ Minion/pet/minecart buffs are not included here.
 - _Summoner:_ Hercules Beetle
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
-- _Wings:_ Leaf Wings
+- _Wings:_ Leaf, Bee, Moth
 - _Pets:_ Tiki Totem, Nectar, Sparkling Honey
 - _Hooks:_ Ivy Whip
 - _Expert:_ Hive Pack

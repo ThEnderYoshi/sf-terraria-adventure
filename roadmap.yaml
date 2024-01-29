@@ -1,11 +1,18 @@
 # This is a short-term list of the next things to be added, sorted by the
 # planned order of creation.
 
-- Jungle Armor
-
 # -- End of Commit --
 
-- <hardmode jungle enemies> # Except plantera
+- Underground Jungle music:
+    - track
+    - music box
+
+# More Jungle tiles/walls
+- Jungle Water
+- Chlorophyte
+- <chlorophyte recipes>
+- Fix Life Fruit tooltip. # It references the wrong soul.
+- Jungle Echo walls
 
 # Underground Jungle cabins
 - Ivy Chest
@@ -15,18 +22,17 @@
 - Rich Mahogany Fence
 - Axe of Regrowth
 
-- Platera
+- Plantera
 - <plantera-related sprites> # Except Temple Key
 
 
 # For later - BEFORE JUNGLE UPDATE RELEASES
-- Fix Life Fruit tooltip. # It references the wrong soul.
-- Jungle Water
 - Frog Cage
 - Gold Frog Cage
 - <surface jungle backgrounds>
 - <surface jungle critters + cages + statues>
 - <statues for all current enemies>
+- Temple Key
 - Bramble Crate # Waiting on Temple
 - Witch Doctor  # Waiting on Temple
 - Poison Dart
@@ -35,14 +41,24 @@
 - Bee Minecart
 - Tiles_233.png
 - <jungle-related kites>
-- Jungle splash screen
-- Jungle Echo walls
+- Jungle splash screen # Waiting on Surface Jungle backgrounds
+- Painter dialog
+- Dryad dialog
+- Witch Doctor dialog
 
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
 
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
 - Torch God's Favor
+- <ores & ore-based recipes>
+- Vine Rope
+
+# For later - BEFORE LUNAR TOWERS UPDATE RELEASES
+- Extra_49.png # Obfuscated debuff effect
+
+# For later - BEFORE EVIL BIOME UPDATE RELEASES
+- <corruption, crimson and hallow leaf gores>
 
 # For later - Once all bosses are done
 - Trophies # A trading card set.

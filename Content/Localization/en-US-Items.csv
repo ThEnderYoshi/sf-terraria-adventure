@@ -315,6 +315,8 @@ ItemName.TurtleShell,Reinforced Luigium Plating
 ItemName.Stinger,Gohst Ball
 ItemName.Vine,Dingbat
 ItemName.JungleSpores,Ripe Wallpaper Mold
+ItemName.TatteredBeeWing,Crushed Leaf
+ItemName.ButterflyDust,Broken Feather
 
 
 #[ materials : hallow ],<<-|-------------------------------------|->>

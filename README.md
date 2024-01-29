@@ -35,24 +35,17 @@ judging by the total image count.
 
 ## ![icon](.github/images/icon-status.png) Status
 
-<!--@template FileCount
-Last updated: _{@p time @} UTC_
-
-- **{@p img @}** Images (**{@p img-p @}%** of the way to the next update)
-- **{@p loc @}** Text Entries
-- **{@p mus @}** Songs
-- **{@p snd @}** Sounds
-@end-template-->
 <!--@region FileCount-->
-Last updated: _2024-01-25 UTC_
+Last updated: _2024-01-29 UTC_
 
-&block;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;&blk12;
-**10.62%** of all images
-
-- **1444/13594** Images (**44%** of the way to the next update)
-- **3551/18288** Text Entries
-- **20/91** Songs
-- **30/765** Sounds
+| Progress     |                                             |
+|:------------:|:-------------------------------------------:|
+| Total        | ![10 percent](https://geps.dev/progress/10) |
+| Update       | ![48 percent](https://geps.dev/progress/48) |
+| Images       | 1483 / 13,594                               |
+| Text Entries | 3586 / 18,288                               |
+| Songs        | 20 / 91                                     |
+| Sounds       | 32 / 765                                    |
 <!--@end-region-->
 
 ## ![icon](.github/images/icon-other.png) QnA

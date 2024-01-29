@@ -55,10 +55,16 @@ BuffName.Bleeding,[c/e9581c:Rapid Growth]
 BuffDescription.Bleeding,"Your body is spending too many resources growing new organs; HP regen disabled"
 
 BuffName.Poisoned,[c/e9581c:Spook'd!]
-BuffDescription.Poisoned,"You are being scared to death"
+BuffDescription.Poisoned,"You are being spooked to death"
+
+BuffName.Venom,[c/e9581c:Scare'd!]
+BuffDescription.Venom,"You are being scared to death"
 
 BuffName.Confused,[c/e9581c:Turn Your Controller Upside Down]
 BuffDescription.Confused,"Or keyboard. Whatever."
+
+BuffName.Webbed,[c/e9581c:Grabb'd]
+BuffDescription.Webbed,"Bad touch. BAD TOUCH"
 
 
 #[ minions ],<<-|------------------------------------------------|->>
