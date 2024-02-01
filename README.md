@@ -41,7 +41,7 @@ Last updated: _2024-02-01 UTC_
 | Progress     |                                             |
 |:------------:|:-------------------------------------------:|
 | Total        | ![11 percent](https://geps.dev/progress/11) |
-| Update       | ![51 percent](https://geps.dev/progress/50) |
+| Update       | ![51 percent](https://geps.dev/progress/51) |
 | Images       | 1512 / 13,594                               |
 | Text Entries | 3599 / 18,288                               |
 | Songs        | 20 / 91                                     |
