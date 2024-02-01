@@ -27,7 +27,9 @@ As the name implies, this is the update that retextures the Jungle biome.
 
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
   Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey
-- _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo
+- _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo, Chlorophyte,
+  Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone
+- _Ores:_ Chlorophyte
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
 - _Furniture Sets:_ Rich Mahogany, Bamboo, Honey
@@ -54,6 +56,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Bee Wax
 - Jungle Spores
 - Jungle Torch
+- Jungle background objects
 
 #### Bosses
 

@@ -3,8 +3,8 @@
 SFTA brings a lot of lore to _Sans Fanfic_.
 While some of it is exclusive to SFTA, most of it is indeed canon.
 
-This document moslty shows of the lore that
-couldn't be added in the localization files.
+This document moslty shows of the lore that couldn't be added in the
+localization files or expands on it.
 
 ## Biomes
 
@@ -382,32 +382,29 @@ that is, their selves from different AUs.
 
 If too many SOULs conglomerate, they fuse and solidify into SOUL veins.
 
-These can then be processed into bars,
-which make for some common materials and alloys.
+These can then be extracted and processed into common materials and alloys.
 
-The (less frequent) human SOULs -
-affected by the surrounding sansnergies -
+The (less frequent) human SOULs - affected by the surrounding sansnergies -
 become lone heart-shaped crystals.
 
-Not all ores are SOULs however.
+Not all ores are SOULs however: some are simply residue from the surrounding
+Fauna/Flora, or are directly produced by the environment.
 
-Some are simply residue from the surrounding Fauna/Flora,
-or are directly produced by the environment.
-
-| Name             | Replaces        | Description                      |
-|------------------|-----------------|----------------------------------|
-| Gastter/Gastin   | Copper/Tin      | SOULs of Gasters                 |
-| Iriel/Toriad     | Iron/Lead       | SOULs of Toriels                 |
-| Sansver/Tungsans | Silver/Tungsten | SOULs of Sanses                  |
-| Papyld/Papynum   | Gold/Platinum   | SOULs of Papyruses               |
-| Sansnium         | Crimtane   | Produced by the [ B I G   S A N S ]   |
-| Luigium          | Demonite   | Produced by the [ B I G   L U I G I ] |
-| ShadowCrystal    | Hellstone  | Formed in darker, yet darker regions  |
-| PureCrystal      | Crystal         | Same as ShadowCrystals           |
-| Soogi Alloy      | Hallowed        | Sansnium-Luigium Alloy           |
-| Megalovanium     | Luminite        | The culmination of _Sans Fanfic_ |
-| Red SOUL         | Life Crystal    | Crystalized human SOULs          |
-| Blue SOUL        | Life Fruit      | Crystalized human SOULs          |
+| Name             | Replaces        | Description                            |
+|------------------|-----------------|----------------------------------------|
+| Gastter/Gastin   | Copper/Tin      | SOULs of Gasters                       |
+| Iriel/Toriad     | Iron/Lead       | SOULs of Toriels                       |
+| Sansver/Tungsans | Silver/Tungsten | SOULs of Sanses                        |
+| Papyld/Papynum   | Gold/Platinum   | SOULs of Papyruses                     |
+| Sansnium         | Crimtane        | Produced by the [ B I G   S A N S ]    |
+| Luigium          | Demonite        | Produced by the [ B I G   L U I G I ]  |
+| ShadowCrystal    | Hellstone       | Formed in darker, yet darker regions   |
+| PureCrystal      | Crystal         | Same as ShadowCrystals                 |
+| Torium           | Chlorophyte     | SOULs of Toriels + Darkness            |
+| Soogi Mesh       | Hallowed        | Sansnium-Luigium Alloy                 |
+| Megalovanium     | Luminite        | The culmination of _Sans Fanfic_       |
+| Red SOUL         | Life Crystal    | Crystalized human SOULs                |
+| Blue SOUL        | Life Fruit      | Crystalized human SOULs                |
 
 ### Titan Sanses
 
@@ -418,17 +415,16 @@ or are directly produced by the environment.
 Ancient, gigantic Sanses that once roamed the land.
 
 They are now extinct, but you can still see their remains in certain places,
-such as their gargantuan skeletons towering in the background,
-or their shed dust covering the [Consanstrate] and The Wastes.
+such as their gargantuan skeletons towering in the background, or their shed
+dust covering the [Consanstrate] and The Wastes.
 
 While the ancient sansthology (sans mythology) states that the Titan Sanses are
-the direct children of the [ B I G   S A N S ]
-(which makes sense, considering the size of the two)
-there is no proof for or against this, so their origins remain a mystery.
+the direct children of the [ B I G   S A N S ] (which makes sense, considering
+the size of the two) there is no proof for or against this, so their origins
+remain a mystery.
 
-Something is notable is that, in the [No San's Land],
-there is a notably large amount of Titan Sanses,
-their remains are still shedding large amounts of dust.
+Something is notable is that, in the [No San's Land], there is a notably large
+amount of Titan Sanses, their remains are still shedding large amounts of dust.
 
 <!-- References -->
 

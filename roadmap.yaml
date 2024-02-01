@@ -3,19 +3,24 @@
 
 # -- End of Commit --
 
-- Underground Jungle music:
-    - track
-    - music box
-
-# More Jungle tiles/walls
-- Jungle Water
-- Chlorophyte
-- <chlorophyte recipes>
-- Fix Life Fruit tooltip. # It references the wrong soul.
-- Jungle Echo walls
+- Chlorophyte:
+    - Bar
+    - Arrow
+    - Bullet
+    - Chainsaw
+    - Claymore
+    - Drill
+    - Greataxe
+    - Armor
+    - Partisan
+    - Pickaxe
+    - Saber
+    - Shotbow
+    - Warhammer
 
 # Underground Jungle cabins
 - Ivy Chest
+- Jungle Pots # Tiles 28 (7, 8, 9) & Gores 199, 200
 - Rich Mahogany Beam
 - <ivy chest loot>
 - Underground Rich Mahogany Tree tiles.
@@ -25,23 +30,29 @@
 - Plantera
 - <plantera-related sprites> # Except Temple Key
 
-
-# For later - BEFORE JUNGLE UPDATE RELEASES
+# Biome wrap-up
+- <surface jungle backgrounds>
 - Frog Cage
 - Gold Frog Cage
-- <surface jungle backgrounds>
 - <surface jungle critters + cages + statues>
+- Underground Jungle music:
+    - track
+    - music box
+
+# For later - BEFORE JUNGLE UPDATE RELEASES
+- Turtle Armor
 - <statues for all current enemies>
-- Temple Key
+- Temple Key    # Waiting on Temple
 - Bramble Crate # Waiting on Temple
 - Witch Doctor  # Waiting on Temple
+- Lihzahrd Pots
 - Poison Dart
 - Flask of Poison
 - Axe of Regrowth
 - Bee Minecart
-- Tiles_233.png
 - <jungle-related kites>
 - Jungle splash screen # Waiting on Surface Jungle backgrounds
+- Jungle emotes
 - Painter dialog
 - Dryad dialog
 - Witch Doctor dialog
@@ -53,12 +64,34 @@
 - Torch God's Favor
 - <ores & ore-based recipes>
 - Vine Rope
+- Poison Staff
+- Venom Staff
+- <forest pots>
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect
 
 # For later - BEFORE EVIL BIOME UPDATE RELEASES
 - <corruption, crimson and hallow leaf gores>
+- <corruption, crimson and hallow lily pads>
+- <corruption, crimson and hallow cattails>
+- <corruption, crimson and hallow pots>
+
+# For later - BEFORE DUNGEON UPDATE RELEASES
+- <spectre bar + recipes>
+
+# For later - BEFORE MUSHROOM UPDATE RELEASES
+- <shroomite bar + recipes>
+- Mushroom Cattails
+
+# For later - BEFORE SNOW/DESERT UPDATE RELEASES
+- Extractinator
+- Chrolophyte Extractinator
+- Water Strider
+
+# For later - BEFORE MECH BOSS UPDATE RELEASES
+- Excalibur
+- True Excalibur
 
 # For later - Once all bosses are done
 - Trophies # A trading card set.

@@ -162,6 +162,7 @@ unfinished textures:
     - '165'         # Stalactites/stalagmites.
     - '172'         # Sinks.
     - '185'         # Debree. Also check for tiles placed by Rubblemaker.
+    - '187'         # `LargePiles2`. Also check for Rubblemaker & Tiles_186.png
     - '215'         # Campfire.
     - '227'         # Dye Plants.
     - '239'         # Bars.
@@ -170,6 +171,8 @@ unfinished textures:
     - '376'         # Placed Crates.
     - '380'         # Planter Boxes.
     - '497'         # Toilets.
+    - '518'         # Lily pads
+    - '519'         # Cattails
     - '597'         # Pylon bases.
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'

@@ -184,6 +184,10 @@ ItemName.IceEcho,Hypersans Sall
 
 
 ItemName.JungleWall,Toriel's House's Sallpaper
+ItemName.Jungle1Echo,Impeccable Sallpaper
+ItemName.Jungle2Echo,Torn Sallpaper
+ItemName.Jungle3Echo,Ripped Sallpaper
+ItemName.Jungle4Echo,Fancy Sallpaper
 ItemName.MudWallEcho,Ruined Brick Sall
 
 ItemName.Hive,Gohst Spawner Block
@@ -252,6 +256,10 @@ coming to whoop your posterior'"
 ItemName.Meteorite,Outer!Sansnite SOUL
 ItemName.MeteoriteBar,Outer!Sansnite Bar
 
+ItemName.ChlorophyteOre,Torium
+ItemTooltip.ChlorophyteOre,"'Highly dense SOULs of Toriels,
+empowered by Darker, Yet Darker energies'"
+
 ItemName.LunarBar,Megalovanium Bar
 ItemName.LunarOre,Megalovanium
 ItemTooltip.LunarBar,"'The very culmination of Sans's
@@ -269,6 +277,9 @@ ItemName.GrayBrickWall,Dark Cyan Brick Sall
 
 ItemName.RedBrick,Brown Bricks
 ItemName.RedBrickWall,Brown Brick Sall
+
+ItemName.ChlorophyteBrick,Torium Plating
+ItemName.ChlorophyteBrickWall,Torium Plating Sall
 
 
 #[ blocks : devices ],<<-|---------------------------------------|->>
@@ -677,12 +688,12 @@ ItemName.Sunflower,Echo Flower
 
 
 ItemName.LifeCrystal,Red SOUL
-ItemTooltip.LifeCrystal,"+20 Max HP
-'De-sans-mination'"
+ItemTooltip.LifeCrystal,"[c/00ff7f:+20 Max HP]
+'De[c/ffff00:sans]mination'"
 
 ItemName.LifeFruit,Blue SOUL
-ItemTooltip.LifeFruit,"+5 Max HP
-'Per-sans-verance'"
+ItemTooltip.LifeFruit,"[c/00ff7f:+5 Max HP]
+'[c/ffff00:Sans]tegrity'"
 
 
 #[ pylons ],<<-|-------------------------------------------------|->>
