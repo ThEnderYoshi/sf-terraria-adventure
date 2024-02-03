@@ -6,11 +6,6 @@ important:
     - Add statues for all current enemies.
     - Add Bramble Crate. (waiting on Temple)
     - Add Witch Doctor. (waiting on Temple)
-    - sort out stinger recipes:
-        poison dart: Waiting on a theme for dart weapons
-        flask of poison: Waiting on Witch Doctor (after Temple)
-    - sort out vine recipes:
-        axe of regrowth: Waiting on Staff of Regrowth & Jungle Spores
   BEFORE DST UPDATE RELEASES:
     - Check out DSTNoise.png ;)
 
@@ -262,6 +257,7 @@ text placeholders:
     - moss
     - fishing
     - bait
+    - movement speed
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.

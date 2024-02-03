@@ -107,3 +107,9 @@ BuffDescription.QueenBeePet,"At least it doesn't think you're its mother"
 
 BuffName.BeeMount,[c/ffc700:Toirel]
 BuffDescription.BeeMount,"Uhh..."
+
+
+#[ armor set bonuses ],<<-|--------------------------------------|->>
+
+BuffName.LeafCrystal,Sansjak
+BuffDescription.LeafCrystal,"This was going to be something called a 'MOTHERSPIRIT', but I couldn't resist doing this instead I'm REALLY sorry"

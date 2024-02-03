@@ -98,6 +98,31 @@ ItemTooltip.BeeGreaves,"[c/ff0000:+5% SMN AT]"
 
 ArmorSetBonus.Bee,"+10% SMN AT"
 
+#comment,Chlorophyte
+
+ItemName.ChlorophyteMask,Torium Skull
+ItemName.ChlorophyteHelmet,Torium Cranium
+ItemName.ChlorophyteHeadgear,Torium Jaw
+ItemName.ChlorophytePlateMail,Torium Robe
+ItemName.ChlorophyteGreaves,Torium Slippers
+
+ItemTooltip.ChlorophyteMask,"[c/ff0000:+16% MLE AT]
+[c/ff0000:+6% MLE CRIT]"
+ItemTooltip.ChlorophyteHelmet,"[c/ff0000:+16 RNG AT]
+[c/00ff7f:-20% AMMO usage]"
+ItemTooltip.ChlorophyteHeadgear,"[c/ff0000:+80 max TP]
+[c/00ff7f:-17% TP usage]
+[c/ff0000:+16% MGC AT]"
+ItemTooltip.ChlorophytePlateMail,"[c/ff0000:+5% AT]
+[c/ff0000:+7% CRIT]"
+#( placeholder : movement speed ),movement SPD
+ItemTooltip.ChlorophyteGreaves,"[c/ff0000:+8% CRIT]
+[c/ff0000:+5% movement SPD]"
+
+ArmorSetBonus.Chlorophyte,"Sansmmons a sans to shoot sanses at nearby sanses"
+ArmorSetBonus.ChlorophyteMelee,"{$ArmorSetBonus.Chlorophyte}
+[c/ff0000:+5% AT Red.]"
+
 #comment,Turtle
 
 ItemName.TurtleHelmet,Reinforced Luigium Stache n' Cap

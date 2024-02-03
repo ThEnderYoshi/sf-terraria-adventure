@@ -86,7 +86,7 @@ Minion/pet/minecart buffs are not included here.
 (Equipped armor GFX will not be part of the pack for a good while)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt, Bee Armor, Jungle
+  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
   Queen Bee Mask, Bee Set
 
