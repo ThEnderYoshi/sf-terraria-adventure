@@ -93,16 +93,22 @@ Minion/pet/minecart buffs are not included here.
 #### Weapons
 
 - _Yoyos:_ Amazon, Yelets, Hive-Five
-- _Swords:_ Bee Keeper, Blade of Grass
+- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore
 - _Boomerangs:_ Thorn Chakram
-- _Bows:_ The Bee's Knees
+- _Spears:_ Chlorophyte Partisan
+- _Bows:_ The Bee's Knees, Chlorophyte Shotbow
+- _Arrows:_ Chlorophyte
 - _Guns:_ Uzi, Paintball Gun
+- _Bullets:_ Chlorophyte
 - _Magic Guns:_ Bee Gun
 - _Minions:_ Hornet Staff
 - _Whips:_ Leather, Snapthorn
 
 #### Tools
 
+- _Picks:_ Chlorophyte Pickaxe + Drill
+- _Axes:_ Chlorophyte Greataxe + Chainsaw
+- _Hammer:_ Chlorophyte Warhammer + Jackhammer
 - _Painting:_ Paintbrush (+ spectral), Paint Roller (+ spectral),
   Paint Scraper (+ spectral)
 - _Powders:_ Purification Powder, Vile Powder, Vicious Powder

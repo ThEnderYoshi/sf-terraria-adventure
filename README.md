@@ -36,16 +36,16 @@ judging by the total image count.
 ## ![icon](.github/images/icon-status.png) Status
 
 <!--@region FileCount-->
-Last updated: _2024-02-01 UTC_
+Last updated: _2024-02-02 UTC_
 
 | Progress     |                                             |
 |:------------:|:-------------------------------------------:|
 | Total        | ![11 percent](https://geps.dev/progress/11) |
-| Update       | ![51 percent](https://geps.dev/progress/51) |
-| Images       | 1512 / 13,594                               |
-| Text Entries | 3599 / 18,288                               |
+| Update       | ![53 percent](https://geps.dev/progress/53) |
+| Images       | 1534 / 13,594                               |
+| Text Entries | 3632 / 18,288                               |
 | Songs        | 20 / 91                                     |
-| Sounds       | 32 / 765                                    |
+| Sounds       | 33 / 765                                    |
 <!--@end-region-->
 
 ## ![icon](.github/images/icon-other.png) QnA

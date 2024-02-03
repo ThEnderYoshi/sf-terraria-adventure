@@ -177,6 +177,7 @@ unfinished textures:
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'
   other:
+    - 'Dust.png'    # See Dust.ase
     - 'Rain.png'    # Needs updated water colors.
 reconsider:
   Gore_:

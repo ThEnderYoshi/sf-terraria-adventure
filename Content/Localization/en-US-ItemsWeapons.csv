@@ -40,6 +40,9 @@ ItemName.Flamarang,Ragger
 ItemName.Spear,Lost Spear
 ItemName.TheRottedFork,Spear of Patience
 
+ItemName.ChlorophytePartisan,Motherly Spear
+ItemTooltip.ChlorophytePartisan,"Shoots a fireball"
+
 ItemName.DayBreak,Bergentrücker
 ItemTooltip.DayBreak,"'It'll be like a day at the dentist'"
 
@@ -103,12 +106,19 @@ ItemTooltip.BeeKeeper,"Sansmmons killer gohsts after striking Sanses
 Small chance to turn their controllers upside-down"
 
 ItemName.BladeofGrass,The Mailboxer
-ItemTooltip.BladeofGrass,"[c/ff0000:-{ Sword of WINGDINGS }-]
+ItemTooltip.BladeofGrass,"[c/ff0000:-{ Sword of the WINGDINGS }-]
 Shoots Dingbat Gohsts
 Has a chance to spook sanses"
 
 ItemName.FieryGreatsword,TwistedSword
 ItemTooltip.FieryGreatsword,'It's... kind of scary...'
+
+ItemName.ChlorophyteSaber,Torium Flamespewer
+ItemTooltip.ChlorophyteSaber,"Throws flames
+'Not to be confused with flamethrowers, which spew flames'"
+
+ItemName.ChlorophyteClaymore,Torium Flamapult
+ItemTooltip.ChlorophyteClaymore,"Calapults fireballs at sanses"
 
 ItemName.Meowmere,Dogsword
 ItemName.StarWrath,Chaos Saber
@@ -134,18 +144,18 @@ ItemName.Yelets,Eye of the GOAT
 #[ ranged : bows ],<<-|------------------------------------------|->>
 
 
-ItemName.WoodenBow,Bad Bhyme Bow
-ItemName.BorealWoodBow,Dense Thyme Bow
-ItemName.EbonwoodBow,Better Cauli Bow
+ItemName.WoodenBow,Bad Bhyme Bowne
+ItemName.BorealWoodBow,Dense Thyme Bowne
+ItemName.EbonwoodBow,Better Cauli Bowne
 
-ItemName.CopperBow,Gastter Bow
-ItemName.TinBow,Gastin Bow
-ItemName.IronBow,Iriel Bow
-ItemName.LeadBow,Toriad Bow
-ItemName.SilverBow,Sansver Bow
-ItemName.TungstenBow,Tungsans Bow
-ItemName.GoldBow,Papyld Bow
-ItemName.PlatinumBow,Papynum Bow
+ItemName.CopperBow,Gastter Bowne
+ItemName.TinBow,Gastin Bowne
+ItemName.IronBow,Iriel Bowne
+ItemName.LeadBow,Toriad Bowne
+ItemName.SilverBow,Sansver Bowne
+ItemName.TungstenBow,Tungsans Bowne
+ItemName.GoldBow,Papyld Bowne
+ItemName.PlatinumBow,Papynum Bowne
 
 ItemName.DemonBow,Stache Scorcher
 
@@ -157,6 +167,8 @@ ItemName.MoltenFury,SpiralBow
 ItemTooltip.MoltenFury,"Sets Bad Thyme Sansrrows on fire"
 
 ItemName.TendonBow,Funny Bone
+
+ItemName.ChlorophyteShotbow,Torium Bowne
 
 
 #[ ranged : guns ],<<-|------------------------------------------|->>
@@ -193,6 +205,25 @@ ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}"
 
 
 ItemName.PainterPaintballGun,"Out!Code Standard Issue Ink Rifle"
+
+
+#[ ammo ],<<-|---------------------------------------------------|->>
+
+
+ItemName.WoodenArrow,Bad Thyme Sansrrow
+ItemName.FlamingArrow,Safe Sansrrow
+ItemName.JestersArrow,Heaven Sansrrow
+ItemName.UnholyArrow,Luigium Bolt
+
+ItemName.ChlorophyteArrow,Torium Sansrrow
+ItemTooltip.ChlorophyteArrow,"Bounces toward sanses after hitting salls"
+
+ItemName.ChlorophyteBullet,Torium Round
+ItemTooltip.ChlorophyteBullet,"Chases sanses to the ends of the Sans
+'Not really ""round"", is it?'"
+
+ItemName.Seed,Tiny Sprout
+ItemTooltip.Seed,"For use with the {$ItemName.Blowpipe}"
 
 
 #[ summoner : minions ],<<-|-------------------------------------|->>

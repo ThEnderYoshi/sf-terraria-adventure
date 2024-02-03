@@ -114,17 +114,6 @@ LegacyTooltip.0,[c/7f7f7f:-------]
 LegacyTooltip.1,[c/7f7f7f:Sansquipped in sanscial slot]
 
 
-#[ ammo ],<<-|---------------------------------------------------|->>
-
-
-ItemName.WoodenArrow,Bad Thyme Sansrrow
-ItemName.JestersArrow,Heaven Sansrrow
-ItemName.UnholyArrow,Luigium Bolt
-
-ItemName.Seed,Tiny Sprout
-ItemTooltip.Seed,"For use with the {$ItemName.Blowpipe}"
-
-
 #[ blood moon ],<<-|---------------------------------------------|->>
 
 
@@ -257,8 +246,10 @@ ItemName.Meteorite,Outer!Sansnite SOUL
 ItemName.MeteoriteBar,Outer!Sansnite Bar
 
 ItemName.ChlorophyteOre,Torium
+ItemName.ChlorophyteBar,Torium Bar
 ItemTooltip.ChlorophyteOre,"'Highly dense SOULs of Toriels,
 empowered by Darker, Yet Darker energies'"
+ItemTooltip.ChlorophyteBar,"'Said to be even more powerful than Soogi'"
 
 ItemName.LunarBar,Megalovanium Bar
 ItemName.LunarOre,Megalovanium
@@ -824,6 +815,13 @@ ItemName.MeteorHamaxe,Planetarium Sansmmaxe
 
 ItemName.MoltenPickaxe,ShadowPick
 ItemName.MoltenHamaxe,BraveHamax
+
+ItemName.ChlorophytePickaxe,Torium Sansxe
+ItemName.ChlorophyteDrill,Torium Drans
+ItemName.ChlorophyteGreataxe,Torium Axsans
+ItemName.ChlorophyteChainsaw,Torium Chainsans
+ItemName.ChlorophyteWarhammer,Torium Sansmmer
+ItemName.ChlorophyteJackhammer,Horned Pwner
 
 
 #[ tools : misc ],<<-|----------------------------------------|->>

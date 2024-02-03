@@ -4,30 +4,19 @@
 # -- End of Commit --
 
 - Chlorophyte:
-    - Bar
-    - Arrow
-    - Bullet
-    - Chainsaw
-    - Claymore
-    - Drill
-    - Greataxe
     - Armor
-    - Partisan
-    - Pickaxe
-    - Saber
-    - Shotbow
-    - Warhammer
+- Look at Extra_98.png # `SharpTears`
 
 # Underground Jungle cabins
 - Ivy Chest
-- Jungle Pots # Tiles 28 (7, 8, 9) & Gores 199, 200
+- Jungle Pots # Tiles 28 (7, 8, 9) & Gores 199, 200 & Dust 85
 - Rich Mahogany Beam
 - <ivy chest loot>
 - Underground Rich Mahogany Tree tiles.
 - Rich Mahogany Fence
 - Axe of Regrowth
 
-- Plantera
+- Plantera # + Dusts 166, 167, 168
 - <plantera-related sprites> # Except Temple Key
 
 # Biome wrap-up
@@ -45,6 +34,7 @@
 - Temple Key    # Waiting on Temple
 - Bramble Crate # Waiting on Temple
 - Witch Doctor  # Waiting on Temple
+- Heat Ray # + Dust 162
 - Lihzahrd Pots
 - Poison Dart
 - Flask of Poison

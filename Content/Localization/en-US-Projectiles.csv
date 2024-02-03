@@ -40,12 +40,15 @@ ProjectileName.PlatinumShortswordStab,Papynum Rapier
 
 ProjectileName.Spear,Lost Spear
 ProjectileName.TheRottedFork,Spear of Patience
+ProjectileName.ChlorophytePartisan,Motherly Spear
 ProjectileName.Daybreak,Bergentrücker
 ProjectileName.DaybreakExplosion,Bergentrücker
 
 ProjectileName.Starfury,Chaos Blade
 ProjectileName.StarWrath,Chaos Saber
 ProjectileName.BladeOfGrass,Dingbat Gohst
+ProjectileName.SporeCloud,Tori Flame
+ProjectileName.ChlorophyteOrb,Tori Flame
 ProjectileName.Meowmere,Temmie
 
 ProjectileName.WoodYoyo,ThEYEme (thyme eye)
@@ -60,7 +63,14 @@ ProjectileName.HiveFive,Gohst Eye
 #[ friendly : ranged ],<<-|--------------------------------------|->>
 
 
+ProjectileName.WoodenArrowFriendly,Bad Thyme Sansrrow
+ProjectileName.FireArrow,Safe Sansrrow
 ProjectileName.JestersArrow,Heaven Sansrrow
+ProjectileName.UnholyArrow,Luigium Bolt
+ProjectileName.ChlorophyteArrow,Torium Sansrrow
+
+ProjectileName.ChlorophyteBullet,Torium Round
+
 ProjectileName.Seed,Tiny Sprout
 
 ProjectileName.ThrowingKnife,Hateful Knife
@@ -93,6 +103,9 @@ ProjectileName.BabyHornet,Gohst
 #[ friendly : tools ],<<-|---------------------------------------|->>
 
 
+ProjectileName.ChlorophyteDrill,{$ItemName.ChlorophyteDrill}
+ProjectileName.ChlorophyteChainsaw,{$ItemName.ChlorophyteChainsaw}
+ProjectileName.ChlorophyteJackhammer,{$ItemName.ChlorophyteJackhammer}
 ProjectileName.PurificationPowder,{$ItemName.PurificationPowder}
 ProjectileName.VilePowder,{$ItemName.VilePowder}
 ProjectileName.ViciousPowder,{$ItemName.ViciousPowder}
@@ -121,6 +134,13 @@ ProjectileName.DeerclopsRangedProjectile,Sansbris
 ProjectileName.EyeLaser,San's Fired Lazor
 
 ProjectileName.QueenBeeStinger,MOTHERBALL
+
+
+#[ hostile : ammo ],<<-|-----------------------------------------|->>
+
+
+ProjectileName.WoodenArrowHostile,Bad Thyme Sansrrow
+ProjectileName.FlamingArrow,Safe Sansrrow
 
 
 #[ hostile : snow ],<<-|-----------------------------------------|->>
