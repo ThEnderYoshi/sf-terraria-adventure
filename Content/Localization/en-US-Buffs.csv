@@ -101,12 +101,29 @@ BuffDescription.BabyHornet,"Who's the MOTHERSPAWNER now?"
 BuffName.QueenBeePet,[c/ffc700:Young MOTHERSPAWNER]
 BuffDescription.QueenBeePet,"At least it doesn't think you're its mother"
 
+BuffName.PetTurtle,[c/ffc700:Pet Gaster]
+BuffDescription.PetTurtle,"OH GOD I'M GASTIN'"
+
 
 #[ mounts ],<<-|-------------------------------------------------|->>
 
 
 BuffName.BeeMount,[c/ffc700:Toirel]
 BuffDescription.BeeMount,"Uhh..."
+
+
+#[ minecarts ],<<-|----------------------------------------------|->>
+
+
+BuffName.MinecartLeftWood,Bad Thyme Minecrap
+BuffName.MinecartRightWood,"{$BuffName.MinecartLeftWood}"
+BuffDescription.MinecartLeftWood,"Playing minecrap"
+BuffDescription.MinecartRightWood,"{$BuffDescription.MinecartLeftWood}"
+
+BuffName.BeeMinecartLeft,"{$ItemName.BeeMinecart}"
+BuffName.BeeMinecartRight,"{$ItemName.BeeMinecart}"
+BuffDescription.BeeMinecartLeft,"{$BuffDescription.MinecartLeftWood}"
+BuffDescription.BeeMinecartRight,"{$BuffDescription.MinecartLeftWood}"
 
 
 #[ armor set bonuses ],<<-|--------------------------------------|->>

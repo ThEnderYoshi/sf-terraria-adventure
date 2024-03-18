@@ -35,6 +35,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Furniture Sets:_ Rich Mahogany, Bamboo, Honey
 - _Campfires:_ Wood, Jungle
 - _Pylons:_ Forest, Jungle
+- _Other Background Objects:_ Rich Mahogany Beam, Forest & Jungle Pots
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice, Grub Soup
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
@@ -56,7 +57,8 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Bee Wax
 - Jungle Spores
 - Jungle Torch
-- Jungle background objects
+- Jungle rubble
+- Ivy Chest
 
 #### Bosses
 
@@ -98,7 +100,7 @@ Minion/pet/minecart buffs are not included here.
 - _Spears:_ Chlorophyte Partisan
 - _Bows:_ The Bee's Knees, Chlorophyte Shotbow
 - _Arrows:_ Chlorophyte
-- _Guns:_ Uzi, Paintball Gun
+- _Guns:_ Uzi, Paintball Gun, Boomstick
 - _Bullets:_ Chlorophyte
 - _Magic Guns:_ Bee Gun
 - _Minions:_ Hornet Staff
@@ -107,21 +109,27 @@ Minion/pet/minecart buffs are not included here.
 #### Tools
 
 - _Picks:_ Chlorophyte Pickaxe + Drill
-- _Axes:_ Chlorophyte Greataxe + Chainsaw
+- _Axes:_ Chlorophyte Greataxe + Chainsaw, Axe of Regrowth
 - _Hammer:_ Chlorophyte Warhammer + Jackhammer
+- _Fishing Poles:_ Wooden, Fiberglass
 - _Painting:_ Paintbrush (+ spectral), Paint Roller (+ spectral),
   Paint Scraper (+ spectral)
 - _Powders:_ Purification Powder, Vile Powder, Vicious Powder
+- _Other:_ Staff of Regrowth, Living Rich Mahogany Wand, Rich Mahogany Leaf Wand
 
 #### Accessories
 
+- _Melee:_ Feral Claws
 - _Summoner:_ Hercules Beetle
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
 - _Wings:_ Leaf, Bee, Moth
-- _Pets:_ Tiki Totem, Nectar, Sparkling Honey
+- _Pets:_ Tiki Totem, Nectar, Sparkling Honey, Seaweed
 - _Hooks:_ Ivy Whip
+- _Minecarts:_ Wooden, Bee
+- _Movement:_ Anklet of the Wind
 - _Expert:_ Hive Pack
+- _Other:_ Flower Boots
 
 ### Changed
 

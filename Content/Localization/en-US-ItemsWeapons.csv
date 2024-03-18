@@ -168,7 +168,7 @@ ItemTooltip.MoltenFury,"Sets Bad Thyme Sansrrows on fire"
 
 ItemName.TendonBow,Funny Bone
 
-ItemName.ChlorophyteShotbow,Torium Bowne
+ItemName.ChlorophyteShotbow,Torium Schütbowne
 
 
 #[ ranged : guns ],<<-|------------------------------------------|->>
@@ -179,6 +179,9 @@ ItemName.TheUndertaker,Sudden Justice
 ItemName.Handgun,GUN
 ItemName.PhoenixBlaster,SuperGUN
 
+ItemName.Boomstick,The Raker
+ItemTooltip.Boomstick,"'The sharp ends where filed off,
+but tHE CHAMBERS WEREN'T'"
 ItemName.Uzi,Suzi
 ItemTooltip.Uzi,"'Oh look it's my neighbor'"
 

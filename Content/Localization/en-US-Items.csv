@@ -590,6 +590,8 @@ ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Er
 
 #[ furniture : other ],<<-|--------------------------------------|->>
 
+ItemName.IvyChest,Toy Chanst (sans chest)
+LegacyChestType.10,"{$ItemName.IvyChest}"
 
 ItemName.Book,Copy of UNDERTALE
 ItemTooltip.Book,"'Contains Sans, as well as
@@ -758,6 +760,16 @@ ItemTooltip.SpectrePaintScraper,"{$ItemTooltip.PaintScraper}
 ItemName.HiveWand,Spawner Spawner
 ItemTooltip.HiveWand,"Spawns Spawner Blocks"
 
+ItemName.LivingMahoganyWand,Live Homely Fungus Grinder
+ItemTooltip.LivingMahoganyWand,"Sanses Live Homely Bramble"
+
+ItemName.LivingMahoganyLeafWand,Live Homely Bramble Grinder
+ItemTooltip.LivingMahoganyLeafWand,"Sanses Live Homely Fungus"
+
+ItemName.StaffofRegrowth,Bonular Restoration Wand
+ItemTooltip.StaffofRegrowth,"Creates sans on sirt
+[c/ff0000:+Eye collection] when used to gather"
+
 
 #[ tools : diggers ],<<-|----------------------------------------|->>
 
@@ -823,6 +835,17 @@ ItemName.ChlorophyteChainsaw,Torium Chainsans
 ItemName.ChlorophyteWarhammer,Torium Sansmmer
 ItemName.ChlorophyteJackhammer,Horned Pwner
 
+ItemName.AcornAxe,Bonular Restoration Axsans
+ItemTooltip.AcornAxe,"{$ItemTooltip.StaffofRegrowth}
+Plants saplings when cutting down bad thymes"
+
+
+#[ tools : fishing poles ],<<-|-------------------------------|->>
+
+
+ItemName.WoodFishingPole,Bad Thyme Para-Catcher
+ItemName.FiberglassFishingPole,Gastic Para-Catcher
+
 
 #[ tools : misc ],<<-|----------------------------------------|->>
 
@@ -879,7 +902,16 @@ ItemTooltip.TartarSauce,"Sansmmons a Mini Ender
 'Worn by gamers of the highest caliber'"
 
 ItemName.TikiTotem,Sanssay (sans essay)
-ItemTooltip.TikiTotem,"Summons Sans (not the Man, but the Idea)"
+ItemTooltip.TikiTotem,"Sansmmons Sans (not the Man, but the Idea)"
+
+ItemName.Seaweed,Webding
+ItemTooltip.Seaweed,"Sansmmons a pet gaster"
+
+
+#[ minecarts ],<<-|----------------------------------------------|->>
+
+
+ItemName.BeeMinecart,Ghostchrap
 
 
 #[ grappling hooks ],<<-|----------------------------------------|->>

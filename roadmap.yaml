@@ -1,18 +1,14 @@
-# This is a short-term list of the next things to be added, sorted by the
-# planned order of creation.
+# This is a "short-term" list of the "next" things to be added, "sorted" by the
+# "planned" order of creation.
 
 # -- End of Commit --
 
-# Underground Jungle cabins
-- Ivy Chest
-- Jungle Pots # Tiles 28 (7, 8, 9) & Gores 199, 200 & Dust 85
-- Rich Mahogany Beam
-- <ivy chest loot>
-- Underground Rich Mahogany Tree tiles.
-- Rich Mahogany Fence
-- Axe of Regrowth
+- Painter gores # 320, 321, 322, 323, 931
+- Painter dialog
+- Dryad gores
+- Dryad dialog
 
-- Plantera # + Dusts 166, 167, 168
+- Plantera # + Dusts 166, 167, 168 & Thorns & Gores & Music & Sounds
 - <plantera-related sprites> # Except Temple Key
 
 # Biome wrap-up
@@ -25,22 +21,27 @@
     - music box
 
 # For later - BEFORE JUNGLE UPDATE RELEASES
+- <remaining rich mahogany recipes>:
+    - Armor
+    - <see rest>
 - Turtle Armor
 - <statues for all current enemies>
 - Temple Key    # Waiting on Temple
 - Bramble Crate # Waiting on Temple
-- Witch Doctor  # Waiting on Temple
+- Witch Doctor:  # Waiting on Temple
+    - NPC Sprites
+    - Gores
+    - Dialog
 - Heat Ray # + Dust 162
 - Lihzahrd Pots
 - Poison Dart
-- Flask of Poison
+- Imbuing Station # Waiting on Witch Doctor
+- Flask of Poison # Waiting on Imbuing Station
 - Axe of Regrowth
 - Bee Minecart
 - <jungle-related kites>
 - Jungle splash screen # Waiting on Surface Jungle backgrounds
 - Jungle emotes
-- Painter dialog
-- Dryad dialog
 - Witch Doctor dialog
 
 # For later - BEFORE DST UPDATE RELEASES
@@ -49,10 +50,12 @@
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
 - Torch God's Favor
 - <ores & ore-based recipes>
+- Flower vines # Tiles 382
 - Vine Rope
 - Poison Staff
 - Venom Staff
 - <forest pots>
+- Fallen log
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect
@@ -74,6 +77,7 @@
 - Extractinator
 - Chrolophyte Extractinator
 - Water Strider
+- Glass
 
 # For later - BEFORE MECH BOSS UPDATE RELEASES
 - Excalibur

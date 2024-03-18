@@ -1,12 +1,20 @@
 Key,Translation
 
 
+#[ melee ],<<-|--------------------------------------------------|->>
+
+
+ItemName.FeralClaws,Motherly Claws
+ItemTooltip.FeralClaws,"[c/ff0000:+12% MLE AT]
+[c/00ff00:+MLE Auto swans (swing sans)]"
+
+
 #[ summoner ],<<-|-----------------------------------------------|->>
 
 
 ItemName.HerculesBeetle,Drip Snail
-ItemTooltip.HerculesBeetle,"+15% sansmonner AT
-+sansmonner KB"
+ItemTooltip.HerculesBeetle,"[c/ff0000:+15% SMN AT]
+[c/ff0000:SMN KB ↗]"
 
 
 #[ wings ],<<-|--------------------------------------------------|->>
@@ -70,6 +78,11 @@ ItemTooltip.GoblinTech,"Sansplays sansement spans, AT, and sansluable ore"
 #[ tree : terraspark ],<<-|--------------------------------------|->>
 
 
+ItemName.AnkletoftheWind,Butterscotch Sansnammon Pie
+ItemTooltip.AnkletoftheWind,"[c/ff0000:+10% SPD]
+'increases speed by causing you to waft
+through the air like a cartoon character'"
+
 ItemName.ObsidianRose,Jack Of Spades
 ItemTooltip.ObsidianRose,"[c/00ff00:DMG from Dark'ness ↘]
 'I'm... the bad guy!'"
@@ -101,5 +114,8 @@ ItemTooltip.JungleRose,"'Wait, where do your actual eyes go?'"
 ItemName.BandofRegeneration,HP Ring
 ItemTooltip.BandofRegeneration,"[c/00ff7f:HP Regen ↗]"
 
-
 ItemTooltip.DestroyerEmblem,"[c/ff0000:+10% AT]"
+
+ItemName.FlowerBoots,Sans Slipper
+ItemTooltip.FlowerBoots,"Thymes grow on the sans you walk on
+'As in made out of sans. Not to be confused with Sans' Slipper'"

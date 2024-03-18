@@ -1,6 +1,13 @@
 Key,Translation
 
 
+#[ controls ],<<-|-----------------------------------------------|->>
+
+
+Key.DOWN,DOWNDOG
+Key.UP,UPDOG
+
+
 #[ achievements ],<<-|-------------------------------------------|->>
 
 
@@ -27,12 +34,32 @@ GameTitle.1,Sans Fanfic: Terraria Adventure - Not this pack again
 GameTitle.2,Sans Fanfic: Terraria Adventure - Maybe it's the way you're dressed!
 GameTitle.3,Sans Fanfic: Terraria Adventure - Even the title's infected!
 GameTitle.15,Sans Fanfic: Terraria Adventure - The Gastric Downpour of contempt!
+GameTitle.10,Sans Fanfic: Terraria Adventure - He's in your house!
+GameTitle.11,Sans Fanfic: Terraria Adventure - Every moment you stand still Sans gets closer!
+GameTitle.12,Sans Fanfic: Terraria Adventure - Delete system32!
 
 GameTitle.28,Luigi Fanfic: Terraria Adventure - May God have mercy on your 1-ups
 GameTitle.29,Luigi Fanfic: Terraria Adventure - Not this pack again
 GameTitle.30,Luigi Fanfic: Terraria Adventure - OH MY GOD!!! WAAAAAAHHH!!!
 GameTitle.31,Luigi Fanfic: Terraria Adventure - If you read this title you're Branded
 GameTitle.37,Luigi Fanfic: Terraria Adventure - The Cream Soda Fall of Deliciousness!
+GameTitle.32,Luigi Fanfic: Terraria Adventure - He's in your mansion!
+GameTitle.33,Luigi Fanfic: Terraria Adventure - Every moment you stand still Luigi gets closer!
+GameTitle.34,Luigi Fanfic: Terraria Adventure - Run 'rm -rf /'!
+
+
+#[ game ui ],<<-|------------------------------------------------|->>
+
+
+GameUI.FishingPower,"{0} PARA AT"
+GameUI.FullFishingPower,"{0} ({1}%) PARA AT"
+GameUI.PrecentFishingPower,"{0}% PARA AT"
+GameUI.FishingWarning,"You should fish now! :)"
+GameUI.BaitPower,"{0}% PARA AT"
+GameUI.BaitRequired,"Requires bait to catch parasites"
+
+GameUI.BlockReplacerOff,Block underswap onn
+GameUI.BlockReplacerOn,Block underswap of
 
 
 #[ crafting ],<<-|-----------------------------------------------|->>

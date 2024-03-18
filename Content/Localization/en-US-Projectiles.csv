@@ -98,6 +98,7 @@ ProjectileName.Penguin,Pingus
 ProjectileName.ShadowMimic,Mini Goomb
 ProjectileName.TikiSpirit,Sans the Idea
 ProjectileName.BabyHornet,Gohst
+ProjectileName.Turtle,Pet Gaster
 
 
 #[ friendly : tools ],<<-|---------------------------------------|->>
@@ -109,6 +110,9 @@ ProjectileName.ChlorophyteJackhammer,{$ItemName.ChlorophyteJackhammer}
 ProjectileName.PurificationPowder,{$ItemName.PurificationPowder}
 ProjectileName.VilePowder,{$ItemName.VilePowder}
 ProjectileName.ViciousPowder,{$ItemName.ViciousPowder}
+
+ProjectileName.BobberWooden,Fake Parasite
+ProjectileName.BobberFiberglass,"{$ProjectileName.BobberWooden}"
 
 
 #[ friendly : hooks ],<<-|---------------------------------------|->>

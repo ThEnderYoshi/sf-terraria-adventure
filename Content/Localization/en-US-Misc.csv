@@ -94,11 +94,18 @@ MapObject.Gold,Papyld
 MapObject.Iron,Iriel
 MapObject.Lead,Toriad
 MapObject.Platinum,Papynum
+MapObject.Pot,Treasurehead
+MapObject.Sapling,Thyme Sprout
 MapObject.Silver,Sansver
+MapObject.Sink,Sank (sans sink)
+MapObject.Statue,Stanstue
+MapObject.Table,Sansble
 MapObject.Tin,Gastin
 MapObject.Toilet,Dispatch Hatch
 MapObject.Tungsten,Tungsans
 MapObject.Thorn,Toriel's Furniture
+MapObject.TeleportationPylon,Sansleportation Sanslon
+MapObject.Tree,Bad Thyme
 
 
 #[ misc ],<<-|---------------------------------------------------|->>

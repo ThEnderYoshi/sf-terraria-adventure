@@ -266,13 +266,10 @@ granting him _super_ ninja duplication abilities!
 > _"The rare instance of them working together. This is your fault."_
 
 Both the Sanses and Loogies have figured out your goal:
-to defeat the [ B I G   S A N S ]'s SOUL.
-
-This would completely invalidate their existences,
-so they have joined forces in order to stop you.
-
-The result is the newly-invented Soogi (sans loogie) alloy,
-and the mechanical terrors made from it.
+to defeat the [ B I G   S A N S ]'s SOUL. This would completely invalidate their
+existences, so they have joined forces in order to stop you. The result is the
+newly-invented Soogi (sans loogie) alloy, and the mechanical terrors made
+from it.
 
 They are:
 
@@ -331,6 +328,8 @@ causing them to become normal monsters and undoing the entirety of Undertale.
 
 The most prominent type of flora, due to its incredible versatility.
 It is completly unrelated to regular thyme.
+
+![a diagram of a bad thyme stem](/ExternalAssets/ConceptArt/BadThymeDiagram.png)
 
 Although it is confirmed that this is indeed a plant,
 the skull-like flowers they grow can sometimes produce brains.

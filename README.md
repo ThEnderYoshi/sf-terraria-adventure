@@ -10,7 +10,7 @@ to a lesser extent, **18,288** text entries.
 > ![info](.github/images/thyme.png)
 > You can find out more info on the [Forum Page].
 
-## ![icon](.github/images/icon-images.png) Image Demos
+## ![icon](.github/images/icon-images.png) Screenshot
 
 ![demo of early ore tools](.github/images/tool-demo.png)
 
@@ -18,9 +18,9 @@ to a lesser extent, **18,288** text entries.
 
 ![demo of some pre-hardmode enemies](.github/images/enemy-demo.png)
 
-![snapshot of a forest pond](.github/images/purity.png)
+![screenshot of a forest pond](.github/images/purity.png)
 
-![snapshot a corruption biome](.github/images/corruption.png)
+![screenshot a corruption biome](.github/images/corruption.png)
 
 ## ![icon](.github/images/icon-releases.png) Releases
 
@@ -36,16 +36,16 @@ judging by the total image count.
 ## ![icon](.github/images/icon-status.png) Status
 
 <!--@region FileCount-->
-Last updated: _2024-02-03 UTC_
+Last updated: _2024-03-17 UTC_
 
 | Progress     |                                             |
 |:------------:|:-------------------------------------------:|
 | Total        | ![11 percent](https://geps.dev/progress/11) |
-| Update       | ![54 percent](https://geps.dev/progress/54) |
-| Images       | 1543 / 13,594                               |
-| Text Entries | 3646 / 18,288                               |
+| Update       | ![58 percent](https://geps.dev/progress/58) |
+| Images       | 1589 / 13,594                               |
+| Text Entries | 3705 / 18,288                               |
 | Songs        | 20 / 91                                     |
-| Sounds       | 33 / 765                                    |
+| Sounds       | 34 / 765                                    |
 <!--@end-region-->
 
 ## ![icon](.github/images/icon-other.png) QnA

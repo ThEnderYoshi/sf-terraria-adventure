@@ -135,6 +135,7 @@ unfinished textures:
     - '19'          # Platforms.
     - '20'          # Saplings.
     - '21'          # Chests + Barrel + Trash Can.
+    - '28'          # Pots.
     - '33'          # Candle.
     - '34'          # Chandelier.
     - '35'          # Lanterns.
