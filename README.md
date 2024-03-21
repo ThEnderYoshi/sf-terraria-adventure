@@ -10,7 +10,7 @@ to a lesser extent, **18,288** text entries.
 > ![info](.github/images/thyme.png)
 > You can find out more info on the [Forum Page].
 
-## ![icon](.github/images/icon-images.png) Screenshot
+## ![icon](.github/images/icon-images.png) Screenshots
 
 ![demo of early ore tools](.github/images/tool-demo.png)
 
@@ -36,14 +36,14 @@ judging by the total image count.
 ## ![icon](.github/images/icon-status.png) Status
 
 <!--@region FileCount-->
-Last updated: _2024-03-17 UTC_
+Last updated: _2024-03-21 UTC_
 
 | Progress     |                                             |
 |:------------:|:-------------------------------------------:|
 | Total        | ![11 percent](https://geps.dev/progress/11) |
-| Update       | ![58 percent](https://geps.dev/progress/58) |
-| Images       | 1589 / 13,594                               |
-| Text Entries | 3705 / 18,288                               |
+| Update       | ![59 percent](https://geps.dev/progress/59) |
+| Images       | 1593 / 13,594                               |
+| Text Entries | 3732 / 18,288                               |
 | Songs        | 20 / 91                                     |
 | Sounds       | 34 / 765                                    |
 <!--@end-region-->

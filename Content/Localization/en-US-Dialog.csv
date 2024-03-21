@@ -98,22 +98,72 @@ TownNPCMoodBiomes.Snow,the Snans
 
 
 TownNPCMood_Guide.Content,"Just bing chillin' my dude."
-TownNPCMood_Guide.DislikeBiome,"Honestly, {BiomeName} makes me feel like I'm gonna have a bad time."
-TownNPCMood_Guide.DislikeCrowded,"You should never keep this many sanses together. It's always bound to result in bad things."
-
-# TownNPCMood_Guide.DislikeNPC,|> >>--->   UNSET   <---<< <|
-
 TownNPCMood_Guide.FarFromHome,"I kinda gave up going back. And that housing doesn't really appeal to me either."
-TownNPCMood_Guide.HateBiome,"This place, {BiomeName}. Reminds me of dark, darker, yet darker days."
-TownNPCMood_Guide.HateCrowded,"What's with the box towers? It gives me a really bad feeling..."
-TownNPCMood_Guide.HateNPC,"That snake, {NPCName}... He stabbed us all in the back when we least expected it. I hate him!"
-TownNPCMood_Guide.LikeBiome,"The {BiomeName} reminds me of myself, minus the impressive bone abilities."
-TownNPCMood_Guide.LikeNPC,"{NPCName} is a little weird, but that's what I like about them!"
-TownNPCMood_Guide.LikeNPC_Princess,"Oh, {NPCName}? Kinda hard not to like the lil' guy!"
-TownNPCMood_Guide.LoveBiome,"{BiomeName} IS GUD ANDE BASED"
-TownNPCMood_Guide.LoveNPC,"{NPCName} IS GUD ANDE BASED"
 TownNPCMood_Guide.LoveSpace,"So much space... You really did all this for lil' ol' Sans?"
 TownNPCMood_Guide.NoHome,"Y'know, it WOULD be nice if I had a place to crash in."
+
+TownNPCMood_Guide.HateBiome,"This place, {BiomeName}. Reminds me of dark, darker, yet darker days."
+TownNPCMood_Guide.DislikeBiome,"Honestly, {BiomeName} makes me feel like I'm gonna have a bad time."
+TownNPCMood_Guide.LikeBiome,"The {BiomeName} reminds me of myself, minus the impressive bone abilities."
+TownNPCMood_Guide.LoveBiome,"{BiomeName} IS GUD ANDE BASED"
+
+TownNPCMood_Guide.HateCrowded,"What's with the box towers? It gives me a really bad feeling..."
+TownNPCMood_Guide.DislikeCrowded,"You should never keep this many sanses together. It's always bound to result in bad things."
+
+TownNPCMood_Guide.HateNPC,"That snake, {NPCName}... He stabbed us all in the back when we least expected it. I hate him!"
+# TownNPCMood_Guide.DislikeNPC,|> >>--->   UNSET   <---<< <|
+TownNPCMood_Guide.LikeNPC,"{NPCName} is a little weird, but that's what I like about them!"
+TownNPCMood_Guide.LikeNPC_Princess,"Oh, {NPCName}? Kinda hard not to like the lil' guy!"
+TownNPCMood_Guide.LoveNPC,"{NPCName} IS GUD ANDE BASED"
+
+
+#[ mood : painter ],<<-|-----------------------------------------|->>
+
+
+TownNPCMood_Painter.Content,"My vials are full!"
+TownNPCMood_Painter.FarFromHome,"Reeeally wish I was at my shelter right now. The wild Sanses here are starting to make me uneasy."
+TownNPCMood_Painter.LoveSpace,"This shelter is really nice, it reminds of back when... uh... what was I saying?"
+TownNPCMood_Painter.NoHome,"Yould you mind building a shelter for me? Sans Fanfic is a, uh, VERY hostile place."
+
+TownNPCMood_Painter.HateBiome,"{$TownNPCMood_Painter.DislikeBiome}"
+TownNPCMood_Painter.DislikeBiome,"{BiomeName} just gives me the creeps. What's with the sanses embedded into the ground?"
+TownNPCMood_Painter.LikeBiome,"I somehow feel the safest in {BiomeName}. Probably because it's one of the least sans-y places here."
+TownNPCMood_Painter.LoveBiome,"{BiomeName} IS GUD AND BASED"
+
+TownNPCMood_Painter.HateCrowded,"It's so noisy here with all these people, I can't hear my own thoughts!"
+TownNPCMood_Painter.DislikeCrowded,"There's quite a few people here, I'm getting kinda overwhelmed..."
+
+TownNPCMood_Painter.HateNPC,"{NPCName} IS BADE AND CRING"
+TownNPCMood_Painter.DislikeNPC,"I have some...history with {NPCName}. It's best if the two of us keep our distance."
+# TownNPCMood_Painter.LikeNPC,|> >>--->   UNSET   <---<< <|
+TownNPCMood_Painter.LikeNPC_Princess,"Me and {NPCName} are long time friends! He's always a joy to have around."
+TownNPCMood_Painter.LoveNPC,"That {NPCName} is a FASCINATING case of possession! I'd love to study those two whenever I get the change."
+
+#[ special : painter ],<<-|--------------------------------------|->>
+
+
+PainterSpecialText.Party,"...where are you..."
+PainterSpecialText.Rain1,"How do you do it? Surviving the acid rain I mean. I swear it has already torn holes in my scarf again."
+PainterSpecialText.Rain2,"Hey, can you destroy Sans Fanfic faster so I don't have to go through this acid rain again?"
+PainterSpecialText.Storm1,"A combination of acid rain plus a WIND EVENT. This is really bad."
+PainterSpecialText.Storm2,"Maybe I shouldn't be drinking these vials during these EVENTs. At least I wouldn't feel miserable."
+PainterSpecialText.Windy1,"I remember reading about Sans Fanfic not having any wind? Is this some kind of anomaly?"
+PainterSpecialText.Windy2,"Sometimes I get the feeling this wind is blowing some of my memories... what was I talking about?"
+
+
+#[ legacy : painter ],<<-|---------------------------------------|->>
+
+#comment,Hardmode (hallow) dialog:
+# LegacyDialog.250,|> >>--->   UNSET   <---<< <|
+
+#comment,Party girl dialog:
+# LegacyDialog.251,|> >>--->   UNSET   <---<< <|
+
+LegacyDialog.252,"Usually I'd be against destroying an AU, but if we don't, *all* of Undertale will be destroyed!"
+LegacyDialog.253,"Have you seen my pencils? I can't find them anywhere."
+LegacyDialog.254,"Have you seen Luigi?"
+LegacyDialog.255,"You need to hurry! The longer you take, the more AUs get converted into Sans Fanfic!"
+LegacyDialog.256,"Hey, whatever happened to uh, the uh... what was I talking about?"
 
 
 #[  ],<<-|-------------------------------------------------------|->>

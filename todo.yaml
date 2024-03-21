@@ -126,7 +126,7 @@ unfinished textures:
   Tiles_:
     - '3/73'        # Natural plants/flowers.
     - '4'           # Torches.
-    - '5'           # Trees. Missing: Mahogany, Shadewood, Ungerground Mah., Mushroom.
+    - '5'           # Trees. Missing: Shadewood, Mushroom.
     - '10/11'       # Doors.
     - '13'          # Placed liquid containers. (Bottles, Potions, etc.)
     - '14'          # Tables.

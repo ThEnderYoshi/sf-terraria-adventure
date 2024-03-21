@@ -1,12 +1,10 @@
 # This is a "short-term" list of the "next" things to be added, "sorted" by the
 # "planned" order of creation.
 
-# -- End of Commit --
-
-- Painter gores # 320, 321, 322, 323, 931
-- Painter dialog
-- Dryad gores
+- Dryad gores # 39, 40, 41, 1301, 1302, 1303
 - Dryad dialog
+
+# -- End of Commit --
 
 - Plantera # + Dusts 166, 167, 168 & Thorns & Gores & Music & Sounds
 - <plantera-related sprites> # Except Temple Key
@@ -30,7 +28,7 @@
 - Bramble Crate # Waiting on Temple
 - Witch Doctor:  # Waiting on Temple
     - NPC Sprites
-    - Gores
+    - Gores # 324, 325, 326, 327, 1369, 1370, 1371, 1372
     - Dialog
 - Heat Ray # + Dust 162
 - Lihzahrd Pots
@@ -46,6 +44,9 @@
 
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
+
+# For later - BEFORE THE UPDATE WITH GRAVEYARDS
+- <check all graveyard-related npc dialog>
 
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
 - Torch God's Favor
@@ -65,6 +66,10 @@
 - <corruption, crimson and hallow lily pads>
 - <corruption, crimson and hallow cattails>
 - <corruption, crimson and hallow pots>
+- Missing painter dialogs:
+    - TownNPCMood_Painter.LikeNPC # Painter likes Party Girl
+    - LegacyDialog.250            # Hallow dialog
+    - LegacyDialog.251            # Party girl dialog
 
 # For later - BEFORE DUNGEON UPDATE RELEASES
 - <spectre bar + recipes>
