@@ -37,7 +37,6 @@ EmojiName.CritterBee,gohst
 EmojiName.CritterSlime,slans
 
 
-#[ debuffs ],<<-|------------------------------------------------|->>
 #[ town npcs ],<<-|----------------------------------------------|->>
 
 
@@ -45,6 +44,7 @@ EmojiName.TownArmsDealer,sc
 EmojiName.TownBartender,punished
 EmojiName.TownBestiaryGirl,fur
 EmojiName.TownBestiaryGirlFox,fur2
+EmojiName.TownDryad,possessed
 EmojiName.TownGoblinTinkerer,nerd
 EmojiName.TownGuide,classic
 EmojiName.TownMechanic,gaster

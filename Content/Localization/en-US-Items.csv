@@ -583,9 +583,22 @@ ItemName.GoblinsPlayingPoker,The Fanfic
 ItemTooltip.GoblinsPlayingPoker,"By SansFanfic!Sans
 'Love wins'"
 
+ItemName.Dryadisque,Luigisque
+ItemTooltip.Dryadisque,"By Loodvig von Shroom
+'Average Loogie'"
+
 ItemName.DoNotStepontheGrass,Days Gone By
 ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Era)'
 'Things used to be good'"
+
+
+#[ furniture : plants ],<<-|--------------------------------------|->>
+
+
+ItemName.PottedJungleBamboo,Potted Toothy Toriel
+ItemName.PottedJungleCedar,Potted Brambly Toriel
+ItemName.PottedJunglePalm,Potted Hollow Toriel
+ItemName.PottedJungleTree,Potted Handy Toriel
 
 
 #[ furniture : other ],<<-|--------------------------------------|->>
@@ -756,6 +769,10 @@ ItemTooltip.SpectrePaintScraper,"{$ItemTooltip.PaintScraper}
 
 #[ tools : placers ],<<-|----------------------------------------|->>
 
+
+ItemName.DirtRod,Back Pinchers
+ItemTooltip.DirtRod,"Pinches Sirt Blocks
+'If you pinch Wendy's pennies, they pinch back!'"
 
 ItemName.HiveWand,Spawner Spawner
 ItemTooltip.HiveWand,"Spawns Spawner Blocks"

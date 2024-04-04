@@ -130,6 +130,14 @@ ProjectileName.FlyingPiggyBank,Lil' Sansy
 
 ProjectileName.RopeCoil,{$ItemName.RopeCoil}
 
+ProjectileName.DirtBall,{$ItemName.DirtBlock}
+
+
+#[ friendly: npcs ],<<-|-----------------------------------------|->>
+
+
+ProjectileName.DryadsWardCircle,Flowey's Floweys
+
 
 #[ hostile : bosses ],<<-|---------------------------------------|->>
 

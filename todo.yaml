@@ -34,22 +34,33 @@ future ideas:
   - Dreadnautilus -> Onionsans
 
 long-term notes:
+  - Buffs should depict bad/unpleasant things.
+  - Debuffs should depict good things.
+  - Spiders are flowey themed.
   - Move ItemName.DestroyedEmblem out of en-US-Bosses.csv
   - Potions are condiments.
   - Foods are slippers.
   - Fishes are (happy) worms (parasites).
 
 boss todos:
-  queen bee:
-    # Reminder that all of these need have their own text entries
-    npcs: #TODO: Queen Bee (and servants) NPC sprites
-    gores: #TODO: Queen Bee (and servants) Gore sprites
-    projectiles: #TODO: Queen Bee (and servants) Projectile sprites
+  plantera:
+    # Reminder that all of these need to have their own text entries
+    npcs: #TODO: Plantera (and servants) NPC sprites
+    gores: #TODO: Plantera (and servants) Gore sprites
+    projectiles: #TODO: Plantera (and servants) Projectile sprites
     items:
-      - Abeemination
-      #TODO: Queen Bee-related items
+      #TODO: Plantera-related items
     blocks:
-      - Larvae
+      #TODO: Plantera-related blocks
+  golem:
+    # Reminder that all of these need to have their own text entries
+    npcs: #TODO: Golem (and servants) NPC sprites
+    gores: #TODO: Golem (and servants) Gore sprites
+    projectiles: #TODO: Golem (and servants) Projectile sprites
+    items:
+      #TODO: Golem-related items
+    blocks:
+      #TODO: Golem-related blocks
 
 unfinished textures:
   critter cages:
@@ -169,6 +180,7 @@ unfinished textures:
     - '497'         # Toilets.
     - '518'         # Lily pads
     - '519'         # Cattails
+    - '547/548'     # Potted Trees.
     - '597'         # Pylon bases.
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'

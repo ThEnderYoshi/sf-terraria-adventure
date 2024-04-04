@@ -36,6 +36,9 @@ BuffDescription.Fishing,"You are more attractive to parasites"
 BuffName.MonsterBanner,[c/4782c9:Sansnner]
 BuffDescription.MonsterBanner,"[ B I G   S A N S ] is blessing you against:"
 
+BuffName.DryadsWard,[c/4782c9:Flowey'd]
+BuffDescription.DryadsWard,"See? Flowey was a good guy after all :)"
+
 
 #[ whips ],<<-|--------------------------------------------------|->>
 
@@ -65,6 +68,9 @@ BuffDescription.Confused,"Or keyboard. Whatever."
 
 BuffName.Webbed,[c/e9581c:Grabb'd]
 BuffDescription.Webbed,"Bad touch. BAD TOUCH"
+
+BuffName.DryadsWardDebuff,[c/e9581c:Flowey'd (bad)]
+BuffDescription.DryadsWardDebuff,"SIKE! Flowey was bad guy ALL ALONG ! ! >:)"
 
 
 #[ minions ],<<-|------------------------------------------------|->>

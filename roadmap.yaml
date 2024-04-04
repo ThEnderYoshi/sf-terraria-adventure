@@ -1,9 +1,6 @@
 # This is a "short-term" list of the "next" things to be added, "sorted" by the
 # "planned" order of creation.
 
-- Dryad gores # 39, 40, 41, 1301, 1302, 1303
-- Dryad dialog
-
 # -- End of Commit --
 
 - Plantera # + Dusts 166, 167, 168 & Thorns & Gores & Music & Sounds
@@ -45,8 +42,30 @@
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
 
+# For later - BEFORE THE UPDATE WITH HELL
+- Potted Hell Plants
+
 # For later - BEFORE THE UPDATE WITH GRAVEYARDS
 - <check all graveyard-related npc dialog>
+
+# For later - BEFORE THE UPDATE WITH HALLOWEEN STUFF
+- Pumpkin Seeds # + all related items
+- <dryad vanity set>
+- <look for other town npc's vanity sets>
+
+# For later - BEFORE AETHER UPDATE RELEASES
+- Shimmered Dryad:
+    - NPC Sprite
+    - Gores # 1301, 1302, 1303
+    - <look for other shimmered dryad-related sprites>
+- <look for other shimmered npc sprites>
+
+# For later - BEFORE THE UPDATE WITH THE BLOOD MOON
+- Dryad's blood moon dialog:
+    -  LegacyDialog.73
+    -  LegacyDialog.74
+    -  LegacyDialog.75
+    -  LegacyDialog.76
 
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
 - Torch God's Favor
@@ -57,6 +76,8 @@
 - Venom Staff
 - <forest pots>
 - Fallen log
+- All types of bombs (minus scarab)
+- Potted Forest/Crystal Trees
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect
@@ -70,6 +91,7 @@
     - TownNPCMood_Painter.LikeNPC # Painter likes Party Girl
     - LegacyDialog.250            # Hallow dialog
     - LegacyDialog.251            # Party girl dialog
+- Potted Hallow Trees
 
 # For later - BEFORE DUNGEON UPDATE RELEASES
 - <spectre bar + recipes>
