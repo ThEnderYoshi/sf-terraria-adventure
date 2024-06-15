@@ -66,6 +66,7 @@ As the name implies, this is the update that retextures the Jungle biome.
 bosses have been completed)
 
 - Queen Bee
+- Plantera
 
 #### NPCs
 
@@ -90,26 +91,30 @@ Minion/pet/minecart buffs are not included here.
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
   Ancient Cobalt, Bee Armor, Jungle, Chlorophyte
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
-  Queen Bee Mask, Bee Set
+  Queen Bee Mask, Bee Set, Plantera Mask
 
 #### Weapons
 
 - _Yoyos:_ Amazon, Yelets, Hive-Five
-- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore
+- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore, Seedler
 - _Boomerangs:_ Thorn Chakram
 - _Spears:_ Chlorophyte Partisan
+- _Maces:_ Flower Pow
 - _Bows:_ The Bee's Knees, Chlorophyte Shotbow
 - _Arrows:_ Chlorophyte
-- _Guns:_ Uzi, Paintball Gun, Boomstick
+- _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum
+- _Launchers:_ Grenade Launcher
+- _Rockets:_ Grenade forms of all rockets
 - _Bullets:_ Chlorophyte
-- _Magic Guns:_ Bee Gun
-- _Minions:_ Hornet Staff
+- _Staves:_ Nettle Burst
+- _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun
+- _Minions:_ Hornet Staff, Pigmy Staff
 - _Whips:_ Leather, Snapthorn
 
 #### Tools
 
 - _Picks:_ Chlorophyte Pickaxe + Drill
-- _Axes:_ Chlorophyte Greataxe + Chainsaw, Axe of Regrowth
+- _Axes:_ Chlorophyte Greataxe + Chainsaw, Axe of Regrowth, The Axe
 - _Hammer:_ Chlorophyte Warhammer + Jackhammer
 - _Fishing Poles:_ Wooden, Fiberglass
 - _Painting:_ Paintbrush (+ spectral), Paint Roller (+ spectral),
@@ -124,11 +129,12 @@ Minion/pet/minecart buffs are not included here.
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
 - _Wings:_ Leaf, Bee, Moth
-- _Pets:_ Tiki Totem, Nectar, Sparkling Honey, Seaweed
-- _Hooks:_ Ivy Whip
+- _Pets:_ Tiki Totem, Nectar, Sparkling Honey, Seaweed, Mud Bud, Seedling,
+  Plantera Seedling
+- _Hooks:_ Ivy Whip, Thorn Hook
 - _Minecarts:_ Wooden, Bee
 - _Movement:_ Anklet of the Wind
-- _Expert:_ Hive Pack
+- _Expert:_ Hive Pack, Spore Sac
 - _Other:_ Flower Boots
 
 ### Changed
