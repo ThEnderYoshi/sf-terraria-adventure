@@ -168,7 +168,7 @@ unfinished textures:
     - '139'         # Placed Music Boxes.
     - '165'         # Stalactites/stalagmites.
     - '172'         # Sinks.
-    - '185'         # Debree. Also check for tiles placed by Rubblemaker.
+    - '185'         # Debris. Also check for tiles placed by Rubblemaker.
     - '187'         # `LargePiles2`. Also check for Rubblemaker & Tiles_186.png
     - '215'         # Campfire.
     - '227'         # Dye Plants.
@@ -277,6 +277,3 @@ other:
   - >
     Considering the Hallow's current lore, it'd make more sense to make
     EoL based on deltarune instead of just being a 7-souled sans.
-  - >
-    Create a world specifically for testing Resource Packs.
-    Builder's workshop just doesn't cut it sometimes :(

@@ -3,9 +3,6 @@
 
 # -- End of Commit --
 
-- Plantera # + Dusts 166, 167, 168 & Thorns & Gores & Music & Sounds
-- <plantera-related sprites> # Except Temple Key
-
 # Biome wrap-up
 - <surface jungle backgrounds>
 - Frog Cage
@@ -19,6 +16,7 @@
 - <remaining rich mahogany recipes>:
     - Armor
     - <see rest>
+- Cyborg
 - Turtle Armor
 - <statues for all current enemies>
 - Temple Key    # Waiting on Temple
@@ -29,6 +27,7 @@
     - Dialog
 - Heat Ray # + Dust 162
 - Lihzahrd Pots
+- [SunAltar.png, SunOrb.png]
 - Poison Dart
 - Imbuing Station # Waiting on Witch Doctor
 - Flask of Poison # Waiting on Imbuing Station
@@ -105,6 +104,7 @@
 - Chrolophyte Extractinator
 - Water Strider
 - Glass
+- <all rockets/mines> # Grenades have already been covered.
 
 # For later - BEFORE MECH BOSS UPDATE RELEASES
 - Excalibur

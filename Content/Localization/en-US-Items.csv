@@ -852,6 +852,8 @@ ItemName.ChlorophyteChainsaw,Torium Chainsans
 ItemName.ChlorophyteWarhammer,Torium Sansmmer
 ItemName.ChlorophyteJackhammer,Horned Pwner
 
+ItemName.TheAxe,The Worm
+
 ItemName.AcornAxe,Bonular Restoration Axsans
 ItemTooltip.AcornAxe,"{$ItemTooltip.StaffofRegrowth}
 Plants saplings when cutting down bad thymes"
@@ -924,6 +926,9 @@ ItemTooltip.TikiTotem,"Sansmmons Sans (not the Man, but the Idea)"
 ItemName.Seaweed,Webding
 ItemTooltip.Seaweed,"Sansmmons a pet gaster"
 
+ItemName.MudBud,Perfecly Normal Mustache Hair
+ItemTooltip.MudBud,"Sansmmons a completely indifferent little man"
+
 
 #[ minecarts ],<<-|----------------------------------------------|->>
 
@@ -935,6 +940,7 @@ ItemName.BeeMinecart,Ghostchrap
 
 
 ItemName.IvyWhip,WD's Grabbers
+ItemName.ThornHook,Sad Man's Grabbers
 
 
 #[ dungeon defenders 2 ],<<-|------------------------------------|->>

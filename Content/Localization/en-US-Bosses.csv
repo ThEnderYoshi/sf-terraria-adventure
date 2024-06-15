@@ -224,6 +224,38 @@ ItemName.DestroyerMask,Mecha Biggler Mask
 ItemName.DestroyerEmblem,Sanstroyer Sansblem
 
 
+#[ plantera ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Plantera,MOTHERFAKER
+NPCName.PlanterasHook,MOTHERFAKER's Hand
+NPCName.PlanterasTentacle,MOTHERFAKER's Hand
+NPCName.Spore,Para-Tear
+
+Bestiary_FlavorText.npc_Plantera,"A failed Loogie experiment to create something that blends in with MOTHERSPAWNERS. Interestingly, the great sadness coming from this being seems to have started long before it was transformed into this abomination."
+
+ItemName.PlanteraBossBag,Bag of Regret (MOTHERFAKER)
+ItemTooltip.PlanteraBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'I'm not happy'"
+
+ItemName.PlanteraMask,MOTHERFAKER Sask (sans mask)
+
+ItemName.SporeSac,Cryberry
+ItemTooltip.SporeSac,Sansmmons an aura of sadness that will damage sanses
+
+ItemName.PlanteraPetItem,Wet Mustache Hair
+ItemTooltip.PlanteraPetItem,"Sansmmons a sad little man
+[c/7f7f7f:------]
+""The S Experiment has been deemed a success. The whole
+kingdom has become a lot 'cheerier' as all negative
+emotions have been diverted to the test subject. He is
+now experiencing extreme depression, but we consider
+it acceptable in the name of the greater good""
+- Toadsworth, Mushroom Kingdom Secret Archive document"
+
+ItemName.Seedling,Hand Burger
+ItemTooltip.Seedling,Sansmmons a Hamburger Hinderance
+
 #[ empress of light ],<<-|---------------------------------------|->>
 
 

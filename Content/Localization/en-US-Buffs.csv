@@ -85,6 +85,8 @@ BuffDescription.HornetMinion,"OoooooOOOOOHHH you better watch out! The gohst has
 BuffName.ImpMinion,[c/ffc700:Lancer]
 BuffDescription.ImpMinion,"The bouncy little pumpkin will protect your behind"
 
+BuffName.Pygmies,[c/ffc700:Puffles]
+BuffDescription.Pygmies,"The puffles will protect your behind"
 
 #[ pets ],<<-|---------------------------------------------------|->>
 
@@ -110,6 +112,14 @@ BuffDescription.QueenBeePet,"At least it doesn't think you're its mother"
 BuffName.PetTurtle,[c/ffc700:Pet Gaster]
 BuffDescription.PetTurtle,"OH GOD I'M GASTIN'"
 
+BuffName.PlanteraPet,[c/ffc700:Sad Little Man]
+BuffDescription.PlanteraPet,"'I'm not happy'"
+
+BuffName.Plantero,[c/ffc700:Completely Indifferent Little Man]
+BuffDescription.Plantero,"'EEEEEEH YOU KNOWWWWW'"
+
+BuffName.PetSapling,[c/ffc700:Hamburger Hinderance]
+BuffDescription.PetSapling,"It's plotting a scheme to make your day worse"
 
 #[ mounts ],<<-|-------------------------------------------------|->>
 

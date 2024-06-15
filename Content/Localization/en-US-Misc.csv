@@ -33,6 +33,8 @@ LegacyMisc.0,The Lnik army's behind was kicked!
 LegacyMisc.8,My Mans (moon sans) is PISSED!
 LegacyMisc.9,You feel like you're gonna have a bad time...
 LegacyMisc.15,The spirits of dark and darker have become yet darker.
+LegacyMisc.32,There is a spy in Toriel's House...
+LegacyMisc.33,Black Friday has started at Gamestop...
 
 
 #[ currency ],<<-|-----------------------------------------------|->>
@@ -72,11 +74,29 @@ Game.Time,{0} ST (Sans Time)
 
 
 GameUI.Bestiary,Open Sanstiary
+
+GameUI.Enabled,WINDOWS + G
+GameUI.Disabled,ENABLE
 GameUI.Cancel,Cansans
+
 GameUI.CompassCenter,Sanster
 GameUI.CompassEast,{0} ½m East
 GameUI.CompassWest,{0} ½m Weast
+
+GameUI.DepthLevel,Temperature
+GameUI.Depth,{0}°C
+GameUI.LayerSpace,(fever)
+GameUI.LayerSurface,(hypothermia)
+GameUI.LayerUnderground,(hypothermia)
+GameUI.LayerCaverns,(fever)
+GameUI.LayerUnderworld,(heat stroke)
+
 GameUI.DPS,{0} sansmage per sanscond
+
+GameUI.LightRain,Light Drooling
+GameUI.Rain,Drooling
+GameUI.HeavyRain,JASON
+GameUI.Storm,JAAAAAASOOOOON
 
 
 #[ map objects ],<<-|--------------------------------------------|->>
@@ -93,6 +113,7 @@ MapObject.Fossil,Sans Matter
 MapObject.Gold,Papyld
 MapObject.Iron,Iriel
 MapObject.Lead,Toriad
+MapObject.PlanterasBulb,Blue SOUL (real)
 MapObject.Platinum,Papynum
 MapObject.Pot,Treasurehead
 MapObject.Sapling,Thyme Sprout
@@ -104,6 +125,7 @@ MapObject.Tin,Gastin
 MapObject.Toilet,Dispatch Hatch
 MapObject.Tungsten,Tungsans
 MapObject.Thorn,Toriel's Furniture
+MapObject.Thorns,Tendrils
 MapObject.TeleportationPylon,Sansleportation Sanslon
 MapObject.Tree,Bad Thyme
 

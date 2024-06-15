@@ -14,6 +14,9 @@ ItemName.Flamelash,BurningIceStaff
 ItemTooltip.Flamelash,"Sansmmons a controllable block of burning ice
 'HOW'"
 
+ItemName.NettleBurst,Extendo-Munch
+ItemTooltip.NettleBurst,"[c/ff0000:-10 sans DF]"
+
 
 #[ mage : guns ],<<-|--------------------------------------------|->>
 
@@ -24,6 +27,14 @@ ItemName.BeeGun,Ghost Grill
 ItemTooltip.BeeGun,"Leaks a bunch of gohsts that chase Sanses
 'WHY IS ALL THEIR FOOD
 FULL OF GHOSTS'"
+
+ItemName.LeafBlower,Finger Gun
+ItemTooltip.LeafBlower,"'POW, HAHA!'"
+
+ItemName.WaspGun,Ghost Chicken
+ItemTooltip.WaspGun,"[c/ff0000:-10 sans DF]
+'JOKES ON YOU DUMBASS
+THE CHICKEN HAS GHOST TOO'"
 
 
 #[ melee : boomerangs ],<<-|-------------------------------------|->>
@@ -60,6 +71,10 @@ ItemName.BallOHurt,Undertoad!Sansce
 ItemName.TheMeatball,Bundle o' Bones
 ItemName.BlueMoon,Sansce Seraph
 ItemName.Sunfury,Lower!Sansce
+
+ItemName.FlowerPow,V!Sansce
+ItemTooltip.FlowerPow,"Shcüts tears at nearby sanses
+'Hey, V!Sansce! Michael here'"
 
 
 #[ melee : shortswords ],<<-|------------------------------------|->>
@@ -119,6 +134,8 @@ ItemTooltip.ChlorophyteSaber,"Throws flames
 
 ItemName.ChlorophyteClaymore,Torium Flamapult
 ItemTooltip.ChlorophyteClaymore,"Calapults fireballs at sanses"
+
+ItemName.Seedler,Boxxord (BLADE OF NIGHTMARES)
 
 ItemName.Meowmere,Dogsword
 ItemName.StarWrath,Chaos Saber
@@ -185,6 +202,9 @@ but tHE CHAMBERS WEREN'T'"
 ItemName.Uzi,Suzi
 ItemTooltip.Uzi,"'Oh look it's my neighbor'"
 
+ItemName.VenusMagnum,Magnum Bone
+ItemTooltip.VenusMagnum,"'man i don't even know'"
+
 
 #[ ranged : thrown ],<<-|----------------------------------------|->>
 
@@ -194,6 +214,12 @@ ItemName.ThrowingKnife,Hateful Knife
 
 ItemName.Beenade,Spooky Cocktail
 ItemTooltip.Beenade,Explodes into many Gohsts
+
+
+#[ ranged : rocket launchers ],<<-|------------------------------|->>
+
+
+ItemName.GrenadeLauncher,Powerup Ballcher (ball launcher)
 
 
 #[ ranged : misc. ammo ],<<-|------------------------------------|->>
@@ -240,6 +266,9 @@ ItemTooltip.HornetStaff,"Sansmmons an anger gohst to protect your behind"
 
 ItemName.ImpStaff,CookieStaff
 ItemTooltip.ImpStaff,"Sansmmons a round boy to protect your behind"
+
+ItemName.PygmyStaff,O' Berry on a Stick
+ItemTooltip.PygmyStaff,"Sansmmons puffles to protect your behind"
 
 
 #[ summoner : whips ],<<-|---------------------------------------|->>

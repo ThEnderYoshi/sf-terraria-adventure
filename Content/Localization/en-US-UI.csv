@@ -61,6 +61,10 @@ GameUI.BaitRequired,"Requires bait to catch parasites"
 GameUI.BlockReplacerOff,Block underswap onn
 GameUI.BlockReplacerOn,Block underswap of
 
+GameUI.Expert,"[c/7f7f7f:------]
+{$UI.Expert}"
+GameUI.Master,"[c/7f7f7f:------]
+{$UI.Master}"
 
 #[ crafting ],<<-|-----------------------------------------------|->>
 
