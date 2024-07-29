@@ -34,14 +34,14 @@ are colored.
 
 These are how the names of stats and damage classes are formatted.
 
-| Stat/Class | Name       |
-|------------|:----------:|
-| Health     | `HP`       |
-| Mana       | `TP`       |
-| Attack     | `AT`       |
-| Defense    | `DF`       |
-| Attack     | `-sans DF` |
-| Melee      | `MLE`      |
-| Ranged     | `RNG`      |
-| Mage       | `MGC`      |
-| Summoner   | `SMN`      |
+| Stat/Class        | Name       |
+|-------------------|:----------:|
+| Health            | `HP`       |
+| Mana              | `TP`       |
+| Attack            | `AT`       |
+| Defense           | `DF`       |
+| Armor Penetration | `-sans DF` |
+| Melee             | `MLE`      |
+| Ranged            | `RNG`      |
+| Mage              | `MGC`      |
+| Summoner          | `SMN`      |

@@ -6,6 +6,7 @@ important:
     - Add statues for all current enemies.
     - Add Bramble Crate. (waiting on Temple)
     - Add Witch Doctor. (waiting on Temple)
+    - Add Wandering Eye gores.
   BEFORE DST UPDATE RELEASES:
     - Check out DSTNoise.png ;)
 
@@ -43,15 +44,6 @@ long-term notes:
   - Fishes are (happy) worms (parasites).
 
 boss todos:
-  plantera:
-    # Reminder that all of these need to have their own text entries
-    npcs: #TODO: Plantera (and servants) NPC sprites
-    gores: #TODO: Plantera (and servants) Gore sprites
-    projectiles: #TODO: Plantera (and servants) Projectile sprites
-    items:
-      #TODO: Plantera-related items
-    blocks:
-      #TODO: Plantera-related blocks
   golem:
     # Reminder that all of these need to have their own text entries
     npcs: #TODO: Golem (and servants) NPC sprites
@@ -119,7 +111,7 @@ unfinished textures:
     - '93/160-170'  # Could use some more touches
     - '261-262'     # Recolor of vanilla image
   Extra_:
-    - '48'          # See !chat bubbles.ase
+    - '48'          # See ChatBubbles.ase
     - '54'          # Equipment slot icons.
     - '181/182'     # Pylon Crystals/Map Icons.
   Flame_:
@@ -202,8 +194,6 @@ reconsider:
     - '121'  # Slimer. Wing animation sucks.
     - '134'  # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
     - '458'  # Eternia Crystal. Sprite feels like it needs a couple tweaks.
-  UI/Cursor_:
-    - '3'    # Star cursor. Looks weird.
   <other>:
     - Achievement UI assets
 broken:

@@ -141,6 +141,7 @@ Minion/pet/minecart buffs are not included here.
 
 - Buckets are now jugs instead of capsules.
 - Bottles are now for condiments instead of being sans-shaped.
+- Minor tweaks to Fancy UI, bubbles and the star cursor.
 
 ### Fixed
 
