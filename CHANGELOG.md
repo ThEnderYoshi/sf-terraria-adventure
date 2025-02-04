@@ -21,7 +21,7 @@ or already have some content done for it.
 
 <!-- NOTE: Organize this changelog before the update releases. -->
 
-As the name implies, this is the update that retextures the Jungle biome.
+As the name implies, this is the update that re-textures the Jungle biome.
 
 ### Added
 
@@ -33,17 +33,19 @@ As the name implies, this is the update that retextures the Jungle biome.
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
 - _Furniture Sets:_ Rich Mahogany, Bamboo, Honey
+- _Other Furniture:_ All Jungle critter cages + statues
 - _Campfires:_ Wood, Jungle
 - _Pylons:_ Forest, Jungle
 - _Other Background Objects:_ Rich Mahogany Beam, Forest & Jungle Pots
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
-  Apple, Apple Juice, Grub Soup
+  Apple, Apple Juice, Grub Soup, Sauteed Frog Legs
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
   Derpfish
 - _Crates:_ Wooden, Iron, Gold, Jungle
 - _Kites:_ Man Eater, Angry Trapper
 - _Summons:_ Abeemination
-- _UI:_ Summon focus indicator
+- _UI:_ Summon focus indicator, Jungle Splash Screen
+- _Backgrounds:_ All Jungle-related backgrounds.
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
@@ -59,11 +61,13 @@ As the name implies, this is the update that retextures the Jungle biome.
 - Jungle Torch
 - Jungle rubble
 - Ivy Chest
+- Jungle Water Fountain
 
 #### Bosses
 
-(Trophies and Relics are not included, they'll be done all at once when all
-bosses have been completed)
+> [!NOTE]
+> Trophies and Relics are not included, they'll be done all at once when all
+> bosses have been completed.
 
 - Queen Bee
 - Plantera
@@ -79,14 +83,17 @@ bosses have been completed)
 
 #### Buffs
 
-Minion/pet/minecart buffs are not included here.
+> [!NOTE]
+> Minion/pet/minecart buffs are not included here.
 
 - _Positive:_ Regeneration, Honey, Fishing
 - _Negative:_ Bleeding, Confusion, Venom, Webbed
 
 #### Armors
 
-(Equipped armor GFX will not be part of the pack for a good while)
+> [!IMPORTANT]
+> Only item sprites are included; must equipped armor GFX will not be part of
+> the pack for a good while.
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
   Ancient Cobalt, Bee Armor, Jungle, Chlorophyte
@@ -142,11 +149,13 @@ Minion/pet/minecart buffs are not included here.
 - Buckets are now jugs instead of capsules.
 - Bottles are now for condiments instead of being sans-shaped.
 - Minor tweaks to Fancy UI, bubbles and the star cursor.
+- _(tool):_ Replaced `pack_diagnostic` with an unfinished version
+  of TPack Toolbox.
 
 ### Fixed
 
 - Vanilla Bestiary icons are no longer transparent.
-- Rain bestriary icon now no longer in the place of the Ocean's icon.
+- Rain bestiary icon now no longer in the place of the Ocean's icon.
 - Ebonwood Lamp is no longer offset by 1 pixel when turned off.
 - Title Screen theme is not as loud anymore.
 

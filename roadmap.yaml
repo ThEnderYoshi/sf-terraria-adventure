@@ -4,11 +4,14 @@
 # -- End of Commit --
 
 # Biome wrap-up
-- <surface jungle backgrounds>
-- Frog Cage
 - Gold Frog Cage
 - <surface jungle critters + cages + statues>
+- Replace Surface Night Jungle music:
+    # Replace with music box version of Home - Undertale.
+    - track
+    - music box
 - Underground Jungle music:
+    # Replace with Sub1 Redux (non evil version) - Submachine 10.
     - track
     - music box
 
@@ -16,15 +19,20 @@
 - <remaining rich mahogany recipes>:
     - Armor
     - <see rest>
-- Cyborg
+- Cyborg: # Do together with witch doctor
+    - NPC Sprites
+    - Gores
+    - Dialog
+    - Sold items/drops
 - Turtle Armor
 - <statues for all current enemies>
 - Temple Key    # Waiting on Temple
 - Bramble Crate # Waiting on Temple
-- Witch Doctor:  # Waiting on Temple
+- Witch Doctor: # Waiting on Temple
     - NPC Sprites
     - Gores # 324, 325, 326, 327, 1369, 1370, 1371, 1372
     - Dialog
+    - Sold items/drops
 - Heat Ray # + Dust 162
 - Lihzahrd Pots
 - [SunAltar.png, SunOrb.png]
@@ -36,10 +44,22 @@
 - <jungle-related kites>
 - Jungle splash screen # Waiting on Surface Jungle backgrounds
 - Jungle emotes
-- Witch Doctor dialog
+- Temple music:
+    # Replace with Sub1 Redux (evil version) - Submachine 10.
+    - track
+    - music box
+- <all sounds relevant to the jungle>
+- Nature's Gift
 
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
+- Radio Thing
+- Froggle Bunwich
+
+# For later - BEFORE THE UPDATE WITH THE OLD ONE'S ARMY
+- Keg
+- Ale
+- Fix the credits sprite i though was unused
 
 # For later - BEFORE THE UPDATE WITH HELL
 - Potted Hell Plants
@@ -60,40 +80,60 @@
 - <look for other shimmered npc sprites>
 
 # For later - BEFORE THE UPDATE WITH THE BLOOD MOON
+- Blood Water Fountain
+- Blood Moon Monolith
 - Dryad's blood moon dialog:
     -  LegacyDialog.73
     -  LegacyDialog.74
     -  LegacyDialog.75
     -  LegacyDialog.76
 
+# For later - BEFORE THE UPDATE WITH THE UNDERWORLD
+- reconsider: Inferno Potion # Item 2348
+
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
 - Torch God's Favor
 - <ores & ore-based recipes>
 - Flower vines # Tiles 382
 - Vine Rope
-- Poison Staff
-- Venom Staff
+- Poison/Venom Staves
 - <forest pots>
 - Fallen log
 - All types of bombs (minus scarab)
 - Potted Forest/Crystal Trees
+- Fairies
+- Pure/Cavern Water Fountains
+- Enchanted Sundial
+- Enchanted Moondial # Maybe? Or maybe leave it for a general aether update
+- Colored Torches
+- <slime rain background effects>
+- <giant tree tiles + items>
+- reconsider: Harpy # NPC 48
+- reconsider: King Slime
+- Slime Staff
+- Flymeal
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect
+- Solar/Nebula/Vortex/Stardust/Lunar Monoliths
 
 # For later - BEFORE EVIL BIOME UPDATE RELEASES
 - <corruption, crimson and hallow leaf gores>
 - <corruption, crimson and hallow lily pads>
 - <corruption, crimson and hallow cattails>
 - <corruption, crimson and hallow pots>
+- Hallowed/Corrupt/Crimson Water Fountains
 - Missing painter dialogs:
     - TownNPCMood_Painter.LikeNPC # Painter likes Party Girl
     - LegacyDialog.250            # Hallow dialog
     - LegacyDialog.251            # Party girl dialog
 - Potted Hallow Trees
+- reconsider: Slimer # NPC 121
 
 # For later - BEFORE DUNGEON UPDATE RELEASES
 - <spectre bar + recipes>
+- Safe
+- Void Bag/Vault # Might as well, you 'unlock' them together with the dungeon
 
 # For later - BEFORE MUSHROOM UPDATE RELEASES
 - <shroomite bar + recipes>
@@ -105,10 +145,13 @@
 - Water Strider
 - Glass
 - <all rockets/mines> # Grenades have already been covered.
+- Icy/Desert/Oasis Water Fountains
+- All magic droppers # See also: MapObject.Dripping* entries.
 
 # For later - BEFORE MECH BOSS UPDATE RELEASES
 - Excalibur
 - True Excalibur
+- reconsider: Destroyer
 
 # For later - Once all bosses are done
 - Trophies # A trading card set.

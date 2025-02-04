@@ -111,18 +111,17 @@ ItemName.PlatinumBroadsword,Papynum Broadswyrus
 
 ItemName.Starfury,Chaos Blade
 ItemTooltip.Starfury,"Blazes stars right out of the skans
-'Once wielded by a god, now in your hands'"
+'Once wielded by a god, now it's in your hands'"
 
 ItemName.LightsBane,Sans' Bane
 ItemName.BloodButcherer,Justicemaker
 
-ItemName.BeeKeeper,Mothersword
+ItemName.BeeKeeper,Mothersword (BLADE OF THE MATRIARCH)
 ItemTooltip.BeeKeeper,"Sansmmons killer gohsts after striking Sanses
 Small chance to turn their controllers upside-down"
 
-ItemName.BladeofGrass,The Mailboxer
-ItemTooltip.BladeofGrass,"[c/ff0000:-{ Sword of the WINGDINGS }-]
-Shoots Dingbat Gohsts
+ItemName.BladeofGrass,The Mailboxer (BLADE OF WINGDINGS)
+ItemTooltip.BladeofGrass,"Shoots Dingbat Gohsts
 Has a chance to spook sanses"
 
 ItemName.FieryGreatsword,TwistedSword
@@ -204,6 +203,9 @@ ItemTooltip.Uzi,"'Oh look it's my neighbor'"
 
 ItemName.VenusMagnum,Magnum Bone
 ItemTooltip.VenusMagnum,"'man i don't even know'"
+
+ItemTooltip.VortexBeater,"[c/ff0000:-66.6% sansmmo]
+'AOUGHHH MY EARS AAAAGH'"
 
 
 #[ ranged : thrown ],<<-|----------------------------------------|->>

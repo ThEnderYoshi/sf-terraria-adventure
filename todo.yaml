@@ -30,6 +30,10 @@ milestones:
   all npcs:  <TBD>      # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
   all items: <TBD>      # (Item_ + Coin_ + ItemFlame_)
   all particles: <TBD>  # (Gore_ + Dust.png)
+  all text entries: <TBD>
+  all songs: <TBD>
+  all sounds: <TBD>
+  everything: <TBD>
 
 future ideas:
   - Dreadnautilus -> Onionsans
@@ -76,7 +80,6 @@ unfinished textures:
     - '295'         # Orange Butterfly
     - '296'         # Yellow Scorpion
     - '297'         # Black Scorpion
-    - '298'         # Frog
     - '299'         # Mouse
     - '309'         # Penguin
     - '310'         # Worm
@@ -85,7 +88,7 @@ unfinished textures:
     - '412'         # Squirrel 2.0
     - '413'         # Gold Squirrel
     - '582'         # Lava Snail
-    - '598'         # Obsidifish?
+    - '598'         # Lava Serpent Bowl
     - '599'         # Amethyst Bunny
     - '600'         # Topaz Bunny
     - '601'         # Sapphire Bunny
@@ -162,6 +165,7 @@ unfinished textures:
     - '172'         # Sinks.
     - '185'         # Debris. Also check for tiles placed by Rubblemaker.
     - '187'         # `LargePiles2`. Also check for Rubblemaker & Tiles_186.png
+    - '207'         # Water Fountains.
     - '215'         # Campfire.
     - '227'         # Dye Plants.
     - '239'         # Bars.
@@ -239,12 +243,11 @@ music notes:
   Title:
     - Lower volume so it better matches the rest of the soundtrack.
 tools:
-  t_pack_diagnostic:
-    - Make scan check for image sizes.
-    - Make scan keep track of different (and invalid) languages.
-    - Make scan at least count music and sounds.
-  other:
-    - Make README updates automatic again.
+  TPack Toolbox:
+    - Restore the `build` tool.
+    - Make the `build` tool optimize files where possible.
+    - Make the multithreading better.
+    - (maybe?) Add XNB extraction + sound conversion.
 
 text placeholders:
   format: '#( placeholder : { name } )[,{ aliases }]'
@@ -255,12 +258,12 @@ text placeholders:
   items:
     - don't starve
     - mushroom biome
-    - plantera
     - string
     - moss
     - fishing
     - bait
     - movement speed
+    - housing
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.

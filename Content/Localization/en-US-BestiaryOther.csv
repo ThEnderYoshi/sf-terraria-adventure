@@ -120,7 +120,7 @@ Bestiary_ItemDropConditions.BeatAnyMechBoss,Drops after defeating any Soogi Mech
 
 Bestiary_ItemDropConditions.CorruptKeyCondition,Drops in the Bad Time Mode Luigi Fanfic
 Bestiary_ItemDropConditions.CrimsonKeyCondition,Drops in the Bad Time Mode No San's Land
-Bestiary_ItemDropConditions.DesertKeyCondition,Drops in the Bad Time Mode Sansert
+Bestiary_ItemDropConditions.DesertKeyCondition,Drops in the Bad Time Mode Wastes
 Bestiary_ItemDropConditions.FrozenKeyCondition,Drops in the Bad Time Mode Snans
 Bestiary_ItemDropConditions.HallowKeyCondition,Drops in the Bad Time Mode Dark World
 Bestiary_ItemDropConditions.JungleKeyCondition,Drops in the Bad Time Mode Toriel's House
@@ -169,8 +169,7 @@ Bestiary_ItemDropConditions.SoulOfNight,Drops in the {$Bestiary_Biomes.Undergrou
 Bestiary_ItemDropConditions.YoyoCascade,Drops after defeating Papytron but before Bad Time Mode
 Bestiary_ItemDropConditions.YoyosAmarok,Drops in Bad Time Mode
 Bestiary_ItemDropConditions.YoyosHelFire,Drops in Bad Time Mode
-#( placeholder : plantera ),Plantera
-Bestiary_ItemDropConditions.YoyosKraken,Drops after defeating Plantera
+Bestiary_ItemDropConditions.YoyosKraken,Drops after defeating MOTHERFAKER
 Bestiary_ItemDropConditions.YoyosYelets,{$Bestiary_ItemDropConditions.BeatAnyMechBoss}
 
 #[ drop conditions : misc ],<<-|---------------------------------|->>
@@ -182,4 +181,4 @@ Bestiary_ItemDropConditions.NamedNPC,"Drops from uniquely named Sanses. (So not 
 Bestiary_ItemDropConditions.PirateMap,Drops in the Bad Time Mode Edge of [ B I G   S A N S ]
 Bestiary_ItemDropConditions.PlayerNeedsHealing,Drops when the human is hurt
 
-Bestiary_ItemDropConditions.NotFromStatue,Not from Sanstue
+Bestiary_ItemDropConditions.NotFromStatue,Not from Stanstue

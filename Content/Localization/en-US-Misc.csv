@@ -137,7 +137,11 @@ Misc.CanBePlacedInVanity,[c/ff7f7f:Can be equipped in sansnity slots]
 
 Misc.Crimstone,Wartorn Stans
 Misc.Ebonstone,Loostone
-Misc.Fruit,Froot
+Misc.Fruit,Slipper
+Misc.ShortDays,Gb
+Misc.ShortHours,Mb
+Misc.ShortMinutes,Kb
+Misc.ShortSeconds,b
 
 
 #[ world creation ],<<-|-----------------------------------------|->>

@@ -78,6 +78,7 @@ LegacyInterface.25,Help
 
 #[ currency ],<<-|-----------------------------------------------|->>
 
+
 #comment,"jfc how many 'currency' entries are there"
 
 LegacyInterface.15,sans bux
@@ -137,6 +138,42 @@ LegacyInterface.28,Close
 LegacyInterface.29,Deposit All
 LegacyInterface.30,Loot All
 LegacyInterface.66,Sanvings
+
+
+#[ loading tips ],<<-|-------------------------------------------|->>
+
+
+LoadingTips_Default.1,"Other humans can loot your chansts! If you don't trust them, kill them! Kill them with hammers!"
+LoadingTips_Default.2,"Info sansccessories don't need to be equipped, just stay blissfully unaware!"
+
+LoadingTips_Default.8,Sometimes you can find sanses hidden around the [ B I G   S A N S ]. Duh.
+
+LoadingTips_Default.10,Gastric acid will break your fall (and your ligaments)!
+LoadingTips_Default.11,"Sanches may light up the world around you, but they can never light up the darkness inside your heart."
+
+LoadingTips_Default.15,Consume the SOULs of fallen humans to increase your LOVE!
+LoadingTips_Default.16,sanches require uhhhhhh something i forgor..
+
+LoadingTips_Default.21,"Koridians love rubies. If you got yourself some, one might move in!"
+LoadingTips_Default.22,Keep a Spamton NutriNose™ in your hotbar at all times!
+#( placeholder : housing ),housing
+LoadingTips_Default.23,"Make sure to avoid having valid housing with empty rooms, otherwise you'll attract even more sanses!"
+LoadingTips_Default.24,"When exploring, make sure to bring some comics to read. Comics can be crafted from numerous sansterials such as Bones, Bones, or even Bones."
+LoadingTips_Default.25,Slay a powerful sans to attract more sanses. What a rotten deal!
+
+LoadingTips_Default.27,""go there"" ""in the dark?"" ""go in the dark""
+
+LoadingTips_Default.60,Sans is overpowered.
+
+LoadingTips_Default.63,Eyes can be used to grow a variety of delicious ingredients for crafting condiments.
+
+LoadingTips_Default.100,"With the Underswap mechanic enabled, you can replace one sans with papyrus directly, rather than having to mine him first."
+LoadingTips_Default.103,Did you know you can order your Sansmmons to attack a specific sans? Well so did I!
+LoadingTips_Default.107,Sanses aren't the only danger when exploring the [ B I G   S A N S ]. Watch out for loogies too!
+LoadingTips_Default.108,Find a :cool: :new: :free: Sansterial? Want to know what you can make? Too bad! Suffer!
+LoadingTips_Default.109,Have some Sanses perished? Good! You're on the right track.
+
+LoadingTips_Default.110,The Spamton NutriNose™'s healing properties works best when used near your bed or friendly NPCs!
 
 
 #[ pause menu ],<<-|---------------------------------------------|->>
@@ -226,7 +263,7 @@ UI.WorldDescriptionEvilRandom,"Idk which evil will infect your sans, but it won'
 
 UI.WorldCreationSize,Size of [ B I G   S A N S ]:
 UI.WorldDescriptionSizeLarge,Prepare for a lot of walking.
-UI.WorldDescriptionSizeMedium,Right in the Goldiloch's zone.
+UI.WorldDescriptionSizeMedium,Right in the Goldilocks zone.
 UI.WorldDescriptionSizeSmall,Prone to worldgen errors.
 
 

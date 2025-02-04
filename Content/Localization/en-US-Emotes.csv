@@ -20,7 +20,7 @@ EmojiName.BiomeSnow,consanstrate
 
 EmojiName.BossBoC,sevenbones
 EmojiName.BossDeerclops,sanstrocity
-EmojiName.BossDestroyer,mechabiggler
+EmojiName.BossDestroyer,bow2
 EmojiName.BossEmpressOfLight,sansperor
 EmojiName.BossEoC,eos
 EmojiName.BossEoW,bow
@@ -35,7 +35,16 @@ EmojiName.BossWoF,wob
 
 
 EmojiName.CritterBee,gohst
+EmojiName.CritterGoblin,lnik
 EmojiName.CritterSlime,slans
+EmojiName.CritterSkeleton,lostsans
+EmojiName.CritterZombie,aggrosans
+
+
+#[ items ],<<-|--------------------------------------------------|->>
+
+
+EmojiName.ItemDefenderMedal,luigium
 
 
 #[ town npcs ],<<-|----------------------------------------------|->>

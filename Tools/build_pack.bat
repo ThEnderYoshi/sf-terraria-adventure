@@ -1,24 +1,26 @@
-:: Builds the pack into %output%.
-:: Run with `--check` to scan the copy.
+@rem Builds the pack into %output%.
+@rem Run with `--check` to scan the copy.
 
 ECHO OFF
-SET output=../SansFanficTerrariaAdventureRelease
-SET refs=Tools/generated_refs
+ECHO "Building currently unavailable!"
 
-ECHO.
-ECHO "Building pack..."
-ECHO.
+@REM SET output=../SansFanficTerrariaAdventureRelease
+@REM SET refs=Tools/generated_refs
 
-Tools\t_pack_diagnostic.exe build -i . -o %output% -r %refs%
+@REM ECHO.
+@REM ECHO "Building pack..."
+@REM ECHO.
 
-if "%~1"=="--check" (GOTO CHECK) ELSE GOTO DONE
+@REM Tools\t_pack_app.exe build -i . -o %output% -r %refs%
 
-:CHECK
+@REM if "%~1"=="--check" (GOTO CHECK) ELSE GOTO DONE
 
-ECHO.
-ECHO "Scanning copy..."
-ECHO.
+@REM :CHECK
 
-Tools\t_pack_diagnostic.exe scan -i %output% -r %refs%
+@REM ECHO.
+@REM ECHO "Scanning copy..."
+@REM ECHO.
 
-:DONE
+@REM Tools\t_pack_app.exe scan %output% %refs%
+
+@REM :DONE

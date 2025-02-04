@@ -28,8 +28,8 @@ MapObject.BeeHive,"{$ItemName.BeeHive}"
 #[ statues : enemies ],<<-|--------------------------------------|->>
 
 
-ItemName.GoblinStatue,Lnik Sanstue
-ItemName.HarpyStatue,Blaster Rider Sanstue
+ItemName.GoblinStatue,Lnik Stanstue
+ItemName.HarpyStatue,Blaster Rider Stanstue
 ItemName.HornetStatue,Gohst Stanstue
 
 
@@ -44,6 +44,12 @@ ItemName.BuggyStatue,Moldbug Stanstue
 
 
 ItemName.AngelStatue,Sansgel Stanstue
+
+
+#[ fountains ],<<-|----------------------------------------------|->>
+
+
+ItemName.JungleWaterFountain,Moldy Gastric Acid Fountsans
 
 
 #[  ],<<-|-------------------------------------------------------|->>

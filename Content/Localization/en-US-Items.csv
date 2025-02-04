@@ -45,8 +45,6 @@ CommonItemTooltip.RestoresMana,[c/00ff00:+{0} TP]
 #[ common : item stats ],<<-|------------------------------------|->>
 
 
-LegacyTooltip.0,
-
 LegacyTooltip.2," MLE AT"
 LegacyTooltip.3," RNG AT"
 LegacyTooltip.4," MGC AT"

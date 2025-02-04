@@ -1,3 +1,4 @@
+0
 Achievements.ALL_TOWN_SLIMES_Description
 Achievements.ALL_TOWN_SLIMES_Name
 Achievements.ARCHAEOLOGIST_Description

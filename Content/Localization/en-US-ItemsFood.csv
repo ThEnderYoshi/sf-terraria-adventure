@@ -58,5 +58,9 @@ ItemName.GrubSoup,Mold Ball
 ItemTooltip.GrubSoup,"{$CommonItemTooltip.MediumStats}
 'Mold salad, yummy yummy!'"
 
+ItemName.SauteedFrogLegs,Pogger Slipper
+ItemTooltip.SauteedFrogLegs,"{$CommonItemTooltip.MinorStats}
+'A pogger frogger'"
+
 
 #[ misc ],<<-|---------------------------------------------------|->>
