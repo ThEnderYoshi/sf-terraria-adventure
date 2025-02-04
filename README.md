@@ -14,7 +14,7 @@ That mainly includes the game's
 **<!--#region txt_count-->18,288<!--#endregion-->** text entries. See the
 `Status` section below for the current progress.
 
-> [!INFO]
+> [!NOTE]
 > ![info](.github/images/thyme.png) You can find out more info on
 > the [Forum Page].
 
@@ -32,8 +32,10 @@ That mainly includes the game's
 
 ## ![releases](.github/images/icon-releases.png)
 
-> [!INFO]
+> [!NOTE]
 > ![info](.github/images/thyme.png) Get the pack on the [Steam Workshop Page]!
+
+([Changelog](CHANGELOG.md))
 
 - A new **major** release is made every thousand or so sprites.
 - **Minor** releases mostly consist of minor edits and non-image assets.
@@ -45,7 +47,7 @@ complete, so **strap in!!!**
 ## ![status](.github/images/icon-status.png)
 
 <!--#region progress-->
-> [!INFO]
+> [!NOTE]
 > Last updated: _2025-02-04 UTC_
 
 | Progress     |                                      |

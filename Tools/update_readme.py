@@ -77,7 +77,7 @@ def create_md_table(data: dict[str, Any]) -> str:
     # Date
 
     date: str = datetime.datetime.now().date().isoformat()
-    result: str = f"\n> [!INFO]\n> Last updated: _{date} UTC_\n\n"
+    result: str = f"\n> [!NOTE]\n> Last updated: _{date} UTC_\n\n"
 
     # Get column sizes
 
