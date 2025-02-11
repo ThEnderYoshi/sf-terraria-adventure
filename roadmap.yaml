@@ -3,27 +3,10 @@
 
 # -- End of Commit --
 
-# Biome wrap-up
-- Gold Frog Cage
-- <surface jungle critters + cages + statues>
-- Replace Surface Night Jungle music:
-    # Replace with music box version of Home - Undertale.
-    - track
-    - music box
-- Underground Jungle music:
-    # Replace with Sub1 Redux (non evil version) - Submachine 10.
-    - track
-    - music box
-
 # For later - BEFORE JUNGLE UPDATE RELEASES
 - <remaining rich mahogany recipes>:
     - Armor
     - <see rest>
-- Cyborg: # Do together with witch doctor
-    - NPC Sprites
-    - Gores
-    - Dialog
-    - Sold items/drops
 - Turtle Armor
 - <statues for all current enemies>
 - Temple Key    # Waiting on Temple
@@ -48,6 +31,7 @@
     # Replace with Sub1 Redux (evil version) - Submachine 10.
     - track
     - music box
+- Temple map background # MapBG14
 - <all sounds relevant to the jungle>
 - Nature's Gift
 
@@ -59,10 +43,11 @@
 # For later - BEFORE THE UPDATE WITH THE OLD ONE'S ARMY
 - Keg
 - Ale
-- Fix the credits sprite i though was unused
+- Fix the tavernkeep credits sprite i though was unused
 
 # For later - BEFORE THE UPDATE WITH HELL
 - Potted Hell Plants
+- reconsider: WallOfFlesh.png
 
 # For later - BEFORE THE UPDATE WITH GRAVEYARDS
 - <check all graveyard-related npc dialog>
@@ -88,6 +73,15 @@
     -  LegacyDialog.75
     -  LegacyDialog.76
 
+# For later - BEFORE THE UPDATE WITH THE ECLIPSE
+- Eclipse Map BG Overlay # MapBGOverlay 5
+
+# For later - BEFORE THE UPDATE WITH THE PUMPKIN/FROST MOONS
+- Pumpkin/Frost Moon Map BG Overlays # MapBGOverlay 8 + 9
+
+# For later - BEFORE THE UPDATE WITH METEORS
+- Meteor Map BG Overlay # MapBGOverlay 7
+
 # For later - BEFORE THE UPDATE WITH THE UNDERWORLD
 - reconsider: Inferno Potion # Item 2348
 
@@ -112,6 +106,8 @@
 - reconsider: King Slime
 - Slime Staff
 - Flymeal
+- Wraith_Eyes
+- <look at forest-related dryad shop items>
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect
@@ -129,6 +125,7 @@
     - LegacyDialog.251            # Party girl dialog
 - Potted Hallow Trees
 - reconsider: Slimer # NPC 121
+- <look at evil biome-related dryad shop items>
 
 # For later - BEFORE DUNGEON UPDATE RELEASES
 - <spectre bar + recipes>
@@ -139,6 +136,10 @@
 - <shroomite bar + recipes>
 - Mushroom Cattails
 
+# For later - BEFORE OCEAN UPDATE
+- Turtle
+- Jungle Turtle
+
 # For later - BEFORE SNOW/DESERT UPDATE RELEASES
 - Extractinator
 - Chrolophyte Extractinator
@@ -147,6 +148,46 @@
 - <all rockets/mines> # Grenades have already been covered.
 - Icy/Desert/Oasis Water Fountains
 - All magic droppers # See also: MapObject.Dripping* entries.
+- <desert town NPCs>:
+    reconsider: Arms Dealer:
+      - NPC Sprites
+      - Gores
+      - Dialog
+      - Sold items/drops
+    Steampunker:
+      - NPC Sprites
+      - Gores
+      - Dialog
+      - Sold items/drops
+    Dye Trader:
+      - NPC Sprites
+      - Gores
+      - Dialog
+      - Sold items/drops
+- <snow town NPCs>:
+    Cyborg:
+      - NPC Sprites
+      - Gores
+      - Dialog
+      - Sold items/drops
+    Santa:
+      - NPC Sprites
+      - Gores
+      - Dialog
+      - Sold items/drops
+    reconsider:
+      Mechanic:
+        - NPC Sprites
+        - Gores
+        - Dialog
+        - Sold items/drops
+    Tax Collector:
+      - NPC Sprites
+      - Gores
+      - Dialog
+      - Sold items/drops
+- Snow/Desert Map BGs                # MapBG 10 + 12 
+- Sandstorm/Blizzard Map BG Overlays # MapBGOverlay 1 + 6
 
 # For later - BEFORE MECH BOSS UPDATE RELEASES
 - Excalibur

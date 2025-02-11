@@ -1,7 +1,9 @@
 Key,Translation
 
 ItemName.MusicBoxJungle,"[ Toriel's House ] Home - Undertale"
-ItemName.MusicBoxJungleNight,"[ Toriel's House (night) ] Cathedral (Short Version) - Submachine: Legacy"
+#( placeholder : night ),Night
+ItemName.MusicBoxJungleNight,"[ Toriel's House (Night) ] Home (Music Box) - Undertale"
+ItemName.MusicBoxUndergroundJungle,"[ Toriel's House (Sansderground) ] Basement - Submachine: Legacy"
 
 ItemName.MusicBoxBoss5,"[ MOTHERSPAWNER ] An Accent Beyond - Portal 2"
 ItemName.MusicBoxPlantera,"[ MOTHERFAKER ] You Can't Escape, You Know - Portal"

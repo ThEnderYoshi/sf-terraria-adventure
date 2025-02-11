@@ -2,7 +2,6 @@
 
 important:
   BEFORE UPDATE 2 RELEASES:
-    - Add Surface Jungle backgrounds.
     - Add statues for all current enemies.
     - Add Bramble Crate. (waiting on Temple)
     - Add Witch Doctor. (waiting on Temple)
@@ -46,6 +45,7 @@ long-term notes:
   - Potions are condiments.
   - Foods are slippers.
   - Fishes are (happy) worms (parasites).
+  - Locked chests are glued shut.
 
 boss todos:
   golem:
@@ -105,11 +105,6 @@ unfinished textures:
     - '612'         # Amber Squirrel
     - '619'         # Truffle Worm
     - '629'         # Stinkbug
-    - '632'         # Red Macaw
-    - '640'         # Blue Macaw
-    - '643'         # Toucan
-    - '644'         # Cockatiel 1
-    - '645'         # Cockatiel 2
   Background_:
     - '93/160-170'  # Could use some more touches
     - '261-262'     # Recolor of vanilla image
@@ -263,7 +258,7 @@ text placeholders:
     - fishing
     - bait
     - movement speed
-    - housing
+    - night
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.

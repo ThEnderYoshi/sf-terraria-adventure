@@ -49,7 +49,7 @@ ItemName.GoldenCrate,Pappy Block
 ItemTooltip.GoldenCrate,"{$CommonItemTooltip.RightClickToOpen}
 'FUCK yes SIR, GG'"
 
-ItemName.JungleFishingCrate,Yucky Crate
+ItemName.JungleFishingCrate,Yucky Block
 ItemTooltip.JungleFishingCrate,"{$CommonItemTooltip.RightClickToOpen}
 'Absolutely covered in Walpaper Mold'"
 

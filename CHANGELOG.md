@@ -23,6 +23,9 @@ or already have some content done for it.
 
 As the name implies, this is the update that re-textures the Jungle biome.
 
+The theme for this update was beloved and/or beloathed Sans Fanfic location
+Toriel's House!
+
 ### Added
 
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
@@ -32,8 +35,6 @@ As the name implies, this is the update that re-textures the Jungle biome.
 - _Ores:_ Chlorophyte
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
-- _Furniture Sets:_ Rich Mahogany, Bamboo, Honey
-- _Other Furniture:_ All Jungle critter cages + statues
 - _Campfires:_ Wood, Jungle
 - _Pylons:_ Forest, Jungle
 - _Other Background Objects:_ Rich Mahogany Beam, Forest & Jungle Pots
@@ -44,7 +45,8 @@ As the name implies, this is the update that re-textures the Jungle biome.
 - _Crates:_ Wooden, Iron, Gold, Jungle
 - _Kites:_ Man Eater, Angry Trapper
 - _Summons:_ Abeemination
-- _UI:_ Summon focus indicator, Jungle Splash Screen
+- _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
+  Jungle/Bee Hive/Temple map backgrounds
 - _Backgrounds:_ All Jungle-related backgrounds.
 - Seeds for all currently added grasses
 - Items for all currently added banners.
@@ -58,8 +60,13 @@ As the name implies, this is the update that re-textures the Jungle biome.
 - Stinger
 - Bee Wax
 - Jungle Spores
-- Jungle Torch
 - Jungle rubble
+
+#### Furniture
+
+- _Sets:_ Rich Mahogany, Bamboo, Honey
+- All Jungle critter cages + statues
+- Jungle Torch
 - Ivy Chest
 - Jungle Water Fountain
 
@@ -79,7 +86,9 @@ As the name implies, this is the update that re-textures the Jungle biome.
   Giant Tortoise, Hornet, Man Eater, Lac Beetle, Bee, Small Bee, Moss Hornet,
   Angry Trapper, Jungle Creeper, Moth, Arapaima
 - _Underground:_ Cave/Giant Bat
-- _Critters:_ Grubby, Sluggy, Buggy
+- _Critters:_ Grubby, Sluggy, Buggy, Frog, Gold Frog, Cockatiels,
+  Toucan, Macaws
+  - Also added cages & statues where applicable
 
 #### Buffs
 
@@ -146,6 +155,8 @@ As the name implies, this is the update that re-textures the Jungle biome.
 
 ### Changed
 
+- Touched up some Dryad-related things. (The rest of her dialog and sold items
+  will be changed in future updates)
 - Buckets are now jugs instead of capsules.
 - Bottles are now for condiments instead of being sans-shaped.
 - Minor tweaks to Fancy UI, bubbles and the star cursor.

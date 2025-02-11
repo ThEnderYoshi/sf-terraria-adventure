@@ -113,21 +113,40 @@ MapObject.Fossil,Sans Matter
 MapObject.Gold,Papyld
 MapObject.Iron,Iriel
 MapObject.Lead,Toriad
+MapObject.LivingWood,[ L I V I N G   S A N S ]
+MapObject.MetalBar,SOUL Bar
 MapObject.PlanterasBulb,Blue SOUL (real)
 MapObject.Platinum,Papynum
 MapObject.Pot,Treasurehead
 MapObject.Sapling,Thyme Sprout
 MapObject.Silver,Sansver
-MapObject.Sink,Sank (sans sink)
-MapObject.Statue,Stanstue
-MapObject.Table,Sansble
 MapObject.Tin,Gastin
-MapObject.Toilet,Dispatch Hatch
 MapObject.Tungsten,Tungsans
 MapObject.Thorn,Toriel's Furniture
 MapObject.Thorns,Tendrils
-MapObject.TeleportationPylon,Sansleportation Sanslon
+MapObject.Trap,Yummy Treats!!!
 MapObject.Tree,Bad Thyme
+
+
+#[ map object : furniture ],<<-|---------------------------------|->>
+
+
+MapObject.Anvil,Sansvil
+MapObject.TeleportationPylon,Sansleportation Sanslon
+
+MapObject.Chair,Sair
+MapObject.Chandelier,Sansdelier
+MapObject.Door,Door (but sans)
+MapObject.FloorLamp,Samp
+MapObject.Lantern,Sanstern
+MapObject.Sink,Sank (sans sink)
+MapObject.Table,Sansble
+MapObject.Toilet,Dispatch Hatch
+
+MapObject.Banner,Sansnner
+MapObject.Painting,Trading Card
+MapObject.Statue,Stanstue
+MapObject.Trophy,Trading Card
 
 
 #[ misc ],<<-|---------------------------------------------------|->>

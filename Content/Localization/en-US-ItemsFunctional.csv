@@ -38,6 +38,9 @@ ItemName.HornetStatue,Gohst Stanstue
 
 ItemName.FrogStatue,Pog Stanstue
 ItemName.BuggyStatue,Moldbug Stanstue
+ItemName.MacawStatue,Mini Sans Stanstue
+ItemName.ToucanStatue,{$NPCName.Toucan} Stanstue
+ItemName.CockatielStatue,{$NPCName.YellowCockatiel} Stanstue
 
 
 #[ statues : decorative ],<<-|-----------------------------------|->>

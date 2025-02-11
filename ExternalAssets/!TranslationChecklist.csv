@@ -3783,7 +3783,6 @@ Wyślij crashlog.txt na adres support@terraria.org"
 "Game.YellowWires","Yellow Wires","Cables amarillos","Câbles jaunes","Cavi gialli","Желтые провода","黄电线","黄电线","Fios Amarelos","Gelbe Kabel","Żółte kable"
 
 
-"GameTitle.13","Terraria: Purple Grass!","Terraria: ¡Hierba morada!","Terraria : De l'herbe violette !","Terraria: Erba viola!","Terraria: фиолетовая трава!","泰拉瑞亚：紫草地！","泰拉瑞亚：紫草地！","Terraria: Grama Roxo!","Terraria: Lila Gras!","Terraria: fioletowa trawa!"
 "GameTitle.14","Terraria: No one Dug Behind!","Terraria: ¡Nadie se queda atrás!","Terraria : Personne ne reste à creuser !","Terraria: Nessuno resta indietro!","Terraria: всем копать!","泰拉瑞亚：没有人在后面挖！","泰拉瑞亚：没有人在后面挖！","Terraria: Ninguém Fica Pra Trás... Cavando!","Terraria: Niemand wird beim Graben zurückgelassen!","Terraria: nikt nie kopie ogonów!"
 
 "GameTitle.16","Terraria: Earthbound","Terraria: Atados a la tierra","Terraria : Destination Terre","Terraria: Materialista","Terraria: связь с землей","泰拉瑞亚：地球冒险","泰拉瑞亚：地球冒险","Terraria: Earthbound, Só Que Não","Terraria: Erdgebunden","Terraria: w stronę ziemi"
@@ -3801,7 +3800,6 @@ Wyślij crashlog.txt na adres support@terraria.org"
 "GameTitle.27","Terraria: A spelunker says 'What'?","Terraria: Un espeleólogo dijo: ""¿Qué?""","Terraria : Un spéléo dans ton quoi ?","Terraria: Uno speleologo dice ""Che cosa?""","Terraria: шахтер говорит «ЧТО»?","泰拉瑞亚：洞穴探险者惊道“那是什么”？","泰拉瑞亚：洞穴探险者惊道“那是什么”？","Terraria: E os espeleólogos dizem 'o quê'?","Terraria: Der Höhlenforscher sagt ‚Was‘?","Terraria: a grotołaz na to: „co”?"
 
 
-"GameTitle.35","Terraria: Now with SOUND","Terraria: ¡Ahora, con sonido!","Terraria : Maintenant avec du SON","Terraria: Ora con tanto di AUDIO","Terraria: теперь СО ЗВУКОМ","泰拉瑞亚：现已加入音效","泰拉瑞亚：现已加入音效","Terraria: Agora com SOM","Terraria: Jetzt mit SOUND","Terraria: teraz z dźwiękiem"
 "GameTitle.36","Terraria: Press alt-f4","Terraria: Pulsa ALT+F4","Terraria : Appuyez sur alt-F4","Terraria: Premere ALT+F4","Terraria: нажмите alt-f4","泰拉瑞亚：按alt-f4","泰拉瑞亚：按alt-f4","Terraria: Pressione alt-f4","Terraria: Drücke Alt-F4","Terraria: naciśnij alt+F4"
 
 "GameTitle.38","Terraria: You sand bro?","Terraria: ¿Quieres arena?","Terraria : Tu veux du sable ?","Terraria: Semini sabbia?","Terraria: твой песок, бро?","泰拉瑞亚：兄弟你疯了吧？","泰拉瑞亚：兄弟你疯了吧？","Terraria: Curte areia, parceiro?","Terraria: Du Sand oder was?","Terraria: jak piasek je, to nie szczeka..."
@@ -3847,7 +3845,7 @@ Wyślij crashlog.txt na adres support@terraria.org"
 
 
 "GameUI.EastWind"," ({0} mph E)"," ({0} mph E)"," ({0} mph E)"," ({0} mph est)"," ({0} миль в час с востока)"," （{0} mph东风）","（{0} mph东风）"," ({0} mph E)"," ({0} mph O)"," ({0} mph E)"
-"GameUI.Emote","Open Emotes Window","Abrir ventana de emoticonos","Ouvrir la fenêtre d'émoticônes","Apri finestra animazioni","Открыть окно эмодзи","打开表情符号窗口","打开表情符号窗口","Abrir Janela de Emojis","Öffne das Emotefenster","Otwórz okno emotikonów"
+
 
 "GameUI.EnemiesNearby","{0} enemies nearby!","¡{0} enemigos cerca!","{0} à proximité !","{0} nemici nei paraggi!","Врагов поблизости: {0}!","附近有{0}个敌人！","附近有{0}个敌人！","{0} inimigos próximos!","{0} Feinde in der Nähe","Liczba pobliskich przeciwników: {0}!"
 
@@ -3898,11 +3896,8 @@ Wyślij crashlog.txt na adres support@terraria.org"
 "GameUI.PotionOfReturnExitPortal","Return Portal Exit","Salida del portal de regreso","Retourner à la sortie du portail","Uscita portale di ritorno","Вернуться к выходу из портала","返回传送门出口","返回传送门出口","Saída do Portal de Retorno","Ausgang Rückkehrportal","Wróć do wyjścia z portalu"
 "GameUI.PotionOfReturnHomePortal","Return Portal Entrance","Entrada del portal de regreso","Retourner à l'entrée du portail","Ingresso portale di ritorno","Вернуться ко входу из портала","返回传送门入口","返回传送门入口","Entrada do Portal de Retorno","Eingang Rückkehrportal","Wróć do wejścia do portalu"
 
-"GameUI.QualityHigh","High","Alta","Élevé","Alto","Сильное","高","高","Alto","Hoch","Duży"
-"GameUI.QualityLow","Low","Baja","Faible","Basso","Слабое","低","低","Baixo","Niedrig","Mały"
-"GameUI.QualityMedium","Medium","Media","Moyenne","Media","Среднее","中","中","Média","Mittel","Średnia"
-"GameUI.QualityOff","Off","No","Désactivée","No","Выкл.","关","关","Desligada","Aus","Wył."
-"GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en cofres cercanos","Pile rapide dans les coffres à proximité","Raggruppa subito nelle casse vicine","Быстрая стопка в ближайшие сундуки","快速堆叠至附近的宝箱上","快速堆叠至附近的宝箱上","Empilhamento rápido nos baús próximos","Schnellstapeln auf Truhen in der Nähe","Szybkie łączenie przedmiotów w pobliskich skrzyniach"
+
+GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en cofres cercanos","Pile rapide dans les coffres à proximité","Raggruppa subito nelle casse vicine","Быстрая стопка в ближайшие сундуки","快速堆叠至附近的宝箱上","快速堆叠至附近的宝箱上","Empilhamento rápido nos baús próximos","Schnellstapeln auf Truhen in der Nähe","Szybkie łączenie przedmiotów w pobliskich skrzyniach"
 
 "GameUI.RulerOff","Ruler Off","Regla no","Règle désactivée","Righello: no","Линейка выкл.","标尺关","标尺：关","Régua Desligada","Lineal AUS","Linijka wył."
 "GameUI.RulerOn","Ruler On","Regla sí","Règle activée","Righello: sì","Линейка вкл.","标尺开","标尺：开","Régua Ligada","Lineal EIN","Linijka wł."
@@ -5626,7 +5621,7 @@ Wyślij crashlog.txt na adres support@terraria.org"
 "ItemName.Fries","Fries","Patatas fritas","Frites","Patatine fritte","Картофель фри","炸薯条","炸薯条","Fritas","Pommes","Frytki"
 "ItemName.FritzBanner","Fritz Banner","Estandarte de Fritz","Bannière de Fritz","Stendardo Fritz","Знамя Фрица","弗里茨旗","弗里茨旗","Bandeira de Fritz","Fritz-Banner","Sztandar Fritza"
 
-"ItemName.FrogCage","Frog Cage","Jaula de rana","Grenouille en cage","Gabbia con rana","Клетка с лягушкой","蛙笼","蛙笼","Gaiola para Rãs","Froschkäfig","Klatka dla żab"
+
 "ItemName.FrogFlipper","Frog Flipper","Anca de rana","Palmes grenouille","Pinna di rana","Лягушачьи ласты","青蛙脚蹼","青蛙脚蹼","Nadadeira de Rã","Froschflossen","Żabia płetwa"
 "ItemName.FrogGear","Frog Gear","Equipo de rana","Équipement grenouille","Attrezzatura da rana","Лягушачье снаряжение","青蛙装备","青蛙装备","Equipamento de Rã","Froschausrüstung","Żabi sprzęt"
 "ItemName.FroggleBunwich","Froggle Bunwich","Bocata vegetal de rana","Sandwich de grenouille","Panino di rana","Лягундвич","蛙腿三明治","蛙腿三明治","Froggle Bunwich","Froggle-Brötchen","Kanapka z żabich udek"
@@ -6990,7 +6985,7 @@ Wyślij crashlog.txt na adres support@terraria.org"
 "ItemName.MusicBoxUndergroundCrimson","Music Box (Underground Crimson)","Caja de música (Subsuelo carmesí)","Boîte à musique (souterrain carmin)","Carillon (sotterraneo cremisi)","Музыкальная шкатулка (подземный Багрянец)","八音盒（地下猩红之地）","八音盒（地下猩红之地）","Caixinha de Música (Submundo Carmim)","Spieluhr (Untergrund-Purpur)","Pozytywka (podziemie Szkarłatu)"
 "ItemName.MusicBoxUndergroundDesert","Music Box (Underground Desert)","Caja de música (Desierto en el subsuelo)","Boîte à musique (Désert souterrain)","Carillon (Deserto sotterraneo)","Музыкальная шкатулка (подземная пустыня)","八音盒（地下沙漠）","八音盒（地下沙漠）","Caixinha de Música (Deserto Subterrâneo)","Spieluhr (Untergrund-Wüste)","Pozytywka (podziemie pustyni)"
 "ItemName.MusicBoxUndergroundHallow","Music Box (Underground Hallow)","Caja de música (Subsuelo sagrado)","Boîte à musique (sacré souterrain)","Carillon (Consacrazione sotterranea)","Музыкальная шкатулка (подземное Освящение)","八音盒（地下神圣之地）","八音盒（地下神圣之地）","Caixinha de Música (O Sagrado no Subterrâneo)","Spieluhr (Untergrund-Heiliges)","Pozytywka (podziemie Bajkowa)"
-"ItemName.MusicBoxUndergroundJungle","Music Box (Underground Jungle)","Caja de música (Jungla en el subsuelo)","Boîte à musique (Jungle souterraine)","Carillon (Giungla sotterranea)","Музыкальная шкатулка (подземные джунгли)","八音盒（地下丛林）","八音盒（地下丛林）","Caixinha de Música (Selva Subterrânea)","Spieluhr (Untergrund-Dschungel)","Pozytywka (podziemie dżungli)"
+
 "ItemName.MusicBoxWindyDay","Music Box (Windy Day)","Caja de música (Día ventoso)","Boîte à musique (Jour venteux)","Carillon (giornata ventosa)","Музыкальная шкатулка (ветренный день)","八音盒（有风的日子）","八音盒（有风的日子）","Caixinha de Música (Dia Ventoso)","Spieluhr (Windiger Tag)","Pozytywka (wietrzny dzień)"
 "ItemName.MusicWallpaper","Music Wallpaper","Fondo musical","Papier peint de musique","Carta da parati musicale","Музыкальные обои","音符壁纸","音符壁纸","Papel de Parede Musical","Musik-Tapete","Tapeta muzyczna"
 
@@ -16441,15 +16436,6 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ItemTooltip.ZombieMermanBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}","{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMerman}"
 
 
-"Language.Chinese","简体中文 (Simplified Chinese)","简体中文 (Chino simplificado)","简体中文 (Chinois simplifié)","简体中文 (Cinese semplificato)","简体中文 (китайский упрощенный)","简体中文","简体中文","简体中文 (Chinês Simplificado)","简体中文 (Vereinfachtes Chinesisch)","简体中文 (Chiński uproszczony)"
-"Language.English","English","English (Inglés)","English (Anglais)","English (Inglese)","English (английский)","English (英语)","English (英语)","English (Inglês)","English (Englisch)","English (Angielski)"
-"Language.French","Français (French)","Français (Francés)","Français","Français (Francese)","Français (французский)","Français (法语)","Français (法语)","Français (Francês)","Français (Französisch)","Français (Francuski)"
-"Language.German","Deutsch (German)","Deutsch (Alemán)","Deutsch (Allemand)","Deutsch (Tedesco)","Deutsch (немецкий)","Deutsch (德语)","Deutsch (德语)","Deutsch (Alemão)","Deutsch","Deutsch (Niemiecki)"
-"Language.Italian","Italiano (Italian)","Italiano (Italiano)","Italiano (Italien)","Italiano","Italiano (итальянский)","Italiano (意大利语)","Italiano (意大利语)","Italiano (Italiano)","Italiano (Italienisch)","Italiano (Włoski)"
-"Language.Polish","Polski (Polish)","Polski (Polaco)","Polski (Polonais)","Polski (Polacco)","Polski (польский)","Polski (波兰语)","Polski (波兰语)","Polski (Polonês)","Polski (Polnisch)","Polski"
-"Language.Portuguese","Português brasileiro (Brazilian Portuguese)","Português brasileiro (Portugués de Brasil)","Português brasileiro (Portugais (Brésil))","Português brasileiro (Portoghese brasiliano)","Português brasileiro (бразильский португальский)","Português brasileiro (巴西葡萄牙语)","Português brasileiro (巴西葡萄牙语)","Português brasileiro","Português brasileiro (Portugiesisch (Brasilien))","Português brasileiro (Brazylijski portugalski)"
-"Language.Russian","Русский (Russian)","Русский (Ruso)","Русский (Russe)","Русский (Russo)","Русский","Русский (俄语)","Русский (俄语)","Русский (Russo)","Русский (Russisch)","Русский (Rosyjski)"
-"Language.Spanish","Español (Spanish)","Español","Español (Espagnol)","Español (Spagnolo)","Español (испанский)","Español (西班牙语)","Español (西班牙语)","Español (Espanhol)","Español (Spanisch)","Español (Hiszpański)"
 "LegacyChestType.0","Chest","Cofre","Coffre","Cassa","Сундук","宝箱","宝箱","Baú","Truhe","Kufer"
 "LegacyChestType.1","Gold Chest","Cofre de oro","Coffre en or","Cassa d'oro","Золотой сундук","金箱","金箱","Baú de Ouro","Goldtruhe","Złoty kufer"
 
@@ -17016,8 +17002,8 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 
 "LegacyInterface.70","Set Frame","Determinar frame","Définir le cadre","Imposta inquadratura","Задать рамку","设置边框","设置边框","Definir Moldura","Frame einstellen","Stwórz ramkę"
 "LegacyInterface.71","Close","Cerrar","Fermer","Chiudi","Закрыть","关闭","关闭","Fechar","Schließen","Zamknij"
-"LegacyInterface.72","On","Sí","Activé","Sì","ВКЛ.","开","开","Ligado","An","Wł."
-"LegacyInterface.73","Off","No","Désactivée","No","Выкл.","关","关","Desligada","Aus","Wył."
+
+
 "LegacyInterface.74","Image Packing","Compresión de imagen","Assemblage d'images","Compressione immagine","Состав изображения","图像整合","图像整合","Empacotamento de Imagem","Bild-Packing","Pakowanie obrazu"
 "LegacyInterface.75","Capture Entities","Capturar entidades","Prendre des entités","Immagine entità","Снимать живых существ","捕捉生命体","捕捉生命体","Capturar Entidades","Instanzen aufnehmen","Uchwyć obiekty"
 "LegacyInterface.76","Capture Background","Capturar fondo","Prendre un arrière-plan","Immagine sfondo","Снимать фон","捕捉背景","捕捉背景","Capturar Cenário","Hintergrund aufnehmen","Uchwyć tło"
@@ -17053,8 +17039,8 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "LegacyMenu.101","Background Off","Sin fondo","Arrière-plan désactivé","Sfondo: no","Фон ВЫКЛ.","背景关","背景：关","Cenário Desligado","Hintergrund AUS","Tło Wył."
 "LegacyMenu.102","Select language","Seleccionar idioma","Choisir une langue","Seleziona lingua","Выберите язык","选择语言","选择语言","Selecionar Idioma","Sprache auswählen","Wybierz język"
 "LegacyMenu.103","Language","Idioma","Langue","Lingua","Язык","语言","语言","Idioma","Sprache","Język"
-"LegacyMenu.104","Yes","Sí","Oui","Sì","Да","是","是","Sim","Ja","Tak"
-"LegacyMenu.105","No","No","Non","No","Нет","否","否","Não","Nein","Nie"
+
+
 "LegacyMenu.106","Toggle Map Style           ","Cambiar estilo de mapa","Alterner le style de carte","Alterna stile mappa","Сменить стиль карты","切换地图类型","切换地图类型           ","Alternar Estilo do Mapa","Kartenstil ändern","Przełącz styl mapy"
 "LegacyMenu.107","Toggle Fullscreen           ","Cambiar pantalla completa","Plein écran","Alterna schermo intero","Переключить полноэкранный режим","切换全屏","切换全屏           ","Alternar Tela Cheia","Vollbild ändern","Przełącz pełny ekran"
 "LegacyMenu.108","Zoom In                      ","Acercar","Agrandir","Avvicina","Приблизить","放大","放大                      ","Aproximar","Reinzoomen","Przybliż"
@@ -17067,23 +17053,23 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "LegacyMenu.114","General","General","Général","Generale","Основные","常规","常规","Geral","Allgemein","Ogólne"
 "LegacyMenu.115","Map Controls","Controles del mapa","Commandes de carte","Comandi mappa","Управление картой","地图控件","地图控制","Controles do Mapa","Kartensteuerung","Sterowanie – mapa"
 "LegacyMenu.116","Multicore Lighting:","Luces multinúcleo:","Éclairage multicolore :","Illuminazione multicore:","Многоядерная обработка освещения:","多核照明：","多核照明：","Iluminação Multicore:","Multicore-Beleuchtung:","Wielordzeniowe oświetlenie:"
-"LegacyMenu.117","Off","No","Désactivée","No","Выкл.","关","关","Desligada","Aus","Wył."
+
 "LegacyMenu.118","Close Menu","Cerrar menú","Fermer le menu","Chiudi menu","Закрыть меню","关闭菜单","关闭菜单","Fechar Menu","Menü schließen","Zamknij menu"
-"LegacyMenu.119","Ambient:","Ambiente:","Ambiance :","Ambiente:","Звуки природы:","环境：","环境：","Ambiente:","Ambient:","Otoczenie:"
+
 
 "LegacyMenu.120","Smart Cursor    ","Cursor inteligente    ","Curseur intelligent    ","Cursore automatico    ","Смарт-курсор    ","智能光标    ","智能光标    ","Cursor Inteligente    ","Smarter Cursor    ","Inteligentny kursor    "
 "LegacyMenu.121","Smart Cursor Mode: Toggle","Modo de cursor inteligente: Cambiar","Mode Curseur intelligent : alterner","Modalità cursore automatico: alterna","Режим смарт-курсора: переключение","智能光标模式：切换","智能光标模式：切换","Modo do Cursor Inteligente: Alternar","Smarter Cursor-Modus: Ein-/Ausschalten","Tryb inteligentnego kursora: Przełącz"
 "LegacyMenu.122","Smart Cursor Mode: Hold","Modo de cursor inteligente: Mantener","Mode Curseur intelligent : maintenir","Modalità cursore automatico: mantieni","Режим смарт-курсора: удерживание","智能光标模式：长按","智能光标模式：长按","Modo do Cursor Inteligente: Segurar","Smarter Cursor-Modus: Halten","Tryb inteligentnego kursora: Przytrzymaj"
 "LegacyMenu.123","Event Progress Bar","Barra de progreso del evento","Barre de progression d'évènements","Barra di progresso evento","Панель выполнения события","事件进度条","事件进度条","Barra de Progresso do Evento","Eventfortschrittsleiste","Pasek postępu wydarzenia"
-"LegacyMenu.124","Off","No","Désactivée","No","Выкл.","关","关","Desligada","Aus","Wył."
+
 "LegacyMenu.125","Timed","Temporal","Chronométré","A tempo","На время","定时","定时","Cronometrado","Zeitlich festgelegt","Znikający"
-"LegacyMenu.126","On","Sí","Activé","Sì","Вкл.","开","开","Ligado","An","Wł."
+
 "LegacyMenu.127","Style","Estilo","Style","Stile","Стиль","类型","类型","Estilo","Stil","Styl"
 "LegacyMenu.128","Placement Preview On","Activar vista previa de colocación","Avec aperçu du placement","Anteprima posizionamento: sì","Предпросмотр размещения вкл.","放置预览开","放置预览：开","Prévia do Posicionamento Ligada","Platzierungsvorschau EIN","Podgląd umieszczania Wł."
 "LegacyMenu.129","Placement Preview Off","Desactivar vista previa de colocación","Sans aperçu du placement","Anteprima posizionamento: no","Предпросмотр размещения выкл.","放置预览关","放置预览：关","Prévia do Posicionamento Desligada","Platzierungsvorschau AUS","Podgląd umieszczania Wył."
 "LegacyMenu.13","Multiplayer","Multijugador","Multijoueur","Multigiocatore","Многопользовательская игра","多人模式","多人模式","Multijogador","Mehrspieler","Wielu graczy"
 "LegacyMenu.130","Mount             ","Montura","Monter","Cavalcatura","Транспорт","坐骑","坐骑             ","Montaria","Reittier","Wierzchowiec"
-"LegacyMenu.131","Achievements","Logros","Succès","Obiettivi","Достижения","成就","成就","Conquistas","Erfolge","Osiągnięcia"
+
 "LegacyMenu.132","Blood and Gore On","Activar sangre y gore","Avec sang et violence","Sangue e violenza: sì","Кровь и насилие вкл.","溅血效果开","溅血效果：开","Sangue e Violência Ligados","Blut und Gedärme EIN","Krew i przemoc Wł."
 "LegacyMenu.133","Blood and Gore Off","Desactivar sangre y gore","Sans sang et violence","Sangue e violenza: no","Кровь и насилие выкл.","溅血效果关","溅血效果：关","Sangue e Violência Desligados","Blut und Gedärme AUS","Krew i przemoc Wył."
 "LegacyMenu.134","Apply","Aplicar","Appliquer","Applica","Применить","应用","应用","Aplicar","Anwenden","Zastosuj"
@@ -17092,7 +17078,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "LegacyMenu.137","Steam Multiplayer: Enabled","Multijugador de Steam: Activado","Multijoueur Steam : activé","Multigiocatore Steam: attivato","Многопользовательский режим Steam: вкл.","Steam多人模式：已启用","Steam多人模式：已启用","Multijogador no Steam: Ativado","Steam-Mehrspieler: Aktiviert","Wielu graczy (Steam): Wł."
 "LegacyMenu.138","Allowed Users: Invite Only","Usuarios permitidos: Solo por invitación","Utilisateurs autorisés : invités uniquement","Utenti ammessi: solo invito","Разрешенные пользователи: только по приглашению","允许用户：仅限邀请","允许用户：仅限邀请","Usuários Permitidos: Apenas Convidados","Zugelassene Nutzer: Nur mit Einladung","Dopuszczeni gracze: Tylko zaproszeni"
 "LegacyMenu.139","Allowed Users: Friends","Usuarios permitidos: Amigos","Utilisateurs autorisés : amis","Utenti ammessi: amici","Разрешенные пользователи: друзья","允许用户：好友","允许用户：好友","Usuários Permitidos: Amigos","Zugelassene Nutzer: Freunde","Dopuszczeni gracze: Znajomi"
-"LegacyMenu.14","Settings","Ajustes","Paramètres","Impostazioni","Настройки","设置","设置","Configurações","Einstellungen","Ustawienia"
+
 "LegacyMenu.140","Friends Can Invite: Off","Los amigos pueden invitar: No","Amis peuvent inviter : désactivé","Invito amici: no","Друзья могут приглашать: выкл.","好友可邀请：关","好友可邀请：关","Amigos Podem Convidar: Desligado","Freunde können einladen: Aus","Znajomi mogą zapraszać: Wył."
 "LegacyMenu.141","Friends Can Invite: On","Los amigos pueden invitar: Sí","Amis peuvent inviter : activé","Invito amici: sì","Друзья могут приглашать: вкл.","好友可邀请：开","好友可邀请：开","Amigos Podem Convidar: Ligado","Freunde können einladen: Ein","Znajomi mogą zapraszać: Wł."
 "LegacyMenu.142","Allow Friends Of Friends: Off","Permitir amigos de amigos: No","Autoriser les amis d'amis : désactivé","Ammetti amici di amici: no","Разрешить друзей друзей: выкл.","允许好友添加好友：关","允许好友添加好友：关","Permitir Amigos de Amigos: Desligado","Freunde von Freunden zulassen: Aus","Przyjmowanie znajomych znajomych: Wył."
@@ -17211,9 +17197,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "LegacyMenu.244","Radial Quickbar","Barra rápida radial","Barre rapide circulaire","Barra rapida radiale","Круговая панель быстрого доступа","圆形快捷栏","圆形快捷栏","Acesso Rápido Radial","Ring-Schnellleiste","Radialny pasek szybkiego dostępu"
 "LegacyMenu.245","Borderless Window: Enabled","Ventana sin bordes: Activada","Fenêtre sans bordure : activée","Finestra senza bordo: attivata","Окно без рамок: ВКЛ.","无边框窗口：已启用","无边框窗口：已启用","Janela sem Borda: Ativado","Fenster ohne Rand: Aktiviert","Okno bez ramek: Wł."
 "LegacyMenu.246","Borderless Window: Disabled","Ventana sin bordes: Desactivada","Fenêtre sans bordure : désactivée","Finestra senza bordo: disattivata","Окно без рамок: ВЫКЛ.","无边框窗口：已禁用","无边框窗口：已禁用","Janela sem Borda: Desativado","Fenster ohne Rand: Deaktiviert","Okno bez ramek: Wył."
-"LegacyMenu.247","Frame Skip Off","No omitir Frame","Passer des images : désactivé","Salta fotogrammi: no","Пропуск кадров ВЫКЛ.","跳帧关","跳帧：关","Frame Skip Desligado","Überspringen von Frames AUS","Pomijanie klatek Wył."
-"LegacyMenu.248","Frame Skip On","Omitir Frame","Passer des images : activé","Salta fotogrammi: sì","Пропуск кадров ВКЛ.","跳帧开","跳帧：开","Frame Skip Ligado","Überspringen von Frames EIN","Pomijanie klatek Wł."
-"LegacyMenu.249","Frame Skip Subtle","Omitir Frame sutilmente","Passer des images : subtil","Salta fotogrammi: minimo","Плавный пропуск кадров","跳帧隐蔽","跳帧隐蔽","Frame Skip Sutil","Überspringen von Frames subtil","Pomijanie klatek Łagodne"
+
 
 "LegacyMenu.250","Miner's Wobble: Enabled","Bamboleo del minero: Activado","Tremblement minier : activé","Tremolio minatore: attivo","Тряска блоков при добыче: ВКЛ.","采矿晃动效果：已启用","采矿晃动效果：已启用","Balanço do Minerador: Ativado","Abbaueffekt: Aktiviert","Pulsowanie przy kopaniu: Wł."
 "LegacyMenu.251","Miner's Wobble: Disabled","Bamboleo del minero: Desactivado","Tremblement minier : désactivé","Tremolio minatore: disattivato","Тряска блоков при добыче: ВЫКЛ.","采矿晃动效果：已禁用","采矿晃动效果：已禁用","Balanço do Minerador: Desativado","Abbaueffekt: Deaktiviert","Pulsowanie przy kopaniu: Wył."
@@ -17254,11 +17238,9 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "LegacyMenu.56","Lighting: White","Iluminación: Blanca","Éclairage : blanc","Illuminazione: bianco","Освещение: белое","照明：白","照明：白","Iluminação: Branco","Beleuchtung: Weiß","Oświetlenie: Białe"
 "LegacyMenu.57","Lighting: Retro","Iluminación: Retro","Éclairage : rétro","Illuminazione: rétro","Освещение: ретро","照明：复古","照明：复古","Iluminação: Retrô","Beleuchtung: Retro","Oświetlenie: Retro"
 "LegacyMenu.58","Lighting: Trippy","Iluminación: Psicodélica","Éclairage : psychédélique","Illuminazione: psichedelica","Освещение: глюки","照明：迷幻","照明：迷幻","Iluminação: Zoeira","Beleuchtung: Abgefahren","Oświetlenie: Retro-kolor"
-"LegacyMenu.59","Quality: Auto","Calidad: Automática","Qualité : auto","Qualità: automatica","Качество Автоматически","质量：自动","质量：自动","Qualidade: Automática","Qualität: Automatisch","Jakość: Automatyczna"
-"LegacyMenu.6","Cancel","Cancelar","Annuler","Annulla","Отмена","取消","取消","Cancelar","Abbrechen","Anuluj"
-"LegacyMenu.60","Quality: High","Calidad: Alta","Qualité : élevée","Qualità: alta","Качество Высокое","质量：高","质量：高","Qualidade: Alta","Qualität: Hoch","Jakość: Wysoka"
-"LegacyMenu.61","Quality: Medium","Calidad: Media","Qualité : moyenne","Qualità: media","Качество Среднее","质量：中","质量：中","Qualidade: Média","Qualität: Mittel","Jakość: Średnia"
-"LegacyMenu.62","Quality: Low","Calidad: Baja","Qualité : basse","Qualità: bassa","Качество Низкое","质量：低","质量：低","Qualidade: Baixa","Qualität: Niedrig","Jakość: Niska"
+
+
+
 "LegacyMenu.63","Video","Vídeo","Vidéo","Video","Видео","视频","视频","Vídeo","Video","Grafika"
 "LegacyMenu.64","Cursor Color","Color del cursor","Couleur du curseur","Colore cursore","Цвет курсора","光标颜色","光标颜色","Cor do Cursor","Cursorfarbe","Kolor kursora"
 "LegacyMenu.65","Volume","Volumen","Volume","Volume","Громкость","音量","音量","Volume","Lautstärke","Głośność"
@@ -17626,22 +17608,16 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "LucyTheAxe_ThrownAway.5","You're abandoning me?!","¡¿Me estás abandonando?!","Tu m'abandonnes ?","Mi stai abbandonando?!","Ты бросаешь меня?!","你要抛弃我？！","你要抛弃我？！","Você vai me abandonar?!","Du verlässt mich?!","Porzucasz mnie?!"
 "MapObject.Adamantite","Adamantite","Adamantita","Adamantite","Adamantio","Адамантит","精金","精金","Adamantina","Adamantit","Adamantyt"
 "MapObject.AnimalSkin","Animal Skin","Piel de animal","Peau d'animal","Pelle di animale","Шкура животного","动物皮","动物皮","Pele Animal","Tierhaut","Skóra zwierzęcia"
-"MapObject.Anvil","Anvil","Yunque","Enclume","Incudine","Наковальня","砧","砧","Bigorna","Amboss","Kowadło"
-"MapObject.Banner","Banner","Estandarte","Bannière","Stendardo","Знамя","旗帜","旗帜","Bandeira","Banner","Sztandar"
 
-"MapObject.Chair","Chair","Silla","Chaise","Sedia","Стул","椅子","椅子","Cadeira","Stuhl","Krzesło"
-"MapObject.Chandelier","Chandelier","Lámpara araña","Chandelier","Candelabro","Люстра","吊灯","吊灯","Lustre","Kronleuchter","Żyrandol"
 
 "MapObject.ChristmasLight","Christmas Light","Luz navideña","Lumière de Noël","Luce natalizia","Рождественский фонарик","圣诞灯","圣诞灯","Luz de Natal","Weihnachtslicht","Światełko choinkowe"
 "MapObject.Cobalt","Cobalt","Cobalto","Cobalt","Cobalto","Кобальт","寇伯特","钴","Cobalto","Cobalt","Kobalt"
 
 
-"MapObject.Door","Door","Puerta","Porte","Porta","Дверь","门","门","Porta","Tür","Drzwi"
 "MapObject.DrippingHoney","Dripping Honey","Miel goteando","Miel dégoulinant","Miele gocciolante","Капающий мед","滴落蜂蜜","滴落蜂蜜","Pingos de Mel","Tropfender Honig","Cieknący miód"
 "MapObject.DrippingLava","Dripping Lava","Lava goteando","Lave dégoulinante","Lava gocciolante","Капающая лава","滴落熔岩","滴落熔岩","Pingos de Lava","Tropfende Lava","Cieknąca lawa"
 "MapObject.DrippingWater","Dripping Water","Agua goteando","Eau dégoulinante","Acqua gocciolante","Капающая вода","滴水","滴水","Pingos de Água","Tropfendes Wasser","Cieknąca woda"
 "MapObject.FallenLog","Fallen Log","Tronco caído","Rondin tombé","Tronco caduto","Упавшее бревно","落木","落木","Tronco Caído","Gefallener Stamm","Przewrócona kłoda"
-"MapObject.FloorLamp","Floor Lamp","Lámpara de suelo","Lampadaire","Lampada da pavimento","Потолочная лампа","落地灯","落地灯","Lâmpada de chão","Bodenlampe","Lampa podłogowa"
 
 "MapObject.GeyserTrap","Geyser","Géiser","Geyser","Geyser","Гейзер","喷泉","间歇泉","Gêiser","Geysir","Gejzer"
 "MapObject.GiantMushroom","Giant Mushroom","Champiñón gigante","Champignon géant","Fungo gigante","Гигантский гриб","巨型蘑菇","巨型蘑菇","Cogumelo Gigante","Riesenpilz","Wielki grzyb"
@@ -17655,15 +17631,12 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "MapObject.GoldWormCage","Gold Worm Cage","Jaula de gusano dorado","Ver doré en cage","Gabbia con verme d'oro","Клетка с золотым червем","金蠕虫笼","金蠕虫笼","Gaiola para Verme de Ouro","Goldwurmkäfig","Klatka dla złotych robaków"
 
 "MapObject.ItemRack","Item Rack","Repisa de objetos","Étagère à objets","Rastrelliera oggetti","Стойка для предметов","物品架","物品架","Prateleira de Itens","Item-Regal","Stojak na przedmioty"
-"MapObject.Lantern","Lantern","Linterna","Lanterne","Lanterna","Светильник","灯笼","灯笼","Lanterna","Laterne","Lampion"
 
 
-"MapObject.LivingWood","Living Wood","Madera viviente","Bois vivant","Legno vivo","Живая древесина","生命木","生命木","Madeira viva","Lebendes Holz","Żyjące drewno"
-"MapObject.MetalBar","Metal Bar","Barra metálica","Lingot de métal","Barra di metallo","Металлический слиток","金属棒","金属棒","Barra de Metal","Metallbarren","Metalowa sztabka"
 "MapObject.Mythril","Mythril","Mithril","Mithril","Mitrilio","Мифрил","秘银","秘银","Mithril","Mithril","Mithril"
 "MapObject.OrangeSquirrelCage","Orange Squirrel Cage","Jaula de ardilla naranja","Écureuil orange en cage","Gabbia dello scoiattolo arancione","Клетка с оранжевой белкой","橙松鼠笼","橙松鼠笼","Gaiola para Esquilo Laranja","Orangeeichhörnchenkäfig","Klatka dla pomarańczowych wiewiórek"
 "MapObject.Orichalcum","Orichalcum","Oricalco","Orichalque","Oricalco","Орихалк","山铜","山铜","Oricalco","Oreichalkos","Orichalcum"
-"MapObject.Painting","Painting","Cuadro","Tableau","Dipinto","Картина","喷漆","喷漆","Pintura","Gemälde","Obraz"
+
 "MapObject.Palladium","Palladium","Paladio","Palladium","Palladio","Палладий","钯金","钯金","Paládio","Palladium","Paladium"
 "MapObject.PalmTree","Palm Tree","Palmera","Palmier","Albero di palma","Пальма","棕榈树","棕榈树","Palmeira","Palme","Palma"
 "MapObject.Picture","Picture","Foto","Image","Fotografia","Рисунок","图片","图片","Quadro","Bild","Obrazek"
@@ -17684,9 +17657,6 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 
 "MapObject.Titanium","Titanium","Titanio","Titane","Titanio","Титан","钛金","钛金","Titânio","Titan","Tytan"
 
-"MapObject.Trap","Trap","Trampa","Piège","Trappola","Ловушка","机关","机关","Armadilha","Falle","Pułapka"
-
-"MapObject.Trophy","Trophy","Trofeo","Trophée","Trofeo","Трофей","纪念章","纪念章","Troféu","Trophäe","Trofeum"
 
 "MapObject.Turret","Turret","Torreta","Tourette","Torretta","Турель","炮塔","炮塔","Torre","Türmchen","Wieżyczka"
 "MapObject.Vase","Vase","Jarrón","Vase","Vaso","Ваза","花瓶","花瓶","Vaso","Vase","Wazon"
@@ -20734,13 +20704,11 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "UI.Create","Create","Crear","Créer","Crea","Создать","创建","创建","Criar","Erstellen","Stwórz"
 
 
-"UI.Credits","Credits","Créditos","Remerciements","Riconoscimenti","Разработчики","制作人员","制作人员","Créditos","Credits","Autorzy"
 "UI.Delete","Delete","Eliminar","Supprimer","Elimina","Удалить","删除","删除","Excluir","Löschen","Usuń"
-"UI.DisableTexturePack","Disable","Desactivar","Désactiver","Disattiva","Отключить","禁用","禁用","Desativar","Deaktivieren","Wyłącz"
+
 "UI.Effects","Effects","Efectos","Effets","Effetti","Эффекты","效果","效果","Efeitos","Effekte","Efekty"
 
 
-"UI.EnableTexturePack","Enable","Activar","Activer","Attiva","Включить","启用","启用","Ativar","Aktivieren","Włącz"
 "UI.EnterButton","Enter","Aceptar","Saisir","Inserisci","Вход","输入","输入","Entrar","Eingabe","Wprowadź"
 "UI.EnterMessage","Enter message:","Escribir mensaje:","Saisissez un message :","Inserisci messaggio:","Введите сообщение:","输入消息：","输入消息：","Insira uma mensagem:","Nachricht eingeben:","Wprowadź wiadomość:"
 "UI.EnterNewName","Enter new name:","Escribir nuevo nombre:","Saisissez un nouveau nom :","Inserisci nuovo nome:","Введите новое имя:","输入新名称：","输入新名称：","Insira um nome novo:","Neuen Namen eingeben:","Wprowadź nową nazwę:"
@@ -20777,8 +20745,8 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "UI.NormalDescription","(The Standard Terraria Experience)","(La experiencia básica de Terraria)","(L'expérience Terraria standard)","(Esperienza standard Terraria)","(стандартная игра Terraria)","（标准泰拉瑞亚体验）","（标准泰拉瑞亚体验）","(A experiência padrão do Terraria)","(Das Standarderlebnis für Terraria)","(Rozgrywka standardowa)"
 "UI.NormalDescriptionFlavor","Your Adventure Begins...","Comienza la aventura...","Votre aventure commence...","Inizia l'avventura...","Ваши приключения начинаются...","你的冒险之旅即将开始…","你的冒险之旅即将开始…","Sua aventura começa...","Dein Abenteuer beginnt ...","Oto rozpoczyna się twoja przygoda..."
 "UI.NPCCheckHappiness"," Happiness"," Felicidad"," de joie"," Felicità"," Счастье"," 快乐","快乐"," Felicidade"," Zufriedenheit"," Szczęścia"
-"UI.OffsetTexturePackPriorityDown","Move Backwards","Retroceder","Reculer","All'indietro","Идти назад","后退","后退","Mover para trás","Zurückbewegen","Do tyłu"
-"UI.OffsetTexturePackPriorityUp","Move Frontwards","Avanzar","Avancer","In avanti","Идти вперед","前进","前进","Mover para frente","Vorwärtsbewegen","Do przodu"
+
+
 "UI.PasteColorFromClipboard","Paste color code from clipboard","Pegar el código de color del portapapeles","Coller le code couleur du presse-papier","Incolla il codice colore dagli Appunti","Вставьте код цвета из буфера обмена","从剪贴板粘贴颜色代码","从剪贴板粘贴颜色代码","Colar código da cor da área de transferência","Füge den Farbcode aus der Zwischenablage ein","Wklej kod koloru ze schowka"
 "UI.PastePlayerFromClipboard","Paste player template from clipboard","Pegar la plantilla de jugador al portapapeles","Coller le modèle du joueur du presse-papier","Incolla il modello dagli Appunti","Вставьте шаблон игрока из буфера обмена","从剪贴板粘贴玩家模板","从剪贴板粘贴玩家模板","Colar modelo do jogador da área de transferência","Füge die Spielervorlage aus der Zwischenablage ein","Wklej szablon gracza ze schowka"
 "UI.PetTheAnimal","Pet","Mascota","Familier","Mascotte","Питомец","宠物","宠物","Animal de Estimação","Haustier","Chowaniec"
@@ -20794,7 +20762,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "UI.ReportsPage","Reports Page","Página de errores","Page de rapports","Risultati","Страница отчетов","报告页面","","Página de relatórios","Meldungen","Strona błędów"
 
 "UI.RestoreButton","Restore","Restablecer","Restaurer","Ripristina","Восстановить","恢复","恢复","Restaurar","Wiederherstellen","Przywróć"
-"UI.Save","Save","Guardar","Sauvegarder","Salva","Сохранить","保存","保存","Salvar","Speichern","Zapisz"
+
 "UI.SeedCopied","Seed Copied","Semilla copiada","Graine copiée","Seme copiato","Семечко скопировано","种子已复制","种子已复制","Seed Copiada","Seed kopiert","Ziarno skopiowane"
 "UI.SeeTexturePackInfo","View Pack Info","Ver información del paquete","Afficher les infos du pack","Vedi informazioni pacchetto","Смотреть информацию о пакете","查看包信息","查看包信息","Ver informações sobre o Pacote","Paketinfo anzeigen","Zobacz informacje na temat pakietu"
 "UI.SelectHealthStyle","Health and Mana Style: {0}","Estilo de vida y maná: {0}","Style de santé et mana : {0}","Stile salute e mana: {0}","Стиль индикаторов здоровья и маны: {0}","生命值和魔力值样式：{0}","生命值和魔力值样式：{0}","Estilo de Vida e Mana: {0}","Gesundheits- und Manastil: {0}","Styl życia i many: {0}"
@@ -20816,7 +20784,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "UI.ToggleCreativeMenu","Toggle Journey Powers","Cambiar poderes de Viaje","Alternez les pouvoirs d'Aventure","Attiva/disattiva poteri di viaggio","Переключить силы путешествия","切换旅行力量","切换旅行力量","Alternar poderes do modo Jornada","Reisekräfte umschalten","Przełącz moce Podróży"
 "UI.Unfavorite","Unfavorite","Quitar de favoritos","Retirer des favoris","Rimuovi preferito","Убрать из избранного","取消收藏","取消收藏","Remover dos Favoritos","Als Favorit löschen","Usuń z ulubionych"
 "UI.Version","Version {0}","Versión {0}","Version {0}","Versione {0}","Версия {0}","版本{0}","版本{0}","Version {0}","Version {0}","Wersja {0}"
-"UI.Workshop","Workshop","Taller","Workshop","Workshop","Мастерская","创意工坊","","Oficina","Werkstatt","Warsztat"
+
 
 "UI.WorkshopImportWorld","Import Workshop Worlds","Importar mundos de Steam Workshop","Importer les mondes du Workshop","Importa Mondi dal Workshop","Импортировать миры мастерской","导入创意工坊世界","","Importar mundos da Oficina","Workshop-Welten importieren","Zaimportuj światy Warsztatu"
 "UI.WorkshopSelectResourcePackToPublishMenuTitle","Select Resource Pack To Publish","Seleccionar paquete de recursos a publicar","Choisir un pack de ressources à publier","Seleziona pacchetto risorse da pubblicare","Выберите набор ресурсов для публикации","选择要发布的资源包","","Selecione um pacote de recursos para publicar","Ressourcenpaket zum Veröffentlichen auswählen","Wybierz pakiet zasobów do opublikowania"

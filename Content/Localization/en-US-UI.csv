@@ -14,18 +14,6 @@ Key.UP,UPDOG
 UI.Achievements,Sanschievements
 
 
-#[ emotes ],<<-|-------------------------------------------------|->>
-
-
-UI.EmoteCategoryBiomesAndEvents,Flora and Fauna
-UI.EmoteCategoryBosses,Big Boys
-UI.EmoteCategoryCritters,Entities
-UI.EmoteCategoryGeneral,Sansneral
-UI.EmoteCategoryItems,Sanstems
-UI.EmoteCategoryRPS,"Stans, Pans, Sanssors!"
-UI.EmoteCategoryTownNPCs,Sanses
-
-
 #[ game titles ],<<-|--------------------------------------------|->>
 
 
@@ -37,6 +25,7 @@ GameTitle.15,Sans Fanfic: Terraria Adventure - The Gastric Downpour of contempt!
 GameTitle.10,Sans Fanfic: Terraria Adventure - He's in your house!
 GameTitle.11,Sans Fanfic: Terraria Adventure - Every moment you stand still Sans gets closer!
 GameTitle.12,Sans Fanfic: Terraria Adventure - Delete system32!
+GameTitle.13,Sans Fanfic: Terraria Adventure - Blue Sans!
 
 GameTitle.28,Luigi Fanfic: Terraria Adventure - May God have mercy on your 1-ups
 GameTitle.29,Luigi Fanfic: Terraria Adventure - Not this pack again
@@ -46,6 +35,7 @@ GameTitle.37,Luigi Fanfic: Terraria Adventure - The Cream Soda Fall of Delicious
 GameTitle.32,Luigi Fanfic: Terraria Adventure - He's in your mansion!
 GameTitle.33,Luigi Fanfic: Terraria Adventure - Every moment you stand still Luigi gets closer!
 GameTitle.34,Luigi Fanfic: Terraria Adventure - Run 'rm -rf /'!
+GameTitle.35,Luigi Fanfic: Terraria Adventure - Mama Luigi!
 
 
 #[ game ui ],<<-|------------------------------------------------|->>
@@ -140,6 +130,20 @@ LegacyInterface.30,Loot All
 LegacyInterface.66,Sanvings
 
 
+#[ languages ],<<-|----------------------------------------------|->>
+
+
+Language.Chinese,Sorry Nothing
+Language.English,English (only one with changed text)
+Language.French,Sorry Nothing
+Language.German,Sorry Nothing
+Language.Italian,Sorry Nothing
+Language.Polish,Sorry Nothing
+Language.Portuguese,Sorry Nothing
+Language.Russian,Sorry Nothing
+Language.Spanish,Sorry Nothing
+
+
 #[ loading tips ],<<-|-------------------------------------------|->>
 
 
@@ -156,8 +160,7 @@ LoadingTips_Default.16,sanches require uhhhhhh something i forgor..
 
 LoadingTips_Default.21,"Koridians love rubies. If you got yourself some, one might move in!"
 LoadingTips_Default.22,Keep a Spamton NutriNose™ in your hotbar at all times!
-#( placeholder : housing ),housing
-LoadingTips_Default.23,"Make sure to avoid having valid housing with empty rooms, otherwise you'll attract even more sanses!"
+LoadingTips_Default.23,"Make sure to avoid having valid shelter with empty rooms, otherwise you'll attract even more sanses!"
 LoadingTips_Default.24,"When exploring, make sure to bring some comics to read. Comics can be crafted from numerous sansterials such as Bones, Bones, or even Bones."
 LoadingTips_Default.25,Slay a powerful sans to attract more sanses. What a rotten deal!
 
@@ -185,6 +188,21 @@ LegacyInterface.62,Sansttings
 LegacyInterface.63,Cansans
 LegacyInterface.68,Sansttings
 
+GameUI.QualityHigh,Bad
+GameUI.QualityMedium,Good
+GameUI.QualityLow,Great
+GameUI.QualityOff,Onn
+LegacyMenu.59,Time: Bad
+LegacyMenu.60,Time: Good
+LegacyMenu.61,Time: Great
+LegacyMenu.62,Time: Onn
+
+UI.Save,Sansve
+
+LegacyMenu.247,Game speed: Choppy
+LegacyMenu.248,Game speed: Normal
+LegacyMenu.249,Game speed: Slooooow
+
 
 #[ reforging ],<<-|----------------------------------------------|->>
 
@@ -206,10 +224,25 @@ LegacyInterface.10,DF
 
 
 LegacyMenu.5,New
+LegacyMenu.104,На
+LegacyMenu.105,Дет
+LegacyMenu.119,Sansbient:
+LegacyMenu.124,Onn
+LegacyMenu.126,Of
+LegacyMenu.117,Onn
 
 LegacyMenu.12,Exit
+LegacyMenu.13,Credits
+LegacyMenu.131,Settings
+UI.Workshop,Enable Sans Fanfic: Terraria Adventure
+LegacyMenu.14,Achievements
+UI.Credits,Multiplayer
 LegacyMenu.15,Single Player
 
+LegacyInterface.72,Onn
+LegacyInterface.73,Of
+
+LegacyMenu.6,Cansans
 UI.Cancel,Cansans
 UI.New,Back
 
@@ -332,6 +365,12 @@ UI.EnabledResourcePacksTitle,Sans Fanfic: Terraria Adventure ({Amount})
 
 Workshop.EnterNewNameForImportedWorld,Enter [ B I G   S A N S ] name:
 Workshop.HubDescriptionImportWorlds,Import sanses from the worksans.
+
+
+UI.EnableTexturePack,Only click if it's Sans Fanfic: Terraria Adventure
+UI.DisableTexturePack,Leaving so soon?
+UI.OffsetTexturePackPriorityDown,Put behind Sans Fanfic: Terraria Adventure
+UI.OffsetTexturePackPriorityUp,Put Sans Fanfic: Terraria Adventure in front
 
 
 Workshop.HubPublishWorlds,Publish Sanses

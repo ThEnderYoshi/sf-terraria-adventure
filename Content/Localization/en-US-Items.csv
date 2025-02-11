@@ -343,22 +343,35 @@ ItemTooltip.SoulofLight,"'The essanse of darkners'"
 #[ critters ],<<-|-----------------------------------------------|->>
 
 
+ItemName.Stinkbug,UNUSED
+
 ItemName.Frog,Pog
 ItemName.GoldFrog,Cool Pog
 ItemName.Grubby,Purple Moldbug
 ItemName.Sluggy,Yellow Moldbug
 ItemName.Buggy,White Moldbug
+ItemName.ScarletMacaw,{$NPCName.ScarletMacaw}
+ItemName.BlueMacaw,{$NPCName.BlueMacaw}
+ItemName.Toucan,{$NPCName.Toucan}
+ItemName.YellowCockatiel,{$NPCName.YellowCockatiel}
+ItemName.GrayCockatiel,{$NPCName.GrayCockatiel}
 
 ItemName.Terrarium,Test Chamber
+
+ItemName.StinkbugCage,UNUSED Chamber
+
 ItemName.FrogCage,Pog Chamber
-ItemName.GoldFrogCage,Cool Pog Chamber
+ItemName.GoldFrogCage,Old sCOOL Pog Chamber
 ItemName.CageGrubby,Purple Moldbug Chamber
 ItemName.CageSluggy,Yellow Moldbug Chamber
 ItemName.CageBuggy,White Moldbug Chamber
+ItemName.ScarletMacawCage,{$NPCName.ScarletMacaw} Chamber
+ItemName.BlueMacawCage,{$NPCName.BlueMacaw} Chamber
+ItemName.ToucanCage,{$NPCName.Toucan} Chamber
+ItemName.YellowCockatielCage,{$NPCName.YellowCockatiel} Chamber
+ItemName.GrayCockatielCage,{$NPCName.GrayCockatiel} Chamber
 
-ItemName.Stinkbug,UNUSED
-ItemName.StinkbugCage,UNUSED Chamber
-
+Misc.Cockatiel,{$NPCName.YellowCockatiel}
 MapObject.GoldFrogCage,{$ItemName.GoldFrogCage}
 
 
@@ -411,7 +424,7 @@ ItemName.CactusChest,Petrified Growth Chanst (sans chest)
 ItemName.CactusClock,Petrified Growth Sock (sans clock)
 ItemName.CactusDoor,Petrified Growth Door
 ItemName.CactusDresser,Petrified Growth Sansser
-ItemName.CactusLamp,Petrified Growth Sasnsp
+ItemName.CactusLamp,Petrified Growth Samp
 ItemName.CactusLantern,Petrified Growth Sanstern
 ItemName.CactusPiano,Petrified Growth Pans
 ItemName.CactusSink,Petrified Growth Sansk
