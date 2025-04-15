@@ -6,6 +6,7 @@ Key,Translation
 
 ItemName.SlimeBanner,Slans Sansnner
 ItemName.GreenSlimeBanner,Normal Slans Sansnner
+ItemName.PurpleSlimeBanner,Standard Slans Sansnner
 ItemName.PinkyBanner,Slansy UwU Sansnner
 
 ItemName.RedSlimeBanner,Default Slans Sansnner
@@ -25,6 +26,7 @@ ItemName.SpikedIceSlimeBanner,Hyperslans Sansnner
 
 ItemTooltip.SlimeBanner,"{$CommonItemTooltip.BannerBonus}Slanses"
 ItemTooltip.GreenSlimeBanner,"{$CommonItemTooltip.BannerBonus}Normal Slanses"
+ItemTooltip.PurpleSlimeBanner,"{$CommonItemTooltip.BannerBonus}Standard Slanses"
 ItemTooltip.PinkyBanner,"{$CommonItemTooltip.BannerBonus}Slansies (UwU)"
 
 ItemTooltip.RedSlimeBanner,"{$CommonItemTooltip.BannerBonus}Default Slanses"
@@ -118,6 +120,8 @@ ItemName.JungleCreeperBanner,Landliner Sansnner
 ItemName.ArapaimaBanner,Deathcan Sansnner
 ItemName.MothBanner,Hammer Sansnner
 ItemName.LacBeetleBanner,Perseverant Bones Sansnner
+ItemName.LihzahrdBanner,Dr. Loogie Sansnner
+ItemName.FlyingSnakeBanner,Goominal Crawler Sansnner
 
 ItemTooltip.JungleBatBanner,"{$CommonItemTooltip.BannerBonus}Molddoos"
 ItemTooltip.SnatcherBanner,"{$CommonItemTooltip.BannerBonus}Hands of Gaster"
@@ -135,6 +139,8 @@ ItemTooltip.JungleCreeperBanner,"{$CommonItemTooltip.BannerBonus}Landliners"
 ItemTooltip.ArapaimaBanner,"{$CommonItemTooltip.BannerBonus}Deathcans"
 ItemTooltip.MothBanner,"{$CommonItemTooltip.BannerBonus}Hammers"
 ItemTooltip.LacBeetleBanner,"{$CommonItemTooltip.BannerBonus}Perseverant Bones"
+ItemTooltip.LihzahrdBanner,"{$CommonItemTooltip.BannerBonus}Dr. Loogies"
+ItemTooltip.FlyingSnakeBanner,"{$CommonItemTooltip.BannerBonus}Goominal Crawlers"
 
 
 #[ corruption ],<<-|---------------------------------------------|->>

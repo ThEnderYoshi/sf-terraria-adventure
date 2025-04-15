@@ -3,13 +3,20 @@
 
 # -- End of Commit --
 
+# Lihzahrd Furniture Set
+- Lihzahrd Brick
+- Lihzahrd Brick Wall
+- Lihzahrd Pots
+- Temple Rubble        # Tiles 187
+- Actual Furniture Set # See spreadsheet
+- Lihzahrd Statues
+
 # For later - BEFORE JUNGLE UPDATE RELEASES
 - <remaining rich mahogany recipes>:
     - Armor
     - <see rest>
 - Turtle Armor
 - <statues for all current enemies>
-- Temple Key    # Waiting on Temple
 - Bramble Crate # Waiting on Temple
 - Witch Doctor: # Waiting on Temple
     - NPC Sprites
@@ -17,23 +24,20 @@
     - Dialog
     - Sold items/drops
 - Heat Ray # + Dust 162
-- Lihzahrd Pots
 - [SunAltar.png, SunOrb.png]
 - Poison Dart
 - Imbuing Station # Waiting on Witch Doctor
 - Flask of Poison # Waiting on Imbuing Station
-- Axe of Regrowth
-- Bee Minecart
 - <jungle-related kites>
-- Jungle splash screen # Waiting on Surface Jungle backgrounds
 - Jungle emotes
-- Temple music:
-    # Replace with Sub1 Redux (evil version) - Submachine 10.
-    - track
-    - music box
 - Temple map background # MapBG14
 - <all sounds relevant to the jungle>
 - Nature's Gift
+- Lizard King Painting
+- Mudstone Bricks
+- Jungle Mimic # Or maybe do with other biome mimics?
+- Giant Tortoise SFX
+- Remaining Derpling SFX
 
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
@@ -75,6 +79,8 @@
 
 # For later - BEFORE THE UPDATE WITH THE ECLIPSE
 - Eclipse Map BG Overlay # MapBGOverlay 5
+- Solar Tablet
+- Solar Tablet Fragment
 
 # For later - BEFORE THE UPDATE WITH THE PUMPKIN/FROST MOONS
 - Pumpkin/Frost Moon Map BG Overlays # MapBGOverlay 8 + 9

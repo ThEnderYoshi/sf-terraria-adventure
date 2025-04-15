@@ -120,6 +120,13 @@ Bestiary_FlavorText.npc_Moth,"How rare, a ghost that's not a Gohst! Judging by t
 
 Bestiary_FlavorText.npc_LacBeetle,"This used to be a normal purple sans, but is no more. However, through sheer Perseverance, what is now a small pile of bones has started moving on its own!"
 
+
+#[ jungle temple ],<<-|------------------------------------------|->>
+
+Bestiary_FlavorText.npc_Lihzahrd,"An experiment gone wrong! These sciency loogies have been studying ghostly substances and have now paid the price: becoming one with █████!"
+Bestiary_FlavorText.npc_FlyingSnake,"At first glance you'd think these shapely abominations are mimicking a Loominal Crawler's ability to ""crawl"" through the fabric of reality, but they're actually just sticking to the walls."
+
+
 #[ surface ],<<-|------------------------------------------------|->>
 
 Bestiary_FlavorText.npc_BlueSlime,"These friendly little fellas aren't afraid to defend themselves!"

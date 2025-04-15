@@ -18,11 +18,30 @@ ItemTooltip.Campfire,"When near a campsans: [c/00ff7f:HP regen ↗]"
 ItemTooltip.JungleCampfire,"{ItemTooltip.Campfire}"
 
 
-#[ traps ],<<-|--------------------------------------------------|->>
+#[ wiring : inputs ],<<-|----------------------------------------|->>
+
+
+ItemName.LihzahrdPressurePlate,Forsaken LEGO Brick
+
+ItemTooltip.LihzahrdPressurePlate,"Something bad's bound to happen if you step on it!
+'Ah, the Goo Legoo...'"
+
+
+#[ wiring : traps ],<<-|-----------------------------------------|->>
 
 
 ItemName.BeeHive,Remote Spawner
 MapObject.BeeHive,"{$ItemName.BeeHive}"
+
+ItemName.SpearTrap,Speedy Googi
+ItemName.SpikyBallTrap,Toothy Googi
+ItemName.SuperDartTrap,Bullshit Background-Colored 'Stachy Googi
+ItemName.FlameTrap,Snotty Googi
+ProjectileName.SpearTrap,{$ItemName.SpearTrap}
+ProjectileName.SpikyBallTrap,Gooey Tooth
+ProjectileName.PoisonDartTrap,Bullshit Background-Colored 'Stache
+ProjectileName.FlamesTrap,Snot
+ItemName.WoodenSpike,Googi Growth
 
 
 #[ statues : enemies ],<<-|--------------------------------------|->>

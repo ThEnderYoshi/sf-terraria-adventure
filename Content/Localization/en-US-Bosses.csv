@@ -172,7 +172,7 @@ NPCName.TheHungry,The Funny
 NPCName.TheHungryII,The Funny
 
 Bestiary_FlavorText.npc_WallofFlesh,"Keeper of the Undersans, his job is to keep the Dark World from spreading beyond the Undersans. Well, it WAS. Now DELTARUNE's all over your Sans!"
-Bestiary_FlavorText.npc_LeechHead,"Oh that just... That's just dissapointing... Why is it floppy..."
+Bestiary_FlavorText.npc_LeechHead,"Oh that just... That's just disappointing... Why is it floppy..."
 Bestiary_FlavorText.npc_TheHungry,"Why the laughter, what's so funny? Your certain doom most certainly is!"
 Bestiary_FlavorText.npc_TheHungryII,{$Bestiary_FlavorText.npc_TheHungry}
 
@@ -238,6 +238,9 @@ ItemName.PlanteraBossBag,Bag of Regret (MOTHERFAKER)
 ItemTooltip.PlanteraBossBag,"{$CommonItemTooltip.RightClickToOpen}
 'I'm not happy'"
 
+ItemName.TempleKey,Mansion Key
+ItemTooltip.TempleKey,"Opens the door to the forsaken research center"
+
 ItemName.PlanteraMask,MOTHERFAKER Sask (sans mask)
 
 ItemName.SporeSac,Cryberry
@@ -255,6 +258,14 @@ it acceptable in the name of the greater good""
 
 ItemName.Seedling,Hand Burger
 ItemTooltip.Seedling,Sansmmons a Hamburger Hinderance
+
+#[ golem ],<<-|--------------------------------------------------|->>
+
+
+ItemName.LihzahrdPowerCell,Goo Sample
+ItemTooltip.LihzahrdPowerCell,"Has a note: 'Failed sample from G-00 tests. DO NOT, UNDER ANY
+CIRCUMSTANCES, OPEN, DISPOSE OF, OR INFUSE WITH CAFFEINE'"
+
 
 #[ empress of light ],<<-|---------------------------------------|->>
 

@@ -121,6 +121,10 @@ BuffDescription.Plantero,"'EEEEEEH YOU KNOWWWWW'"
 BuffName.PetSapling,[c/ffc700:Hamburger Hinderance]
 BuffDescription.PetSapling,"It's plotting a scheme to make your day worse"
 
+BuffName.PetLizard,[c/ffc700:Decaff Googi]
+BuffDescription.PetLizard,"May or may not be plotting to assimilate you into GOOGI"
+
+
 #[ mounts ],<<-|-------------------------------------------------|->>
 
 
@@ -143,6 +147,7 @@ BuffDescription.BeeMinecartRight,"{$BuffDescription.MinecartLeftWood}"
 
 
 #[ armor set bonuses ],<<-|--------------------------------------|->>
+
 
 BuffName.LeafCrystal,Sansjak
 BuffDescription.LeafCrystal,"This was going to be something called a 'MOTHERSPIRIT', but I couldn't resist doing this instead I'm REALLY sorry"

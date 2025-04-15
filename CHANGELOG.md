@@ -48,6 +48,8 @@ Toriel's House!
 - _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
   Jungle/Bee Hive/Temple map backgrounds
 - _Backgrounds:_ All Jungle-related backgrounds.
+- _Music (+ boxes):_ Jungle, Jungle (night), Underground Jungle, Jungle Temple,
+  Boss 5 (Queen Bee), Plantera
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
@@ -69,6 +71,7 @@ Toriel's House!
 - Jungle Torch
 - Ivy Chest
 - Jungle Water Fountain
+- All Lihzahrd Traps
 
 #### Bosses
 
@@ -83,8 +86,9 @@ Toriel's House!
 
 - _Town NPCs:_ Painter
 - _Jungle:_ (Spiked) Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
-  Giant Tortoise, Hornet, Man Eater, Lac Beetle, Bee, Small Bee, Moss Hornet,
-  Angry Trapper, Jungle Creeper, Moth, Arapaima
+  Giant Flying Fox, Angler Fish, Giant Tortoise, Hornet, Man Eater, Lac Beetle,
+  Bee, Small Bee, Moss Hornet, Angry Trapper, Jungle Creeper, Moth, Arapaima,
+  Lihzahrd, Flying Snake
 - _Underground:_ Cave/Giant Bat
 - _Critters:_ Grubby, Sluggy, Buggy, Frog, Gold Frog, Cockatiels,
   Toucan, Macaws
@@ -169,6 +173,7 @@ Toriel's House!
 - Rain bestiary icon now no longer in the place of the Ocean's icon.
 - Ebonwood Lamp is no longer offset by 1 pixel when turned off.
 - Title Screen theme is not as loud anymore.
+- `Misc/Perlin.png` is now appropriately sansy.
 
 ## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
 

@@ -141,6 +141,14 @@ NPCName.Moth,Hammer
 NPCName.LacBeetle,Perseverant Bones
 
 
+#[ jungle temple ],<<-|------------------------------------------|->>
+
+
+NPCName.Lihzahrd,Dr. Loogie
+NPCName.LihzahrdCrawler,Dr. Loogie
+NPCName.FlyingSnake,Goominal Crawler
+
+
 #[ corruption ],<<-|---------------------------------------------|->>
 
 

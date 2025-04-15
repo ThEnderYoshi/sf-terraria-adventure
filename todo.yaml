@@ -38,6 +38,7 @@ future ideas:
   - Dreadnautilus -> Onionsans
 
 long-term notes:
+  - Pressure plates are LEGO bricks strewn throughout the floor.
   - Buffs should depict bad/unpleasant things.
   - Debuffs should depict good things.
   - Spiders are flowey themed.
@@ -155,6 +156,8 @@ unfinished textures:
     - '104'         # Grandfather Clocks.
     - '105'         # Statues.
     - '109'         # Hallowed Grass. Still based on Card Kingdom instead of Cyber World.
+    - '135'         # Pressure Plates: Red, Green, Gray, Brown, Blue, Yellow, Orange
+    - '137'         # 1x1 Projectile Emitting Traps.
     - '139'         # Placed Music Boxes.
     - '165'         # Stalactites/stalagmites.
     - '172'         # Sinks.

@@ -940,6 +940,9 @@ ItemTooltip.Seaweed,"Sansmmons a pet gaster"
 ItemName.MudBud,Perfecly Normal Mustache Hair
 ItemTooltip.MudBud,"Sansmmons a completely indifferent little man"
 
+ItemName.LizardEgg,Decaffeinated Goo Sample
+ItemTooltip.LizardEgg,"Sansmmons a decaffeinated Googi"
+
 
 #[ minecarts ],<<-|----------------------------------------------|->>
 
