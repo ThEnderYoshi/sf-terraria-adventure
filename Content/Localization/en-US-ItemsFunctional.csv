@@ -18,6 +18,17 @@ ItemTooltip.Campfire,"When near a campsans: [c/00ff7f:HP regen ↗]"
 ItemTooltip.JungleCampfire,"{ItemTooltip.Campfire}"
 
 
+#[ wiring : blocks ],<<-|----------------------------------------|->>
+
+
+ItemName.ActiveStoneBlock,Sansctive Stans
+ItemName.InactiveStoneBlock,Sansnactive Stans
+
+ItemName.PixelBox,Sans Eye Box
+ItemTooltip.PixelBox,"Turns off from sansrizontal sansgnals
+Turns on from sanstical sansgnals"
+
+
 #[ wiring : inputs ],<<-|----------------------------------------|->>
 
 

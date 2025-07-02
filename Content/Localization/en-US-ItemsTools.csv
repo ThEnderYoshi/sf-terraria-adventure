@@ -1,0 +1,219 @@
+Key,Translation
+
+
+#[ bombs ],<<-|--------------------------------------------------|->>
+
+
+ItemName.Bomb,Spamton NutriNose™
+ItemTooltip.Bomb,"Provides delicious improvements to stats
+(do not blow into the nose)
+'Spamton NutriNose™: Try it inside your house!'"
+
+
+#[ diggers : axes ],<<-|-----------------------------------------|->>
+
+
+ItemName.CopperAxe,Gastter Axsans
+ItemName.TinAxe,Gastin Axsans
+ItemName.IronAxe,Iriel Axsans
+ItemName.LeadAxe,Toriad Axsans
+ItemName.SilverAxe,Sansver Axsans
+ItemName.TungstenAxe,Tungsans Axsans
+ItemName.GoldAxe,Papyld Papaxe
+ItemName.PlatinumAxe,Papynum Papaxe
+
+ItemName.WarAxeoftheNight,Luigium Moustaxe
+ItemName.BloodLustCluster,Gaster Chomper
+
+ItemName.ChlorophyteGreataxe,Torium Axsans
+ItemName.ChlorophyteChainsaw,Torium Chainsans
+
+ItemName.TheAxe,The Worm
+
+ItemName.AcornAxe,Bonular Restoration Axsans
+ItemTooltip.AcornAxe,"{$ItemTooltip.StaffofRegrowth}
+Plants saplings when cutting down bad thymes"
+
+
+#[ diggers : hammers ],<<-|--------------------------------------|->>
+
+
+ItemName.WoodenHammer,Bad Thyme Sansmmer
+ItemName.BorealWoodHammer,Dense Thyme Sansmmer
+ItemName.EbonwoodHammer,Better Cauli Sansmmer
+
+ItemName.TinHammer,Gastin Sansmmer
+ItemName.IronHammer,Iriel Sansmmer
+ItemName.LeadHammer,Toriad Sansmmer
+ItemName.SilverHammer,Sansver Sansmmer
+ItemName.TungstenHammer,Tungsans Sansmmer
+ItemName.GoldHammer,Papyld Hammyrus
+ItemName.PlatinumHammer,Papynum Hammyrus
+
+ItemName.TheBreaker,Fist Hammer
+ItemName.FleshGrinder,Femur Crusher
+
+ItemName.ChlorophyteWarhammer,Torium Sansmmer
+ItemName.ChlorophyteJackhammer,Horned Pwner
+
+
+#[ diggers : mixed ],<<-|----------------------------------------|->>
+
+
+ItemName.MeteorHamaxe,Planetarium Sansmmaxe
+ItemName.MoltenHamaxe,BraveHamax
+
+
+#[ diggers : pickaxes ],<<-|-------------------------------------|->>
+
+
+ItemName.CactusPickaxe,Petri-Pick
+
+ItemName.CopperPickaxe,Gastter Sansxe
+ItemName.TinPickaxe,Gastin Sansxe
+ItemName.IronPickaxe,Iriel Sansxe
+ItemName.LeadPickaxe,Toriad Sansxe
+ItemName.SilverPickaxe,Sansver Sansxe
+ItemName.TungstenPickaxe,Tungsans Sansxe
+ItemName.GoldPickaxe,Papyld Papick
+ItemName.PlatinumPickaxe,Papynum Papick
+
+ItemName.NightmarePickaxe,Mining Hat
+ItemName.DeathbringerPickaxe,Patience Breaker
+ItemTooltip.NightmarePickaxe,"Able to mine Shadow Crystals"
+ItemTooltip.DeathbringerPickaxe,"{$ItemTooltip.NightmarePickaxe}"
+
+ItemName.MoltenPickaxe,ShadowPick
+
+ItemName.ChlorophytePickaxe,Torium Sansxe
+ItemName.ChlorophyteDrill,Torium Drans
+
+
+#[ fishing poles ],<<-|------------------------------------------|->>
+
+
+ItemName.WoodFishingPole,Bad Thyme Para-Catcher
+ItemName.FiberglassFishingPole,Gastic Para-Catcher
+
+
+#[ painters ],<<-|-----------------------------------------------|->>
+
+
+ItemName.Paintbrush,Inky Pencil
+ItemTooltip.Paintbrush,"Paints socks (sans blocks) using color vials"
+
+ItemName.PaintRoller,Inky Marker
+ItemTooltip.PaintRoller,"Paints salls (sans walls) using color vials"
+
+ItemName.PaintScraper,Inky Eraser
+#( placeholder : moss ),moss
+ItemTooltip.PaintScraper,"Removes the color and life from the world
+Also scrapes moss"
+
+ItemName.SpectrePaintbrush,Ink's Pencil
+ItemTooltip.SpectrePaintbrush,"{$ItemTooltip.Paintbrush}
+'Can you believe this once belonged to Ink?'"
+
+ItemName.SpectrePaintRoller,Ink's Marker
+ItemTooltip.SpectrePaintRoller,"{$ItemTooltip.PaintRoller}
+'Can you believe this once belonged to Ink???'"
+
+ItemName.SpectrePaintScraper,Ink's Eraser
+ItemTooltip.SpectrePaintScraper,"{$ItemTooltip.PaintScraper}
+'Do you actually believe this once belonged to Ink???'"
+
+
+#[ placers ],<<-|------------------------------------------------|->>
+
+
+ItemName.DirtRod,Back Pinchers
+ItemTooltip.DirtRod,"Pinches Sirt Blocks
+'If you pinch Wendy's pennies, they pinch back!'"
+
+ItemName.HiveWand,Spawner Spawner
+ItemTooltip.HiveWand,"Spawns Spawner Blocks"
+
+ItemName.LivingMahoganyWand,Live Homely Fungus Grinder
+ItemTooltip.LivingMahoganyWand,"Sanses Live Homely Fungus"
+
+ItemName.LivingMahoganyLeafWand,Live Homely Bramble Grinder
+ItemTooltip.LivingMahoganyLeafWand,"Sanses Live Homely Bramble"
+
+ItemName.StaffofRegrowth,Bonular Restoration Wand
+ItemTooltip.StaffofRegrowth,"Creates sans on sirt
+[c/ff0000:+Eye collection] when used to gather"
+
+
+#[ potions : ingredients ],<<-|----------------------------------|->>
+
+
+ItemName.Bottle,Condiment Bottle
+ItemName.BottledWater,Condiment Base
+ItemName.BottledHoney,Battery-flavored Ketchup
+
+
+#[ potions : restoration ],<<-|----------------------------------|->>
+
+
+ItemName.GreaterHealingPotion,HP Potion EX
+ItemName.HealingPotion,HP Potion+
+ItemName.LesserHealingPotion,HP Sanstion
+ItemName.SuperHealingPotion,HP Potion NEO
+
+
+#[ potions : buffs ],<<-|----------------------------------------|->>
+
+
+ItemName.IronskinPotion,Reinforced Membrane Sanstion
+ItemTooltip.IronskinPotion,"[c/00ff00:+8DF]"
+
+ItemName.InfernoPotion,Sanstion of Richeous Judgement
+ItemTooltip.InfernoPotion,"A biblically accurate sansgel smites
+nearby enemies with richeous flames"
+
+ItemName.FishingPotion,Biltricide Sauce
+ItemTooltip.FishingPotion,"Makes you more attractive to parasites
+'Don't ask me where the extra
+parasites are coming from'"
+
+
+#[ misc ],<<-|---------------------------------------------------|->>
+
+
+ItemName.PurificationPowder,Sansing Powder
+ItemTooltip.PurificationPowder,"Spreads Sans Fanfic
+'It's like a mini Sahn's Ritual in a bag!'"
+
+ItemName.VilePowder,Luiging Powder
+ItemTooltip.VilePowder,"Spreads Luigi Fanfic
+'This isn't going to make things any better'"
+
+ItemName.ViciousPowder,Powder of War
+ItemTooltip.ViciousPowder,"Spreads the No San's Land
+'Why are you spreading war'"
+
+ItemName.DontHurtNatureBook,Little Guy That Tells You Not To Hurt Plants
+ItemTooltip.DontHurtNatureBook,"What it says on the tin
+<right> to trick into sleeping"
+
+ItemName.DontHurtNatureBookInactive,Little Guy That Tells You Not To Hurt Plants (sleeping)
+ItemTooltip.DontHurtNatureBookInactive,"What it says on the tin
+<right> to feel bad for tricking him and wake him up"
+
+ItemName.EmptyBucket,Empty Jug
+ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
+
+ItemName.WaterBucket,Jug of Gastric Acid
+ItemTooltip.WaterBucket,"Contains a small amount of gastric acid
+Can be sansed out"
+
+ItemName.LavaBucket,Jug of Dark'Ness
+ItemTooltip.LavaBucket,"Contains a small amount of dark'ness
+Can be sansed out"
+
+ItemName.HoneyBucket,Jug of Battery Acid
+ItemTooltip.HoneyBucket,"Contains a small amount of delicious battery acid
+Can be sansed out"
+
+
+#[  ],<<-|-------------------------------------------------------|->>
