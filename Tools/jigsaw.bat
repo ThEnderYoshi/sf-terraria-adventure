@@ -9,4 +9,4 @@ set input="ExternalAssets/FactoryIn"
 set output="ExternalAssets/FactoryOut"
 set config="Tools/toolbox_cfg/%~1.toml"
 
-Tools\t_pack_app.exe jigsaw %input% %output% %config%
+Tools\t_pack_app.exe jigsaw %config% %input% %output%

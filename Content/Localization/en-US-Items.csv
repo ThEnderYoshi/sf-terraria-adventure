@@ -587,6 +587,34 @@ ItemName.HoneyTable,Automotive Sansble
 ItemName.ToiletHoney,Automotive Dispatch Hatch
 
 
+#[ furniture : lihzahrd ],<<-|-----------------------------------|->>
+
+
+ItemName.LihzahrdBrick,Forsaken Cauli
+ItemName.LihzahrdBrickWall,Forsaken Caul Sall
+ItemName.LihzahrdWorkBench,Forsaken Work Bans (bench sans)
+ItemName.LihzahrdPlatform,Forsaken Comic
+
+ItemName.LihzahrdBathtub,Forsaken Badtub
+ItemName.LihzahrdBed,Forsaken Operation Sansble
+ItemName.LihzahrdBookcase,Forsaken Copy-of-Luigi's Mansioncase
+ItemName.LihzahrdCandle,Forsaken Sansdle
+ItemName.LihzahrdCandelabra,Forsaken Sansdelabra
+ItemName.LihzahrdChair,Forsaken Sair
+ItemName.LihzahrdChandelier,Forsaken Sansdelier
+ItemName.LihzahrdChest,Forsaken Chanst (sans chest)
+ItemName.LihzahrdClock,Forsaken Sock (sans clock)
+ItemName.LihzahrdDoor,Forsaken Door
+ItemName.LihzahrdDresser,Forsaken Sansser...?
+ItemName.LihzahrdLamp,Forsaken Samp
+ItemName.LihzahrdLantern,Forsaken Sanstern
+ItemName.LihzahrdPiano,Forsaken “Furniture”
+ItemName.LihzahrdSink,Forsaken Emergency Eyewash Station
+ItemName.LihzahrdSofa,Forsaken Sansfa
+ItemName.LihzahrdTable,Forsaken Sansble
+ItemName.ToiletLihzhard,Forsaken World's Cleanest Urinal
+
+
 #[ furniture : paintings ],<<-|----------------------------------|->>
 
 
@@ -603,7 +631,7 @@ ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Er
 'Things used to be good'"
 
 
-#[ furniture : plants ],<<-|--------------------------------------|->>
+#[ furniture : plants ],<<-|-------------------------------------|->>
 
 
 ItemName.PottedJungleBamboo,Potted Toothy Toriel
@@ -672,6 +700,9 @@ ItemTooltip.Sawmill,"Used for advanced thyme crafting"
 
 ItemName.HoneyDispenser,Automotive Workshop
 ItemTooltip.HoneyDispenser,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.HoneyBlock}"
+
+ItemName.LihzahrdFurnace,G-00 Formation Chamber
+ItemTooltip.LihzahrdFurnace,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.LihzahrdBrick}"
 
 
 #[ ender chests ],<<-|-------------------------------------------|->>
@@ -870,14 +901,14 @@ ItemTooltip.AcornAxe,"{$ItemTooltip.StaffofRegrowth}
 Plants saplings when cutting down bad thymes"
 
 
-#[ tools : fishing poles ],<<-|-------------------------------|->>
+#[ tools : fishing poles ],<<-|----------------------------------|->>
 
 
 ItemName.WoodFishingPole,Bad Thyme Para-Catcher
 ItemName.FiberglassFishingPole,Gastic Para-Catcher
 
 
-#[ tools : misc ],<<-|----------------------------------------|->>
+#[ tools : misc ],<<-|-------------------------------------------|->>
 
 
 ItemName.PurificationPowder,Sansing Powder

@@ -6484,33 +6484,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.LightShard","Light Shard","Fragmento de luz","Fragment clair","Frammento di luce","Осколок света","光明碎块","光明碎块","Estilhaço de Luz","Lichtscherbe","Jasny odłamek"
 "ItemName.LihzahrdAltar","Lihzahrd Altar","Altar de lihzahrd","Autel de lihzahrd","Altare rettiliano","Алтарь ящщеров","丛林蜥蜴祭坛","丛林蜥蜴祭坛","Altar Lagharto","Lihzahrdaltar","Jaszczuhrzy ołtarz"
 
-"ItemName.LihzahrdBathtub","Lihzahrd Bathtub","Bañera lihzahrd","Baignoire en lihzahrd","Vasca da bagno rettiliana","Ванна ящщеров","丛林蜥蜴浴缸","丛林蜥蜴浴缸","Banheira de Lagharto","Lihzahrdbadewanne","Jaszczuhrza wanna"
-"ItemName.LihzahrdBed","Lihzahrd Bed","Cama lihzahrd","Lit en lihzahrd","Letto rettiliano","Кровать ящщеров","丛林蜥蜴床","丛林蜥蜴床","Cama de Lagharto","Lihzahrdbett","Jaszczuhrze łóżko"
-"ItemName.LihzahrdBookcase","Lihzahrd Bookcase","Librería lihzahrd","Bibliothèque en lihzahrd","Scaffale rettiliano","Книжный шкаф ящщеров","丛林蜥蜴书架","丛林蜥蜴书架","Estante de Lagharto","Lihzahrd-Bücherschrank","Jaszczuhrza biblioteczka"
-"ItemName.LihzahrdBrick","Lihzahrd Brick","Ladrillo de lihzahrd","Brique de lihzahrd","Mattone rettiliano","Кирпич ящщеров","丛林蜥蜴砖","丛林蜥蜴砖","Tijolo Lagharto","Lihzahrdziegel","Jaszczuhrza cegła"
-"ItemName.LihzahrdBrickWall","Lihzahrd Brick Wall","Pared de ladrillo de lihzahrd","Mur en brique de lihzahrd","Muro di mattoni rettiliani","Кирпичная стена ящщеров","丛林蜥蜴砖墙","丛林蜥蜴砖墙","Parede de Tijolo Lagharto","Lihzahrd-Ziegelwand","Jaszczuhrza ściana z cegieł"
-"ItemName.LihzahrdCandelabra","Lihzahrd Candelabra","Candelabro lihzahrd","Candélabre en lihzahrd","Candelabro rettiliano","Канделябр ящщеров","丛林蜥蜴烛台","丛林蜥蜴烛台","Candelabro de Lagharto","Lihzahrdkkandelaber","Jaszczuhrzy świecznik"
-"ItemName.LihzahrdCandle","Lihzahrd Candle","Vela lihzahrd","Bougie en lihzahrd","Candela rettiliana","Свеча ящщеров","丛林蜥蜴蜡烛","丛林蜥蜴蜡烛","Vela de Lagharto","Lihzahrdkerze","Jaszczuhrza świeca"
-"ItemName.LihzahrdChair","Lihzahrd Chair","Silla de lihzahrd","Chaise en lihzahrd","Sedia rettiliana","Стул ящщеров","丛林蜥蜴椅","丛林蜥蜴椅","Cadeira Lagharto","Lihzahrdstuhl","Jaszczuhrze krzesło"
-"ItemName.LihzahrdChandelier","Lihzahrd Chandelier","Lámpara araña lihzahrd","Chandelier en lihzahrd","Lampadario rettiliano","Люстра ящщеров","丛林蜥蜴吊灯","丛林蜥蜴吊灯","Lustre de Lagharto","Lihzahrdkronleuchter","Jaszczuhrzy żyrandol"
-"ItemName.LihzahrdChest","Lihzahrd Chest","Cofre de lihzahrd","Coffre en lihzahrd","Cassa rettiliana","Сундук ящщеров","丛林蜥蜴箱","丛林蜥蜴箱","Baú Lagharto","Lihzahrdtruhe","Jaszczuhrzy kufer"
-"ItemName.LihzahrdClock","Lihzahrd Clock","Reloj de lihzahrd","Horloge en lihzahrd","Orologio rettiliano","Часы ящщеров","丛林蜥蜴时钟","丛林蜥蜴时钟","Relógio de Lagharto","Lihzahrduhr","Jaszczuhrzy zegar"
-"ItemName.LihzahrdDoor","Lihzahrd Door","Puerta de lihzahrd","Porte en lihzahrd","Porta rettiliana","Дверь ящщеров","丛林蜥蜴门","丛林蜥蜴门","Porta Lagharto","Lihzahrdtür","Jaszczuhrze drzwi"
-"ItemName.LihzahrdDresser","Lihzahrd Dresser","Aparador de lihzahrd","Commode en lihzahrd","Cassettone rettiliano","Комод ящщеров","丛林蜥蜴梳妆台","丛林蜥蜴梳妆台","Cômoda de Lagharto","Lihzahrdkommode","Jaszczuhrza komoda"
-"ItemName.LihzahrdFurnace","Lihzahrd Furnace","Muebles de lihzahrd","Four de lihzahrd","Fornace rettiliana","Печь ящщеров","丛林蜥蜴熔炉","丛林蜥蜴熔炉","Fornalha de Lagharto","Lihzahrd-Schmelzofen","Jaszczuhrzy piec"
-"ItemName.LihzahrdGuardianStatue","Lihzahrd Guardian Statue","Estatua de guardián lihzahrd","Statue de gardien en lihzahrd","Statua di guardiano rettiliano","Статуя охранника ящщеров","丛林蜥蜴守卫雕像","丛林蜥蜴守卫雕像","Estátua do Guardião Lagharto","Lihzahrd-Wächter-Statue","Jaszczuhrzy posąg strażnika"
-"ItemName.LihzahrdLamp","Lihzahrd Lamp","Farola lihzahrd","Lampe en lihzahrd","Lampada rettiliana","Лампа ящщеров","丛林蜥蜴灯","丛林蜥蜴灯","Lâmpada de Lagharto","Lihzahrdlampe","Jaszczuhrza lampa"
-"ItemName.LihzahrdLantern","Lihzahrd Lantern","Linterna lihzahrd","Lanterne en lihzahrd","Lanterna rettiliana","Фонарь ящеров","丛林蜥蜴灯笼","丛林蜥蜴灯笼","Lanterna Lagharto","Lihzahrdlaterne","Jaszczuhrzy lampion"
-"ItemName.LihzahrdPiano","Lihzahrd Piano","Piano de lihzahrd","Piano en lihzahrd","Pianoforte rettiliano","Пианино ящщеров","丛林蜥蜴钢琴","丛林蜥蜴钢琴","Piano de Lagharto","Lihzahrdklavier","Jaszczuhrze pianino"
-"ItemName.LihzahrdPlatform","Lihzahrd Platform","Plataforma de lihzahrd","Plateforme de lihzahrd","Piattaforma rettiliana","Платформа ящщеров","丛林蜥蜴平台","丛林蜥蜴平台","Plataforma de Lagharto","Lihzahrd-Klappe","Jaszczuhrza platforma"
 
-
-"ItemName.LihzahrdSink","Lihzahrd Sink","Fregadero lihzahrd","Évier en lihzahrd","Lavabo rettiliano","Раковина ящщеров","丛林蜥蜴水槽","丛林蜥蜴水槽","Pia de Lagharto","Lihzahrdwaschbecken","Jaszczuhrza umywalka"
-"ItemName.LihzahrdSofa","Lihzahrd Sofa","Sofá lihzahrd","Canapé en lihzahrd","Divano rettiliano","Диван ящщеров","丛林蜥蜴沙发","丛林蜥蜴沙发","Sofá de Lagharto","Lihzahrdsofa","Jaszczuhrza kanapa"
-"ItemName.LihzahrdStatue","Lihzahrd Statue","Estatua de lihzahrd","Statue en lihzahrd","Statua rettiliana","Статуя ящщеров","丛林蜥蜴雕像","丛林蜥蜴雕像","Estátua Lagharto","Lihzahrdstatue","Jaszczuhrzy posąg"
-"ItemName.LihzahrdTable","Lihzahrd Table","Mesa de lihzahrd","Table en lihzahrd","Tavolo rettiliano","Стол ящщеров","丛林蜥蜴桌","丛林蜥蜴桌","Mesa Lagharto","Lihzahrdtisch","Jaszczuhrzy stół"
-"ItemName.LihzahrdWatcherStatue","Lihzahrd Watcher Statue","Estatua de vigilante lihzahrd","Statue d'observateur en lihzahrd","Statua di sorvegliante rettiliano","Статуя наблюдателя ящщеров","丛林蜥蜴看守人雕像","丛林蜥蜴看守人雕像","Estátua do Observador Lagharto","Lihzahrd-Beobachterstatue","Jaszczuhrzy posąg obserwatora"
-"ItemName.LihzahrdWorkBench","Lihzahrd Work Bench","Banco de trabajo de lihzahrd","Établi en lihzahrd","Banco da lavoro rettiliano","Верстак ящщеров","丛林蜥蜴工作台","丛林蜥蜴工作台","Bancada de Trabalho Lagharto","Lihzahrdwerkbank","Jaszczuhrzy stół warsztatowy"
 "ItemName.LimeandBlackDye","Lime and Black Dye","Tinte verde lima y negro","Teinture vert citron et noir","Tintura limetta e nera","Лаймовый и черный краситель","橙绿黑染料","橙绿黑染料","Tintura Verde-limão e Preta","Limettengrüner und Schwarzer Farbstoff","Limonkowo-czarny barwnik"
 "ItemName.LimeandSilverDye","Lime and Silver Dye","Tinte verde lima y plateado","Teinture vert citron et argenté","Tintura limetta e argento","Лаймовый и серебристый краситель","橙绿银染料","橙绿银染料","Tintura Verde-limão e Prata","Limettengrüner und Silberner Farbstoff","Limonkowo-srebrny barwnik"
 "ItemName.LimeDye","Lime Dye","Tinte verde lima","Teinture citron vert","Tintura limetta","Лаймовый краситель","橙绿染料","橙绿染料","Tintura Verde-limão","Limettengrüner Farbstoff","Limonkowy barwnik"
@@ -8601,7 +8575,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.ToiletGranite","Granite Toilet","Retrete de granito","Toilettes en granite","Toilette di granito","Гранитный унитаз","花岗岩马桶","花岗岩马桶","Privada de Granito","Granittoilette","Granitowa toaleta"
 
 "ItemName.ToiletLesion","Lesion Toilet","Retrete de lesión","Toilettes de plaie","Toilette lesione","Больной унитаз","损伤马桶","损伤马桶","Privada da Lesão","Läsionstoilette","Toaleta lezji"
-"ItemName.ToiletLihzhard","Lihzahrd Toilet","Retrete de lihzahrd","Toilettes de Lihzhard","Toilette rettiliana","Унитаз ящщеров","丛林蜥蜴马桶","丛林蜥蜴马桶","Privada Lagharta","Lihzardtoilette","Jaszczuhrza toaleta"
+
 "ItemName.ToiletLivingWood","Living Wood Toilet","Retrete de madera viviente","Toilettes de bois vivant","Toilette di legno vivo","Унитаз из живой древесины","生命木马桶","生命木马桶","Privada de Madeira Viva","Lebendes-Holz-Toilette","Toaleta z żyjącego drewna"
 "ItemName.ToiletMarble","Marble Toilet","Retrete de mármol","Toilettes en marbre","Toilette di marmo","Мраморный унитаз","大理石马桶","大理石马桶","Privada de Mármore","Marmortoilette","Marmurowa toaleta"
 "ItemName.ToiletMartian","Martian Toilet","Retrete marciano","Toilettes martiennes","Toilette marziana","Марсианский унитаз","火星马桶","火星马桶","Privada Marciana","Marsianertoilette","Marsjańska toaleta"
@@ -12843,8 +12817,6 @@ Um 8% erhöhtes Bewegungstempo","Pozwala latać oraz superszybko biegać
 8% zwiększona szybkość poruszania się"
 "ItemTooltip.LightningCarrot","Summons a volt bunny","Invoca a un conejo voltaico","Invoque un lapin volt","Evoca un coniglio elettrico","Призывает электрокролика","召唤伏特兔","召唤伏特兔","Invoca um coelhinho pilhado","Beschwört ein Volthäschen","Przywołuje króliczka Wolta"
 "ItemTooltip.LightShard","'Sometimes carried by creatures in light deserts'","A veces lo llevan las criaturas de los desiertos de luz","Parfois, des créatures en portent dans les déserts de lumière","A volte portato dalle creature nei deserti di luce","Иногда бывает у существ в пустынях света","“光明沙漠中的生物有时会携带”","“光明沙漠中的生物有时会携带”","Às vezes é encontrado com criaturas em desertos de luz","‚Werden mitunter von Kreaturen in Lichtwüsten getragen‘","„Czasami mają go stworzenia z pustyń światła”"
-
-"ItemTooltip.LihzahrdFurnace","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}","{$CommonItemTooltip.SpecialCrafting}"
 
 
 "ItemTooltip.LihzahrdWorkBench","Used for basic crafting","Se usa para creaciones básicas","Utilisé pour l'artisanat de base","Si usa per la creazione di base","Используется в базовых рецептах","用于基础制作","用于基础制作","Serve para criação básica","Wird zur einfachen Herstellung verwendet","Używany do tworzenia podstawowych przedmiotów"

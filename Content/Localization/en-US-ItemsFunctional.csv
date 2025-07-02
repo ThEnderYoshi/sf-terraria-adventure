@@ -67,6 +67,10 @@ ItemName.CockatielStatue,{$NPCName.YellowCockatiel} Stanstue
 
 ItemName.AngelStatue,Sansgel Stanstue
 
+ItemName.LihzahrdStatue,Loogie Vat
+ItemName.LihzahrdGuardianStatue,Bursting Vat
+ItemName.LihzahrdWatcherStatue,Gohst Vat
+
 
 #[ fountains ],<<-|----------------------------------------------|->>
 

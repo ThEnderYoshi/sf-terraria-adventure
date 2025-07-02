@@ -23,15 +23,15 @@ or already have some content done for it.
 
 As the name implies, this is the update that re-textures the Jungle biome.
 
-The theme for this update was beloved and/or beloathed Sans Fanfic location
-Toriel's House!
+The theme for this update was beloved and/or beloathed
+<span style="color:red">Sans Fanfic Proper</span> location Toriel's House!
 
 ### Added
 
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
-  Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey
+  Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey, Lihzahrd Brick
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo, Chlorophyte,
-  Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone
+  Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone, Lihzahrd Brick
 - _Ores:_ Chlorophyte
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
@@ -62,16 +62,16 @@ Toriel's House!
 - Stinger
 - Bee Wax
 - Jungle Spores
-- Jungle rubble
+- Jungle + Lihzahrd rubble (only natural versions)
 
 #### Furniture
 
-- _Sets:_ Rich Mahogany, Bamboo, Honey
+- _Sets:_ Rich Mahogany, Bamboo, Honey, Lihzahrd
 - All Jungle critter cages + statues
 - Jungle Torch
 - Ivy Chest
 - Jungle Water Fountain
-- All Lihzahrd Traps
+- All Lihzahrd Traps + statues
 
 #### Bosses
 
@@ -105,7 +105,7 @@ Toriel's House!
 #### Armors
 
 > [!IMPORTANT]
-> Only item sprites are included; must equipped armor GFX will not be part of
+> Only item sprites are included; most equipped armor GFX will not be part of
 > the pack for a good while.
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,

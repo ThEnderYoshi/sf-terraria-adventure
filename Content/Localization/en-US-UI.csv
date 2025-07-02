@@ -395,7 +395,10 @@ Workshop.Publish,[ U N L E A S H ]
 #[ workshop : descriptions ],<<-|--------------------------------|->>
 
 
-Workshop.HubDescriptionDefault,"[c/ff0000:PREPARE YOU'RE POSTERIOR]"
+Workshop.HubDescriptionDefault,"[c/ff0000:PREPARE YOU'RE POSTERIOR]
+
+Warning: Full of spoilers for Undertale and Deltarune (and lots of other stuff too)!"
+
 Workshop.HubDescriptionPublishResourcePacks,"Why would you publish a Resource Pack? You don't need anything other than Sans Fanfic: Terraria Adventure."
 Workshop.HubDescriptionPublishWorlds,"Publish your [ B I G   S A N S ] and have it spread across the galaxy."
 Workshop.HubDescriptionUseResourcePacks,"Just in case you forgot to enable Sans Fanfic: Terraria Adventure."

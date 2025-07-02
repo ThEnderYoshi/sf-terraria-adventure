@@ -5,9 +5,9 @@
 
 # ![Sans Fanfic: Terraria Adventure](.github/images/gh-logo.png)
 
-Sans Fanfic: Terraria Adventure (SFTA) is a [_Terraria_] [Resource Pack] that
-aims to change _**every single**_ asset in the game
-to be themed around [_Sans Fanfic_].
+<span style="color:red">Sans Fanfic</span>: Terraria Adventure (SFTA) is a
+[_Terraria_] [Resource Pack] that aims to change _**every single**_ asset in the
+game to be themed around <span style="color:red">[_Sans Fanfic_]</span>.
 
 That mainly includes the game's
 **<!--#region img_count-->13,594<!--#endregion-->** images and
@@ -48,16 +48,16 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2025-04-15 UTC_
+> Last updated: _2025-07-02 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
 | Total        | ![13%](https://geps.dev/progress/13) |
-| Update       | ![79%](https://geps.dev/progress/79) |
-| Images       | 1,799 / 13,594                       |
-| Text Entries | 4,111 / 18,288                       |
+| Update       | ![83%](https://geps.dev/progress/83) |
+| Images       | 1,831 / 13,594                       |
+| Text Entries | 4,139 / 18,288                       |
 | Songs        | 23 / 91                              |
-| Sounds       | 55 / 765                             |
+| Sounds       | 57 / 765                             |
 <!--#endregion-->
 
 ## ![questions & answers](.github/images/icon-other.png)
@@ -82,8 +82,9 @@ But I'm not sure it'll be made public.
 
 If you have any more questions, send me an ask...
 
-- [here](sans-fanfic.tumblr.com/ask) for questions related to _Sans Fanfic_.
-- [here](tey-dev.tumblr.com/ask) for questions related to development.
+- [here for questions related to
+  <span style="color:red">_Sans Fanfic_</span>](sans-fanfic.tumblr.com/ask).
+- [here for questions related to development](tey-dev.tumblr.com/ask).
 
 ---
 
