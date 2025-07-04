@@ -48,14 +48,14 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2025-07-02 UTC_
+> Last updated: _2025-07-04 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
 | Total        | ![13%](https://geps.dev/progress/13) |
 | Update       | ![83%](https://geps.dev/progress/83) |
-| Images       | 1,831 / 13,594                       |
-| Text Entries | 4,139 / 18,288                       |
+| Images       | 1,832 / 13,594                       |
+| Text Entries | 4,142 / 18,288                       |
 | Songs        | 23 / 91                              |
 | Sounds       | 57 / 765                             |
 <!--#endregion-->

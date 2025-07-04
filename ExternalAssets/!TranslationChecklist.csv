@@ -3605,7 +3605,7 @@ Naciśnij W GÓRĘ, by wyłączyć latanie"
 
 "EmojiName.DebuffBurn","burn","quemadura","brulure","bruciatura","ожог","燃烧","燃烧","queimando","brand","podpalenie"
 "EmojiName.DebuffCurse","curse","maldición","malediction","maledizione","проклятие","诅咒","诅咒","amaldicoado","fluch","klątwa"
-"EmojiName.DebuffPoison","poison","veneno","poison","veleno","яд","毒药","毒药","veneno","gift","zatrucie"
+
 "EmojiName.DebuffSilence","silent","silencio","silencieux","silenzioso","немота","寂静","寂静","silencioso","stumm","uciszenie"
 "EmojiName.EmoteAnger","mad","enfado","fou","pazzo","безумие","气愤","气愤","bravo","wütend","szaleństwo"
 "EmojiName.EmoteConfused","confused","confusión","confus","confuso","запутанность","困惑","困惑","confuso","verwirrt","dezorientacja"
@@ -3642,8 +3642,8 @@ Naciśnij W GÓRĘ, by wyłączyć latanie"
 
 "EmojiName.ItemDiamondRing","diamondring","anillodediamante","anneauendiamant","anellocondiamante","кольцо с алмазом","钻石戒指","钻石戒指","aneldiamante","diamantring","pierścieńzdiamentem"
 "EmojiName.ItemDynamite","dynamite","dinamita","dynamite","dinamite","динамит","雷管","雷管","dinamite","dynamit","dynamit"
-"EmojiName.ItemFishingRod","fishingrod","cañadepescar","canneapeche","cannadapesca","удочка","钓竿","钓竿","varadepescar","angelrute","wędka"
-"EmojiName.ItemGoldpile","goldpile","montóndeoro","piledor","piladoro","гора золота","金币堆","金币堆","pilhadeouro","goldhaufen","stoszłota"
+
+
 "EmojiName.ItemLifePotion","lifepotion","pocióndevida","potiondevie","pozionevitale","зелье жизни","生命药水","生命药水","pocaovida","lebenstrank","miksturażycia"
 "EmojiName.ItemManaPotion","manapotion","pocióndemaná","potiondemana","pozionedimana","зелье маны","魔力药水","魔力药水","pocaomana","manatrank","miksturamany"
 "EmojiName.ItemMinishark","minishark","minitiburón","minirequin","minisqualo","мини-акула","迷你鲨","迷你鲨","minitubarao","minihai","minirekin"
@@ -3698,7 +3698,7 @@ Naciśnij W GÓRĘ, by wyłączyć latanie"
 "EmojiName.WeatherRain","rain","lluvia","pluie","pioggia","дождь","下雨","下雨","chuva","regen","deszcz"
 "EmojiName.WeatherRainbow","rainbow","arcoíris","arcenciel","arcobaleno","радуга","彩虹","彩虹","arcoiris","regenbogen","tęcza"
 "EmojiName.WeatherSnowstorm","blizzard","ventisca","blizzard","bufera","снежная буря","暴雪","暴雪","nevasca","schneesturm","zamieć"
-"EmojiName.WeatherStorming","storming","tormenta","orage","tempesta","шторм","暴风雨","暴风雨","tempestade","sturm","burzowo"
+
 "EmojiName.WeatherSunny","sunny","soleado","ensoleillé","soleggiato","солнечно","晴朗","晴朗","ensolarado","sonnig","słonecznie"
 "Enemies.MoonLord","Moon Lord","Señor de la Luna","Seigneur de la lune","Signore della Luna","Лунный лорд","月亮领主","月亮领主","Senhor da Lua","Mondherr","Księżycowy Władca"
 "Enemies.TheTwins","The Twins","Los Gemelos","Les Jumeaux","Gemelli","Близнецы","双子魔眼","双子魔眼","Os Gêmeos","Die Zwillinge","Bliźnięta"

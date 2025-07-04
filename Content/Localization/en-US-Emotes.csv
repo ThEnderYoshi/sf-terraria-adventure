@@ -55,10 +55,18 @@ EmojiName.CritterSkeleton,lostsans
 EmojiName.CritterZombie,aggrosans
 
 
+#[ debuffs ],<<-|------------------------------------------------|->>
+
+
+EmojiName.DebuffPoison,spookd
+
+
 #[ items ],<<-|--------------------------------------------------|->>
 
 
 EmojiName.ItemDefenderMedal,luigium
+EmojiName.ItemFishingRod,paracatcher
+EmojiName.ItemGoldpile,bux
 
 
 #[ town npcs ],<<-|----------------------------------------------|->>
@@ -75,3 +83,9 @@ EmojiName.TownMechanic,gaster
 EmojiName.TownMerchant,koridai
 EmojiName.TownNurse,medic
 EmojiName.TownPainter,ink
+
+
+#[ weather ],<<-|------------------------------------------------|->>
+
+
+EmojiName.WeatherStorming,darkfountain
