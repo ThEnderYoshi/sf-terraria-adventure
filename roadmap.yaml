@@ -18,7 +18,6 @@
 - <remaining rich mahogany recipes>:
     - Armor
     - <see rest>
-- Turtle Armor
 - <statues for all current enemies>
 - Bramble Crate # Waiting on Temple
 - Witch Doctor: # Waiting on Temple
@@ -27,12 +26,11 @@
     - Dialog
     - Sold items/drops
     - Emote
-- Heat Ray # + Dust 162
 - Poison Dart
 - Imbuing Station # Waiting on Witch Doctor
 - Flask of Poison # Waiting on Imbuing Station
-- <jungle-related kites>
 - <all sounds relevant to the jungle>
+- Bee larva gores # 300-301
 - Nature's Gift
 - Lizard King Painting
 - Mudstone Bricks
@@ -50,6 +48,9 @@
 - DSTNoise.png
 - Radio Thing
 - Froggle Bunwich
+
+# For later - BEFORE THE UPDATE WITH THE GOBLINS
+- Goblin gores # Idk look at the wiki fuck you
 
 # For later - BEFORE THE UPDATE WITH THE OLD ONE'S ARMY
 - Keg
@@ -139,6 +140,7 @@
     - LegacyDialog.251            # Party girl dialog
 - Potted Hallow Trees
 - reconsider: Slimer # NPC 121
+- BoC gores # 396-402
 - <look at evil biome-related dryad shop items>
 
 # For later - BEFORE DUNGEON UPDATE RELEASES
