@@ -140,6 +140,29 @@ ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% MLE AT]
 ArmorSetBonus.Turtle,"Attackers cut themselves on the plating's sharp corners
 [c/ff0000:+15% AT Red.]"
 
+#comment,Beetle
+
+ItemName.BeetleHelmet,Gooigium Slime n' Cap
+ItemName.BeetleScaleMail,Gooigium Cloggin' Overalls
+ItemName.BeetleShell,Gooigium Gohstin' Disguise
+ItemName.BeetleLeggings,Gooigium Slitherin' Boots
+
+ItemTooltip.BeetleHelmet,"[c/ff0000:+8% MLE AT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.BeetleScaleMail,"[c/ff0000:+8% MLE AT]
+[c/ff0000:+8% MLE CRIT]
+[c/ff0000:+6% move spans]
+[c/ff0000:+6% MLE spans]"
+ItemTooltip.BeetleShell,"[c/ff0000:+5% MLE AT]
+[c/ff0000:+5% MLE CRIT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.BeetleLeggings,"[c/ff0000:+6% move spans]
+[c/ff0000:+6% MLE spans]
+[c/ff0000:AGGR ↗]"
+
+ArmorSetBonus.BeetleDamage,"Googies increase MLE AT and SPD"
+ArmorSetBonus.BeetleDefense,"Googies protect their leader from sans AT"
+
 
 #[ misc. ],<<-|--------------------------------------------------|->>
 

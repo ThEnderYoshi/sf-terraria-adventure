@@ -60,6 +60,11 @@ ItemName.ChlorophyteJackhammer,Horned Pwner
 #[ diggers : mixed ],<<-|----------------------------------------|->>
 
 
+ItemName.Picksaw,Fluoroantimonic Acid
+ItemTooltip.Picksaw,"Capable of dissolving pretty much anything
+'Originally used to dispose of G-00 samples.
+For the love of GOD don't let this touch your hands. Or water. Or heat. Or most things, really'"
+
 ItemName.MeteorHamaxe,Planetarium Sansmmaxe
 ItemName.MoltenHamaxe,BraveHamax
 

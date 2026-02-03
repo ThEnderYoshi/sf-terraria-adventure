@@ -22,7 +22,7 @@ ItemTooltip.HerculesBeetle,"[c/ff0000:+15% SMN AT]
 
 ItemName.LeafWings,Artificial Loominal 'Stache
 ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}
-'Articial enhancements cause this
+'Artificial enhancements cause this
 'stache to be severely powered up'"
 
 ItemName.BeeWings,Flighty Leaf
@@ -32,6 +32,11 @@ ItemTooltip.BeeWings,"{$CommonItemTooltip.FlightAndSlowfall}
 ItemName.ButterflyWings,Flighty Feather
 ItemTooltip.ButterflyWings,"{$CommonItemTooltip.FlightAndSlowfall}
 'Legends speak of the feather - the most powerful powerup'"
+
+ItemName.BeetleWings,Gooigium Goostache
+ItemTooltip.BeetleWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'Enhanced to it actually flies
+instead of sticking to walls'"
 
 #comment,Not completely removing this because the idea is neat.
 # ItemName.LeafWings,Ruined Cape
@@ -119,3 +124,14 @@ ItemTooltip.DestroyerEmblem,"[c/ff0000:+10% AT]"
 ItemName.FlowerBoots,Sans Slipper
 ItemTooltip.FlowerBoots,"Thymes grow on the sans you walk on
 'As in made out of sans. Not to be confused with Sans' Slipper'"
+
+ItemName.ShinyStone,Assimilation Core
+ItemTooltip.ShinyStone,"While standing still: [c/00ff7f:HP Regen ↗↗↗]
+'Thats [ B I G   L U I G I ] to you, Mario!'"
+
+ItemName.SunStone,Flush Stans (stone sans)
+ItemTooltip.SunStone,"Sansproves a bunch of stuff if you make someone blush"
+
+ItemName.EyeoftheGolem,Nice of the GOOGI
+ItemTooltip.EyeoftheGolem,"[c/ff0000:+10% CRIT]
+'Nice as in, the plural of nouse'"

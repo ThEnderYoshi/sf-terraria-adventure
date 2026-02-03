@@ -10,7 +10,7 @@
 game to be themed around <span style="color:red">[_Sans Fanfic_]</span>.
 
 That mainly includes the game's
-**<!--#region img_count-->13,594<!--#endregion-->** images and
+**<!--#region img_count-->13,595<!--#endregion-->** images and
 **<!--#region txt_count-->18,288<!--#endregion-->** text entries. See the
 `Status` section below for the current progress.
 
@@ -48,16 +48,16 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2025-07-04 UTC_
+> Last updated: _2026-02-02 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
-| Total        | ![13%](https://geps.dev/progress/13) |
-| Update       | ![83%](https://geps.dev/progress/83) |
-| Images       | 1,832 / 13,594                       |
-| Text Entries | 4,142 / 18,288                       |
-| Songs        | 23 / 91                              |
-| Sounds       | 57 / 765                             |
+| Total        | ![14%](https://geps.dev/progress/14) |
+| Update       | ![90%](https://geps.dev/progress/90) |
+| Images       | 1,908 / 13,595                       |
+| Text Entries | 4,220 / 18,288                       |
+| Songs        | 24 / 91                              |
+| Sounds       | 60 / 765                             |
 <!--#endregion-->
 
 ## ![questions & answers](.github/images/icon-other.png)
@@ -68,15 +68,12 @@ thats a good question megaman
 
 ### "Where is the player model?"
 
-While the actual `Player_*` sprites are complete,
-most of the hair, armor, accessories, etc. are not.
+While the actual `Player_*` sprites are complete, most of the hair, armor,
+accessories, etc. are not. This means the visuals really clash, so the player
+model will only be brought to the main pack when most of its sprites are done.
 
-Due to this, the visuals really clash.
-So the player model will only be brought to the main pack
-when most of its sprites are done.
-
-Currently, the player model is in a separate Resource Pack.
-But I'm not sure it'll be made public.
+Currently, the player model is in a separate Resource Pack, but I'm not sure
+it'll be made public.
 
 ---
 

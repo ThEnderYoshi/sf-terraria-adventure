@@ -18,13 +18,23 @@ DeathText.Poisoned,"{0} was simply too scared."
 #[ world ],<<-|--------------------------------------------------|->>
 
 
+DeathText.Fell_1,"{0} underfell."
+DeathText.Fell_2,"{0} has fallen and can't get up."
+
 DeathText.Lava_1,"{0} succumbed to the dark'ness."
 DeathText.Lava_2,"{0} is about to write Entry 17."
 DeathText.Lava_3,"{0} became dark, darker, yet darker."
 DeathText.Lava_4,"{0} just met Dess."
 
 
+#[ generic ],<<-|------------------------------------------------|->>
+
+
+DeathTextGeneric.ArmTornOff,"{0} was added to my cringe compilation"
+DeathTextGeneric.Chopped,"{0} had a total misplay"
+
+
 #[ misc. ],<<-|--------------------------------------------------|->>
 
 
-DeathText.Default,"{0}!"
+DeathText.Default,"{0} ! !"

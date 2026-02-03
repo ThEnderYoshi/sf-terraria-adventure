@@ -124,6 +124,9 @@ BuffDescription.PetSapling,"It's plotting a scheme to make your day worse"
 BuffName.PetLizard,[c/ffc700:Decaff Googi]
 BuffDescription.PetLizard,"May or may not be plotting to assimilate you into GOOGI"
 
+BuffName.GolemPet,[c/ffc700:GOOGI Sprout]
+BuffDescription.GolemPet,"Definitely plotting to assimilate you into GOOGI"
+
 
 #[ mounts ],<<-|-------------------------------------------------|->>
 
@@ -143,7 +146,12 @@ BuffDescription.MinecartRightWood,"{$BuffDescription.MinecartLeftWood}"
 BuffName.BeeMinecartLeft,"{$ItemName.BeeMinecart}"
 BuffName.BeeMinecartRight,"{$ItemName.BeeMinecart}"
 BuffDescription.BeeMinecartLeft,"{$BuffDescription.MinecartLeftWood}"
-BuffDescription.BeeMinecartRight,"{$BuffDescription.MinecartLeftWood}"
+BuffDescription.BeeMinecartRight,"{$BuffDescription.MinecartRightWood}"
+
+BuffName.BeetleMinecartLeft,"{$ItemName.BeetleMinecart}"
+BuffName.BeetleMinecartRight,"{$ItemName.BeetleMinecart}"
+BuffDescription.BeetleMinecartLeft,"{$BuffDescription.MinecartLeftWood}"
+BuffDescription.BeetleMinecartRight,"{$BuffDescription.MinecartRightWood}"
 
 
 #[ armor set bonuses ],<<-|--------------------------------------|->>
@@ -151,3 +159,16 @@ BuffDescription.BeeMinecartRight,"{$BuffDescription.MinecartLeftWood}"
 
 BuffName.LeafCrystal,Sansjak
 BuffDescription.LeafCrystal,"This was going to be something called a 'MOTHERSPIRIT', but I couldn't resist doing this instead I'm REALLY sorry"
+
+BuffName.BeetleEndurance1,Gooey Hide
+BuffName.BeetleEndurance2,Gooey Hide
+BuffName.BeetleEndurance3,Gooey Hide
+BuffName.BeetleMight1,Gooey Growth
+BuffName.BeetleMight2,Gooey Growth
+BuffName.BeetleMight3,Gooey Growth
+BuffDescription.BeetleEndurance1,"-15% sans AT"
+BuffDescription.BeetleEndurance2,"-30% sans AT"
+BuffDescription.BeetleEndurance3,"-45% sans AT"
+BuffDescription.BeetleMight1,"+10% MLE & move spans"
+BuffDescription.BeetleMight2,"+20% MLE & move spans"
+BuffDescription.BeetleMight3,"+30% MLE & move spans"

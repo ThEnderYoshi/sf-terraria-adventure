@@ -81,6 +81,7 @@ The theme for this update was beloved and/or beloathed
 
 - Queen Bee
 - Plantera
+- Golem
 
 #### NPCs
 
@@ -106,10 +107,12 @@ The theme for this update was beloved and/or beloathed
 
 > [!IMPORTANT]
 > Only item sprites are included; most equipped armor GFX will not be part of
-> the pack for a good while.
+> the pack for a good while. (see
+> [FAQ: "where is the player model"](./README.md#where-is-the-player-model) for
+> more info)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte
+  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte, Beetle
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
   Queen Bee Mask, Bee Set, Plantera Mask
 
@@ -117,23 +120,24 @@ The theme for this update was beloved and/or beloathed
 
 - _Yoyos:_ Amazon, Yelets, Hive-Five
 - _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore, Seedler
-- _Boomerangs:_ Thorn Chakram
+- _Boomerangs:_ Thorn Chakram, Possessed Hatchet
 - _Spears:_ Chlorophyte Partisan
 - _Maces:_ Flower Pow
+- _Flails:_ Golem Fist
 - _Bows:_ The Bee's Knees, Chlorophyte Shotbow
 - _Arrows:_ Chlorophyte
-- _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum
+- _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum, Stynger (+ Bolts)
 - _Launchers:_ Grenade Launcher
 - _Rockets:_ Grenade forms of all rockets
 - _Bullets:_ Chlorophyte
-- _Staves:_ Nettle Burst
-- _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun
+- _Staves:_ Nettle Burst, Staff of Earth
+- _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun, Heat Ray
 - _Minions:_ Hornet Staff, Pigmy Staff
 - _Whips:_ Leather, Snapthorn
 
 #### Tools
 
-- _Picks:_ Chlorophyte Pickaxe + Drill
+- _Picks:_ Chlorophyte Pickaxe + Drill, Picksaw
 - _Axes:_ Chlorophyte Greataxe + Chainsaw, Axe of Regrowth, The Axe
 - _Hammer:_ Chlorophyte Warhammer + Jackhammer
 - _Fishing Poles:_ Wooden, Fiberglass
@@ -148,14 +152,14 @@ The theme for this update was beloved and/or beloathed
 - _Summoner:_ Hercules Beetle
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
-- _Wings:_ Leaf, Bee, Moth
+- _Wings:_ Leaf, Bee, Moth, Beetle
 - _Pets:_ Tiki Totem, Nectar, Sparkling Honey, Seaweed, Mud Bud, Seedling,
-  Plantera Seedling
+  Plantera Seedling, Guardian Golem
 - _Hooks:_ Ivy Whip, Thorn Hook
-- _Minecarts:_ Wooden, Bee
+- _Minecarts:_ Wooden, Bee, Beetle
 - _Movement:_ Anklet of the Wind
-- _Expert:_ Hive Pack, Spore Sac
-- _Other:_ Flower Boots
+- _Expert:_ Hive Pack, Spore Sac, Shiny Stone
+- _Other:_ Flower Boots, Sun Stone, Eye of the Golem
 
 ### Changed
 
@@ -164,6 +168,7 @@ The theme for this update was beloved and/or beloathed
 - Buckets are now jugs instead of capsules.
 - Bottles are now for condiments instead of being sans-shaped.
 - Minor tweaks to Fancy UI, bubbles and the star cursor.
+- Freed up the Wandering Eye
 - _(tool):_ Replaced `pack_diagnostic` with an unfinished version
   of TPack Toolbox.
 

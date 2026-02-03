@@ -793,6 +793,7 @@ Item_1445 48x48
 Gore_296 22x18
 Item_4469 34x22
 Buff_127 32x32
+Buff_375 32x32
 Item_265 14x32
 Gore_639 28x24
 Item_4947 36x50

@@ -305,6 +305,7 @@ ItemName.Vine,Dingbat
 ItemName.JungleSpores,Ripe Wallpaper Mold
 ItemName.TatteredBeeWing,Crushed Leaf
 ItemName.ButterflyDust,Broken Feather
+ItemName.BeetleHusk,G-00 Applicator
 
 
 #[ materials : hallow ],<<-|-------------------------------------|->>
@@ -464,6 +465,7 @@ ItemTooltip.LizardEgg,"Sansmmons a decaffeinated Googi"
 
 
 ItemName.BeeMinecart,Ghostchrap
+ItemName.BeetleMinecart,Gooicrap
 
 
 #[ grappling hooks ],<<-|----------------------------------------|->>

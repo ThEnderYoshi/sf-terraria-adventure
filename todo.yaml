@@ -3,8 +3,6 @@
 important:
   BEFORE UPDATE 2 RELEASES:
     - Add statues for all current enemies.
-    - Add Bramble Crate. (waiting on Temple)
-    - Add Witch Doctor. (waiting on Temple)
     - Add Wandering Eye gores.
   BEFORE DST UPDATE RELEASES:
     - Check out DSTNoise.png ;)
@@ -39,10 +37,10 @@ future ideas:
 
 long-term notes:
   - Pressure plates are LEGO bricks strewn throughout the floor.
-  - Buffs should depict bad/unpleasant things.
-  - Debuffs should depict good things.
+  - Buffs should depict bad/unpleasant things. # Exceptions apply
+  - Debuffs should depict good things.         # Exceptions apply
   - Spiders are flowey themed.
-  - Move ItemName.DestroyedEmblem out of en-US-Bosses.csv
+  - Move ItemName.DestroyedEmblem [sic] out of en-US-Bosses.csv
   - Potions are condiments.
   - Foods are slippers.
   - Fishes are (happy) worms (parasites).
@@ -199,14 +197,14 @@ reconsider:
   <other>:
     - Achievement UI assets
 broken:
-  # None!
+  - 'Extra_181.png' # Pylon crystals. Broke in 1.4.5
 image sets:
   Daybreak:
     - Missing explosion sprite.
   Flaming Mace:
     - Chain textures scrungled.
   The Rotted Fork:
-    - Missing shockwave sprite.
+    - Missing shockwave sprite. # Shockwave probably added by other spears too.
   King Slime:
     - <check for related items, etc.>
   EoC:
@@ -215,6 +213,7 @@ image sets:
     - Add Chippy's Couch.
     - <check for related items, etc.>
   WoF:
+    - Fix WallOfFlesh.png
     - <check for related items, etc.>
   Shadowflame Apparition:
     - Missing glow sprite.
@@ -238,10 +237,11 @@ image sets:
 music notes:
   Boss 1:
     - Intro is repeated at the end, breaking the loop.
-  Title:
-    - Lower volume so it better matches the rest of the soundtrack.
+  <tba>:
+    - Check music that broke/was replaced in 1.4.5
 tools:
   TPack Toolbox:
+    - Add the GUI for the `jigsaw` tool.
     - Restore the `build` tool.
     - Make the `build` tool optimize files where possible.
     - Make the multithreading better.

@@ -6,6 +6,7 @@ Key,Translation
 
 ProjectileName.Flamelash,Burning Ice
 ProjectileName.GreenLaser,Solar Beam
+ProjectileName.BoulderStaffOfEarth,Ballgi (ball loogi)
 ProjectileName.VilethornBase,""Rocket"" Clam
 ProjectileName.VilethornTip,""Rocket"" Clam
 ProjectileName.WandOfSparkingSpark,Fabulous Spark
@@ -15,6 +16,8 @@ ProjectileName.GiantBee,Ghst
 ProjectileName.BeeArrow,Gsts
 ProjectileName.Wasp,Chckn
 
+ProjectileName.Leaf,Finger Gun
+ProjectileName.HeatRay,Pingor Gun
 
 #[ friendly : melee ],<<-|---------------------------------------|->>
 
@@ -22,6 +25,7 @@ ProjectileName.Wasp,Chckn
 ProjectileName.WoodenBoomerang,Thyme Leaf Scarf
 ProjectileName.ThornChakram,Epsilon
 ProjectileName.Flamarang,Ragger
+ProjectileName.PossessedHatchet,Overall Strap
 
 ProjectileName.Mace,Sansce
 ProjectileName.FlamingMace,Fell!Sansce
@@ -31,6 +35,7 @@ ProjectileName.BlueMoon,Sansce Seraph
 ProjectileName.Sunfury,Lower!Sansce
 ProjectileName.FlowerPow,V!Sansce
 ProjectileName.FlowerPowPetal,V!Sansce
+ProjectileName.GolemFist,Eye of the GOOt
 
 ProjectileName.CopperShortswordStab,Gastter Rapier
 ProjectileName.TinShortswordStab,Gastin Rapier
@@ -97,6 +102,9 @@ ProjectileName.ThrowingKnife,Hateful Knife
 ProjectileName.Beenade,Spooky Cocktail
 
 ProjectileName.PainterPaintball,Ink
+
+ProjectileName.Stynger,Sneezer
+ProjectileName.StyngerShrapnel,Sneezer
 
 
 #[ friendly : summoner ],<<-|------------------------------------|->>

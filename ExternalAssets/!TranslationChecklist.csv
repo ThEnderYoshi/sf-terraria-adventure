@@ -1073,8 +1073,7 @@ Aumenta bastante a eficiência das Chamas Explosivas","Erhöht die Höchstanzahl
 Verbessert die Wirksamkeit von Flammenstoß stark","Zwiększa maksymalną liczbę wartowników
 Znacznie zwiększa skuteczność ognistych wartowników"
 
-"ArmorSetBonus.BeetleDamage","Beetles increase your melee damage and speed","Los escarabajos aumentan la velocidad y el daño cuerpo a cuerpo","Les scarabées augmentent vos dégâts et votre vitesse au corps à corps","Gli scarabei aumentano i danni in mischia e la velocità","Жуки увеличивают вашу скорость и урон в ближнем бою","甲虫增加你的近战伤害和速度","甲虫增加你的近战伤害和速度","Os besouros aumentam os seus danos por ataque físico e a sua velocidade","Käfer erhöhen deinen Nahkampfschaden und -geschwindigkeit","Żuki zwiększają twoje obrażenia i szybkość w walce w zwarciu"
-"ArmorSetBonus.BeetleDefense","Beetles protect you from damage","Los escarabajos te protegen del daño","Les scarabées vous protègent des dégâts","Gli scarabei ti proteggono dai danni","Жуки защищают вас от урона","甲虫保护你不受伤害","甲虫保护你不受伤害","Os besouros protegem você contra danos","Käfer beschützen dich vor Schaden","Żuki chronią cię przed otrzymaniem obrażeń"
+
 "ArmorSetBonus.Bone","10% increased ranged critical strike chance","Aumenta un 10% la probabilidad de ataque crítico a distancia","+10 % de chances de coup critique à distance","Probabilità di colpo critico a distanza aumentata del 10%","Увеличивает шанс критического дистанционного урона на 10 %","远程暴击率增加10%","远程暴击率增加10%","10% de aumento na chance de ataque à distância crítico","Um 10% erhöhte kritische Fernkampf-Trefferchance","10% większa szansa na dystansowe trafienie krytyczne"
 "ArmorSetBonus.Cactus","Attackers take damage from the cactus spines","Los atacantes sufren daños por las espinas del cactus","Les agresseurs subissent des dégâts causés par les épines de cactus","Gli aggressori ricevono danni dalle spine di cactus","Атакующие получают урон от колючек кактуса","攻击者因为仙人掌尖刺受到伤害","攻击者因为仙人掌尖刺受到伤害","Atacantes sofrem dano por espinhos de cactos","Angreifer erleiden Schaden durch Kaktusstacheln","Atakujący otrzymują obrażenia od kolców kaktusa"
 
@@ -1647,21 +1646,18 @@ zwiększając swoje możliwości dystansowe i utrudniając przeciwnikom namierza
 "Bestiary_FlavorText.npc_GingerbreadMan","A gingerbread man seeking vengeance for his long-eaten brethren. He may look yummy, but this is one tough cookie.","Un hombre de jengibre que busca venganza por sus hermanos, los cuales fueron engullidos hace tiempo. Puede parecer delicioso, pero es una galletita muy dura.","Un bonhomme en pain d'épices qui cherche à venger ses frères depuis longtemps digérés. Il a peut-être l'air délicieux, mais il est bien endurci.","Un omino di pan di zenzero in cerca di vendetta per i fratelli mangiati. Può sembrare delizioso, ma è un duro.","Пряничный человек, который хочет отомстить за своих собратьев, которых постигла участь закуски к чаю. Выглядит он, конечно, очень аппетитно, но раскусить его непросто.","一个想要为他很久以前被吃掉的兄弟报仇的姜饼人。他可能看起来很美味，但绝不是一块好对付的饼干。","一个想要为他很久以前被吃掉的兄弟报仇的姜饼人。他可能看起来很美味，但绝不是一块好对付的饼干。","Um homem de gengibre que busca vingança por seus irmãos há muito comidos. Ele até pode parecer saboroso, mas cuidado com os dentes.","Ein Lebkuchenmann will Rache für seine längst verspeisten Brüder. Er sieht zwar vielleicht lecker aus, ist aber ein zäher Brocken.","Piernikowy ludek pałający żądzą zemsty za swych zjedzonych pobratymców. Może i wygląda smacznie, ale to twarda sztuka."
 "Bestiary_FlavorText.npc_GlowingSnail","A snail that has mutated to adapt to the glowing mushroom environment. Fish are significantly attracted to these.","Un caracol que ha mutado para adaptarse al entorno de los champiñones brillantes. Los peces se ven bastante atraídos por ellos.","Un escargot qui a subi une mutation dans l'environnement des champignons luisants. Les poissons sont considérablement attirés par ces créatures.","Una lumaca che è mutata per adattarsi alla ambiente dei funghi luminosi. Attira molto i pesci.","Улитка, которая мутировала, чтобы приспособиться к окружению светящихся грибов. В немалой степени привлекает рыб.","一种已变异的蜗牛，并适应了发光蘑菇的生存环境。鱼很容易被这种蜗牛所吸引。","一种已变异的蜗牛，并适应了发光蘑菇的生存环境。鱼很容易被这种蜗牛所吸引。","Um caracol que sofreu uma mutação para se adaptar ao ambiente repleto de cogumelos brilhantes. Os peixes são bastante atraídos por ele.","Eine Schnecke, die mutiert ist, um zwischen den glühenden Pilzen zu überleben. Fische mögen sie sehr.","Zmutowany ślimak, który się przystosował do życia w środowisku lśniących grzybów. Ryby bardzo lubią te ślimaki."
 "Bestiary_FlavorText.npc_Gnome","A tiny long-bearded sneak who resides in oversized trees. Becomes a lawn ornament when exposed to sunlight.","Un pequeño pillo de barba larga que reside en árboles de tamaño descomunal. Si se expone a la luz del sol, se convierte en un adorno de jardín.","Un minuscule chenapan à barbe longue qui réside dans d'immenses arbres. Il devient une décoration de jardin quand il est exposé au soleil.","Un mascalzone barbuto che risiede tra gli alberi enormi. Diventa un ornamento per il prato quando è esposto alla luce solare.","Крошечный длиннобородый человечек, который живет в огромных деревьях. Под воздействием солнечного света становится украшением для сада.","一种长胡子的小地精，住在大树上。当暴露在阳光下时，可以点缀整个草坪。","一种长胡子的小地精，住在大树上。当暴露在阳光下时，可以点缀整个草坪。","Um serzinho minúsculo e com uma longa barba que se esgueira pelas árvores grandes, onde vivem. Se for exposto à luz do sol, se transforma em decoração de jardim.","Ein langbärtiger, winziger Kriecher, der in übergroßen Bäumen lebt. Wird zur Gartendeko, wenn er dem Sonnenlicht ausgesetzt ist.","Mały, podejrzany typek o długiej brodzie, który mieszka na przerośniętych drzewach. Promienie słońca zamieniają go w figurę ogrodową."
-"Bestiary_FlavorText.npc_GoblinArcher","Lending ranged support to the Goblin Army, archers keep a distance and pick off distracted and overwhelmed foes.","Los arqueros apoyan al Ejército de duendes a distancia, desde donde acaban con los enemigos distraídos o que están superados.","Apportant leur soutien à l'armée de gobelins, les archers restent à distance et éliminent les ennemis distraits et débordés.","Offrendo supporto a distanza all'esercito goblin, gli arcieri mantengono la distanza e colpiscono nemici distratti e sopraffatti.","Лучники оказывают поддержку Армии гоблинов на расстоянии, отстреливая отвлекшихся и ослабленных врагов.","弓箭手为哥布林军队提供远程支援，帮助他们分散敌人的注意力，然后杀敌人一个措手不及。","弓箭手为哥布林军队提供远程支援，帮助他们分散敌人的注意力，然后杀敌人一个措手不及。","Apoiando o Exército Goblin à distância, os arqueiros não se aproximam da batalha e atacam inimigos distraídos e confusos.","Die Bogenschützen geben der Goblinarmee Schutz aus der Ferne. Sie suchen sich abgelenkte und überwältigte Gegner aus.","Wspierając armię goblinów z dystansu, łucznicy zachowują bezpieczną odległość i wybijają zdezorientowanych przeciwników."
-"Bestiary_FlavorText.npc_GoblinPeon","Common footsoldiers of the Goblin Army, these foul creatures are good for little more than cannon fodder... and breaking down doors.","Soldados de a pie normales y corrientes del Ejército de duendes. Estas criaturas malvadas son algo más que carne de cañón... y saben hacer mucho más que derribar puertas.","Fantassins ordinaires de l'armée de gobelins, ces créatures viles ne sont bonnes que pour servir de chair à canon... et enfoncer les portes.","Soldati semplici dell'esercito goblin, queste orribili creature sono poco più che carne da macello... e sono buoni ad abbattere le porte.","Обычные солдаты Армии гоблинов. Эти отвратительные существа годятся разве что на пушечное мясо… и в качестве тарана для выбивания дверей.","这些丑恶的生物是哥布林军队的普通步兵，它们不过就是炮灰…和替死鬼。","这些丑恶的生物是哥布林军队的普通步兵，它们不过就是炮灰…和替死鬼。","Soldados comuns do Exército Goblin, estas criaturas vis não fazem muito além de servir como bucha de canhão... e derrubar portas.","Diese widerlichen Wesen sind die gewöhnlichen Fußsoldaten der Goblinarmee. Sie sind eigentlich nicht mehr als Kanonenfutter ... können aber Türen einschlagen.","Zwykli piechurzy armii goblinów. Te plugawe stwory nadają się tylko jako mięso armatnie... i do niszczenia drzwi."
+
+
 "Bestiary_FlavorText.npc_GoblinScout","The Goblin Army sends lone soldiers out from the beaches to seek out colonies to conquer. They give warning with a tattered sigil.","El Ejército de duendes envía a soldados solitarios en busca de colonias por conquistar. Suelen dar un aviso con un sello andrajoso.","L'armée de gobelins envoie des soldats solitaires depuis les plages pour trouver des colonies à conquérir. Ils alertent avec un sceau abîmé.","L'esercito goblin invia i soldati solitari fuori dalle spiagge per cercare le colonie da conquistare. Mandano avvisi con un sigillo cencioso.","Армия гоблинов отправляет отдельных солдат с побережий на поиски колоний, которые можно завоевать. Разведчики подают сигнал потрепанным знаменем.","哥布林军队从海滩派出少量士兵去搜寻可以征服的殖民地。它们用破烂的军旗发出警告。","哥布林军队从海滩派出少量士兵去搜寻可以征服的殖民地。它们用破烂的军旗发出警告。","O Exército Goblin envia soldados solitários das praias para buscar colônias para conquistar. Eles avisam sobre qualquer problema por meio de um símbolo esfarrapado.","Die Goblinarmee schickt einzelne Soldaten aus, die nach Kolonien suchen sollen, die sie erobern kann. Sie verwenden zur Warnung ein zerfetztes Siegel.","Armia goblinów wysyła samotnych żołnierzy na poszukiwania kolonii do podbicia. Zwiadowcy ci przekazują ostrzeżenie za pomocą poszarpanej pieczęci."
 "Bestiary_FlavorText.npc_GoblinShark","Half-shark, half-goblin, completely murderous! One of the numerous reasons to just stay home during a Blood Moon.","¡Mitad tiburón, mitad duende, cien por cien instinto asesino! Una de las numerosas razones para quedarse en casa durante la Luna de Sangre.","Mi-requin, mi-gobelin, et complètement meurtrier ! L'une des nombreuses raisons de rester chez soi pendant une lune de sang.","Mezzo squalo, mezzo goblin, assassino nell’insieme! Uno dei numerosi motivi per rimanere a casa durante la luna di sangue.","Ужасно смертоносный полугоблин-полуакула! Одна из многочисленных причин остаться дома во время Кровавой луны.","半鲨鱼，半哥布林，极其残暴！也是血月期间要待在家的众多原因之一。","半鲨鱼，半哥布林，极其残暴！也是血月期间要待在家的众多原因之一。","Meio tubarão, meio goblin, completamente assassino! Um dos inúmeros motivos pelos quais o melhor a fazer durante uma Lua de Sangue é ficar em casa.","Halb Hai, halb Goblin und ganz mordgierig! Einer von vielen Gründen, bei einem Blutmond lieber zuhause zu bleiben.","W połowie rekin, w połowie goblin – w całości morderca! Jeden z wielu powodów, by podczas krwawego księżyca zostać w domu."
-"Bestiary_FlavorText.npc_GoblinSorcerer","As primitive as they are, some goblins have the potential for manipulating magicked shadow energy through a form of hexing.","Por primitivos que sean, algunos duendes tienen el potencial para manipular la energía oscura mágica mediante maldiciones.","Aussi primitifs qu'ils soient, certains gobelins ont le potentiel pour manipuler l'énergie magique de l'ombre à travers une forme de sort.","Nonostante siano primitivi, alcuni goblin sono capaci di manipolare l'energia magica dell'ombra usando una sorta di fattura.","Несмотря на то, что гоблины крайне примитивны, они способны управлять волшебной теневой энергией с помощью чар.","尽管哥布林是一种原始生物，但有些哥布林却能通过一种魔法操纵暗影能量。","尽管哥布林是一种原始生物，但有些哥布林却能通过一种魔法操纵暗影能量。","Ainda que sejam primitivos, alguns goblins têm o poder de manipular a energia de sombras mágicas por meio de bruxaria.","So primitiv sie auch sein mögen, einige Goblins sind in der Lage, magische Schattenenergie durch eine Art Zauber zu manipulieren.","Choć prymitywne, niektóre gobliny potrafią się posługiwać energią cienia, rzucając uroki."
-"Bestiary_FlavorText.npc_GoblinSummoner","Gifted in the darkest of magics, she summons unfathomable shadowflame ghasts through a powerful hex.","Dotada con magias de lo más oscuras, es capaz de usar maldiciones para invocar horrores inenarrables de llama oscura.","Douée pour les magies les plus noires, elle invoque des flammes de l'ombre mystérieuses au moyen d'un sort puissant.","Dotata della magia più nera, evoca spaventose fiamme d'ombra insondabili attraverso una potente fattura.","Она одарена способностью творить темнейшую магию и призывать жуткое теневое пламя с помощью мощных чар.","她擅长最黑暗的魔法，能通过强大的魔法召唤高深莫测的暗影焰恶魂。","她擅长最黑暗的魔法，能通过强大的魔法召唤高深莫测的暗影焰恶魂。","Mestre nas magias mais sombrias, ela conjura fantasmas de chamas das sombras por meio de uma bruxaria poderosa.","Sie ist in der Lage, die schwärzeste aller Magie zu beherrschen. Damit beschwört sie unermessliche Schattenflammengeister.","Włada najmroczniejszym rodzajem magii, przywołując niewyobrażalne upiory cienistego płomienia za pomocą potężnych uroków."
-"Bestiary_FlavorText.npc_GoblinThief","Quick strike units of the Goblin Army, these pesky foes specialize in nimble movement and close-quarters combat.","Estos molestos enemigos son unidades de asalto rápido del Ejército de duendes especializadas en movimientos veloces y combate a corta distancia.","Des unités d'attaque rapide de l'armée des gobelins, ces petits ennemis pénibles sont experts du déplacement agile et du combat rapproché.","Unità d'assalto rapido dell'esercito goblin, questi fastidiosi nemici si muovono con agilità e sono specializzati nel combattimento ravvicinato.","Эти пронырливые враги из Армии гоблинов специализируются на быстрых атаках и боям в ограниченном пространстве.","这些恼人的敌人擅长敏捷移动和近身作战，能快速打击哥布林军队。","这些恼人的敌人擅长敏捷移动和近身作战，能快速打击哥布林军队。","Unidades de ataque rápido do Exército Goblin, estes inimigos irritantes se especializam em movimentos furtivos e em combate corpo-a-corpo.","Schnelle Einsatzeinheiten der Goblinarmee. Diese lästigen Gegner sind spezialisiert auf ein flinkes Vorankommen und auf Nahkampf.","Zwinne jednostki uderzeniowe armii goblinów. Ci nieznośni przeciwnicy specjalizują się w szybkiej walce w przestrzeniach zamkniętych."
 
-"Bestiary_FlavorText.npc_GoblinWarrior","The backbone of the Goblin Army infantry, these heavily-armored soldiers can take tremendous damage as they march undeterred.","Estos soldados tan bien blindados son la columna vertebral de la infantería del Ejército de duendes y pueden sufrir una ingente cantidad de daño mientras avanzan implacables.","Le pilier de l'infanterie des gobelins, ces soldats en armure lourde peuvent subir d'énormes dégâts en avançant sans hésitation.","Spina dorsale della fanteria dell'esercito goblin, questi soldati corazzati possono ricevere enormi danni mentre marciano imperterriti.","Эти солдаты в тяжелых доспехах — костяк пехоты Армии гоблинов. Они могут выдержать огромный урон и непоколебимо продолжать движение вперед.","这些全副武装的士兵是哥布林军队的步兵骨干，当它们长驱直入时会遭受巨大伤害。","这些全副武装的士兵是哥布林军队的步兵骨干，当它们长驱直入时会遭受巨大伤害。","A força que sustenta a infantaria do Exército Goblin, estes soldados com armaduras pesadas aguentam bastante dano sem parar de marchar.","Diese schwer gepanzerten Soldaten sind das Rückgrat der Goblinarmee und halten gewaltigem Schaden stand, während sie einfach weitermarschieren.","Szkielet piechoty armii goblinów. Ci ciężko opancerzeni żołnierze potrafią wytrzymać niezwykle silne ataki, nie przerywając marszu."
+
 "Bestiary_FlavorText.npc_GoldBird","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}"
 "Bestiary_FlavorText.npc_GoldBunny","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}"
 "Bestiary_FlavorText.npc_GoldButterfly","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}"
 "Bestiary_FlavorText.npc_GoldDragonfly","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}"
 "Bestiary_FlavorText.npc_Goldfish","A seemingly ordinary goldfish, until it decides to rain.","Un pececillo de aspecto aparentemente normal... hasta que llueve.","Un poisson doré ordinaire, jusqu'à ce qu'il pleuve.","Un pesce rosso apparentemente normale, finché non inizia a piovere.","Обычная на вид золотая рыбка. Но стоит закапать дождю…","一种看似普通的金鱼，不过在下雨天就不普通了。","一种看似普通的金鱼，不过在下雨天就不普通了。","Um peixe-dourado aparentemente normal, até que começa a chover.","Dieser Goldfisch sieht ziemlich normal und langweilig aus. Bis der Regen kommt.","Z pozoru zwykła złota rybka, dopóki nie zacznie padać."
-"Bestiary_FlavorText.npc_GoldFrog","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}"
+
 "Bestiary_FlavorText.npc_GoldGoldfish","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}"
 "Bestiary_FlavorText.npc_GoldGoldfishWalker","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}"
 "Bestiary_FlavorText.npc_GoldGrasshopper","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}"
@@ -1670,7 +1666,7 @@ zwiększając swoje możliwości dystansowe i utrudniając przeciwnikom namierza
 "Bestiary_FlavorText.npc_GoldSeahorse","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}","{$CommonBestiaryFlavor.GoldCritter}"
 "Bestiary_FlavorText.npc_GoldWaterStrider","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}"
 "Bestiary_FlavorText.npc_GoldWorm","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}","{$CommonBestiaryFlavor.GoldBaitCritter}"
-"Bestiary_FlavorText.npc_Golem","A remarkable display of ingenuity constructed by the Lihzahrd clan. Powered by solar energy cells, it is ready to guard the Temple.","Un ejemplo destacable de ingenuidad, obra del clan lihzahrd. Se alimenta con células de energía solar y está dispuesto a proteger el templo.","Une démonstration remarquable de l'ingéniosité du clan des Lihzahrds. Alimenté par des cellules d'énergie solaire, il est prêt à garder le temple.","Un esemplare notevole di ingegno costruito dal clan rettiliano. Alimentato da celle di energia solare, è pronto a custodire il tempio.","Выдающийся пример изобретательности клана ящщеров с питанием от солнечных батарей. Готов защищать храм от чужаков.","丛林蜥蜴部落匠心独具的杰作。它由太阳能电池供电，随时准备保卫神庙。","丛林蜥蜴部落匠心独具的杰作。它由太阳能电池供电，随时准备保卫神庙。","Uma notável exibição de engenharia construída pelo clã dos Laghartos. Movido a células de energia solar, está pronto para proteger o Templo.","Ein erstaunlicher Beweis von Genialität, der von Lihzahrd-Klan erschaffen wurde. Er wird von Solarenergiezellen betrieben und ist bereit, den Tempel zu bewachen.","Niezwykły pokaz pomysłowości klanu jaszczuhrów. To zasilane słonecznymi ogniwami energetycznymi stworzenie jest gotowe, by strzec świątyni."
+
 "Bestiary_FlavorText.npc_Golfer","The Golfer is a wise, middle-aged man who sells all sorts of golfing equipment. He's got game and knows how to score.","El golfista es un hombre sabio de mediana edad que vende todo tipo de equipo de golf. Juega muy bien y sabe cómo puntuar.","Le golfeur est un homme d'âge mûr sage qui vend toutes sortes d'équipement de golf. Il a la classe et il est charmant.","Il golfista è un saggio uomo di mezza età che vende attrezzatura da golf di ogni tipo. È in gamba e sa fare affari.","Гольфист — это проницательный мужчина средних лет, который продает разнообразное снаряжение для гольфа. Он отличный игрок и готов поделиться советами с другими.","这位高尔夫球手是一个聪明的中年男子，他出售各种各样的高尔夫设备。他有比赛意识，知道如何得分。","这位高尔夫球手是一个聪明的中年男子，他出售各种各样的高尔夫设备。他有比赛意识，知道如何得分。","O Golfista é um homem sábio de meia-idade que vende todo o tipo de equipamento de golfe. Ele não erra uma tacada.","Der Golfer ist ein weiser Mann im mittleren Alter, der allerlei Golfausrüstung verkauft. Er hat’s drauf und weiß, wie man Punkte sammelt.","Golfista to mądry mężczyzna w średnim wieku, który sprzedaje wszelkiego rodzaju sprzęt golfowy i zna się na swojej robocie."
 "Bestiary_FlavorText.npc_GraniteFlyer","Earth elementals manifest through many forms by taking on the properties of different materials, such as this hardy granite.","Los elementales de tierra se manifiestan de formas muy diversas al coger las propiedades de diferentes materiales, tales como este granito tan duro.","Les élémentaires de la terre se manifestent sous plusieurs formes en prenant les propriétés de différents matériaux, par exemple, le granit résistant.","Gli elementali di terra si manifestano attraverso molte forme assumendo le proprietà di materiali diversi, come ad esempio questo granito duro.","Земляные элементали проявляются в различных формах, принимая свойства разных материалов, таких как, например, этот твердый гранит.","大地精通过利用不同材料（例如这种坚硬的花岗岩）的特性来呈现多种外形。","大地精通过利用不同材料（例如这种坚硬的花岗岩）的特性来呈现多种外形。","Elementais da terra se manifestam de muitas formas porque adotam as propriedades de diferentes materiais, como o granito resistente.","Erdelementare manifestieren sich in vielen Formen. Sie nehmen die Eigenschaften verschiedener Materiale an, wie z. B. diesem harten Granit.","Żywiołaki ziemi przybierają wiele form, korzystając z właściwości różnych materiałów takich jak ten twardy granit."
 "Bestiary_FlavorText.npc_GraniteGolem","Strong are the magicked spirits which inhabit the granite masses deep below, this type in particular taking on a humanoid shape.","Fuertes son los espíritus mágicos que habitan en las masas de granito de las profundidades. Este tipo en concreto adquiere forma humanoide.","Les esprits magiques qui habitent ces masses de granit dans les profondeurs sont forts, ce type en particulier, quand il prend une forme humanoïde.","Forti sono gli spiriti magici che abitano nei massi di granito sottoterra. Questo in particolare, assume una forma umanoide.","В гранитных массах глубоко под поверхностью обитают сильные духи. Этот дух принял человекоподобную форму.","这类花岗岩巨人长得特别像人类，强大的魔法之魂栖息在花岗岩群深处。","这类花岗岩巨人长得特别像人类，强大的魔法之魂栖息在花岗岩群深处。","Os espíritos mágicos que habitam as massas de granito nas profundezas são muito fortes. Este tipo específico adotou uma forma humanoide.","Die magischen Geister, die in den Granitmassen tief unter der Erde leben, sind sehr stark. Vor allem diese hier, die humanoide Form ergriffen haben.","Duchy zamieszkujące znajdujący się głęboko pod ziemią granit to silne istoty magiczne – zwłaszcza ta tutaj, która przybrała formę humanoidalną."
@@ -2059,14 +2055,6 @@ zwiększając swoje możliwości dystansowe i utrudniając przeciwnikom namierza
 "BuffDescription.Battle","Increased enemy spawn rate","Aumenta la velocidad de regeneración del enemigo","Taux d'apparition d'ennemis augmenté","Ritmo generazione nemici aumentato","Ускоренное воскрешение врагов","敌人生成速度提高","敌人生成速度提高","Taxa de criação de inimigos maior","Erhöhte Feind-Spawnrate","Zwiększone tempo rodzenia się przeciwników"
 
 
-"BuffDescription.BeetleEndurance1","Damage taken reduced by 15%","El daño sufrido se reduce en un 15%","-15 % de dégâts subis","Danni subiti ridotti del 15%","Получаемый урон снижен на 15 %","所受伤害减少15%","所受伤害减少15%","Danos sofridos reduzidos em 15%","Erlittener Schaden wird um 15% reduziert","Otrzymywane obrażenia zmniejszone o 15%"
-"BuffDescription.BeetleEndurance2","Damage taken reduced by 30%","El daño sufrido se reduce en un 30%","-30 % de dégâts subis","Danni subiti ridotti del 30%","Получаемый урон снижен на 30 %","所受伤害减少30%","所受伤害减少30%","Redução de 30% nos danos sofridos","Erlittener Schaden wird um 30% reduziert","Otrzymywane obrażenia zmniejszone o 30%"
-"BuffDescription.BeetleEndurance3","Damage taken reduced by 45%","El daño sufrido se reduce en un 45%","-45 % de dégâts subis","Danni subiti ridotti del 45%","Получаемый урон снижен на 45 %","所受伤害减少45%","所受伤害减少45%","Redução de 45% nos danos sofridos","Erlittener Schaden wird um 45% reduziert","Otrzymywane obrażenia zmniejszone o 45%"
-"BuffDescription.BeetleMight1","Melee damage and speed increase by 10%","El daño cuerpo a cuerpo y la velocidad aumentan un 10%","+10 % de dégâts et de vitesse au corps à corps","Danno da mischia e velocità aumentano del 10%","Урон в ближнем бою и скорость увеличены на 10 %","近战伤害和速度各增加10%","近战伤害和速度各增加10%","Aumento de 10% nos danos físicos e na velocidade","Nahkampfschaden und Geschwindigkeit erhöht um 10%","Obrażenia w walce w zwarciu oraz szybkość zwiększone o 10%"
-"BuffDescription.BeetleMight2","Melee damage and speed increase by 20%","El daño cuerpo a cuerpo y la velocidad aumentan un 20%","+20 % de dégâts et de vitesse au corps à corps","Danno da mischia e velocità aumentano del 20%","Урон в ближнем бою и скорость увеличены на 20 %","近战伤害和速度各增加20%","近战伤害和速度各增加20%","Aumento de 20% nos danos físicos e na velocidade","Nahkampfschaden und Geschwindigkeit erhöht um 20%","Obrażenia w walce w zwarciu oraz szybkość zwiększone o 20%"
-"BuffDescription.BeetleMight3","Melee damage and speed increase by 30%","El daño cuerpo a cuerpo y la velocidad aumentan un 30%","+30 % de dégâts et de vitesse au corps à corps","Danno da mischia e velocità aumentano del 30%","Урон в ближнем бою и скорость увеличены на 30 %","近战伤害和速度各增加30%","近战伤害和速度各增加30%","Danos físicos e velocidade aumentam em 30%","Nahkampfschaden und Geschwindigkeit erhöht um 30%","Obrażenia w walce w zwarciu oraz szybkość zwiększone o 30%"
-"BuffDescription.BeetleMinecartLeft","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}","{$BuffDescription.MinecartLeft}"
-"BuffDescription.BeetleMinecartRight","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}","{$BuffDescription.MinecartRight}"
 "BuffDescription.BerniePet","You're always there for me, Bernie","Siempre estás ahí para mí, Bernie.","Bernie, toujours là pour moi.","Sei sempre al mio fianco, Bernie.","Ты всегда со мной, Берни","伯尼，你总是陪在我身边","伯尼，你总是陪在我身边","Você está sempre lá para me ajudar, Bernie","Du bist immer für mich da, Bernie.","Zawsze jesteś przy mnie, Bernie"
 "BuffDescription.BetsysCurse","Defense is lowered","Se reduce la defensa","Défense affaiblie","Difesa ridotta","Снижает защиту","防御力降低","防御力降低","Diminuição da defesa","Abwehr wurde verringert","Zmniejszona obrona"
 "BuffDescription.Bewitched","Increased max number of minions","Aumenta el máximo de súbditos que puedes tener","Nombre maximal de sbires augmenté","Numero massimo di seguaci aumentato","Увеличивает максимальное количество питомцев","仆从数量上限提高","仆从数量上限提高","Aumenta o número máximo de lacaios","Erhöhte maximale Anzahl deiner Günstlinge","Zwiększona maksymalna liczba sług"
@@ -2148,7 +2136,7 @@ zwiększając swoje możliwości dystansowe i utrudniając przeciwnikom namierza
 "BuffDescription.Gills","Breathe water instead of air","Permite respirar agua en vez de aire","Respirez de l'eau au lieu de l'air","Respiri acqua invece di aria","Позволяет дышать водой вместо воздуха","可在水中而非空气中呼吸","可在水中而非空气中呼吸","Respire água ao invés de ar","Wasser statt Luft atmen","Oddychaj wodą zamiast powietrzem"
 "BuffDescription.GlitteryButterfly","Truly, truly outrageous","Es realmente indignante","La joie, la musique, magique !","Veramente, veramente scandaloso","Эпатажнее некуда","真的真的反常","真的真的反常","Quase tão colorida quanto um balão mágico","Sehr, sehr ungeheuerlich","Motylem jestem"
 "BuffDescription.GlommerPet","It's fuzzy! And slimy...","¡Es peludito! Y viscoso...","C'est poilu ! Et visqueux...","È peloso e viscido...","Пушистое! И скользкое...","它长有绒毛！还黏糊糊的……","它长有绒毛！还黏糊糊的……","É crespo! E gosmento...","Flauschig! Und schleimig ...","Ma jakiś meszek! I jest oślizgłe..."
-"BuffDescription.GolemPet","Got myself a crying, talking, sleeping, walking, living idol!","¡He conseguido un ídolo viviente, andante, durmiente, hablante y llorante!","Oh, j'ai une idole vivante qui pleure, dort et marche !","Ho un idolo vivente che piange, parla, dorme, passeggia!","У меня теперь плачущий, говорящий, спящий, шагающий и живой идол!","给自己一个会哭、会说话、会睡觉、会走路的活神像！","给自己一个会哭、会说话、会睡觉、会走路的活神像！","Este é o golem. Este aqui também é o golem. E este golem vai brincar na sua casa!","Ich habe mir eine weinende, sprechende, schlafende, gehende, lebende Götze besorgt!","Płaczący, gadający, śpiący, chodzący i żyjący koleżka!"
+
 "BuffDescription.GolfCartMount","A fair way to cross the fairway","Una buena forma de cruzar este campo mágico","Ce n'est pas un jouet, c'est une voiturette !","Il modo migliore per attraversare il fairway","Идеальное средство для идеальной поездки","穿过平坦球道的好方法","穿过平坦球道的好方法","Atravesse os gramados com estilo","Eine gute Methode, um das Fahrwasser zu überqueren","Wszyscy wsiadać, drzwi zamykać"
 "BuffDescription.Gravitation","Press UP to reverse gravity","Pulsa ARRIBA para invertir la gravedad","Appuyez sur HAUT pour inverser la gravité","Premi SU per invertire la gravità","Нажмите ВВЕРХ, чтобы изменить гравитацию","按UP可逆转重力","按UP可逆转重力","Pressione PARA CIMA para reverter a gravidade","Zum Umkehren der Schwerkraft HOCH drücken","Naciśnij W GÓRĘ, żeby odwrócić grawitację"
 "BuffDescription.HeartLamp","Life regen is increased","Aumenta la regeneración de vida","Régénération de santé augmentée","Rigenerazione vita aumentata","Восстановление жизни ускорено","生命再生速度提高","生命再生速度提高","A regeneração de vida aumenta","Lebensregeneration erhöht","Zwiększona regeneracja życia"
@@ -2389,14 +2377,6 @@ zwiększając swoje możliwości dystansowe i utrudniając przeciwnikom namierza
 "BuffName.Battle","Battle","Batalla","Bataille","Battaglia","Бой","战斗","战斗","Batalha","Kampf","Bitwa"
 
 
-"BuffName.BeetleEndurance1","Beetle Endurance","Resistencia de escarabajo","Endurance de scarabée","Resistenza scarabeo","Жучья выносливость","甲虫耐力","甲虫耐力","Resistência por besouros","Käferausdauer","Wytrzymałość żuka"
-"BuffName.BeetleEndurance2","Beetle Endurance","Resistencia de escarabajo","Endurance de scarabée","Resistenza scarabeo","Жучья выносливость","甲虫耐力","甲虫耐力","Resistência por besouros","Käferausdauer","Wytrzymałość żuka"
-"BuffName.BeetleEndurance3","Beetle Endurance","Resistencia de escarabajo","Endurance de scarabée","Resistenza scarabeo","Жучья выносливость","甲虫耐力","甲虫耐力","Resistência por besouros","Käferausdauer","Wytrzymałość żuka"
-"BuffName.BeetleMight1","Beetle Might","Fuerza de escarabajo","Puissance de scarabée","Potenza scarabeo","Жучья сила","甲虫力量","甲虫力量","Poder dos besouros","Käfermacht","Moc żuka"
-"BuffName.BeetleMight2","Beetle Might","Fuerza de escarabajo","Puissance de scarabée","Potenza scarabeo","Жучья сила","甲虫力量","甲虫力量","Poder dos besouros","Käfermacht","Moc żuka"
-"BuffName.BeetleMight3","Beetle Might","Fuerza de escarabajo","Puissance de scarabée","Potenza scarabeo","Жучья сила","甲虫力量","甲虫力量","Poder dos besouros","Käfermacht","Moc żuka"
-"BuffName.BeetleMinecartLeft","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}","{$BuffName.MinecartLeft}"
-"BuffName.BeetleMinecartRight","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}","{$BuffName.MinecartRight}"
 "BuffName.BerniePet","Bernie","Bernie","Bernie","Bernie","Берни","伯尼","伯尼","Bernie","Bernie","Bernie"
 "BuffName.BetsysCurse","Betsy's Curse","Maldición de Besty","Malédiction de Betsy","Maledizione di Betsy","Проклятие Бетси","双足翼龙诅咒","双足翼龙诅咒","Maldição de Betsy","Betsys Fluch","Klątwa Betsy"
 "BuffName.Bewitched","Bewitched","Embrujado","Envoûtement","Stregato","Колдовство","着魔","着魔","Enfeitiçado","Verhext","Oczarowanie"
@@ -2478,7 +2458,7 @@ zwiększając swoje możliwości dystansowe i utrudniając przeciwnikom namierza
 "BuffName.Gills","Gills","Agallas","Nageoires","Branchie","Жабры","鱼鳃","鱼鳃","Guelras","Kiemen","Skrzela"
 "BuffName.GlitteryButterfly","Glittery Butterfly","Mariposa reluciente","Papillon brillant","Farfalla luccicante","Сверкающая бабочка","闪光蝴蝶","闪光蝴蝶","Borboleta Brilhante","Glitterschmetterling","Błyszczący motyl"
 "BuffName.GlommerPet","Glommer","Glommer","Glommer","Glommer","Сумрачник","咕噜咪","咕噜咪","Glommer","Glommer","Glommer"
-"BuffName.GolemPet","Toy Golem","Gólem de juguete","Jouet golem","Golem giocattolo","Игрушечный голем","玩具石巨人","玩具石巨人","Golem de Brinquedo","Spielzeuggolem","Zabawkowy golem"
+
 "BuffName.GolfCartMount","Golf Cart","Carro de golf","Voiturette de golf","Buggy","Гольфкар","高尔夫球车","高尔夫球车","Carrinho de Golfe","Golfwagen","Wózek golfowy"
 "BuffName.Gravitation","Gravitation","Gravedad","Gravitation","Gravità","Гравитация","重力","重力","Gravitação","Gravitation","Grawitacja"
 "BuffName.HeartLamp","Heart Lamp","Lámpara del corazón","Lampe cœur","Lampada a cuore","Сердечная лампа","心灯","心灯","Lâmpada do coração","Herzlampe","Lampa życia"
@@ -3222,8 +3202,8 @@ Naciśnij W GÓRĘ, by wyłączyć latanie"
 "DeathText.Drowned_3","{0} drowned.","{0} se ha ahogado.","{0} a coulé.","{0} è affogato.","Игрок {0} утонул","{0}溺死了。","{0}溺死了。","{0} afogou-se.","{0} ist ertrunken.","{0} topi się."
 "DeathText.Drowned_4","{0} is shark food.","{0} es comida para tiburones.","{0} nourrit les poissons.","{0} è in pasto ai pescecani.","Игрок {0} пошел на корм акулам","{0}成了鲨鱼的食物。","{0}成了鲨鱼的食物。","{0} virou comida de tubarão.","{0} ist jetzt Haifischfutter.","{0} zostaje karmą dla rekinów."
 "DeathText.Electrocuted","{0} couldn't contain the watts.","{0} no pudo contener los vatios.","{0} n'a pas pu supporter les watts.","{0} non ha potuto contenere i watt.","Игрок {0} не выдержал напряжения","{0}无法控制瓦数。","{0}无法控制瓦数。","{0} não conseguiu conter os watts.","{0} konnte die Watt nicht aushalten.","{0} nie jest dzieckiem elektryka."
-"DeathText.Fell_1","{0} fell to their death.","{0} ha caído en las garras de la muerte.","{0} a fait une chute mortelle.","{0} ha incontrato la morte.","Игрок {0} разбился насмерть","{0}摔死了。","{0}摔死了。","{0} caiu para a morte.","{0} ist zu Tode gestürzt.","{0} upada i się zabija."
-"DeathText.Fell_2","{0} didn't bounce.","{0} no saltó.","{0} n'a pas rebondi.","{0} non poteva rimbalzare.","Игрок {0} не отскочил","{0}没有反弹。","{0}没有反弹。","{0} não quicou.","{0} ist nicht abgeprallt.","{0} upada głową w piach."
+
+
 "DeathText.Inferno","{0} was consumed by the inferno.","{0} ha acabado en las tripas del infierno.","{0} s'est fait consumer dans le brasier.","{0} è stato consumato dall'inferno.","Игрок {0} поглощен инферно","{0}被地狱吞噬了。","{0}被地狱吞噬了。","O inferno consumiu {0}.","{0} wurde von dem Inferno verschlungen.","{0} ginie w morzu ognia."
 
 
@@ -3241,8 +3221,8 @@ Naciśnij W GÓRĘ, by wyłączyć latanie"
 "DeathText.Teleport_2_Male","{0}'s legs appeared where his head should be.","{0} vio cómo sus piernas aparecían en donde antes tenía la cabeza.","{0} a les jambes à la place de la tête.","{0} ha le gambe al posto della testa.","Игрок {0} оказался с ногами вместо головы","{0}的腿长到他的脑袋那儿了。","{0}的腿长到他的脑袋那儿了。","{0} acabou com as pernas no lugar da cabeça.","{0}s Beine sind da aufgetaucht, wo sein Kopf sein sollte.","{0} ma problem z nogami. Pojawiły się w miejscu głowy"
 "DeathText.TriedToEscape","{0} tried to escape.","{0} intentó escapar.","{0} a tenté de s'échapper.","{0} ha tentato di scappare.","Игрок {0} попытался сбежать","{0}试图逃跑。","{0}试图逃跑。","{0} tentou escapar.","{0} versuchte zu fliehen.","{0} próbuje uciec."
 "DeathText.WasLicked","{0} was licked.","{0} sufrió un lametazo.","{0} s'est fait lécher.","{0} è stato leccato.","Игрок {0} был слизан","{0}被舔了。","{0}被舔了。","Lamberam {0}.","{0} wurde abgeleckt.","{0} otrzymuje liźnięcie."
-"DeathTextGeneric.ArmTornOff","{0} let their arms get torn off","{0} ha visto cómo le arrancaban los brazos.","{0} s'est fait tordre les bras.","{0} si è fatto spezzare le braccia.","Игроку {0} оторвали руки","{0}的胳膊断了","{0}的胳膊断了","{0} teve seus braços arrancados.","{0} wurden die Arme ausgerissen.","{0} doświadcza urwania rąk"
-"DeathTextGeneric.Chopped","{0} was chopped up","{0} ha sido triturado.","{0} s'est fait couper en morceaux.","{0} è stato sminuzzato.","Игрок {0} был нарублен","{0}被千刀万剐了","{0}被千刀万剐了","Picotaram {0}.","{0} wurde zerkleinert.","{0} doświadcza posiekania"
+
+
 "DeathTextGeneric.Cut","{0} was cut down the middle","{0} ha visto cómo lo partían por la mitad.","{0} s'est fait couper en deux.","{0} è stato squarciato.","Игрок {0} был разрезан пополам","{0}的腰被斩断了","{0}的腰被斩断了","Cortaram {0} ao meio.","{0} wurde in der Mittel durchgesäbelt.","{0} doświadcza rozcięcia na pół"
 "DeathTextGeneric.Decapitated","{0} was decapitated","{0} ha sido decapitado.","{0} s'est fait décapiter.","{0} è stato decapitato.","Игрок {0} был обезглавлен","{0}被斩首了","{0}被斩首了","Decapitaram {0}.","{0} wurde geköpft.","{0} doświadcza ścięcia głowy"
 "DeathTextGeneric.Destroyed","{0} was destroyed","{0} ha sido destruido.","{0} s'est fait détruire.","{0} è stato distrutto.","Игрок {0} был уничтожен","{0}被毁了","{0}被毁了","Destruíram {0}.","{0} wurde zerstört.","{0} doświadcza zniszczenia"
@@ -3573,7 +3553,7 @@ Naciśnij W GÓRĘ, by wyłączyć latanie"
 
 "EmojiName.BossEverscream","everscream","gritoeterno","hurleternel","semprepungente","злая Ель","常绿尖叫怪","常绿尖叫怪","everscream","immerschrei","ciągłokrzyk"
 "EmojiName.BossFishron","fishron","fishron","dracosson","pescedrago","рыброн","猪龙鱼","猪龙鱼","peixedragao","fischron","rybok"
-"EmojiName.BossGolem","golem","gólem","golem","golem","голем","石巨人","石巨人","golem","golem","golem"
+
 "EmojiName.BossIceQueen","icequeen","reinadelhielo","reinedesglaces","reginadelghiaccio","ледяная королева","冰雪女王","冰雪女王","rainhagelo","eiskönigin","lodowakrólowa"
 
 "EmojiName.BossMartianship","martianship","navemarciana","vaisseaumartien","navemarziana","марсианский корабль","火星船","火星船","navemarciana","marsianerschiff","statek marsjański"
@@ -4342,15 +4322,6 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.BedazzledNectar","Bedazzled Nectar","Néctar deslumbrante","Nectar ébloui","Nettare magnifico","Ослепительный нектар","眩晕花蜜","眩晕花蜜","Néctar Enfeitiçado","Überwältigender Nektar","Oszałamiający nektar"
 
 "ItemName.BeeCloak","Bee Cloak","Capa de abejas","Cape d'abeille","Mantello da ape","Пчелиный плащ","蜜蜂斗篷","蜜蜂斗篷","Manto de Abelhas","Bienenumhang","Pszczela peleryna"
-
-
-"ItemName.BeetleHelmet","Beetle Helmet","Casco de escarabajo","Casque de scarabée","Casco di scarabeo","Жучий шлем","甲虫头盔","甲虫头盔","Elmo de Besouro","Käferhelm","Hełm żuka"
-"ItemName.BeetleHusk","Beetle Husk","Caparazón de escarabajo","Coquille de scarabée","Carapace di scarabeo","Жучий панцирь","甲虫外壳","甲虫外壳","Casco de Besouro","Käferschale","Łupina żuka"
-"ItemName.BeetleLeggings","Beetle Leggings","Perneras de escarabajo","Jambières de scarabée","Gambali di scarabeo","Жучьи латы","甲虫护腿","甲虫护腿","Calças de Besouro","Käfergamaschen","Spodnie żuka"
-"ItemName.BeetleMinecart","Beetle Minecart","Vagoneta de escarabajo","Wagonnet scarabée","Carrello scarabeo","Жучья вагонетка","甲虫矿车","甲虫矿车","Vagoneta de Besouro","Käferlore","Wózek górniczy żuka"
-"ItemName.BeetleScaleMail","Beetle Scale Mail","Cota de malla de escarabajo","Cotte de mailles de scarabée","Armatura a squame di scarabeo","Жучьи латы","甲虫铠甲","甲虫铠甲","Armadura de Malha de Besouro","Käferschuppenpanzer","Zbroja łuskowa żuka"
-"ItemName.BeetleShell","Beetle Shell","Coraza de escarabajo","Carapace de scarabée","Guscio di scarabeo","Жучий нагрудник","甲虫壳","甲虫壳","Concha de Besouro","Käferpanzer","Skorupa żuka"
-"ItemName.BeetleWings","Beetle Wings","Alas de escarabajo","Ailes de scarabée","Ali di scarabeo","Крылья жука","甲虫之翼","甲虫之翼","Asas de Besouro","Käferflügel","Skrzydła żuka"
 
 
 "ItemName.BejeweledValkyrieBody","Lazure's Valkyrie Cloak","Capa de valquiria de Lazure","Cape de Valkyrie de Lazure","Mantello valchiria di Lazure","Плащ Валькирии Lazure","Lazure的女武神斗蓬","Lazure的女武神斗蓬","Manto Valquíria de Lazure","Lazures Walkürenmantel","Peleryna walkirii Lazure’a"
@@ -5371,7 +5342,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.EyeofCthulhuMasterTrophy","Eye of Cthulhu Relic","Reliquia del Ojo de Cthulhu","Relique de l'Œil de Cthulhu","Reliquia occhio di Cthulhu","Реликвия Глаза Ктулху","克苏鲁之眼圣物","克苏鲁之眼圣物","Relíquia do Olho de Cthulhu","Auge-von-Cthulhu-Relikt","Relikt Oka Cthulhu"
 "ItemName.EyeOfCthulhuPetItem","Suspicious Grinning Eye","Ojo sonriente sospechoso","Œil suspect souriant","Occhio agghiacciante sospetto","Подозрительный скалящийся глаз","咧嘴笑的可疑眼球","咧嘴笑的可疑眼球","Olho Sorridente Suspeito","Verdächtig grinsendes Auge","Podejrzane uśmiechnięte oko"
 "ItemName.EyeofCthulhuTrophy","Eye of Cthulhu Trophy","Trofeo Ojo de Cthulhu","Trophée de l'Œil de Cthulhu","Trofeo occhio di Cthulhu","Трофей Глаза Ктулху","克苏鲁之眼纪念章","克苏鲁之眼纪念章","Troféu do Olho de Cthulhu","Auge-von-Cthulhu-Trophäe","Trofeum – Oko Cthulhu"
-"ItemName.EyeoftheGolem","Eye of the Golem","Ojo del gólem","Œil du golem","Occhio del golem","Глаз голема","石巨人之眼","石巨人之眼","Olho do Golem","Golemauge","Oko golema"
+
 "ItemName.EyePatch","Eye Patch","Parche para el ojo","Bandeau","Benda per occhio","Глазная повязка","眼罩","眼罩","Tapa-olho","Augenklappe","Przepaska na oko"
 "ItemName.EyeSpring","Eye Spring","Brote ocular","Œil à ressort","Libera occhio","Глаз на пружинке","弹簧眼","弹簧眼","Olho com Mola","Augenfeder","Nerw oczny"
 "ItemName.EyezorBanner","Eyezor Banner","Estandarte de Ojozor","Bannière de Zombolaire","Stendardo eyezor","Знамя глазора","眼怪旗","眼怪旗","Bandeira do Zumbolho","Schandfleckbanner","Sztandar laseroka"
@@ -5859,11 +5830,10 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.GoldWaterStriderCage","Gold Water Strider Cage","Jaula de tejedor dorado","Araignée d'eau dorée en cage","Gabbia con gerride d'oro","Клетка с золотой водомеркой","金水黾笼","金水黾笼","Gaiola para Aranha-d'água de Ouro","Goldener Wasserläuferkäfig","Klatka dla złotych nartników"
 "ItemName.GoldWorm","Gold Worm","Gusano dorado","Ver doré","Verme d'oro","Золотой червь","金蠕虫","金蠕虫","Verme de Ouro","Goldwurm","Złoty robak"
 "ItemName.GoldWormCage","Gold Worm Cage","Jaula de gusano dorado","Ver doré en cage","Gabbia con verme d'oro","Клетка с золотым червем","金蠕虫笼","金蠕虫笼","Gaiola para Verme de Ouro","Goldwurmkäfig","Klatka dla złotych robaków"
-"ItemName.GolemBossBag","Treasure Bag (Golem)","Bolsa del tesoro (gólem)","Sac de trésors (Golem)","Borsa del tesoro (golem)","Мешок с сокровищами (голем)","宝藏袋（石巨人）","宝藏袋（石巨人）","Bolsa do Tesouro (Golem)","Schatzbeutel (Golem)","Torba skarbów (Golem)"
-"ItemName.GolemFist","Golem Fist","Puño de gólem","Poing de Golem","Pugno di golem","Кулак голема","石巨人之拳","石巨人之拳","Punho de Golem","Golemfaust","Pięść golema"
-"ItemName.GolemMask","Golem Mask","Máscara Gólem","Masque de Golem","Maschera golem","Маска голема","石巨人面具","石巨人面具","Máscara do Golem","Golemmaske","Maska golema"
+
+
 "ItemName.GolemMasterTrophy","Golem Relic","Reliquia de Gólem","Relique de golem","Reliquia di golem","Реликвия голема","石巨人圣物","石巨人圣物","Relíquia do Golem","Golemrelikt","Relikt golema"
-"ItemName.GolemPetItem","Guardian Golem","Gólem guardián","Golem gardien","Golem guardiano","Голем-стражник","石巨人守卫","石巨人守卫","Golem Guardião","Wächtergolem","Golem strażniczy"
+
 "ItemName.GolemTrophy","Golem Trophy","Trofeo Gólem","Trophée du Golem","Trofeo Golem","Трофей голема","石巨人纪念章","石巨人纪念章","Troféu do Golem","Golemtrophäe","Trofeum – Golem"
 "ItemName.GolfBall","Golf Ball","Pelota de golf","Balle de golf","Palla da golf","Золотой мяч","高尔夫球","高尔夫球","Bola de Golfe","Golfball","Piłka golfowa"
 "ItemName.GolfBallDyedBlack","Black Golf Ball","Pelota de golf negra","Balle de golf noire","Palla da golf nera","Черный мяч для гольфа","黑高尔夫球","黑高尔夫球","Bola de Golfe Preta","Schwarzer Golfball","Czarna piłka golfowa"
@@ -6126,7 +6096,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.HeartLantern","Heart Lantern","Linterna de corazón","Lanterne en cœur","Lanterna a cuore","Светильник-сердце","红心灯笼","红心灯笼","Lanterna do Coração","Herzlaterne","Lampion sercowy"
 "ItemName.HeartreachPotion","Heartreach Potion","Poción alcanzacorazón","Potion de cœurs","Pozione afferracuori","Зелье сердечного магнита","拾心药水","拾心药水","Poção Agarra-corações","Herzreichtrank","Mikstura sercowego zasięgu"
 "ItemName.HeartStatue","Heart Statue","Estatua de corazón","Statue de cœur","Statua cuore","Статуя сердца","心形雕像","心形雕像","Estátua de Coração","Herzstatue","Posąg serca"
-"ItemName.HeatRay","Heat Ray","Rayo calorífico","Rayon thermique","Raggio di calore","Тепловой луч","高温射线枪","高温射线枪","Raio de Calor","Hitzestrahl","Promień ciepła"
+
 "ItemName.HeavyWorkBench","Heavy Work Bench","Banco de trabajo duro","Établi lourd","Banco da lavoro pesante","Тяжелый верстак","重型工作台","重型工作台","Bancada de Trabalho Pesada","Schwere Werkbank","Ciężki stół warsztatowy"
 "ItemName.HelFire","Hel-Fire","Fuego infernal","Combustion","Yo-fuoco","Пекло","狱火球","狱火球","Fogo do Inferno","Höllenfeuer","Czartogień"
 "ItemName.HellArmoredBonesBanner","Hell Armored Bones Banner","Estandarte de huesos infernales acorazados","Bannière de Squelette en armure infernale","Stendardo ossa corazzate infernali","Знамя адского бронированного скелета","地狱装甲骷髅旗","地狱装甲骷髅旗","Bandeira dos Ossos com Armadura do Inferno","Höllisch-Gepanzerte-Knochen-Banner","Sztandar piekielnych zbrojnych kości"
@@ -6482,7 +6452,6 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.LightningWhelkShell","Lightning Whelk Shell","Concha de buccino de rayo","Conque éclair","Guscio di buccino fulminante","Лепесток молниевой багрянки","闪电海螺壳","闪电海螺壳","Búzio Relâmpago","Blitzschneckenhaus","Muszla trąbika błyskawic"
 
 "ItemName.LightShard","Light Shard","Fragmento de luz","Fragment clair","Frammento di luce","Осколок света","光明碎块","光明碎块","Estilhaço de Luz","Lichtscherbe","Jasny odłamek"
-"ItemName.LihzahrdAltar","Lihzahrd Altar","Altar de lihzahrd","Autel de lihzahrd","Altare rettiliano","Алтарь ящщеров","丛林蜥蜴祭坛","丛林蜥蜴祭坛","Altar Lagharto","Lihzahrdaltar","Jaszczuhrzy ołtarz"
 
 
 "ItemName.LimeandBlackDye","Lime and Black Dye","Tinte verde lima y negro","Teinture vert citron et noir","Tintura limetta e nera","Лаймовый и черный краситель","橙绿黑染料","橙绿黑染料","Tintura Verde-limão e Preta","Limettengrüner und Schwarzer Farbstoff","Limonkowo-czarny barwnik"
@@ -6878,7 +6847,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.MusicBoxBoss1","Music Box (Boss 1)","Caja de música (Jefe final 1)","Boîte à musique (boss 1)","Carillon (Boss 1)","Музыкальная шкатулка (босс 1)","八音盒(Boss 1)","八音盒(Boss 1)","Caixinha de Música (Chefe 1)","Spieluhr (Boss 1)","Pozytywka (boss 1)"
 "ItemName.MusicBoxBoss2","Music Box (Boss 2)","Caja de música (Jefe final 2)","Boîte à musique (boss 2)","Carillon (Boss 2)","Музыкальная шкатулка (босс 2)","八音盒(Boss 2(","八音盒(Boss 2)","Caixinha de Música (Chefe 2)","Spieluhr (Boss 2)","Pozytywka (boss 2)"
 "ItemName.MusicBoxBoss3","Music Box (Boss 3)","Caja de música (Jefe final 3)","Boîte à musique (boss 3)","Carillon (Boss 3)","Музыкальная шкатулка (босс 3)","八音盒(Boss 3)","八音盒(Boss 3)","Caixinha de Música (Chefe 3)","Spieluhr (Boss 3)","Pozytywka (boss 3)"
-"ItemName.MusicBoxBoss4","Music Box (Boss 4)","Caja de música (Jefe final 4)","Boîte à musique (boss 4)","Carillon (Boss 4)","Музыкальная шкатулка (Босс 4)","八音盒(Boss 4)","八音盒(Boss 4)","Caixinha de Música (Chefe 4)","Spieluhr (Boss 4)","Pozytywka (boss 4)"
+
 
 "ItemName.MusicBoxConsoleTitle","Music Box (Alt Title)","Caja de música (Nombre alternativo)","Boîte à musique (titre alternatif)","Carillon (titolo alternativo)","Музыкальная шкатулка (другая заставка)","八音盒（标题备选曲）","八音盒（标题备选曲）","Caixinha de Música (Título Alternativo)","Spieluhr (Alternativer Titel)","Pozytywka (tytuł alternatywny)"
 "ItemName.MusicBoxCorruption","Music Box (Corruption)","Caja de música (Corrupción)","Boîte à musique (corruption)","Carillon (Corruzione)","Музыкальная шкатулка (Порча)","八音盒（腐化之地）","八音盒（腐化之地）","Caixinha de Música (Corrupção)","Spieluhr (Verderben)","Pozytywka (Zepsucie)"
@@ -7283,7 +7252,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.Piano","Piano","Piano","Piano","Pianoforte","Пианино","钢琴","钢琴","Piano","Piano","Pianino"
 "ItemName.PickaxeAxe","Pickaxe Axe","Pico hacha","Pioche-hache","Ascia piccone","Киркотопор","镐斧","镐斧","Machado Picareta","Spitzhackenaxt","Kilofotopór"
 "ItemName.PickaxeStatue","Pickaxe Statue","Estatua de pico","Statue de pioche","Statua piccone","Статуя кирки","镐雕像","镐雕像","Estátua de Picareta","Spitzhackenstatue","Posąg kilofa"
-"ItemName.Picksaw","Picksaw","Picoserrucho","Piochache","Segapiccone","Киркопил","锯刃镐","锯刃镐","Picareta Serrada","Spitzsäge","Piłolof"
+
 "ItemName.PicnicTable","Picnic Table","Mesa de picnic","Table de pique-nique","Tavolo da picnic","Столик для пикника","野餐桌","野餐桌","Mesa de Piquenique","Picknicktisch","Stół piknikowy"
 "ItemName.PicnicTableWithCloth","Fancy Picnic Table","Mesa de picnic elegante","Table de pique-nique chic","Tavolo da picnic elegante","Узорчатый столик для пикника","精致野餐桌","精致野餐桌","Mesa de Piquenique Chique","Eleganter Picknicktisch","Luksusowy stół piknikowy"
 "ItemName.PiercingStarlight","Starlight","Luz estelar","Starlight","Starlight","Звездный Лучик","星光","星光","Estrelinha","Sternenlicht","Starlight"
@@ -7411,7 +7380,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.PortalGun","Portal Gun","Arma de portales","Fusil à portails","Pistola del portale","Портальная пушка","传送枪","传送枪","Pistola do Portal","Portalkanone","Pistolet portalu"
 "ItemName.PortalGunStation","Portal Gun Station","Estación de arma de portales","Station de fusil à portails","Stazione pistola del portale","Держатель портальной пушки","传送枪站","传送枪站","Estação da Pistola do Portal","Portalkanonenstation","Stanowisko portalowe"
 "ItemName.PossessedArmorBanner","Possessed Armor Banner","Estandarte de armadura poseída","Bannière d'Armure possédée","Stendardo armatura posseduta","Знамя одержимых доспехов","装甲幻影魔旗","装甲幻影魔旗","Bandeira da Armadura Possuída","Geisterrüstungbanner","Sztandar opętanej zbroi"
-"ItemName.PossessedHatchet","Possessed Hatchet","Hacha de mano poseída","Hachette possédée","Accetta posseduta","Одержимый топорик","疯狂飞斧","疯狂飞斧","Machadinha Possuída","Besessenes Beil","Opętany topór"
+
 "ItemName.PotatoChips","Potato Chips","Patatas fritas","Chips","Patatine fritte","Чипсы","薯片","薯片","Batatinha","Kartoffelchips","Chipsy ziemniaczane"
 "ItemName.PotionOfReturn","Potion of Return","Poción de regreso","Potion de retour","Pozione del ritorno","Зелье возврата","返回药水","返回药水","Poção de Retorno","Trank der Rückkehr","Mikstura powrotu"
 "ItemName.PotionStatue","Potion Statue","Estatua de poción","Statue de potion","Statua pozione","Статуя зелья","药水雕像","药水雕像","Estátua de Poção","Trankstatue","Posąg mikstury"
@@ -7887,7 +7856,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.ShinePotion","Shine Potion","Poción de brillo","Potion de brillance","Pozione splendore","Зелье света","光芒药水","光芒药水","Poção Brilhante","Strahlentrank","Mikstura blasku"
 "ItemName.ShiningMoon","Shining Moon","Luna brillante","Lune brillante","Luna splendente","Сияющая луна","闪亮月亮","闪亮月亮","Lua Brilhante","Leuchtender Mond","Świecący księżyc"
 "ItemName.ShinyRedBalloon","Shiny Red Balloon","Globo rojo brillante","Ballon rouge brillant","Palloncino rosso brillante","Блестящий красный шарик","闪亮红气球","闪亮红气球","Balão Vermelho Brilhante","Leuchtend roter Ballon","Błyszczący czerwony balon"
-"ItemName.ShinyStone","Shiny Stone","Piedra brillante","Pierre brillante","Pietra lucente","Блестящий камень","闪亮石","闪亮石","Pedra Brilhante","Glänzender Stein","Błyszczący kamień"
+
 "ItemName.ShipInABottle","Ship in a Bottle","Barco embotellado","Bateau en bouteille","Nave in bottiglia","Корабль в бутылке","船舶瓶","船舶瓶","Navio Dentro da Garrafa","Buddelschiff","Statek w butelce"
 "ItemName.ShipsWheel","Ship's Wheel","Timón de barco","Gouvernail","Timone","Штурвал","舵轮","舵轮","Leme","Ruder","Ster"
 "ItemName.Shiverthorn","Shiverthorn","Espinatemblor","Tremblépine","Rabbrivirovo","Дрожецвет","寒颤棘","寒颤棘","Flor do Gelo","Zitterdorn","Dygocierń"
@@ -8241,7 +8210,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.SquirrelOrangeCage","Red Squirrel Cage","Jaula de ardilla roja","Écureuil roux en cage","Gabbia con scoiattolo rosso","Клетка с красной белкой","红松鼠笼","红松鼠笼","Gaiola para Esquilo Vermelho","Roteichhörnchenkäfig","Klatka dla czerwonych wiewiórek"
 "ItemName.SquirrelRed","Red Squirrel","Ardilla roja","Écureuil roux","Scoiattolo rosso","Красная белка","红松鼠","红松鼠","Esquilo Vermelho","Roteichhörnchen","Czerwona wiewiórka"
 "ItemName.SquirrelStatue","Squirrel Statue","Estatua de ardilla","Statue d'écureuil","Statua dello scoiattolo","Статуя белки","松鼠雕像","松鼠雕像","Estátua do Esquilo","Eichhörnchenstatue","Posąg wiewiórki"
-"ItemName.StaffofEarth","Staff of Earth","Báculo de la Tierra","Sceptre de Terre","Bastone della terra","Посох земли","大地法杖","大地法杖","Cajado da Terra","Stab der Erde","Kostur ziemi"
+
 
 "ItemName.StaffoftheFrostHydra","Staff of the Frost Hydra","Báculo de la hidra de escarcha","Sceptre d'hydre givrée","Bastone dell'idra del gelo","Посох ледяной гидры","寒霜九头蛇法杖","寒霜九头蛇法杖","Cajado da Hidra Congelada","Stab der Eishydra","Kostur mroźnej hydry"
 "ItemName.Stake","Stake","Estaca","Pieu","Paletto","Кол","尖桩","尖桩","Estaca","Pflock","Kołek"
@@ -8360,8 +8329,8 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.StrangePlant3","Strange Plant","Planta extraña","Plante étrange","Pianta strana","Странное растение","奇异植物","奇异植物","Planta Estranha","Seltsame Pflanze","Dziwna roślina"
 "ItemName.StrangePlant4","Strange Plant","Planta extraña","Plante étrange","Pianta strana","Странное растение","奇异植物","奇异植物","Planta Estranha","Seltsame Pflanze","Dziwna roślina"
 "ItemName.StylistKilLaKillScissorsIWish","Stylish Scissors","Tijeras estilosas","Ciseaux stylés","Forbici eleganti","Стильные ножницы","时尚剪刀","时尚剪刀","Tesoura Elegante","Modeschere","Stylowe nożyczki"
-"ItemName.Stynger","Stynger","Stynger","Cingleur","Lanciaframmenti","Стингер","毒刺发射器","毒刺发射器","Ferroada","Stachler","Stynger"
-"ItemName.StyngerBolt","Stynger Bolt","Proyectil Stynger","Munition de cingleur","Dardo a frammentazione","Стрела стингера","毒刺矢","毒刺矢","Raio Perfurante","Stachlerbolzen","Pocisk do Styngera"
+
+
 "ItemName.SugarCookie","Sugar Cookie","Galleta azucarada","Biscuit sucré","Biscotto","Сахарное печенье","蜜糖饼干","蜜糖饼干","Biscoito Doce","Zuckerkeks","Ciasteczko cukrowe"
 "ItemName.SugarPlum","Sugar Plum","Ciruela de azúcar","Dragée","Frutta candita","Сахарная слива","蜜糖李","蜜糖李","Balinha","Zuckerpflaume","Cukierek"
 "ItemName.SulphurButterfly","Sulphur Butterfly","Mariposa de sulfuro","Piéride des jardins","Farfalla sulfurea","Желтушка","硫磺蝶","硫磺蝶","Borboleta Enxofre","Schwefelfalter","Motyl żółty"
@@ -8379,7 +8348,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.Sunglasses","Sunglasses","Gafas de sol","Lunettes de soleil","Occhiali da sole","Солнцезащитные очки","墨镜","墨镜","Óculos de Sol","Sonnenbrille","Okulary słoneczne"
 "ItemName.SunMask","Sun Mask","Máscara del sol","Masque du soleil","Maschera del sole","Маска солнца","太阳面具","太阳面具","Máscara do Sol","Sonnenmaske","Słoneczna maska"
 "ItemName.SunplateBlock","Sunplate Block","Bloque soleado","Bloc de soleil","Blocco solare","Солнечная пластина","日盘块","日盘块","Bloco de Placa Solar","Sonnenplattenblock","Blok płyt słonecznych"
-"ItemName.SunStone","Sun Stone","Piedra de sol","Pierre solaire","Pietra solare","Солнечный камень","太阳石","太阳石","Pedra do Sol","Sonnenstein","Słoneczny kamień"
+
 "ItemName.SuperAbsorbantSponge","Super Absorbant Sponge","Esponja superabsorbente","Éponge très absorbante","Spugna super-assorbente","Супервпитывающая губка","超级吸水棉","超级吸水棉","Esponja Super Absorvente","Supersaugschwamm","Megachłonna gąbka"
 
 
@@ -9598,52 +9567,6 @@ Solo gli escrementi di fiori più squisiti!","Призывает ручную б
 
 "ItemTooltip.BeeCloak","Causes stars to fall, releases bees and douses the user in honey when damaged","Hace que caigan las estrellas, libera abejas y baña al usuario en miel tras sufrir daños","Fait tomber des étoiles, libère des abeilles et arrose le porteur de miel après avoir subi des dégâts","Fa cadere le stelle; rilascia api e ricopre di miele chi lo usa quando riceve danni","При уроне вызывает звездопад, выпускает пчел и погружает владельца в мед","受到伤害后会使星星坠落，释放蜜蜂，并将使用者浸入蜂蜜","受到伤害后会使星星坠落，释放蜜蜂，并将使用者浸入蜂蜜","Faz as estrelas falharem, libera abelhas e cobre o usuário de mel quando sofrer dano","Lässt Sterne herabfallen, setzt Bienen frei und tränkt den Benutzer bei erlittenem Schaden in Honig","Po otrzymaniu obrażeń powoduje spadanie gwiazd, uwalnia pszczoły i oblewa użytkownika miodem"
 
-
-"ItemTooltip.BeetleHelmet","6% increased melee damage
-Enemies are more likely to target you","Aumenta un 6% el daño cuerpo a cuerpo
-Será más probable que los enemigos te ataquen","+6 % de dégâts au corps à corps
-Les ennemis sont plus susceptibles de vous viser","Danno da mischia aumentato del 6%
-Aumenta la probabilità che i nemici ti prendano come bersaglio","Увеличивает урон в ближнем бою на 6 %
-Враги с большей вероятностью атакуют вас","近战伤害增加6%
-敌人更有可能瞄准你","近战伤害增加6%
-敌人更有可能瞄准你","6% de aumento nos danos por ataques físicos
-A chance dos inimigos mirarem em você é maior","Um 6% erhöhter Nahkampfschaden
-Feinde greifen dich eher an","6% zwiększone obrażenia w walce w zwarciu
-Wrogowie częściej biorą cię na cel"
-"ItemTooltip.BeetleLeggings","6% increased movement and melee speed
-Enemies are more likely to target you","Aumenta un 6% la velocidad de movimiento y el daño cuerpo a cuerpo
-Será más probable que los enemigos te ataquen","+6 % de vitesse de déplacement et au corps à corps
-Les ennemis sont plus susceptibles de vous viser","Movimento e velocità in mischia aumentano del 6%
-Aumenta la probabilità che i nemici ti prendano come bersaglio","Увеличивает скорость движения и ближнего боя на 6 %
-Враги с большей вероятностью атакуют вас","移动和近战速度各提高6%
-敌人更有可能瞄准你","移动和近战速度各提高6%
-敌人更有可能瞄准你","6% de aumento na velocidade dos movimentos e dos ataques físicos
-A chance dos inimigos mirarem em você é maior","Um 6% erhöhte Bewegungs- und Nahkampfgeschwindigkeit
-Feinde greifen dich eher an","6% zwiększona szybkość poruszania się i walki w zwarciu
-Wrogowie częściej biorą cię na cel"
-"ItemTooltip.BeetleScaleMail","8% increased melee damage and critical strike chance
-6% increased movement and melee speed","Aumenta un 8% el daño cuerpo a cuerpo y la probabilidad de ataque crítico
-Aumenta un 6% la velocidad de movimiento y del cuerpo a cuerpo","+8 % de dégâts au corps`à corps et de chances de coup critique
-+6 % de vitesse de déplacement et au corps à corps","Probabilità di colpo critico e danno da mischia aumentati dell'8%
-Movimento e velocità in mischia aumentano del 6%","Увеличивает на 8 % урон в ближнем бою и шанс критического удара
-Увеличивает скорость движения и ближнего боя на 6 %","近战伤害和暴击率各增加8%
-移动和近战速度各提高6%","近战伤害和暴击率各增加8%
-移动和近战速度各提高6%","8% de aumento nos danos por ataque físico e na chance de ataque crítico
-6% de aumento na velocidade dos movimentos e dos ataques físicos","Um 8% erhöhter Nahkampfschaden und Chance auf kritischen Treffer
-Um 6% erhöhte Bewegungs- und Nahkampfgeschwindigkeit","8% zwiększone obrażenia w walce w zwarciu oraz szansa na trafienie krytyczne
-6% zwiększona szybkość poruszania się i walki w zwarciu"
-"ItemTooltip.BeetleShell","5% increased melee damage and critical strike chance
-Enemies are more likely to target you","Aumenta un 5% el daño cuerpo a cuerpo y la probabilidad de ataque crítico
-Será más probable que los enemigos te ataquen","+5 % de dégâts au corps`à corps et de chances de coup critique
-Les ennemis sont plus susceptibles de vous viser","Probabilità di colpo critico e danno da mischia aumentati del 5%
-Aumenta la probabilità che i nemici ti prendano come bersaglio","Увеличивает на 5 % урон в ближнем бою и шанс критического удара
-Враги с большей вероятностью атакуют вас","近战伤害和暴击率各增加5%
-敌人更有可能瞄准你","近战伤害和暴击率各增加5%
-敌人更有可能瞄准你","5% de aumento nos danos por ataque físico e na chance de ataque crítico
-A chance dos inimigos mirarem em você é maior","Um 5% erhöhter Nahkampfschaden und Chance auf kritischen Treffer
-Feinde greifen dich eher an","5% zwiększone obrażenia w walce w zwarciu oraz szansa na trafienie krytyczne
-Wrogowie częściej biorą cię na cel"
-"ItemTooltip.BeetleWings","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}","{$CommonItemTooltip.FlightAndSlowfall}"
 
 "ItemTooltip.BejeweledValkyrieBody","{$CommonItemTooltip.DevItem}
 Bejeweled and elegant for soaring through the thundering skies","{$CommonItemTooltip.DevItem}
@@ -11208,7 +11131,7 @@ Sembra aver perso il suo look.","Призывает подозрительный
 “Parece que ele sofreu um golpe de vista.”","Beschwört ein verdächtiges Auge
 ‚Es hat seinen Glanz verloren.‘","Przywołuje podejrzliwe oko
 „Chyba zgubiło gdzieś swój wygląd”."
-"ItemTooltip.EyeoftheGolem","10% increased critical strike chance","Aumenta un 10% la probabilidad de ataque crítico","+10 % de chances de coup critique","Possibilità di colpo critico aumentata del 10%","Увеличивает шанс критического удара на 10 %","暴击率增加10%","暴击率增加10%","10% de aumento na chance de acerto crítico","Kritische Trefferchance um 10% erhöht","10% większa szansa na trafienie krytyczne"
+
 "ItemTooltip.EyeSpring","Summons an eyeball spring","Invoca a un ojo saltarín","Invoque un globe oculaire sur ressort","Evoca un occhio a molla","Призывает прыгающий глаз","召唤弹簧眼","召唤弹簧眼","Invoca um olho saltitante","Beschwört eine Augapfelfeder","Przywołuje nerw oczny"
 "ItemTooltip.EyezorBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}","{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}"
 "ItemTooltip.FaceMonsterBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}","{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}"
@@ -11901,19 +11824,7 @@ Obniża obronę celu"
 "ItemTooltip.GoldPickaxe","Can mine Meteorite","Permite excavar meteoritos","Peut extraire de la météorite","Può estrarre meteorite","Может добывать метеорит","可开采陨石","可开采陨石","Pode minerar meteoritos","Kann Meteorite abbauen","Może wydobywać meteoryt"
 "ItemTooltip.GoldRing","Increases coin pickup range","Aumenta el alcance de recolección de monedas","Augmente la portée de récolte de pièces","Aumenta la portata di raccolta delle monete","Увеличивает дистанцию сбора монет","扩大钱币拾取范围","扩大钱币拾取范围","Maior alcance da coleta de moedas","Erhöht Münzensammelreichweite","Zwiększa zasięg podnoszenia monet"
 
-"ItemTooltip.GolemBossBag","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}","{$CommonItemTooltip.RightClickToOpen}"
-"ItemTooltip.GolemFist","Punches with the force of a golem","Golpea con la fuerza de un gólem","Donne un coup de poing avec la force d'un golem","Tira pugni con la forza di un golem","Бьет с силой голема","以石巨人之力出拳","以石巨人之力出拳","Dá um soco com a força de um golem","Schlägt mit der Kraft eines Golems zu","Uderza z siłą golema"
-"ItemTooltip.GolemPetItem","Summons a toy golem to light your way
-'Power cells not included.'","Invoca un gólem de juguete para iluminarte el camino
-""Pilas no incluidas"".","Invoque un jouet golem pour éclairer votre chemin
-« Piles non incluses. »","Evoca un golem giocattolo per illuminare il percorso
-Le batterie non sono incluse.","Призывает игрушечного голема, который освещает вам путь
-«Батарейки в комплект не входят»","召唤玩具石巨人照亮道路
-“不包括电池。”","召唤玩具石巨人照亮道路
-“不包括电池。”","Invoca um golem de brinquedo que ilumina seu caminho
-“Baterias vendidas separadamente.”","Beschwört einen Spielzeuggolem, der dir den Weg leuchtet
-‚Batterien nicht enthalten.‘","Przywołuje zabawkowego golema, który oświetli ci drogę
-„W zestawie nie ma ogniw mocy”."
+
 "ItemTooltip.GolfBall","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}"
 "ItemTooltip.GolfBallDyedBlack","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}"
 "ItemTooltip.GolfBallDyedBlue","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}","{$CommonItemTooltip.GolfBall}"
@@ -12226,17 +12137,8 @@ Zwyciężanie przeciwników chwilowo poprawia leczenie
 "ItemTooltip.HeadlessHorsemanBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}","{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}"
 "ItemTooltip.HeartLantern","Increases life regeneration when placed nearby","Aumenta la regeneración de vida al colocarla cerca","Augmente la régénération de santé si elle est placée à proximité","Aumenta la rigenerazione vita se si trova nelle vicinanze","Ускоряет восстановление жизни при размещении поблизости","当放在附近时，提高生命再生速度","当放在附近时，提高生命再生速度","Aumenta a regeneração de vida na área posicionada","Erhöht Lebensregeneration, wenn sie in der Nähe aufgestellt wird","Jeśli umieścisz go w pobliżu, zwiększa regenerację życia"
 "ItemTooltip.HeartreachPotion","Increases pickup range for life hearts","Aumenta el rango de recogida de corazones","Augmente la portée de collecte des cœurs de vie","Aumenta la portata di raccolta dei cuori","Увеличивает дистанцию взятия сердец жизни","扩大生命之心的拾取范围","扩大生命之心的拾取范围","Aumenta o alcance de coleta de corações","Erhöht Einsammelreichweite bei Lebensherzen","Zwiększa zasięg podnoszenia serc życia"
-"ItemTooltip.HeatRay","Shoots a scorching ray of heat
-'Oolaa!!'","Dispara un rayo calorífico abrasador""
-""¡¡¡Hooolaaa!!!""","Tire un rayon brûlant de lumière
-« C'est chaud ! »","Spara un raggio di calore scottante
-Oolaa!!!","Стреляет обжигающим тепловым лучом
-«Ого!»","射出灼热的高温射线
-“喔啦！！”","射出灼热的高温射线
-“喔啦！！”","Dispara um raio de calor incendiário
-“Ulla, ulla!”","Verschießt einen sengenden Hitzestrahl
-‚Oolaa!!‘","Strzela promieniem palącego ognia
-„Oolaa!”"
+
+
 "ItemTooltip.HeavyWorkBench","Used for advanced crafting","Se usa para fabricación avanzada","Utilisé pour l'artisanat supérieur","Si usa per la creazione avanzata","Используется в продвинутых рецептах","用于高级制作","用于高级制作","Utilizado na criação avançada","Für fortgeschrittene Herstellung","Używany do tworzenia bardziej złożonych przedmiotów"
 "ItemTooltip.HellArmoredBonesBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}","{$CommonItemTooltip.BannerBonus}{$NPCName.HellArmoredBones}"
 "ItemTooltip.HellbatBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}","{$CommonItemTooltip.BannerBonus}{$NPCName.Hellbat}"
@@ -13999,7 +13901,7 @@ Una zuppa vietnamita","{$CommonItemTooltip.MediumStats}
 ‚Fi-fei-fo ...‘","{$CommonItemTooltip.MediumStats}
 „Zjem photem”"
 "ItemTooltip.PickaxeAxe","'Not to be confused with a hamdrill'","No confundir con un taladro-martillo","À ne pas confondre avec une marteuse","Da non confondere con il perforello","Не путать с пилой для ветчины","“不要与锤钻混淆”","“不要与锤钻混淆”","""Não confundir com um martelo-furadeira""","‚Nicht zu verwechseln mit einem Hammbohrer‘","„Nie mylić z młotoświdrem”"
-"ItemTooltip.Picksaw","Capable of mining Lihzahrd Bricks","Capaz de extraer ladrillos de lihzahrd","Peut extraire des briques de Lihzhard","Consente di estrarre mattoni rettiliani","Может добывать кирпичи ящеров","可开采丛林蜥蜴砖","可开采丛林蜥蜴砖","Capaz de minerar tijolos lagharto","Du kannst Lihzahrdziegel abbauen","Może kopać jaszczuhrze cegły"
+
 
 Stored items can only be accessed by you","Se puede usar para almacenar tus objetos
 Solo tú podrás acceder a los objetos almacenados","Peut servir à stocker vos objets
@@ -14146,7 +14048,7 @@ Naciśnij w powietrzu przycisk skoku, by robić sztuczki!"
 "ItemTooltip.PortableCementMixer","Increases wall placement speed","Aumenta la velocidad de colocación de paredes","Augmente la vitesse de placement des murs","Aumenta la velocità di posizionamento dei muri","Увеличивает скорость установки стен","提高砌墙速度","提高砌墙速度","Aumenta a velocidade de posicionamento das paredes","Erhöht Platzierungstempo von Wänden","Zwiększa szybkość umieszczania ścian"
 "ItemTooltip.PortableStool","Hold UP to reach higher","Pulsa ARRIBA para llegar más alto","Maintenez HAUT appuyé pour aller plus haut","Premi SU per andare più in alto","Удерживайте ВВЕРХ, чтобы взлететь выше","按住UP可以够到更高的地方","按住UP可以够到更高的地方","Segure PARA CIMA para chegar ainda mais alto","Halte HOCH gedrückt, um höher zu kommen","Naciśnij W GÓRĘ, by dotrzeć wyżej"
 "ItemTooltip.PossessedArmorBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}","{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}"
-"ItemTooltip.PossessedHatchet","Chases after your enemy","Persigue a tu enemigo","Pourchasse votre ennemi","Insegue il tuo nemico","Атакует вашего врага","追杀敌人","追杀敌人","Persegue seus inimigos","Verfolgt deinen Gegner","Goni twojego wroga"
+
 "ItemTooltip.PotatoChips","{$CommonItemTooltip.MinorStats}
 'Betcha can't eat just one!'","{$CommonItemTooltip.MinorStats}
 ""¡Seguro que no puedes comer solo una!""","{$CommonItemTooltip.MinorStats}
@@ -14814,7 +14716,7 @@ Daje posiadaczowi umiejętność podwójnego skoku"
 "ItemTooltip.ShinePotion","Emits an aura of light","Emite un aura de luz","Émet une aura de lumière","Emette un'aura di luce","Излучает ауру света","发出光环","发出光环","Emite uma aura de luz","Verströmt eine Aura aus Licht","Emituję aurę światła"
 "ItemTooltip.ShiningMoon","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}","{$PaintingArtist.Craig}"
 "ItemTooltip.ShinyRedBalloon","Increases jump height","Aumenta la altura de los saltos","Augmente la hauteur des sauts","Aumenta l'altezza del salto","Увеличивает высоту прыжка","增加跳跃高度","增加跳跃高度","Aumenta a altura dos pulos","Vergrößert die Sprunghöhe","Zwiększa wysokość skoku"
-"ItemTooltip.ShinyStone","Greatly increases life regen when not moving","Aumenta notablemente la regeneración de vida al no moverse","Augmente considérablement la régénération de santé si le joueur ne bouge pas","Aumenta notevolmente la rigenerazione vita quando non ti muovi","Значительно ускоряет восстановление жизни, когда вы не двигаетесь","不移动时，大大提高生命再生速度","不移动时，大大提高生命再生速度","Aumenta bastante a regeneração de vida quando parado","Erhöht die Lebensregeneration stark, wenn du dich nicht bewegst","Znacznie zwiększa regenerację życia w bezruchu"
+
 "ItemTooltip.ShoeSpikes","Allows the ability to slide down walls
 Improved ability if combined with Climbing Claws","Otorga la habilidad de deslizarse por paredes
 La habilidad mejora si se combina con las Garras de escalada","Permettent de descendre les murs en glissant
@@ -15307,7 +15209,6 @@ Nell'albero, parte dell'albero.","Цепляйтесь за деревья, ка
 “Na árvore, parte da árvore”","Halte dich an Bäumen fest, wie ein echtes Eichhörnchen!
 ‚Im Baum und um den Baum herum‘","Łap się drzew jak prawdziwa wiewiórka!
 „Wiewiórki mają na ciebie haka”"
-"ItemTooltip.StaffofEarth","Summons a powerful boulder","Invoca una poderosa roca","Invoque un rocher puissant","Evoca un masso potente","Призывает большой валун","召唤强大的巨石","召唤强大的巨石","Invoca um poderoso rochedo","Beschwört einen mächtigen Felsbrocken","Przywołuje potężny głaz"
 
 
 "ItemTooltip.StaffoftheFrostHydra","{$CommonItemTooltip.Sentry}
@@ -15484,18 +15385,8 @@ Po otrzymaniu obrażeń uwalnia pszczoły i oblewa użytkownika miodem"
 "ItemTooltip.StrangePlant2","Can be traded for rare dyes","Se puede cambiar por tintes raros","Peut s'échanger contre des teintures rares","Si può scambiare con tinture rare","Можно обменять на редкие красители","可用于交换稀有染料","可用于交换稀有染料","Pode ser trocado por tinturas raras","Kann gegen seltene Farbstoffe getauscht werden","Można wymienić na rzadkie barwniki"
 "ItemTooltip.StrangePlant3","Can be traded for rare dyes","Se puede cambiar por tintes raros","Peut s'échanger contre des teintures rares","Si può scambiare con tinture rare","Можно обменять на редкие красители","可用于交换稀有染料","可用于交换稀有染料","Pode ser trocado por tinturas raras","Kann gegen seltene Farbstoffe getauscht werden","Można wymienić na rzadkie barwniki"
 "ItemTooltip.StrangePlant4","Can be traded for rare dyes","Se puede cambiar por tintes raros","Peut s'échanger contre des teintures rares","Si può scambiare con tinture rare","Можно обменять на редкие красители","可用于交换稀有染料","可用于交换稀有染料","Pode ser trocado por tinturas raras","Kann gegen seltene Farbstoffe getauscht werden","Można wymienić na rzadkie barwniki"
-"ItemTooltip.Stynger","Shoots an explosive bolt
-Does extra damage on a direct hit","Dispara un proyectil explosivo
-Inflige daño extra con un golpe directo","Tire un projectile explosif
-Dégâts supplémentaires avec un coup direct","Spara un dardo esplosivo
-Infligge danni supplementari su un colpo diretto","Стреляет разрывной стрелой
-Наносит дополнительный урон при прямом попадании","射出爆炸矢
-会对直接命中造成额外伤害","射出爆炸矢
-会对直接命中造成额外伤害","Atira uma flecha explosiva
-Causa mais dano ao atingir diretamente","Verschießt einen Sprengbolzen
-Fügt bei direkten Treffern mehr Schaden zu","Strzela wybuchowym pociskiem
-Zadaje dodatkowe obrażenia przy bezpośrednim trafieniu"
-"ItemTooltip.StyngerBolt","Explodes into deadly shrapnel","Explota con una metralla letal","Explose en éclats d'obus mortels","Esplode generando frammenti letali","Взрывается с разлетом смертоносных осколков","爆炸成致命的弹片","爆炸成致命的弹片","Explode em estilhaços mortais","Explodiert in tödliches Schrapnell","Eksploduje i tworzy śmiertelny szrapnel"
+
+
 "ItemTooltip.SugarCookie","{$CommonItemTooltip.MajorStats}
 'You'll bounce off the walls!'","{$CommonItemTooltip.MajorStats}
 ""¡Rebotarás en las paredes!""","{$CommonItemTooltip.MajorStats}
@@ -15512,17 +15403,8 @@ Rimbalzerai sulle pareti!","{$CommonItemTooltip.MajorStats}
 "ItemTooltip.Sundial","Allows time to fast forward one day per week","Permite avanzar en el tiempo un día por semana","Le temps peut accélérer et passer un jour par semaine","Consente di mandare avanti il tempo una volta a settimana","Позволяет один раз в неделю перемотать время вперед","允许时间每周快进一天","允许时间每周快进一天","Permite que o tempo seja acelerado um dia por semana","Pro Woche kann ein Tag vorgespult werden","Raz na tydzień pozwala przyśpieszyć czas"
 
 "ItemTooltip.Sunglasses","'Makes you look cool!'","¡Te quedan muy bien!","Elles vous donnent un air cool !","Migliora il tuo look!","Позволяет выглядеть круто!","“让你看起来酷酷的！”","“让你看起来酷酷的！”","Vai te deixar na moda!","‚Lässt dich cool aussehen!‘","„Świetnie w nich wyglądasz!”"
-"ItemTooltip.SunStone","If worn during the day, grants minor increase to damage, melee speed, critical strike chance,
-life regeneration, defense, mining speed, and minion knockback","Si se pone durante el día, otorga un aumento menor del daño, de la velocidad de ataque cuerpo a cuerpo,
-de la probabilidad de impacto crítico, de la regeneración de vida, de la defensa, de la velocidad de minería y del retroceso de los súbditos","Si portée la journée, elle augmente légèrement les dégâts, la vitesse au corps à corps, les chances de coup critique,
-la régénération de santé, la défense, la vitesse d'extraction et le recul de sbires","Se si indossa durante il giorno, dona un incremento minimo a danni, velocità in mischia, probabilità di colpo critico,
-rigenerazione vita, difesa, velocità di estrazione e spintone dei seguaci","При ношении в дневное время немного увеличивает урон, скорость ближнего боя, шанс критического урона,
-восстановление жизни, защиту, скорость добычи руды и отбрасывание при атаках прислужников","白天穿戴可小幅增加伤害、近战速度、暴击率、
-生命再生、防御力、采矿速度和仆从击退力","白天穿戴可小幅增加伤害、近战速度、暴击率、
-生命再生、防御力、采矿速度和仆从击退力","Se usada durante o dia, concede um pequeno aumento no dano, na velocidade de ataque físico, na chance de acerto crítico, na regeneração de vida, na defesa, na velocidade de mineração e no recuo dos lacaios","Schaden, Nahkampftempo, kritische Trefferchance, Lebensregeneration
-Verteidigung, Bergbautempo und Günstlingsrückstoß sind geringfügig erhöht,
-wenn er am Tag getragen wird","Noszony za dnia zapewnia niewielkie zwiększenie obrażeń, szybkości walki w zwarciu, szansy na trafienie krytyczne,
-regeneracji życia, obrony, szybkości kopania oraz odrzutu sług"
+
+
 "ItemTooltip.SuperAbsorbantSponge","Capable of soaking up an endless amount of water","Capaz de absorber una cantidad ilimitada de agua","Peut absorber un volume infini d'eau","Può assorbire una quantità di acqua infinita","Может вместить в себя бесконечное количество воды","能够吸收无限多的水","能够吸收无限多的水","Capaz de acumular uma quantidade infinita de água","Eine unendliche Menge Wasser kann aufgesogen werden","Może wchłonąć nieskończone ilości wody"
 "ItemTooltip.SuperheatedBlood","Summons a rideable lava shark mount
 'Bloody hell!'","Invoca una montura de tiburón de lava
@@ -18011,11 +17893,8 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "NPCName.GoldSeahorse","Gold Seahorse","Caballito de mar dorado","Hippocampe doré","Ippocampo d'oro","Золотой морской конек","金海马","金海马","Cavalo-marinho de Ouro","Goldenes Seepferdchen","Złoty konik morski"
 "NPCName.GoldWaterStrider","Gold Water Strider","Tejedor dorado","Araignée d'eau dorée","Gerride d'oro","Золотая водомерка","金水黾","金水黾","Aranha-d'água de Ouro","Goldener Wasserläufer","Złoty nartnik"
 "NPCName.GoldWorm","Gold Worm","Gusano dorado","Ver doré","Verme d'oro","Золотой червь","金蠕虫","金蠕虫","Verme de Ouro","Goldwurm","Złoty robak"
-"NPCName.Golem","Golem","Gólem","Golem","Golem","Голем","石巨人","石巨人","Golem","Golem","Golem"
-"NPCName.GolemFistLeft","Golem Fist","Puño de gólem","Poing de Golem","Pugno di golem","Кулак голема","石巨人之拳","石巨人之拳","Punho de Golem","Golemfaust","Pięść golema"
-"NPCName.GolemFistRight","Golem Fist","Puño de gólem","Poing de Golem","Pugno di golem","Кулак голема","石巨人之拳","石巨人之拳","Punho de Golem","Golemfaust","Pięść golema"
-"NPCName.GolemHead","Golem Head","Cabeza de gólem","Tête de Golem","Testa di golem","Голова Голема","石巨人头","石巨人头","Cabeça de Golem","Golemkopf","Głowa golema"
-"NPCName.GolemHeadFree","Golem Head","Cabeza de gólem","Tête de Golem","Testa di golem","Голова Голема","石巨人头","石巨人头","Cabeça de Golem","Golemkopf","Głowa golema"
+
+
 "NPCName.Golfer","Golfer","Golfista","Golfeur","Golfista","Гольфист","高尔夫球手","高尔夫球手","Golfista","Golfer","Golfista"
 "NPCName.GolferRescue","Golfer","Golfista","Golfeur","Golfista","Гольфист","高尔夫球手","高尔夫球手","Golfista","Golfer","Golfista"
 "NPCName.GraniteFlyer","Granite Elemental","Granito elemental","Élémentaire de granite","Elementale di granito","Гранитный элементаль","花岗精","花岗精","Elemental de Granito","Granit-Elementar","Granitowy żywiołak"
@@ -18614,7 +18493,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ProjectileName.BookOfSkullsSkull","Skull","Calavera","Crâne","Teschio","Череп","骷髅头","骷髅头","Caveira","Schädel","Czaszka"
 "ProjectileName.BookStaffShot","Tome of Infinite Wisdom","Libro de la Sabiduría Infinita","Tome de Sagesse infinie","Tomo della saggezza infinita","Книга бесконечной мудрости","无限智慧巨著","无限智慧巨著","Tomo da Sabedoria Infinita","Buch des unendlichen Wissens","Księga nieskończonej mądrości"
 "ProjectileName.Boulder","Boulder","Roca","Rocher","Masso","Валун","巨石","巨石","Rochedo","Felsen","Głaz"
-"ProjectileName.BoulderStaffOfEarth","Boulder","Roca","Rocher","Masso","Валун","巨石","巨石","Rochedo","Felsen","Głaz"
+
 "ProjectileName.BouncingShield","Sergeant United Shield","Escudo unido de sargento","Écu uni de sergent","Scudo del sergente","Щит сержанта Юнайтед","中士联盾","中士联盾","Escudo do Sargento Unido","Sergeant United-Schild","Tarcza Sierżanta USA"
 "ProjectileName.BouncyBomb","Bouncy Bomb","Bomba saltarina","Bombe à rebonds","Bomba a rimbalzo","Прыгучая бомба","弹力炸弹","弹力炸弹","Bomba Saltitante","Federnde Bombe","Skacząca bomba"
 "ProjectileName.BouncyDynamite","Bouncy Dynamite","Dinamita saltarina","Dynamite à rebonds","Dinamite a rimbalzo","Прыгучий динамит","弹力雷管","弹力雷管","Dinamite Saltitante","Federndes Dynamit","Skaczący dynamit"
@@ -18873,7 +18752,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ProjectileName.GoldenShowerFriendly","Golden Shower","Ducha dorada","Douche dorée","Doccia dorata","Золотой душ","黄金雨","黄金雨","Chuveiro Dourado","Goldener Schauer","Złoty deszcz"
 "ProjectileName.GoldenShowerHostile","Golden Shower","Ducha dorada","Douche dorée","Doccia dorata","Золотой душ","黄金雨","黄金雨","Chuveiro Dourado","Goldener Schauer","Złoty deszcz"
 
-"ProjectileName.GolemFist","Golem Fist","Puño de gólem","Poing de Golem","Pugno di golem","Кулак голема","石巨人之拳","石巨人之拳","Punho de Golem","Golemfaust","Pięść golema"
+
 "ProjectileName.GolfBallDyedBlack","Golf Ball","Pelota de golf","Balle de golf","Palla da golf","Золотой мяч","高尔夫球","高尔夫球","Bola de Golfe","Golfball","Piłka golfowa"
 "ProjectileName.GolfBallDyedBlue","Golf Ball","Pelota de golf","Balle de golf","Palla da golf","Золотой мяч","高尔夫球","高尔夫球","Bola de Golfe","Golfball","Piłka golfowa"
 "ProjectileName.GolfBallDyedBrown","Golf Ball","Pelota de golf","Balle de golf","Palla da golf","Золотой мяч","高尔夫球","高尔夫球","Bola de Golfe","Golfball","Piłka golfowa"
@@ -18913,7 +18792,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ProjectileName.Harpoon","Harpoon","Arpón","Harpon","Arpione","Гарпун","鱼叉枪","鱼叉枪","Arpão","Harpune","Harpun"
 "ProjectileName.HarpyFeather","Harpy Feather","Pluma de arpía","Plume de harpie","Piuma dell'arpia","Перо гарпии","鸟妖之羽","鸟妖之羽","Pena de Harpia","Harpyenfeder","Pióro harpii"
 "ProjectileName.Headstone","Tombstone","Lápida","Pierre tombale","Lapide","Надгробная плита","墓石","墓石","Lápide","Grabstein","Nagrobek"
-"ProjectileName.HeatRay","Heat Ray","Rayo calorífico","Rayon thermique","Raggio di calore","Тепловой луч","高温射线枪","高温射线枪","Raio de Calor","Hitzestrahl","Promień ciepła"
+
 "ProjectileName.HelFire","Yoyo","Yoyó","Yoyo","Yo-yo","Йо-йо","悠悠球","悠悠球","Ioiô","Jojo","Jojo"
 "ProjectileName.HellfireArrow","Hellfire Arrow","Flecha de fuego infernal","Flèche de l'enfer","Freccia di fuoco infernale","Стрела адского огня","狱炎箭","狱炎箭","Flecha do Inferno","Höllenfeuerpfeil","Strzała piekielnego ognia"
 "ProjectileName.Hellwing","Hellwing","Ala infernal","Ailes de feu","Ala di fuoco infernale","Адское крыло","地狱之翼","地狱之翼","Asa do Inferno","Höllenflügen","Piekielne skrzydło"
@@ -18971,7 +18850,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ProjectileName.LavaRocket","Rocket","Cohete","Fusée","Razzo","Ракета","火箭","火箭","Foguete","Rakete","Rakieta"
 "ProjectileName.LavaSnowmanRocket","Rocket","Cohete","Fusée","Razzo","Ракета","火箭","火箭","Foguete","Rakete","Rakieta"
 
-"ProjectileName.Leaf","Leaf","Hoja","Feuille","Foglia","Лист","树叶","树叶","Folha","Blatt","Liść"
+
 "ProjectileName.LightBeam","Light Beam","Rayo de luz","Faisceau de lumière","Raggio di luce","Луч света","光束","光束","Feixe de Luz","Lichtstrahl","Świetlisty promień"
 "ProjectileName.LightDisc","Light Disc","Disco de luz","Disque de lumière","Disco di luce","Диск света","光辉飞盘","光辉飞盘","Disco de Luz","Lichtscheibe","Świetlisty dysk"
 "ProjectileName.LilHarpy","Lil' Harpy","Pequeña arpía","Petite harpie","Piccola arpia","Мелкая гарпия","小鸟妖","小鸟妖","Harpinha","Winzharpyie","Mała harpia"
@@ -19116,7 +18995,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ProjectileName.PortalGun","Portal Gun","Arma de portales","Fusil à portails","Pistola del portale","Портальная пушка","传送枪","传送枪","Pistola do Portal","Portalkanone","Pistolet portalu"
 "ProjectileName.PortalGunBolt","Portal Bolt","Rayo de portales","Éclair de portail","Saetta del portale","Портальный снаряд","传送矢","传送矢","Raio do Portal","Portalbolzen","Pocisk portalu"
 "ProjectileName.PortalGunGate","Portal Gate","Puerta de portales","Porte de portail","Porta del portale","Портальные врата","传送通道","传送通道","Entrada do Portal","Portaltor","Brama portalu"
-"ProjectileName.PossessedHatchet","Possessed Hatchet","Hacha de mano poseída","Hachette possédée","Accetta posseduta","Одержимый топорик","疯狂飞斧","疯狂飞斧","Machadinha Possuída","Besessenes Beil","Opętany topór"
+
 "ProjectileName.Present","Present","Regalo","Cadeau","Regalo","Подарок","礼物","礼物","Presente","Geschenk","Prezent"
 "ProjectileName.PrincessWeapon","Royal Resonance","Resonancia real","Résonance royale","Risonanza reale","Королевский резонанс","皇家共鸣","皇家共鸣","Ressonância Real","Königliche Resonanz","Królewski rezonans"
 "ProjectileName.ProximityMineI","Proximity Mine","Mina de proximidad","Mine de proximité","Mina di prossimità","Неконтактная мина","感应雷","感应雷","Minas de Proximidade","Landmine","Mina zbliżeniowa"
@@ -19298,8 +19177,7 @@ Bez względu na to, co ci ten przedmiot zrobi – to nie jest błąd!"
 "ProjectileName.StormTigerTier1","Desert Tiger","Tigre del desierto","Tigre du désert","Tigre del deserto","Тигр пустыни","沙漠虎","沙漠虎","Tigre do Deserto","Wüstentiger","Pustynny tygrys"
 "ProjectileName.StormTigerTier2","Desert Tiger","Tigre del desierto","Tigre du désert","Tigre del deserto","Тигр пустыни","沙漠虎","沙漠虎","Tigre do Deserto","Wüstentiger","Pustynny tygrys"
 "ProjectileName.StormTigerTier3","Desert Tiger","Tigre del desierto","Tigre du désert","Tigre del deserto","Тигр пустыни","沙漠虎","沙漠虎","Tigre do Deserto","Wüstentiger","Pustynny tygrys"
-"ProjectileName.Stynger","Stynger","Stynger","Cingleur","Lanciaframmenti","Стингер","毒刺发射器","毒刺发射器","Ferroada","Stachler","Stynger"
-"ProjectileName.StyngerShrapnel","Stynger","Stynger","Cingleur","Lanciaframmenti","Стингер","毒刺发射器","毒刺发射器","Ferroada","Stachler","Stynger"
+
 
 "ProjectileName.SuperStar","Super Star Cannon","Cañón de superestrellas","Super canon à étoiles","Cannone superstar","Суперзвездная пушка","超级星星炮","超级星星炮","Estrela Supercanhão","Supersternenkanone","Superarmata gwiazd"
 "ProjectileName.SuperStarSlash","Super Star Cannon","Cañón de superestrellas","Super canon à étoiles","Cannone superstar","Суперзвездная пушка","超级星星炮","超级星星炮","Estrela Supercanhão","Supersternenkanone","Superarmata gwiazd"

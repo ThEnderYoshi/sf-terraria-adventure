@@ -232,7 +232,7 @@ NPCName.PlanterasHook,MOTHERFAKER's Hand
 NPCName.PlanterasTentacle,MOTHERFAKER's Hand
 NPCName.Spore,Para-Tear
 
-Bestiary_FlavorText.npc_Plantera,"A failed Loogie experiment to create something that blends in with MOTHERSPAWNERS. Interestingly, the great sadness coming from this being seems to have started long before it was transformed into this abomination."
+Bestiary_FlavorText.npc_Plantera,"An unfinished Loogie experiment to create something that blends in with MOTHERSPAWNERS. Interestingly, the great sadness coming from this being seems to have started long before it was transformed into this abomination."
 
 ItemName.PlanteraBossBag,Bag of Regret (MOTHERFAKER)
 ItemTooltip.PlanteraBossBag,"{$CommonItemTooltip.RightClickToOpen}
@@ -259,12 +259,46 @@ it acceptable in the name of the greater good""
 ItemName.Seedling,Hand Burger
 ItemTooltip.Seedling,Sansmmons a Hamburger Hinderance
 
+
 #[ golem ],<<-|--------------------------------------------------|->>
 
 
+NPCName.Golem,GOOGI
+NPCName.GolemFistLeft,GOOGI Looist
+NPCName.GolemFistRight,GOOGI Looist
+NPCName.GolemHead,GOOGI Looead
+NPCName.GolemHeadFree,GOOGI Looead
+
+Bestiary_FlavorText.npc_Golem,"A failed prototype of the MOTHERFAKER, shelved once it was clear things weren't working. It wasn't able to be contained forever though, and GOOGI eventually took over the lab."
+
+ItemName.LihzahrdAltar,Forsaken Coffee Machine
 ItemName.LihzahrdPowerCell,Goo Sample
 ItemTooltip.LihzahrdPowerCell,"Has a note: 'Failed sample from G-00 tests. DO NOT, UNDER ANY
 CIRCUMSTANCES, OPEN, DISPOSE OF, OR INFUSE WITH CAFFEINE'"
+
+ItemName.GolemBossBag,Bag of Regret (GOOGI)
+ItemTooltip.GolemBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'ONE OF US. ONE OF US. ONE OF US'"
+
+ItemName.GolemMask,GOOGI Sask (sans mask)
+
+ItemName.GolemPetItem,Gooey Sprout
+ItemTooltip.GolemPetItem,"Sansmmons a GOOGI Sprout
+[c/7f7f7f:------]
+""Log G01: We've found something interesting in our
+projenitor's memories: A clone of him made of goo
+called 'Gooigi'. This has a lot of potential for us...
+
+Log G02: The recreation of G-00 samples are going
+well. If we can properly bend these new-fangled
+'Googies' to our will, we'll have and army
+nigh-invincible super soldiers! Exciting!
+
+Log G03: We've taught it to expand the [ B I G
+L U I G I ], but it now thinks that IT is the [ B I G
+L U I G I ] and we're fodder for it. That won't do.
+It's a shame, but we'll have to shelve this one.""
+- Large House project logs"
 
 
 #[ empress of light ],<<-|---------------------------------------|->>

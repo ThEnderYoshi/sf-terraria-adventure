@@ -17,6 +17,9 @@ ItemTooltip.Flamelash,"Sansmmons a controllable block of burning ice
 ItemName.NettleBurst,Extendo-Munch
 ItemTooltip.NettleBurst,"[c/ff0000:-10 sans DF]"
 
+ItemName.StaffofEarth,Broken Vat
+ItemTooltip.StaffofEarth,Sansmmons a powerful ballgi (ball loogi)
+
 
 #[ mage : guns ],<<-|--------------------------------------------|->>
 
@@ -35,6 +38,10 @@ ItemName.WaspGun,Ghost Chicken
 ItemTooltip.WaspGun,"[c/ff0000:-10 sans DF]
 'JOKES ON YOU DUMBASS
 THE CHICKEN HAS GHOST TOO'"
+
+ItemName.HeatRay,Pingor Gun
+ItemTooltip.HeatRay,"Shoots an acid stream of goo
+'GET REAADY TO00 MOOOO0()#@#O3####'"
 
 
 #[ melee : boomerangs ],<<-|-------------------------------------|->>
@@ -75,6 +82,14 @@ ItemName.Sunfury,Lower!Sansce
 ItemName.FlowerPow,V!Sansce
 ItemTooltip.FlowerPow,"Shcüts tears at nearby sanses
 'Hey, V!Sansce! Michael here'"
+
+
+#[ melee : flails ],<<-|-----------------------------------------|->>
+
+
+
+ItemName.GolemFist,Eye of the GOOt
+ItemTooltip.GolemFist,"Punches with the force (and flesh) of GOOGI"
 
 
 #[ melee : shortswords ],<<-|------------------------------------|->>
@@ -217,6 +232,9 @@ ItemName.ThrowingKnife,Hateful Knife
 ItemName.Beenade,Spooky Cocktail
 ItemTooltip.Beenade,Explodes into many Gohsts
 
+ItemName.PossessedHatchet,Overall Strap
+ItemTooltip.PossessedHatchet,Rapidly flings sans-chasing goo
+
 
 #[ ranged : rocket launchers ],<<-|------------------------------|->>
 
@@ -230,6 +248,10 @@ ItemName.GrenadeLauncher,Powerup Ballcher (ball launcher)
 ItemName.Blowpipe,Petri-Pipe
 ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo"
 ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}"
+
+ItemName.Stynger,Sneezer
+ItemTooltip.Stynger,"Sneezes a goo-spreading shot
+Deals extra sansmage (sans damage) on hit"
 
 
 #[ ranged : no ammo ],<<-|---------------------------------------|->>
@@ -255,6 +277,9 @@ ItemTooltip.ChlorophyteBullet,"Chases sanses to the ends of the Sans
 
 ItemName.Seed,Tiny Sprout
 ItemTooltip.Seed,"For use with the {$ItemName.Blowpipe}"
+
+ItemName.StyngerBolt,Snot Shot
+ItemTooltip.StyngerBolt,"Explodes into gooey sansrapnel (sans shrapnel)"
 
 
 #[ summoner : minions ],<<-|-------------------------------------|->>
