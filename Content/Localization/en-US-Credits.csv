@@ -15,19 +15,22 @@ CreditsRollCategory_Programming.5,Bombs for Throwing at You - Mike Morasky
 CreditsRollCategory_Programming.6,Cathedral (short version) - Marcus Gutierrez
 CreditsRollCategory_Programming.7,<placeholder>
 CreditsRollCategory_Programming.8,<placeholder>
+CreditsRollCategory_Programming.9,<placeholder>
+CreditsRollCategory_Programming.10,<placeholder>
 
 CreditsRollCategory_SpecialThanksto.1,Special Apologies to
 CreditsRollCategory_SpecialThanksto.2,Toby Fox
 CreditsRollCategory_SpecialThanksto.3,Temmie Chang
-CreditsRollCategory_SpecialThanksto.4,Andrew “Redigit” Spinks
-CreditsRollCategory_SpecialThanksto.5,Whitney “Cenx” Spinks
-CreditsRollCategory_SpecialThanksto.6,Everyone else at Re-Logic
-CreditsRollCategory_SpecialThanksto.7,The Steam Workshop Admins
-CreditsRollCategory_SpecialThanksto.8,Anyone who likes Sans (myself included)
-CreditsRollCategory_SpecialThanksto.9,Sans “The” Skeleton
-CreditsRollCategory_SpecialThanksto.10,Anyone that went to (the real) Sans Fanfic
-CreditsRollCategory_SpecialThanksto.11,The very concept of Art
-CreditsRollCategory_SpecialThanksto.12,"You, for playing through this"
+CreditsRollCategory_SpecialThanksto.4,Anyone else that worked on Undertale/Deltarune
+CreditsRollCategory_SpecialThanksto.5,Andrew “Redigit” Spinks
+CreditsRollCategory_SpecialThanksto.6,Whitney “Cenx” Spinks
+CreditsRollCategory_SpecialThanksto.7,Everyone else at Re-Logic
+CreditsRollCategory_SpecialThanksto.8,The Steam Workshop Admins
+CreditsRollCategory_SpecialThanksto.9,Anyone who likes Sans (myself included)
+CreditsRollCategory_SpecialThanksto.10,Sans “The” Skeleton
+CreditsRollCategory_SpecialThanksto.11,Anyone that went to (the real) Sans Fanfic
+CreditsRollCategory_SpecialThanksto.12,The very concept of Art
+CreditsRollCategory_SpecialThanksto.13,"You, for playing through this"
 
 
 #[ apologies ],<<-|----------------------------------------------|->>
@@ -52,7 +55,7 @@ CreditsRollCategory_ExecutiveProducer.2,Sans Undertale
 
 CreditsRollCategory_EndingNotes.1,Fuck You Windows 10
 
-CreditsRollCategory_Graphics.1,Grassphickz
+CreditsRollCategory_Graphics.1,Sans Fics
 CreditsRollCategory_Graphics.2,Sans Undertale
 CreditsRollCategory_Graphics.3,Sans Undertale
 CreditsRollCategory_Graphics.4,Sans Undertale
@@ -62,6 +65,35 @@ CreditsRollCategory_Graphics.7,Sans Undertale
 CreditsRollCategory_Graphics.8,Sans Undertale
 CreditsRollCategory_Graphics.9,Sans Undertale
 CreditsRollCategory_Graphics.10,Sans Undertale
+CreditsRollCategory_Graphics.11,Sans Undertale
+CreditsRollCategory_Graphics.12,Sans Undertale
+
+CreditsRollCategory_Localization.1,Localisanstion
+CreditsRollCategory_Localization.2,Sans Undertale
+CreditsRollCategory_Localization.de-DE_1,Sans Undertale
+CreditsRollCategory_Localization.es-ES_1,Sans Undertale
+CreditsRollCategory_Localization.es-ES_2,Sans Undertale
+CreditsRollCategory_Localization.fr-FR_1,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_1,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_2,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_3,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_4,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_5,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_6,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_7,Sans Undertale
+CreditsRollCategory_Localization.pl-PL_8,Sans Undertale
+CreditsRollCategory_Localization.pt-BR_1,Sans Undertale
+CreditsRollCategory_Localization.pt-BR_2,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_1,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_2,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_3,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_4,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_5,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_6,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_7,Sans Undertale
+CreditsRollCategory_Localization.ru-RU_8,Sans Undertale
+CreditsRollCategory_Localization.ru-RU-9,Sans Undertale
+CreditsRollCategory_Localization.zh-Hans_1,Sans Undertale
 
 CreditsRollCategory_Marketing.1,The Lord thy GOD
 CreditsRollCategory_Marketing.2,[ B I G   S A N S ]
@@ -117,7 +149,6 @@ CreditsRollCategory_Playtesting.45,Sans Undertale
 CreditsRollCategory_Playtesting.46,Sans Undertale
 CreditsRollCategory_Playtesting.47,Sans Undertale
 CreditsRollCategory_Playtesting.48,Sans Undertale
-CreditsRollCategory_Playtesting.49,Sans Undertale
 CreditsRollCategory_Playtesting.50,Sans Undertale
 CreditsRollCategory_Playtesting.51,Sans Undertale
 CreditsRollCategory_Playtesting.52,Sans Undertale
@@ -143,6 +174,9 @@ CreditsRollCategory_Playtesting.71,Sans Undertale
 CreditsRollCategory_Playtesting.72,Sans Undertale
 CreditsRollCategory_Playtesting.73,Sans Undertale
 CreditsRollCategory_Playtesting.74,Sans Undertale
+CreditsRollCategory_Playtesting.75,Sans Undertale
+CreditsRollCategory_Playtesting.76,Sans Undertale
+CreditsRollCategory_Playtesting.77,Sans Undertale
 
 CreditsRollCategory_PublicRelations.1,Sussy Relations
 CreditsRollCategory_PublicRelations.2,"That's it, that's the ONLY amongus joke, I swear"
@@ -153,6 +187,7 @@ CreditsRollCategory_QualityAssurance.3,Sans Undertale
 CreditsRollCategory_QualityAssurance.4,Sans Undertale
 CreditsRollCategory_QualityAssurance.5,Sans Undertale
 CreditsRollCategory_QualityAssurance.6,Sans Undertale
+CreditsRollCategory_QualityAssurance.7,Sans Undertale
 
 CreditsRollCategory_Sound.1,Sand (Sans sound)
 CreditsRollCategory_Sound.2,“I don't like sans

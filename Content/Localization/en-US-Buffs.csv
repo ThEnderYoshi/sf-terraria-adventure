@@ -72,6 +72,9 @@ BuffDescription.Webbed,"Bad touch. BAD TOUCH"
 BuffName.DryadsWardDebuff,[c/e9581c:Flowey'd (bad)]
 BuffDescription.DryadsWardDebuff,"SIKE! Flowey was bad guy ALL ALONG ! ! >:)"
 
+BuffName.Hemorrhage,[c/e9581c:Assimilating]
+BuffDescription.Hemorrhage,"You are becoming one with GOOGI. It's okay, don't resist. It'll all be over soon."
+
 
 #[ minions ],<<-|------------------------------------------------|->>
 
@@ -87,6 +90,7 @@ BuffDescription.ImpMinion,"The bouncy little pumpkin will protect your behind"
 
 BuffName.Pygmies,[c/ffc700:Puffles]
 BuffDescription.Pygmies,"The puffles will protect your behind"
+
 
 #[ pets ],<<-|---------------------------------------------------|->>
 
@@ -138,20 +142,14 @@ BuffDescription.BeeMount,"Uhh..."
 #[ minecarts ],<<-|----------------------------------------------|->>
 
 
-BuffName.MinecartLeftWood,Bad Thyme Minecrap
-BuffName.MinecartRightWood,"{$BuffName.MinecartLeftWood}"
-BuffDescription.MinecartLeftWood,"Playing minecrap"
-BuffDescription.MinecartRightWood,"{$BuffDescription.MinecartLeftWood}"
+BuffName.MinecartWood,Bad Thyme Minecrap
+BuffDescription.MinecartWood,"Playing minecrap"
 
-BuffName.BeeMinecartLeft,"{$ItemName.BeeMinecart}"
-BuffName.BeeMinecartRight,"{$ItemName.BeeMinecart}"
-BuffDescription.BeeMinecartLeft,"{$BuffDescription.MinecartLeftWood}"
-BuffDescription.BeeMinecartRight,"{$BuffDescription.MinecartRightWood}"
+BuffName.BeeMinecart,"{$ItemName.BeeMinecart}"
+BuffDescription.BeeMinecart,"{$BuffDescription.MinecartWood}"
 
-BuffName.BeetleMinecartLeft,"{$ItemName.BeetleMinecart}"
-BuffName.BeetleMinecartRight,"{$ItemName.BeetleMinecart}"
-BuffDescription.BeetleMinecartLeft,"{$BuffDescription.MinecartLeftWood}"
-BuffDescription.BeetleMinecartRight,"{$BuffDescription.MinecartRightWood}"
+BuffName.BeetleMinecart,"{$ItemName.BeetleMinecart}"
+BuffDescription.BeetleMinecart,"{$BuffDescription.MinecartWood}"
 
 
 #[ armor set bonuses ],<<-|--------------------------------------|->>

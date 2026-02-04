@@ -10,8 +10,8 @@
 game to be themed around <span style="color:red">[_Sans Fanfic_]</span>.
 
 That mainly includes the game's
-**<!--#region img_count-->13,595<!--#endregion-->** images and
-**<!--#region txt_count-->18,288<!--#endregion-->** text entries. See the
+**<!--#region img_count-->14,994<!--#endregion-->** images and
+**<!--#region txt_count-->19,963<!--#endregion-->** text entries. See the
 `Status` section below for the current progress.
 
 > [!NOTE]
@@ -48,16 +48,16 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2026-02-02 UTC_
+> Last updated: _2026-02-04 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
-| Total        | ![14%](https://geps.dev/progress/14) |
+| Total        | ![12%](https://geps.dev/progress/12) |
 | Update       | ![90%](https://geps.dev/progress/90) |
-| Images       | 1,908 / 13,595                       |
-| Text Entries | 4,220 / 18,288                       |
-| Songs        | 24 / 91                              |
-| Sounds       | 60 / 765                             |
+| Images       | 1,907 / 14,994                       |
+| Text Entries | 4,250 / 19,963                       |
+| Songs        | 24 / 104                             |
+| Sounds       | 60 / 851                             |
 <!--#endregion-->
 
 ## ![questions & answers](.github/images/icon-other.png)

@@ -7,7 +7,7 @@ Key,Translation
 #( placeholder : fishing ),fish up
 CommonItemTooltip.Kite,"Can be used to fish up air parasites
 Well, it would if that was actually a thing
-Reel it in with <right>"
+Reel it in with {InputTrigger_ToggleOrOpen}"
 
 #( placeholder : bait ),bait
 ItemName.KiteAngryTrapper,Fist of Gaster Aero-bait

@@ -179,6 +179,7 @@ unfinished textures:
   other:
     - 'Dust.png'    # See Dust.ase
     - 'Rain.png'    # Needs updated water colors.
+    - 'Wires.png'   # Using vanilla wire texture
 reconsider:
   Gore_:
     - '914'  # Falling Jungle Leaves. Just a recolor of forest leaves.

@@ -94,7 +94,7 @@ LegacyTooltip.51,Absolutely worthlans
 
 CommonItemTooltip.BannerBonus,"Provides [ B I G   S A N S ]'s blessing against "
 
-CommonItemTooltip.RightClickToOpen,<right> to sanspen (sans open)
+CommonItemTooltip.RightClickToOpen,{InputTrigger_ToggleOrOpen} to sanspen (sans open)
 CommonItemTooltip.Sentry,Sansmmons a sanstry
 CommonItemTooltip.TeleportationPylon,"Telesans to another sanslon when 2 friendly sanses are nearby
 You can only place one per type and in a matching biome"

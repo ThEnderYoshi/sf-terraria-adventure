@@ -3,17 +3,6 @@
 
 # -- End of Commit --
 
-# !! IMPORTANT !!
-- Re-gen assets (1.4.5 update):
-  - Update TPack to support the Localization Extractor's format
-  - Do the do
-- Fix problems due to update:
-  - Fix pylons
-  - Fix banners
-  - Localize Hemorrhage debuff
-  - Move queen bee music from 'Boss 5' to 'Queen Bee'
-  - <keep checking>
-
 # For later - BEFORE JUNGLE UPDATE RELEASES
 - <remaining rich mahogany recipes>:
     - Armor
@@ -147,6 +136,7 @@
 - <spectre bar + recipes>
 - Safe
 - Void Bag/Vault # Might as well, you 'unlock' them together with the dungeon
+- Re-sprite Secret Skeletron version
 
 # For later - BEFORE MUSHROOM UPDATE RELEASES
 - <shroomite bar + recipes>

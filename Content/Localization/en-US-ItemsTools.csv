@@ -199,11 +199,11 @@ ItemTooltip.ViciousPowder,"Spreads the No San's Land
 
 ItemName.DontHurtNatureBook,Little Guy That Tells You Not To Hurt Plants
 ItemTooltip.DontHurtNatureBook,"What it says on the tin
-<right> to trick into sleeping"
+{InputTrigger_ToggleOrOpen} to trick into sleeping"
 
 ItemName.DontHurtNatureBookInactive,Little Guy That Tells You Not To Hurt Plants (sleeping)
 ItemTooltip.DontHurtNatureBookInactive,"What it says on the tin
-<right> to feel bad for tricking him and wake him up"
+{InputTrigger_ToggleOrOpen} to feel bad for tricking him and wake him up"
 
 ItemName.EmptyBucket,Empty Jug
 ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
