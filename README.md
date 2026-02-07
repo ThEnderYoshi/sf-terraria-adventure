@@ -54,8 +54,8 @@ complete, so **strap in!!!**
 |:------------:|:------------------------------------:|
 | Total        | ![12%](https://geps.dev/progress/12) |
 | Update       | ![92%](https://geps.dev/progress/92) |
-| Images       | 1,920 / 14,994                       |
-| Text Entries | 4,260 / 19,963                       |
+| Images       | 1,923 / 14,994                       |
+| Text Entries | 4,263 / 19,963                       |
 | Songs        | 24 / 104                             |
 | Sounds       | 66 / 851                             |
 <!--#endregion-->
