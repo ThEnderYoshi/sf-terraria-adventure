@@ -1,6 +1,13 @@
 Key,Translation
 
 
+#[ mage ],<<-|---------------------------------------------------|->>
+
+
+ItemName.NaturesGift,Bad Eye
+ItemTooltip.NaturesGift,"[c/ff0000:-6% TP cost]"
+
+
 #[ melee ],<<-|--------------------------------------------------|->>
 
 

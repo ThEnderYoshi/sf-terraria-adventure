@@ -4,6 +4,10 @@ Key,Translation
 #[ woods ],<<-|--------------------------------------------------|->>
 
 
+ItemName.RichMahoganyHelmet,Homely Brain Infection
+ItemName.RichMahoganyBreastplate,Homely Body Infection
+ItemName.RichMahoganyGreaves,Homely Leg Infection
+
 # ItemName.EbonwoodBreastplate,|> >>--->   UNSET   <---<< <|
 # ItemName.EbonwoodGreaves,    |> >>--->   UNSET   <---<< <|
 # ItemName.EbonwoodHelmet,     |> >>--->   UNSET   <---<< <|

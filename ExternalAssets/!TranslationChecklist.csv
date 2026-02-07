@@ -6275,9 +6275,6 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.JungleChest","Jungle Chest","Cofre de la selva","Coffre de la jungle","Cassa della giungla","Сундук джунглей","丛林箱","丛林箱","Baú da Selva","Dschungeltruhe","Kufer z dżungli"
 
 
-"ItemName.JungleFishingCrateHard","Bramble Crate","Caja de zarzas","Caisse de ronces","Cassa di rovi","Ящик с колючим кустом","荆棘匣","荆棘匣","Caixote de Cipó","Dornenkiste","Skrzynia jeżyn"
-
-
 "ItemName.JungleKey","Jungle Key","Llave de la selva","Clé de la jungle","Chiave della giungla","Ключ джунглей","丛林钥匙","丛林钥匙","Chave da Selva","Dschungelschlüssel","Klucz z dżungli"
 
 
@@ -6796,9 +6793,6 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.MudBlock","Mud Block","Bloque de lodo","Bloc de boue","Blocco di fango","Блок из грязи","泥块","泥块","Bloco de Lama","Schlammblock","Blok błota"
 
 
-"ItemName.MudstoneBlock","Mudstone Brick","Ladrillo de lutita","Brique de pierre boueuse","Mattone pietrafango","Аргиллитовый кирпич","泥石砖","泥石砖","Tijolo de Pedra-de-lama","Schlammsteinziegel","Cegła kamienia błotnego"
-"ItemName.MudstoneBrickWall","Mudstone Brick Wall","Pared de ladrillo de lutita","Mur en brique de pierre boueuse","Muro di pietrafango","Стена из аргиллитового кирпича","泥石砖墙","泥石砖墙","Parede de Tijolos de Pedra-de-lama","Schlammstein-Ziegelwand","Ściana z cegieł kamienia błotnego"
-"ItemName.MudWallEcho","Mud Wall","Pared de barro","Mur en boue","Muro di fango","Аргиллитовая стена","泥墙","泥墙","Parede de Lama","Schlammwand","Ściana z błota"
 "ItemName.Mug","Mug","Taza","Tasse","Boccale","Чашка","玻璃杯","玻璃杯","Caneca","Krug","Kubek"
 "ItemName.MulticoloredBulb","Multicolored Bulb","Bombilla multicolor","Boules multicolores","Palline multicolore","Разноцветные игрушки","五彩灯泡","五彩灯泡","Bola Colorida","Bunte Kugel","Kolorowa bombka"
 "ItemName.MulticoloredLights","Multicolored Lights","Luces multicolor","Lumières multicolores","Luci multicolore","Разноцветная гирлянда","五彩光","五彩光","Luzes Coloridas","Bunte Lichter","Kolorowe lampki"
@@ -6958,7 +6952,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.NailheadBanner","Nailhead Banner","Estandarte de cabezaclavo","Bannière de Tête à clous","Stendardo testa di chiodo","Знамя гвоздеголова","钉头旗","钉头旗","Bandeira do Cabeça de Pregos","Nagelkopf-banner","Sztandar gwoździołba"
 "ItemName.Nanites","Nanites","Nanitos","Nanites","Naniti","Наниты","纳米机器人","纳米机器人","Nanobôs","Naniten","Nanity"
 "ItemName.NanoBullet","Nano Bullet","Nanobala","Nanoballe","Nano-proiettile","Нанопуля","纳米弹","纳米弹","Nano-Projétil","Nanokugel","Nanokula"
-"ItemName.NaturesGift","Nature's Gift","Don de la naturaleza","Don de la nature","Dono della natura","Дар природы","大自然的恩赐","大自然的恩赐","Presente da Natureza","Geschenk der Natur","Prezent natury"
+
 "ItemName.NaughtyPresent","Naughty Present","Regalo asqueroso","Cadeau de vilain","Regalo per birichini","Гадкий подарок","调皮礼物","调皮礼物","Presente dos Malcriados","Unartiges Geschenk","Brzydki prezent"
 "ItemName.Nazar","Nazar","Nazar","Nazar","Nazar","Назар","邪眼","邪眼","Nazar","Nazar","Nazar"
 "ItemName.NebulaArcanum","Nebula Arcanum","Arcanum de nebulosa","Arcanum de nébuleuse","Arcanum di nebulosa","Туманый арканум","星云奥秘","星云奥秘","Arcano de Nébula","Nebula Arcanum","Arkanum mgławicy"
@@ -7626,14 +7620,6 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.RichGravestone4","Golden Gravestone","Lápida dorada","Pierre de tombe en or","Pietra sepolcrale dorata","Золотая могильная плита","金墓碑","金墓碑","Lápide com Cruz Grande Dourada","Goldene Grabplatte","Złoty kamień nagrobkowy"
 "ItemName.RichGravestone5","Golden Headstone","Piedra sepulcral dorada","Stèle en or","Lastra dorata","Золотой могильный камень","金碑石","金碑石","Lápide com Cruz Dourada","Goldener Leichenstein","Złota macewa"
 
-"ItemName.RichMahoganyBow","Rich Mahogany Bow","Arco de madera de caoba rica","Arc en acajou riche","Arco di mogano scuro","Лук из красной древесины","红木弓","红木弓","Arco de Mogno","Reicher Mahagonibogen","Łuk mahoniowy"
-"ItemName.RichMahoganyBreastplate","Rich Mahogany Breastplate","Coraza de madera de caoba rica","Plastron en acajou riche","Corazza di mogano scuro","Нагрудник из красной древесины","红木胸甲","红木胸甲","Peitoral de Mogno","Reiche Mahagonibrustplatte","Mahoniowy napierśnik"
-
-"ItemName.RichMahoganyGreaves","Rich Mahogany Greaves","Grebas de madera de caoba ricas","Grèves en acajou riche","Schinieri di mogano scuro","Ботинки из красной древесины","红木护胫","红木护胫","Grevas de Mogno","Reiche Mahagonigamaschen","Mahoniowe nagolenniki"
-"ItemName.RichMahoganyHammer","Rich Mahogany Hammer","Martillo de madera de caoba rica","Marteau en acajou riche","Martello di mogano scuro","Молот из красной древесины","红木锤","红木锤","Martelo de Mogno","Reicher Mahagonihammer","Młot mahoniowy"
-"ItemName.RichMahoganyHelmet","Rich Mahogany Helmet","Casco de madera de caoba rica","Casque en acajou riche","Casco di mogano scuro","Шлем из красной древесины","红木头盔","红木头盔","Elmo de Mogno","Reicher Mahagonihelm","Mahoniowy hełm"
-
-"ItemName.RichMahoganySword","Rich Mahogany Sword","Espada de madera de caoba rica","Épée en acajou riche","Spada di mogano scuro","Меч из красной древесины","红木剑","红木剑","Espada de Mogno","Reiches Mahagonischwert","Miecz mahoniowy"
 
 "ItemName.RifleScope","Rifle Scope","Mira telescópica","Lunette de visée","Mirino da fucile","Оптический прицел","步枪瞄准镜","步枪瞄准镜","Luneta do Fuzil","Zielfernrohr","Luneta do karabinu"
 "ItemName.RoastedBird","Roasted Bird","Pájaro asado","Volaille rôtie","Uccello arrosto","Жареная птица","烤鸟","烤鸟","Ave Assada","Gebratener Vogel","Pieczony ptak"
@@ -8554,7 +8540,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "ItemName.ToiletPalm","Palm Wood Toilet","Retrete de madera de palmera","Toilettes de palmier","Toilette di legno di palma","Унитаз из пальмовой древесины","棕榈木马桶","棕榈木马桶","Privada de Madeira de Palmeira","Palmholztoilette","Toaleta z drewna palmowego"
 
 "ItemName.ToiletPumpkin","Pumpkin Toilet","Retrete de calabaza","Toilettes en citrouille","Toilette di zucca","Тыквенный унитаз","南瓜马桶","南瓜马桶","Privada de Abóbora","Kürbistoilette","Dyniowa toaleta"
-"ItemName.ToiletRichMahogany","Rich Mahogany Toilet","Retrete de madera de caoba rica","Toilettes en acajou riche","Toilette di mogano scuro","Унитаз из красной древесины","红木马桶","红木马桶","Privada de Mogno","Reiche Mahagonitoilette","Toaleta mahoniowa"
+
 "ItemName.ToiletShadewood","Shadewood Toilet","Retrete de madera sombría","Toilettes en bois d'ombre","Toilette di grigiolegno","Унитаз из мрачного дерева","暗影木马桶","暗影木马桶","Privada de Madeira Escura","Schattenholztoilette","Toaleta z drewna mroku"
 "ItemName.ToiletSlime","Slime Toilet","Retrete slime","Toilettes en gelée","Toilette di slime","Слизневый унитаз","史莱姆马桶","史莱姆马桶","Privada de Geleia","Schleimtoilette","Szlamowa toaleta"
 "ItemName.ToiletSpider","Spider Toilet","Retrete araña","Toilettes araignée","Toilette ragno","Паучий унитаз","蜘蛛马桶","蜘蛛马桶","Privada da Aranha","Spinnentoilette","Pajęcza toaleta"
@@ -12462,9 +12448,6 @@ Becca questo!","Набирайте обороты, чтобы увеличить
 „Naprzód!”"
 
 
-"ItemTooltip.JungleFishingCrateHard","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}","{$ItemTooltip.JungleFishingCrate}"
-
-
 "ItemTooltip.JungleKey","Unlocks a Jungle Chest in the dungeon","Desbloquea un cofre de la selva en esta mazmorra","Ouvre un coffre de la Jungle dans le donjon","Sblocca una cassa della giungla nel dungeon","Открывает сундук джунглей в Темнице","打开地牢中的丛林箱","打开地牢中的丛林箱","Desbloqueia um baú da selva no calabouço","Öffnet eine Dschungel-Truhe im Verlies","Odblokowuje kufer z dżungli w lochu"
 
 
@@ -13490,7 +13473,7 @@ Non chiedermi di condividere!","{$CommonItemTooltip.MediumStats}
 „Meksykańskie niebo w gębie!”"
 "ItemTooltip.NailheadBanner","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}","{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}"
 "ItemTooltip.NanoBullet","Causes confusion and bounces back after hitting a wall","Provoca Confusión y revota tras golpear en una pared","Cause la confusion et rebondit au contact d'un mur","Provoca confusione e rimbalza dopo aver colpito un muro","Вызывает запутанность и отскакивает при ударе о стену","造成混乱，并在撞墙后弹回","造成混乱，并在撞墙后弹回","Causa confusão e rebate depois de acertar uma parede","Stiftet Verwirrung und prallt ab, wenn sie eine Wand trifft","Powoduje dezorientację, a po uderzeniu w ścianę odbija się z powrotem"
-"ItemTooltip.NaturesGift","6% reduced mana usage","Reduce el uso de maná en un 6%","-6 % d'usage de mana","Consumo mana ridotto del 6%","Снижает использование маны на 6 %","魔力消耗减少6%","魔力消耗减少6%","6% de redução no consumo de mana","Um 6% reduzierte Mananutzung","6% mniejsze zużycie many"
+
 "ItemTooltip.NaughtyPresent","Summons the Frost Moon","Invoca a la Luna Gélida","Invoque la Lune de givre","Evoca la luna del gelo","Вызывает морозную луну","召唤霜月","召唤霜月","Invoca a Lua de Gelo","Beschwört den Frostmond","Przywołuje mroźny księżyc"
 "ItemTooltip.Nazar","Immunity to Curse","Inmunidad a Maldición","Immunité contre les malédictions","Immune dalla maledizione","Невосприимчивость к проклятию","对诅咒免疫","对诅咒免疫","Imune a maldições","Immun gegen Fluch","Odporność na Klątwę"
 "ItemTooltip.NebulaArcanum","'Conjure masses of astral energy to chase down your foes'","Conjura masas de energía astral para perseguir a tus enemigos","Fait apparaître des masses d'énergie astrale pour pourchasser vos ennemis","Evoca grandi quantità di energia astrale per inseguire i nemici","Вызывает астральную энергию и направляет ее на ваших врагов","“召唤大量星际能量，用来追杀敌人”","“召唤大量星际能量，用来追杀敌人”","Conjure massas de energia astral para perseguir seus inimigos'","‚Beschwöre massenhaft astrale Energie, die deinen Feinden folgt‘","Tworzy astralną energię ścigającą twoich przeciwników"

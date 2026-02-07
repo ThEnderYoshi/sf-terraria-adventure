@@ -29,9 +29,11 @@ The theme for this update was beloved and/or beloathed
 ### Added
 
 - _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
-  Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey, Lihzahrd Brick
+  Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey, Lihzahrd Brick,
+  Mudstone Brick
 - _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo, Chlorophyte,
-  Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone, Lihzahrd Brick
+  Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone, Lihzahrd Brick,
+  Mudstone Brick
 - _Ores:_ Chlorophyte
 - _Potions:_ Fishing
 - _Crafting Stations:_ Honey Dispenser
@@ -42,7 +44,7 @@ The theme for this update was beloved and/or beloathed
   Apple, Apple Juice, Grub Soup, Sauteed Frog Legs
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
   Derpfish
-- _Crates:_ Wooden, Iron, Gold, Jungle
+- _Crates:_ Wooden, Iron, Gold, Jungle, Bramble
 - _Kites:_ Man Eater, Angry Trapper
 - _Summons:_ Abeemination
 - _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
@@ -112,19 +114,20 @@ The theme for this update was beloved and/or beloathed
 > more info)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte, Beetle
+  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte, Beetle, Rich Mahogany
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
   Queen Bee Mask, Bee Set, Plantera Mask
 
 #### Weapons
 
 - _Yoyos:_ Amazon, Yelets, Hive-Five
-- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore, Seedler
+- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore, Seedler,
+  Rich Mahogany
 - _Boomerangs:_ Thorn Chakram, Possessed Hatchet
 - _Spears:_ Chlorophyte Partisan
 - _Maces:_ Flower Pow
 - _Flails:_ Golem Fist
-- _Bows:_ The Bee's Knees, Chlorophyte Shotbow
+- _Bows:_ The Bee's Knees, Chlorophyte Shotbow, Rich Mahogany
 - _Arrows:_ Chlorophyte
 - _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum, Stynger (+ Bolts)
 - _Launchers:_ Grenade Launcher
@@ -139,7 +142,7 @@ The theme for this update was beloved and/or beloathed
 
 - _Picks:_ Chlorophyte Pickaxe + Drill, Picksaw
 - _Axes:_ Chlorophyte Greataxe + Chainsaw, Axe of Regrowth, The Axe
-- _Hammer:_ Chlorophyte Warhammer + Jackhammer
+- _Hammer:_ Chlorophyte Warhammer + Jackhammer, Rich Mahogany
 - _Fishing Poles:_ Wooden, Fiberglass
 - _Painting:_ Paintbrush (+ spectral), Paint Roller (+ spectral),
   Paint Scraper (+ spectral)

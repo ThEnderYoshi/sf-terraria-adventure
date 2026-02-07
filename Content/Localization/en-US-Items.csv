@@ -99,16 +99,17 @@ CommonItemTooltip.Sentry,Sansmmons a sanstry
 CommonItemTooltip.TeleportationPylon,"Telesans to another sanslon when 2 friendly sanses are nearby
 You can only place one per type and in a matching biome"
 
-LegacyTooltip.32,"Costs"
-LegacyTooltip.52,"Costs "
+LegacyTooltip.32,"Costs you"
+LegacyTooltip.52,"Costs you "
 
 LegacyTooltip.33,[c/7f7f7f:Sansumable]
-LegacyTooltip.35,[c/7f7f7f:Can't be placed]
-LegacyTooltip.36,[c/7f7f7f:Sansterial]
+LegacyTooltip.35,[c/7f7f7f:Sansterial]
+LegacyTooltip.36,[c/7f7f7f:Can't be placed]
 LegacyTooltip.56,[c/ffff00:Marked as sansvorite]
 LegacyTooltip.57,[c/7f7f7f:-------]
 LegacyTooltip.0,[c/7f7f7f:-------]
 LegacyTooltip.1,[c/7f7f7f:Sansquipped in sanscial slot]
+LegacyTooltip.61,[c/7f7f7f:Not bonetional in sanscial slot]
 
 
 #[ blood moon ],<<-|---------------------------------------------|->>
@@ -178,6 +179,9 @@ ItemName.MudWallEcho,Ruined Brick Sall
 
 ItemName.Hive,Gohst Spawner Block
 ItemName.HiveWall,Gohst Spawner Sall
+
+ItemName.MudstoneBlock,Ruinous Bricks
+ItemName.MudstoneBrickWall,Ruinous Bricks Sall
 
 
 #[ blocks : corruption ],<<-|------------------------------------|->>

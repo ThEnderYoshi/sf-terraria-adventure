@@ -53,6 +53,10 @@ ItemName.JungleFishingCrate,Yucky Block
 ItemTooltip.JungleFishingCrate,"{$CommonItemTooltip.RightClickToOpen}
 'Absolutely covered in Walpaper Mold'"
 
+ItemName.JungleFishingCrateHard,Gooey Block
+ItemTooltip.JungleFishingCrateHard,"{$CommonItemTooltip.RightClickToOpen}
+'Probably not a goo-d idea to open it...'"
+
 
 #[ jungle ],<<-|-------------------------------------------------|->>
 

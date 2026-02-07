@@ -48,16 +48,16 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2026-02-04 UTC_
+> Last updated: _2026-02-07 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
 | Total        | ![12%](https://geps.dev/progress/12) |
-| Update       | ![90%](https://geps.dev/progress/90) |
-| Images       | 1,907 / 14,994                       |
-| Text Entries | 4,250 / 19,963                       |
+| Update       | ![92%](https://geps.dev/progress/92) |
+| Images       | 1,920 / 14,994                       |
+| Text Entries | 4,260 / 19,963                       |
 | Songs        | 24 / 104                             |
-| Sounds       | 60 / 851                             |
+| Sounds       | 66 / 851                             |
 <!--#endregion-->
 
 ## ![questions & answers](.github/images/icon-other.png)
@@ -72,8 +72,9 @@ While the actual `Player_*` sprites are complete, most of the hair, armor,
 accessories, etc. are not. This means the visuals really clash, so the player
 model will only be brought to the main pack when most of its sprites are done.
 
-Currently, the player model is in a separate Resource Pack, but I'm not sure
-it'll be made public.
+Currently, the player model as well as the equipped GFX for added
+armors/accessories are in a separate Resource Pack, but I'm not sure it'll be
+made public.
 
 ---
 

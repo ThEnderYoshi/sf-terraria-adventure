@@ -3,30 +3,27 @@
 
 # -- End of Commit --
 
-# For later - BEFORE JUNGLE UPDATE RELEASES
-- <remaining rich mahogany recipes>:
-    - Armor
-    - <see rest>
-- <statues for all current enemies>
-- Bramble Crate # Waiting on Temple
+# Next in line
 - Witch Doctor: # Waiting on Temple
     - NPC Sprites
     - Gores # 324, 325, 326, 327, 1369, 1370, 1371, 1372
     - Dialog
     - Sold items/drops
     - Emote
-- Poison Dart
 - Imbuing Station # Waiting on Witch Doctor
 - Flask of Poison # Waiting on Imbuing Station
+
+# For later - BEFORE JUNGLE UPDATE RELEASES
+- <look for items that were added in 1.4.5 to existing pools>:
+  sold items:
+  - <TBA>
+  boss drops:
+  - <TBA>
+  <TBA>:
+  - <TBA>
+- <statues for all current enemies>
 - <all sounds relevant to the jungle>
-- Bee larva gores # 300-301
-- Nature's Gift
-- Lizard King Painting
-- Mudstone Bricks
 - Jungle Mimic # Or maybe do with other biome mimics?
-- Giant Tortoise SFX
-- Remaining Derpling SFX
-- Giant Bat gores
 - New 1.4.5 jungle backgrounds # 300-302
 - final steps:
   - Clean up changelog
