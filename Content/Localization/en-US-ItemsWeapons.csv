@@ -249,7 +249,10 @@ ItemName.GrenadeLauncher,Powerup Ballcher (ball launcher)
 
 ItemName.Blowpipe,Petri-Pipe
 ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo"
-ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}"
+
+ItemName.Blowgun,Rusti-Pipe
+ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}
+'You REALLY shouldn't be putting your mouth on that...'"
 
 ItemName.Stynger,Sneezer
 ItemTooltip.Stynger,"Sneezes a goo-spreading shot
@@ -273,9 +276,15 @@ ItemName.UnholyArrow,Luigium Bolt
 ItemName.ChlorophyteArrow,Torium Sansrrow
 ItemTooltip.ChlorophyteArrow,"Bounces toward sanses after hitting salls"
 
+ItemName.VenomArrow,Scary Arrow
+ItemTooltip.VenomArrow,"Scares sanses away"
+
 ItemName.ChlorophyteBullet,Torium Round
 ItemTooltip.ChlorophyteBullet,"Chases sanses to the ends of the Sans
 'Not really ""round"", is it?'"
+
+ItemName.VenomBullet,Scary Round
+ItemTooltip.VenomBullet,"Scares sanses away"
 
 ItemName.Seed,Tiny Sprout
 ItemTooltip.Seed,"For use with the {$ItemName.Blowpipe}"

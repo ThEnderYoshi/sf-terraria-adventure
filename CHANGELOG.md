@@ -35,23 +35,23 @@ The theme for this update was beloved and/or beloathed
   Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone, Lihzahrd Brick,
   Mudstone Brick
 - _Ores:_ Chlorophyte
-- _Potions:_ Fishing
-- _Crafting Stations:_ Honey Dispenser
 - _Campfires:_ Wood, Jungle
 - _Pylons:_ Forest, Jungle
 - _Other Background Objects:_ Rich Mahogany Beam, Forest & Jungle Pots
+- _Potions:_ Fishing
+- _Flasks:_ Poison, Fire, Venom
 - _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
   Apple, Apple Juice, Grub Soup, Sauteed Frog Legs
 - _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
   Derpfish
 - _Crates:_ Wooden, Iron, Gold, Jungle, Bramble
 - _Kites:_ Man Eater, Angry Trapper
-- _Summons:_ Abeemination
+- _Summons:_ Abeemination, Lihzahrd Power Cell
 - _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
   Jungle/Bee Hive/Temple map backgrounds
 - _Backgrounds:_ All Jungle-related backgrounds.
 - _Music (+ boxes):_ Jungle, Jungle (night), Underground Jungle, Jungle Temple,
-  Boss 5 (Queen Bee), Plantera
+  Queen Bee, Plantera, Golem
 - Seeds for all currently added grasses
 - Items for all currently added banners.
   Enemies with these banners now all properly have names and bestiary entries.
@@ -65,10 +65,12 @@ The theme for this update was beloved and/or beloathed
 - Bee Wax
 - Jungle Spores
 - Jungle + Lihzahrd rubble (only natural versions)
+- Vial of Venom
 
 #### Furniture
 
 - _Sets:_ Rich Mahogany, Bamboo, Honey, Lihzahrd
+- _Crafting Stations:_ Honey Dispenser, Lihzahrd Furnace, Imbuing Station
 - All Jungle critter cages + statues
 - Jungle Torch
 - Ivy Chest
@@ -87,7 +89,7 @@ The theme for this update was beloved and/or beloathed
 
 #### NPCs
 
-- _Town NPCs:_ Painter
+- _Town NPCs:_ Painter, Witch Doctor
 - _Jungle:_ (Spiked) Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
   Giant Flying Fox, Angler Fish, Giant Tortoise, Hornet, Man Eater, Lac Beetle,
   Bee, Small Bee, Moss Hornet, Angry Trapper, Jungle Creeper, Moth, Arapaima,
@@ -103,7 +105,7 @@ The theme for this update was beloved and/or beloathed
 > Minion/pet/minecart buffs are not included here.
 
 - _Positive:_ Regeneration, Honey, Fishing
-- _Negative:_ Bleeding, Confusion, Venom, Webbed
+- _Negative:_ Bleeding, Confusion, Venom, Webbed, Hemorrhage
 
 #### Armors
 
@@ -114,7 +116,7 @@ The theme for this update was beloved and/or beloathed
 > more info)
 
 - _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte, Beetle, Rich Mahogany
+  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte, Beetle, Rich Mahogany, Tiki
 - _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
   Queen Bee Mask, Bee Set, Plantera Mask
 
@@ -128,11 +130,11 @@ The theme for this update was beloved and/or beloathed
 - _Maces:_ Flower Pow
 - _Flails:_ Golem Fist
 - _Bows:_ The Bee's Knees, Chlorophyte Shotbow, Rich Mahogany
-- _Arrows:_ Chlorophyte
-- _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum, Stynger (+ Bolts)
+- _Arrows:_ Chlorophyte, Venom
+- _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum, Stynger (+ Bolts), Blowgun
 - _Launchers:_ Grenade Launcher
 - _Rockets:_ Grenade forms of all rockets
-- _Bullets:_ Chlorophyte
+- _Bullets:_ Chlorophyte, Venom
 - _Staves:_ Nettle Burst, Staff of Earth
 - _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun, Heat Ray
 - _Minions:_ Hornet Staff, Pigmy Staff
@@ -152,7 +154,7 @@ The theme for this update was beloved and/or beloathed
 #### Accessories
 
 - _Melee:_ Feral Claws
-- _Summoner:_ Hercules Beetle
+- _Summoner:_ Hercules Beetle, Pygmy Necklace
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
 - _Wings:_ Leaf, Bee, Moth, Beetle

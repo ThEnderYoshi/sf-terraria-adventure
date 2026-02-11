@@ -19,6 +19,9 @@ ItemTooltip.FeralClaws,"[c/ff0000:+12% MLE AT]
 #[ summoner ],<<-|-----------------------------------------------|->>
 
 
+ItemName.PygmyNecklace,Forsaken Charm
+ItemTooltip.PygmyNecklace,"[c/00ff00:+1 SMN]"
+
 ItemName.HerculesBeetle,Drip Snail
 ItemTooltip.HerculesBeetle,"[c/ff0000:+15% SMN AT]
 [c/ff0000:SMN KB ↗]"

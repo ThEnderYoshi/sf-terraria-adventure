@@ -429,18 +429,21 @@ GoblinTinkererNames.Xon,Lnik
 #[ witch doctor ],<<-|-------------------------------------------|->>
 
 
-# NPCName.WitchDoctor,other Fur!
+NPCName.WitchDoctor,"Scavenger "
+Bestiary_FlavorText.npc_WitchDoctor,"(Original Sans)
 
-# WitchDoctorNames.Abibe,Sans
-# WitchDoctorNames.Gboto,Sans
-# WitchDoctorNames.Jamundi,Sans
-# WitchDoctorNames.Kogi-ghi,Sans
-# WitchDoctorNames.Konah,Sans
-# WitchDoctorNames.Opuni,Sans
-# WitchDoctorNames.Tairona,Sans
-# WitchDoctorNames.U'wa,Sans
-# WitchDoctorNames.Xirigua,Sans
-# WitchDoctorNames.Zop'a,Sans
+Coming from a post-apocalyptic AU, this Sans has mastered the art of scavenging. And also the art of upselling."
+
+WitchDoctorNames.Abibe,Sans
+WitchDoctorNames.Gboto,Sans
+WitchDoctorNames.Jamundi,Sans
+WitchDoctorNames.Kogi-ghi,Sans
+WitchDoctorNames.Konah,Sans
+WitchDoctorNames.Opuni,Sans
+WitchDoctorNames.Tairona,Sans
+WitchDoctorNames.U'wa,Sans
+WitchDoctorNames.Xirigua,Sans
+WitchDoctorNames.Zop'a,Sans
 
 
 #[ clothier ],<<-|-----------------------------------------------|->>

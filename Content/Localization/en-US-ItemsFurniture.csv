@@ -4,7 +4,7 @@ Key,Translation
 #[ common ],<<-|-------------------------------------------------|->>
 
 
-CommonItemTooltip.SpecialCrafting,"Used to make furniture out of "
+CommonItemTooltip.SpecialCrafting,"Used to make stuff out of "
 
 
 #[ crafting stations ],<<-|--------------------------------------|->>
@@ -23,6 +23,9 @@ ItemTooltip.Sawmill,"Used for advanced thyme crafting"
 
 ItemName.HoneyDispenser,Automotive Workshop
 ItemTooltip.HoneyDispenser,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.HoneyBlock}"
+
+ItemName.ImbuingStation,Coffee Machine
+ItemTooltip.ImbuingStation,"Used to brew new and exciting kinds of caffeine products™"
 
 ItemName.LihzahrdFurnace,G-00 Formation Chamber
 ItemTooltip.LihzahrdFurnace,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.LihzahrdBrick}"

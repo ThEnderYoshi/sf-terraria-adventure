@@ -70,19 +70,19 @@ DryadSpecialText.WorldStatusHallowCrimson,"F: {1}% of {0} is DELTARUNE and {2}% 
 DryadSpecialText.WorldStatusPure,"F: {0} is aaall Sans Fanfic! (not much of an improvement...)"
 
 DryadSpecialText.WorldDescriptionBalanced,"
-S: The [ B I G   S A N S ] is in sanslace."
+S: the [ B I G   S A N S ] is in sanslace."
 
 DryadSpecialText.WorldDescriptionClose,"
-S: We're so super close!"
+S: we're so super close!"
 
 DryadSpecialText.WorldDescriptionFairyTale,"
-S: Things starting to get very, very interesting around here."
+S: things starting to get very, very interesting around here."
 
 DryadSpecialText.WorldDescriptionGrim,"
-S: Come on, {PlayerName}! You can't let the Loogies win! They're worse than us Sanses!"
+S: come on, {PlayerName}! you can't let the loogies win! they're worse than us sanses!"
 
 DryadSpecialText.WorldDescriptionWork,"
-S: So uuuh, you gonna stop the Loogies or.."
+S: so uuuh, you gonna stop the Loogies or.."
 
 
 #[ dryad : mood ],<<-|-------------------------------------------|->>
@@ -93,70 +93,70 @@ TownNPCMood_Dryad.FarFromHome,"F: I really don't like being outside for this lon
 TownNPCMood_Dryad.LoveSpace,"F: Ah, a nice and spacious shelter. The perfect place to plant my roots. OH WAIT. >:("
 TownNPCMood_Dryad.NoHome,"F: Y'know, with the two of us being stuck like this, we kinda can't defend ourselves. So go build a shelter for us, will 'ya?"
 
-TownNPCMood_Dryad.HateBiome,"S: Why must we fight? Why must the Sanses and Loogies be at odds? I hate war! :("
-TownNPCMood_Dryad.DislikeBiome,"S: I dunno, {BiomeName} makes me kinda uneasy. It's as if those Sans-heads are always staring at me..."
-TownNPCMood_Dryad.LikeBiome,"S: {BiomeName} is great. I love mold, it reminds me of my friend Flowey!"
+TownNPCMood_Dryad.HateBiome,"S: why must we fight? why must the sanses and loogies be at odds? i hate war! :("
+TownNPCMood_Dryad.DislikeBiome,"S: i dunno, {BiomeName} makes me kinda uneasy. it's as if those Sans-heads are always staring at me..."
+TownNPCMood_Dryad.LikeBiome,"S: {BiomeName} is great. i love mold, it reminds me of my friend flowey!"
 TownNPCMood_Dryad.LoveBiome,"S: {BiomeName} IS GUD ANDE BASED"
 
 TownNPCMood_Dryad.HateCrowded,"F: There's WAY too many sanses here! GET RID OF THEM! Kill 'em if you must!"
 TownNPCMood_Dryad.DislikeCrowded,"F: There's a little too many sanses here, it's making me kinda embarassed."
 
-TownNPCMood_Dryad.HateNPC,"S: I hate how unrealistic {NPCName} is. What Sans would do SPORTS!?"
-TownNPCMood_Dryad.DislikeNPC,"S: {NPCName} smells like fish, I don't like it."
-TownNPCMood_Dryad.LikeNPC,"S: I can relate to {NPCName}. A Sans down on his luck, but still living his life!"
-TownNPCMood_Dryad.LikeNPC_Princess,"S: {NPCName} is a little guy, like Flowey. I like that!"
+TownNPCMood_Dryad.HateNPC,"S: i hate how unrealistic {NPCName} is. what sans would do SPORTS!?"
+TownNPCMood_Dryad.DislikeNPC,"S: {NPCName} smells like fish, i don't like it."
+TownNPCMood_Dryad.LikeNPC,"S: i can relate to {NPCName}. a sans down on his luck, but still living his life!"
+TownNPCMood_Dryad.LikeNPC_Princess,"S: {NPCName} is a little guy, like flowey. i like that!"
 TownNPCMood_Dryad.LoveNPC,"S: {BiomeName} IS GUD ANDE BASED"
 
 
 #[ dryad : special ],<<-|----------------------------------------|->>
 
 
-DryadSpecialText.AfterDD2Tier1,"S: Yeah we've been to Luigi Fanfic, it was um, how do i put this-
+DryadSpecialText.AfterDD2Tier1,"S: yeah we've been to luigi fanfic, it was um, how do i put this-
 F: It sucked."
 DryadSpecialText.AfterDD2Tier2,"F: The Timeout Corner? Yeah, I've heard of it, but we've thankfully never been there."
 DryadSpecialText.Party,"?: ...No!...I don't wanna die!..."
 DryadSpecialText.Rain1,"F: Hey, I'm gonna take the opportunity that rain is on everyone's minds right now and say this: STOP JOKING ABOUT WATERING ME. This is ACID rain. Stop it. I WILL kill-
-S: Oookay there pal! Howzabout we change the topic?"
-DryadSpecialText.Rain2,"S: I've heard that the acid rain happens when the big Sans upstairs drools because he though of a yummy ketchup :)
+S: oookay there pal! howzabout we change the topic?"
+DryadSpecialText.Rain2,"S: i've heard that the acid rain happens when the big sans upstairs drools because he though of a yummy ketchup :)
 F: No comment."
-DryadSpecialText.Storm1,"S: Mmm, the big Sans upstairs must'a thought of the yummiest ketchup to ever be bottled. D'aww, now I'M drooling!"
+DryadSpecialText.Storm1,"S: mmm, the big sans upstairs must'a thought of the yummiest ketchup to ever be bottled. d'aww, now I'M drooling!"
 DryadSpecialText.Storm2,"F: Everyone's saying 'acid rain' this, 'memory wiping wind' that, is no one gonna talk about the lightning? Where is it coming from? There are no clouds in Sans Fanfic!"
-DryadSpecialText.Windy1,"S: Wow, this wind's making me drowsy! Flowey, you mind taking over for a bit?
+DryadSpecialText.Windy1,"S: wow, this wind's making me drowsy! flowey, you mind taking over for a bit?
 F: I can't. That's the POINT."
 DryadSpecialText.Windy2,"F: God, Sans is so LAZY. He keeps making excuses to not pick up that damn sock-
-S: What sock? I forgot.
+S: what sock? i forgot.
 F: No you didn't, stop lying.
-S: The wind, remember? Or did it make you forget too?
+S: the wind, remember? or did it make you forget too?
 F: You did not forget about the sock."
 
 
 #[ dryad : legacy ],<<-|-----------------------------------------|->>
 
 
-LegacyDialog.78,"S: Oh hey, it's you!
+LegacyDialog.78,"S: oh hey, it's you!
 F: Oh great. It's YOU."
 LegacyDialog.79,"F: At least YOU get that's it's kill or be killed!"
 LegacyDialog.80,"F: Hey what's your LOVE at?
 ...
 Those are rookie numbers, you gotta bump those numbers up."
-LegacyDialog.81,"S: ""Possession sans""? Yeah I possess lots of things, like this bone, this other bone, this bone here, this...
+LegacyDialog.81,"S: ""possession sans""? yeah i possess lots of things, like this bone, this other bone, this bone here, this...
 F: Oh god... Run while you still can..."
 
-LegacyDialog.70,"S: You should try {$NPCName.ArmsDealer}{ArmsDealer}'s coffee, it's really good!
+LegacyDialog.70,"S: you should try {$NPCName.ArmsDealer}{ArmsDealer}'s coffee, it's really good!
 F: You should try {$NPCName.ArmsDealer}{ArmsDealer}'s guns, they're really good!"
-LegacyDialog.71,"S: Hey, you know where we can find rubies?
+LegacyDialog.71,"S: hey, you know where we can find rubies?
 F: We've been meaning to buy some of {$NPCName.Merchant}{Merchant}'s *special* selection."
-LegacyDialog.72,"S: Have you seen that oddly cool stranger near Gamestop?
+LegacyDialog.72,"S: have you seen that oddly cool stranger near gamestop?
 F: Maybe you can talk him into letting you inside the store!"
-LegacyDialog.238,"S: Man, {$NPCName.Truffle}{Truffle} is so SCARY ! !"
+LegacyDialog.238,"S: man, {$NPCName.Truffle}{Truffle} is so SCARY ! !"
 
-LegacyDialog.69,"S: Have you tried using {$ItemName.PurificationPowder} while at Luigi Fanfic? {$ItemName.Stone} is easier to mine!
+LegacyDialog.69,"S: have you tried using {$ItemName.PurificationPowder} while at Luigi Fanfic? {$ItemName.Stone} is easier to mine!
 F: (or, y'know, you could just explode it...)"
 LegacyDialog.77,"F: Y'know, Sans Fanfic's bad enough, did those Loogies REALLY have to also be here?"
 
-LegacyDialog.332,"S: Have you tried using {$ItemName.PurificationPowder} in the No San's Land? {$ItemName.Stone} is easier to mine!
+LegacyDialog.332,"S: have you tried using {$ItemName.PurificationPowder} in the No San's Land? {$ItemName.Stone} is easier to mine!
 F: (or, y'know, you could just explode it...)"
-LegacyDialog.333,"F: Y'know, Sans Fanfic's bad enough, did REALLY need to also be at war?"
+LegacyDialog.333,"F: Y'know, Sans Fanfic's bad enough, did they REALLY need to also be at war?"
 
 #[ bartender : help ],<<-|---------------------------------------|->>
 
@@ -198,30 +198,30 @@ BartenderSpecialText.Windy2,"Hold on to your-a cap, friend-o! 'tis very windy to
 #[ guide : help ],<<-|-------------------------------------------|->>
 
 
-LegacyDialog.222,"Make sure to smash that like button. Something good is bound to happen if you do!"
-LegacyDialog.401,"Make sure to smash that subscribe button. Something good is bound to happen if you do!"
+LegacyDialog.222,"make sure to smash that like button. Something good is bound to happen if you do!"
+LegacyDialog.401,"make sure to smash that subscribe button. Something good is bound to happen if you do!"
 
 
 #[ guide : mood ],<<-|-------------------------------------------|->>
 
 
-TownNPCMood_Guide.Content,"Just bing chillin' my dude."
-TownNPCMood_Guide.FarFromHome,"I kinda gave up going back. And that housing doesn't really appeal to me either."
-TownNPCMood_Guide.LoveSpace,"So much space... You really did all this for lil' ol' Sans?"
-TownNPCMood_Guide.NoHome,"Y'know, it WOULD be nice if I had a place to crash in."
+TownNPCMood_Guide.Content,"just bing chillin' my dude."
+TownNPCMood_Guide.FarFromHome,"i kinda gave up going back. and that housing doesn't really appeal to me either."
+TownNPCMood_Guide.LoveSpace,"so much space... you really did all this for lil' ol' sans?"
+TownNPCMood_Guide.NoHome,"y'know, it WOULD be nice if i had a place to crash in."
 
-TownNPCMood_Guide.HateBiome,"This place, {BiomeName}. Reminds me of dark, darker, yet darker days."
-TownNPCMood_Guide.DislikeBiome,"Honestly, {BiomeName} makes me feel like I'm gonna have a bad time."
-TownNPCMood_Guide.LikeBiome,"The {BiomeName} reminds me of myself, minus the impressive bone abilities."
+TownNPCMood_Guide.HateBiome,"this place, {BiomeName}. reminds me of dark, darker, yet darker days."
+TownNPCMood_Guide.DislikeBiome,"honestly, {BiomeName} makes me feel like i'm gonna have a bad time."
+TownNPCMood_Guide.LikeBiome,"{BiomeName} reminds me of myself, minus the impressive bone abilities."
 TownNPCMood_Guide.LoveBiome,"{BiomeName} IS GUD ANDE BASED"
 
-TownNPCMood_Guide.HateCrowded,"What's with the box towers? It gives me a really bad feeling..."
-TownNPCMood_Guide.DislikeCrowded,"You should never keep this many sanses together. It's always bound to result in bad things."
+TownNPCMood_Guide.HateCrowded,"what's with the box towers? it gives me a really bad feeling..."
+TownNPCMood_Guide.DislikeCrowded,"you should never keep this many sanses together. it's always bound to result in bad things."
 
-TownNPCMood_Guide.HateNPC,"That snake, {NPCName}... He stabbed us all in the back when we least expected it. I hate him!"
+TownNPCMood_Guide.HateNPC,"that snake, {NPCName}... He stabbed us all in the back when we least expected it. i hate him!"
 # TownNPCMood_Guide.DislikeNPC,|> >>--->   UNSET   <---<< <|
-TownNPCMood_Guide.LikeNPC,"{NPCName} is a little weird, but that's what I like about them!"
-TownNPCMood_Guide.LikeNPC_Princess,"Oh, {NPCName}? Kinda hard not to like the lil' guy!"
+TownNPCMood_Guide.LikeNPC,"{NPCName} is a little weird, but that's what i like about them!"
+TownNPCMood_Guide.LikeNPC_Princess,"oh, {NPCName}? kinda hard not to like the lil' guy!"
 TownNPCMood_Guide.LoveNPC,"{NPCName} IS GUD ANDE BASED"
 
 
@@ -274,6 +274,51 @@ LegacyDialog.253,"Have you seen my pencils? I can't find them anywhere."
 LegacyDialog.254,"Have you seen Luigi?"
 LegacyDialog.255,"You need to hurry! The longer you take, the more AUs get converted into Sans Fanfic!"
 LegacyDialog.256,"Hey, whatever happened to uh, the uh... what was I talking about?"
+
+
+#[ witch doctor : mood ],<<-|------------------------------------|->>
+
+
+TownNPCMood_WitchDoctor.Content,"not much of an improvement over a post-apocalyptic wasteland, but its acceptable."
+TownNPCMood_WitchDoctor.FarFromHome,"well i've already scrounged up anything useful from this area, now would be a good time to head back home."
+TownNPCMood_WitchDoctor.LoveSpace,"didn't think it was possible in Sans Fanfic, but this place is an actual improvement over my home world!"
+TownNPCMood_WitchDoctor.NoHome,"you never have a permanent home in the wasteland, but i'd still appreciate some kind of shelter."
+
+TownNPCMood_WitchDoctor.HateBiome,"{$TownNPCMood_WitchDoctor.DislikeBiome}"
+TownNPCMood_WitchDoctor.DislikeBiome,"any cool thing i scavenge out of {BiomeName} just turns into some boring old ordinary object. laaame!"
+TownNPCMood_WitchDoctor.LikeBiome,"{BiomeName} contains my main scavenging spot. i like the convenience!"
+TownNPCMood_WitchDoctor.LoveBiome,"{$TownNPCMood_WitchDoctor.LikeBiome}"
+
+TownNPCMood_WitchDoctor.DislikeCrowded,"this crowd is making me uneasy, something bad's bound to happen..."
+TownNPCMood_WitchDoctor.HateCrowded,"waaay too many people around here, really don't like this."
+
+TownNPCMood_WitchDoctor.HateNPC,"i already hold on to so little, but {NPCName} wants even that to be destroyed! i hate him!"
+TownNPCMood_WitchDoctor.DislikeNPC,"{NPCName} is kinda weird, don't like him."
+TownNPCMood_WitchDoctor.LikeNPC,"{NPCName}'s positivity is something that's really lacking in my home world. i like him!"
+TownNPCMood_WitchDoctor.LikeNPC_Princess,"i'm a fan of {NPCName}. it's hard not to like the little guy!"
+TownNPCMood_WitchDoctor.LoveNPC,"{$TownNPCMood_WitchDoctor.LikeNPC}"
+
+
+#[ witch doctor : special ],<<-|---------------------------------|->>
+
+
+WitchDoctorSpecialText.AfterDD2Tier1,"the timeout corner... heh, silly loogies, they think they can make going there illegal? you can't make laws in a place made of pure chaos!"
+WitchDoctorSpecialText.Party,"...not like this..."
+WitchDoctorSpecialText.Rain1,"ah, acid rain. a classic from the wasteland. though this seems to be a different kind of acid..."
+WitchDoctorSpecialText.Rain2,"no!!! all this acid's gonna melt my haul away!"
+WitchDoctorSpecialText.Storm1,"these sanses are so careless and destructive, it's no wonder they keep expanding their domain. at the rate they're going, there'll be nothing left soon!"
+WitchDoctorSpecialText.Storm2,"such destruction... i can't stand it."
+WitchDoctorSpecialText.Windy1,"it's important to hold on to your memories, especially in times like these."
+WitchDoctorSpecialText.Windy2,"i've seen all sorts of weird things in my life, but a memory-wiping windstorm is certainly the weirdest one. or maybe i forgot the weirder ones?"
+
+
+#[ witch doctor : legacy ],<<-|----------------------------------|->>
+
+
+LegacyDialog.261,"hey check out this junk i fo-- i mean... this treasure i found!"
+LegacyDialog.262,"oh that shiny thing? it's mine! but it can be yours for the low, low price of--"
+LegacyDialog.263,"you wouldn't believe what i found in {$Bestiary_Biomes.UndergroundJungle}! there's sooo much good stuff to scavenge there! it's also terrifying!"
+LegacyDialog.264,"how do i manage to sneak into that big structure in {$Bestiary_Biomes.UndergroundJungle} you ask? well, a good scavenger never reveals his secrets..."
 
 
 #[  ],<<-|-------------------------------------------------------|->>

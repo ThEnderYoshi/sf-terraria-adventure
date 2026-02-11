@@ -4,23 +4,18 @@
 # -- End of Commit --
 
 # Next in line
-- Witch Doctor: # Waiting on Temple
-    - NPC Sprites
-    - Gores # 324, 325, 326, 327, 1369, 1370, 1371, 1372
-    - Dialog
-    - Sold items/drops
-    - Emote
-- Imbuing Station # Waiting on Witch Doctor
-- Flask of Poison # Waiting on Imbuing Station
-
-# For later - BEFORE JUNGLE UPDATE RELEASES
-- <look for items that were added in 1.4.5 to existing pools>:
+- look for items that were added in 1.4.5 to existing pools:
   sold items:
   - <TBA>
   boss drops:
   - <TBA>
+  chest/crate loot:
+  - <TBA>
   <TBA>:
   - <TBA>
+
+# For later - BEFORE JUNGLE UPDATE RELEASES
+- Jungle critter SFX
 - <statues for all current enemies>
 - <all sounds relevant to the jungle>
 - Jungle Mimic # Or maybe do with other biome mimics?
@@ -57,19 +52,19 @@
 
 # For later - BEFORE AETHER UPDATE RELEASES
 - Shimmered Dryad:
-    - NPC Sprite
-    - Gores # 1301, 1302, 1303
-    - <look for other shimmered dryad-related sprites>
+  - NPC Sprite
+  - Gores # 1301, 1302, 1303
+  - <look for other shimmered dryad-related sprites>
 - <look for other shimmered npc sprites>
 
 # For later - BEFORE THE UPDATE WITH THE BLOOD MOON
 - Blood Water Fountain
 - Blood Moon Monolith
 - Dryad's blood moon dialog:
-    -  LegacyDialog.73
-    -  LegacyDialog.74
-    -  LegacyDialog.75
-    -  LegacyDialog.76
+  -  LegacyDialog.73
+  -  LegacyDialog.74
+  -  LegacyDialog.75
+  -  LegacyDialog.76
 
 # For later - BEFORE THE UPDATE WITH THE ECLIPSE
 - Eclipse Map BG Overlay # MapBGOverlay 5
@@ -86,6 +81,23 @@
 - reconsider: Inferno Potion # Item 2348
 
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
+- missing npc portraits:
+  # Surface
+  - Merchant
+  - Zoologist
+- town npcs:
+    Demolitionist:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+    Clothier:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
 - Torch God's Favor
 - <ores & ore-based recipes>
 - Flower vines # Tiles 382
@@ -109,6 +121,7 @@
 - Wraith_Eyes
 - <look at forest-related dryad shop items>
 - Rubblemaker
+- Flask of Gold
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect
@@ -120,10 +133,12 @@
 - <corruption, crimson and hallow cattails>
 - <corruption, crimson and hallow pots>
 - Hallowed/Corrupt/Crimson Water Fountains
+- Flask of Cursed Flames
+- Flask of Ichor
 - Missing painter dialogs:
-    - TownNPCMood_Painter.LikeNPC # Painter likes Party Girl
-    - LegacyDialog.250            # Hallow dialog
-    - LegacyDialog.251            # Party girl dialog
+  - TownNPCMood_Painter.LikeNPC # Painter likes Party Girl
+  - LegacyDialog.250            # Hallow dialog
+  - LegacyDialog.251            # Party girl dialog
 - Potted Hallow Trees
 - reconsider: Slimer # NPC 121
 - BoC gores # 396-402
@@ -152,43 +167,51 @@
 - Icy/Desert/Oasis Water Fountains
 - All magic droppers # See also: MapObject.Dripping* entries.
 - <desert town NPCs>:
-    reconsider: Arms Dealer:
+    reconsider:
+      Arms Dealer:
       - NPC Sprites
+      - Portrait
       - Gores
       - Dialog
       - Sold items/drops
     Steampunker:
-      - NPC Sprites
-      - Gores
-      - Dialog
-      - Sold items/drops
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
     Dye Trader:
-      - NPC Sprites
-      - Gores
-      - Dialog
-      - Sold items/drops
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
 - <snow town NPCs>:
     Cyborg:
-      - NPC Sprites
-      - Gores
-      - Dialog
-      - Sold items/drops
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
     Santa:
-      - NPC Sprites
-      - Gores
-      - Dialog
-      - Sold items/drops
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
     reconsider:
       Mechanic:
-        - NPC Sprites
-        - Gores
-        - Dialog
-        - Sold items/drops
-    Tax Collector:
       - NPC Sprites
+      - Portrait
       - Gores
       - Dialog
       - Sold items/drops
+    Tax Collector:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
 - Snow/Desert Map BGs                # MapBG 10 + 12 
 - Sandstorm/Blizzard Map BG Overlays # MapBGOverlay 1 + 6
 

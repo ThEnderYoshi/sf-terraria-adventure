@@ -183,6 +183,20 @@ ItemTooltip.FishingPotion,"Makes you more attractive to parasites
 parasites are coming from'"
 
 
+#[ potions : flasks ],<<-|---------------------------------------|->>
+
+
+ItemName.FlaskofPoison,Fell!Coffee
+ItemTooltip.FlaskofPoison,"MLE and tongue attacks spook sanses"
+
+ItemName.FlaskofFire,DR!Coffee
+ItemTooltip.FlaskofFire,"MLE and tongue attacks darken sanses
+'Wait a minute... thats not Sans...'"
+
+ItemName.FlaskofVenom,Dust!Coffee
+ItemTooltip.FlaskofVenom,"MLE and tongue attacks scare sanses"
+
+
 #[ misc ],<<-|---------------------------------------------------|->>
 
 

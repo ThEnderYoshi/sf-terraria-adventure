@@ -48,6 +48,22 @@ BuffName.ThornWhipPlayerBuff,[c/4782c9:Gasted Out]
 BuffDescription.ThornWhipPlayerBuff,"You are in lockstep with Gaster; AT SPD ↗"
 
 
+#[ imbues ],<<-|-------------------------------------------------|->>
+
+
+BuffName.WeaponImbuePoison,[c/8b7653:Fell!Caffeine]
+BuffDescription.WeaponImbuePoison,"The caffeine makes you want to give the sanses a wedgie
+MLE and tongue attacks spook sanses"
+
+BuffName.WeaponImbueFire,[c/8b7653:DR!Caffeine]
+BuffDescription.WeaponImbueFire,"The caffeine makes you slip into a darker dream (how???)
+MLE and tongue attacks darken sanses"
+
+BuffName.WeaponImbueVenom,[c/8b7653:Dust!Caffeine]
+BuffDescription.WeaponImbueVenom,"The caffeine makes you seek bloody revenge
+MLE and tongue attacks scare sanses"
+
+
 #[ debuffs ],<<-|------------------------------------------------|->>
 
 
@@ -74,7 +90,6 @@ BuffDescription.DryadsWardDebuff,"SIKE! Flowey was bad guy ALL ALONG ! ! >:)"
 
 BuffName.Hemorrhage,[c/e9581c:Assimilating]
 BuffDescription.Hemorrhage,"You are becoming one with GOOGI. It's okay, don't resist. It'll all be over soon."
-
 
 #[ minions ],<<-|------------------------------------------------|->>
 

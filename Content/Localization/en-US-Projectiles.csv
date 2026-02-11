@@ -79,8 +79,10 @@ ProjectileName.FireArrow,Safe Sansrrow
 ProjectileName.JestersArrow,Heaven Sansrrow
 ProjectileName.UnholyArrow,Luigium Bolt
 ProjectileName.ChlorophyteArrow,Torium Sansrrow
+ProjectileName.VenomArrow,Scary Sansrrow
 
 ProjectileName.ChlorophyteBullet,Torium Round
+ProjectileName.VenomBullet,Scary Round
 
 ProjectileName.GrenadeI,Fireball
 ProjectileName.GrenadeII,Iceball
@@ -174,7 +176,7 @@ ProjectileName.SporeTrap,Sad Trap
 ProjectileName.SporeTrap2,{$ProjectileName.SporeTrap}
 
 
-#[ friendly: npcs ],<<-|-----------------------------------------|->>
+#[ friendly : npcs ],<<-|----------------------------------------|->>
 
 
 ProjectileName.DryadsWardCircle,Flowey's Floweys

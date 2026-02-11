@@ -311,6 +311,10 @@ ItemName.TatteredBeeWing,Crushed Leaf
 ItemName.ButterflyDust,Broken Feather
 ItemName.BeetleHusk,G-00 Applicator
 
+ItemName.VialofVenom,Scary Sauce
+ItemTooltip.VialofVenom,"'A nearly perfected formula. Just you
+wait until they develop awesome sauce!'"
+
 
 #[ materials : hallow ],<<-|-------------------------------------|->>
 

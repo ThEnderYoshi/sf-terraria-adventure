@@ -167,6 +167,22 @@ ItemTooltip.BeetleLeggings,"[c/ff0000:+6% move spans]
 ArmorSetBonus.BeetleDamage,"Googies increase MLE AT and SPD"
 ArmorSetBonus.BeetleDefense,"Googies protect their leader from sans AT"
 
+#comment,Tiki
+
+ItemName.TikiMask,Dr.'s Head Mirror
+ItemName.TikiShirt,Dr.'s Labcoat
+ItemName.TikiPants,Dr.'s Stompers
+
+ItemTooltip.TikiMask,"[c/00ff00:+1 SMN]
+[c/ff0000:+10% SMN AT]
+[c/ff0000:+10% tongue sansge (sans range)]"
+ItemTooltip.TikiShirt,"[c/00ff00:+1 SMN]
+[c/ff0000:+10% SMN AT]"
+ItemTooltip.TikiPants,"[c/00ff00:+1 SMN]
+[c/ff0000:+10% SMN AT]"
+
+ArmorSetBonus.Tiki,"[c/00ff00:+1 SMN]"
+
 
 #[ misc. ],<<-|--------------------------------------------------|->>
 
