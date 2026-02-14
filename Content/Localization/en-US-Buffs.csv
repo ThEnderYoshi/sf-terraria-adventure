@@ -119,7 +119,7 @@ BuffDescription.MiniMinotaur,"'You're mother'"
 BuffName.ShadowMimic,[c/ffc700:Mini Goomb]
 BuffDescription.ShadowMimic,"Time to take a piss"
 
-BuffName.TikiSpirit,[c/ffc700:Sans the Idea]
+BuffName.TikiSpirit,[c/ffc700:Sans (the Idea)]
 BuffDescription.TikiSpirit,"Sans has been on your mind lately"
 
 BuffName.BabyHornet,[c/ffc700:Gohst]
@@ -152,6 +152,9 @@ BuffDescription.GolemPet,"Definitely plotting to assimilate you into GOOGI"
 
 BuffName.BeeMount,[c/ffc700:Toirel]
 BuffDescription.BeeMount,"Uhh..."
+
+BuffName.RatMount,[c/ffc700:Blue SOUL]
+BuffDescription.RatMount,"Who needs a vessel anyway?"
 
 
 #[ minecarts ],<<-|----------------------------------------------|->>

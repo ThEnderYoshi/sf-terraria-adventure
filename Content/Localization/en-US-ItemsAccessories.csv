@@ -145,3 +145,14 @@ ItemTooltip.SunStone,"Sansproves a bunch of stuff if you make someone blush"
 ItemName.EyeoftheGolem,Nice of the GOOGI
 ItemTooltip.EyeoftheGolem,"[c/ff0000:+10% CRIT]
 'Nice as in, the plural of nouse'"
+
+
+#[ equipment : mounts ],<<-|-------------------------------------|->>
+
+
+ItemName.RatMountItem,Mini DT Extractor
+ItemTooltip.RatMountItem,"Imparts unto the bearer the true nature of the SOUL"
+
+ItemTooltip.BatMountItem,"Imparts unto the bearer the true nature of the SOUOƧ"
+
+#[  ],<<-|-------------------------------------------------------|->>

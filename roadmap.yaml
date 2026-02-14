@@ -4,22 +4,15 @@
 # -- End of Commit --
 
 # Next in line
-- look for items that were added in 1.4.5 to existing pools:
-  sold items:
-  - <TBA>
-  boss drops:
-  - <TBA>
-  chest/crate loot:
-  - <TBA>
-  <TBA>:
-  - <TBA>
+- <statues for all current enemies>
+- New 1.4.5 jungle backgrounds # 300-302
 
 # For later - BEFORE JUNGLE UPDATE RELEASES
-- Jungle critter SFX
-- <statues for all current enemies>
-- <all sounds relevant to the jungle>
+- all sounds relevant to the jungle:
+  - Frog # Zombie_13
+  - Golem Fist/Piranha Gun
+  - <TBA>
 - Jungle Mimic # Or maybe do with other biome mimics?
-- New 1.4.5 jungle backgrounds # 300-302
 - final steps:
   - Clean up changelog
   - Update in-game and workshop icons
@@ -160,7 +153,7 @@
 
 # For later - BEFORE SNOW/DESERT UPDATE RELEASES
 - Extractinator
-- Chrolophyte Extractinator
+- Chlorophyte Extractinator
 - Water Strider
 - Glass
 - <all rockets/mines> # Grenades have already been covered.

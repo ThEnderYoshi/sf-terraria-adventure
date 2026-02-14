@@ -107,6 +107,7 @@ ArmorSetBonus.Bee,"+10% SMN AT"
 ItemName.ChlorophyteMask,Torium Skull
 ItemName.ChlorophyteHelmet,Torium Cranium
 ItemName.ChlorophyteHeadgear,Torium Jaw
+ItemName.ChlorophyteVisor,Torium Ears
 ItemName.ChlorophytePlateMail,Torium Robe
 ItemName.ChlorophyteGreaves,Torium Slippers
 
@@ -117,6 +118,8 @@ ItemTooltip.ChlorophyteHelmet,"[c/ff0000:+16 RNG AT]
 ItemTooltip.ChlorophyteHeadgear,"[c/ff0000:+80 max TP]
 [c/00ff7f:-17% TP usage]
 [c/ff0000:+16% MGC AT]"
+ItemTooltip.ChlorophyteVisor,"[c/00ff00:+1 SMN]
+[c/ff0000:+12% SMN AT]"
 ItemTooltip.ChlorophytePlateMail,"[c/ff0000:+5% AT]
 [c/ff0000:+7% CRIT]"
 #( placeholder : movement speed ),movement SPD
@@ -126,6 +129,8 @@ ItemTooltip.ChlorophyteGreaves,"[c/ff0000:+8% CRIT]
 ArmorSetBonus.Chlorophyte,"Sansmmons a sans to shoot sanses at nearby sanses"
 ArmorSetBonus.ChlorophyteMelee,"{$ArmorSetBonus.Chlorophyte}
 [c/ff0000:+5% AT Red.]"
+ArmorSetBonus.ChlorophyteSummon,"{$ArmorSetBonus.Chlorophyte}
+[c/00ff00:+2 SMN]"
 
 #comment,Turtle
 

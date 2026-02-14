@@ -84,7 +84,7 @@ GameUI.CompassEast,{0} ½m East
 GameUI.CompassWest,{0} ½m Weast
 
 GameUI.DepthLevel,Temperature
-GameUI.Depth,{0}°C
+GameUI.Depth,{0}K
 GameUI.LayerSpace,(fever)
 GameUI.LayerSurface,(hypothermia)
 GameUI.LayerUnderground,(hypothermia)
@@ -97,6 +97,10 @@ GameUI.LightRain,Light Drooling
 GameUI.Rain,Drooling
 GameUI.HeavyRain,JASON
 GameUI.Storm,JAAAAAASOOOOON
+GameUI.EastWind,({0} ½m/s East)
+GameUI.WestWind,({0} ½m/s Weast)
+
+GameUI.Speed,{0} ½m/s
 
 
 #[ map objects ],<<-|--------------------------------------------|->>

@@ -286,6 +286,13 @@ ItemName.DoNotStepontheGrass,Days Gone By
 ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Era)'
 'Things used to be good'"
 
+ItemName.QueenOfBees,MY CHILD
+ItemTooltip.QueenOfBees,"BY ME YOURE MOM ]: )
+'MY CHILD YOU ARE BREAKING MY [c/ff0000:HEART]'"
+
+ItemName.PaintingItsScragglinTime,I can be Your angle....or Yuor Devil
+ItemTooltip.PaintingItsScragglinTime,"[c/ffff00:::EXPLICIT PURPOSE::'recurring scenery';'evil mode';'hehe']"
+
 
 #[ plants ],<<-|-------------------------------------------------|->>
 

@@ -71,6 +71,7 @@ The theme for this update was beloved and/or beloathed
 
 - _Sets:_ Rich Mahogany, Bamboo, Honey, Lihzahrd
 - _Crafting Stations:_ Honey Dispenser, Lihzahrd Furnace, Imbuing Station
+- _Paintings:_ Do Not Step on the Grass, Queen of Bees, It's Scragglin' Time
 - All Jungle critter cages + statues
 - Jungle Torch
 - Ivy Chest
@@ -138,7 +139,7 @@ The theme for this update was beloved and/or beloathed
 - _Staves:_ Nettle Burst, Staff of Earth
 - _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun, Heat Ray
 - _Minions:_ Hornet Staff, Pigmy Staff
-- _Whips:_ Leather, Snapthorn
+- _Whips:_ Leather Whip, Snapthorn, Vulgar Display of Flower
 
 #### Tools
 
@@ -151,13 +152,14 @@ The theme for this update was beloved and/or beloathed
 - _Powders:_ Purification Powder, Vile Powder, Vicious Powder
 - _Other:_ Staff of Regrowth, Living Rich Mahogany Wand, Rich Mahogany Leaf Wand
 
-#### Accessories
+#### Accessories & Equipment
 
 - _Melee:_ Feral Claws
 - _Summoner:_ Hercules Beetle, Pygmy Necklace
 - _Info Display:_ Compass
 - _Debuff Immunity:_ Adhesive Bandage
 - _Wings:_ Leaf, Bee, Moth, Beetle
+- _Mounts:_ Honeyed Goggles, Cursed Piper Flute
 - _Pets:_ Tiki Totem, Nectar, Sparkling Honey, Seaweed, Mud Bud, Seedling,
   Plantera Seedling, Guardian Golem
 - _Hooks:_ Ivy Whip, Thorn Hook

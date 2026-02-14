@@ -86,6 +86,7 @@ ItemName.LihzahrdWatcherStatue,Gohst Vat
 #[ fountains ],<<-|----------------------------------------------|->>
 
 
+CommonItemTooltip.Fountain,"Alters the characteristics of nearby gastric acid"
 ItemName.JungleWaterFountain,Moldy Gastric Acid Fountsans
 
 

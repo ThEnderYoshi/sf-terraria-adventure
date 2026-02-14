@@ -209,4 +209,22 @@ NPCName.DD2EterniaCrystal,Brandshroom
 NPCName.MeteorHead,Outer!Skull
 
 
+#[ special ],<<-|------------------------------------------------|->>
+
+
+SpecialNPCName.DirtSlime,Sirt!Slans
+SpecialNPCName.StoneSlime,Stans!Slans
+SpecialNPCName.WoodSlime,Thyme!Slans
+SpecialNPCName.GraniteSlime,Grans!Slans
+SpecialNPCName.MarbleSlime,Mars!Slans
+SpecialNPCName.TorchSlime,Sanch!Slans
+SpecialNPCName.HiveSlime,Spawner!Slans
+SpecialNPCName.HoneySlime,Battery Acid!Slans
+SpecialNPCName.HerbSlime,StoryShift!Slans
+SpecialNPCName.SnowSlime,Snans!Slans
+SpecialNPCName.FossilSlime,Petrified Calcium!Slans
+SpecialNPCName.HeartSlime,SOUL!Slans
+SpecialNPCName.HellSlime,Dark!Slans
+
+
 #[  ],<<-|-------------------------------------------------------|->>

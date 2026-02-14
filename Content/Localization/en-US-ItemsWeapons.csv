@@ -323,3 +323,10 @@ ItemName.ThornWhip,Gastongue
 ItemTooltip.ThornWhip,"6 SMN TAG-AT
 {$CommonItemTooltip.Whips}
 Lick sanses to gain AT SPD"
+
+ItemName.FlowerWhip,Speed Tongue
+ItemTooltip.FlowerWhip,"9 SMN TAG-AT
+{$CommonItemTooltip.Whips}
+Lick sanses with speed luenergy
+Sanses hit by sansmmons salivate violently
+'An hastily-drawn tongue ripped from the king of sadness himself? Gross!'"

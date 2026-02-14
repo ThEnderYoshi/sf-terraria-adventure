@@ -124,6 +124,9 @@ ProjectileName.PygmySpear,Puffle
 
 ProjectileName.BlandWhip,Sansy Tongue
 ProjectileName.ThornWhip,Gastongue
+ProjectileName.FlowerWhip,Speed Tongue
+ProjectileName.FlowerWhipPetal,Speed Saliva
+
 
 
 #[ friendly : pets ],<<-|----------------------------------------|->>

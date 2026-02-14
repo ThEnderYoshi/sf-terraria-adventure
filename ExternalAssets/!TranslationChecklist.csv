@@ -3815,9 +3815,6 @@ Wyślij crashlog.txt na adres support@terraria.org"
 "GameUI.CraftingWindow","Crafting Window","Ventana de creación","Fenêtre d'artisanat","Finestra fabbricazione","Окно изготовления","制作窗口","制作窗口","Janela de Criação","Herstellungsfenster","Okno tworzenia"
 
 
-"GameUI.EastWind"," ({0} mph E)"," ({0} mph E)"," ({0} mph E)"," ({0} mph est)"," ({0} миль в час с востока)"," （{0} mph东风）","（{0} mph东风）"," ({0} mph E)"," ({0} mph O)"," ({0} mph E)"
-
-
 "GameUI.EnemiesNearby","{0} enemies nearby!","¡{0} enemigos cerca!","{0} à proximité !","{0} nemici nei paraggi!","Врагов поблизости: {0}!","附近有{0}个敌人！","附近有{0}个敌人！","{0} inimigos próximos!","{0} Feinde in der Nähe","Liczba pobliskich przeciwników: {0}!"
 
 "GameUI.Faded","Faded","Difuminado","Délavé","Sbiadito","Полупрозрачный","褪色","褪色","Esmaecido","Verblasst","Przygasanie"
@@ -3874,7 +3871,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "GameUI.RulerOn","Ruler On","Regla sí","Règle activée","Righello: sì","Линейка вкл.","标尺开","标尺：开","Régua Ligada","Lineal EIN","Linijka wł."
 "GameUI.SettingsMenu","Settings Menu","Menú de ajustes","Menu de paramètres","Menu impostazioni","Меню настроек","设置菜单","设置菜单","Menu de Configurações","Einstellungsmenü","Menu ustawień"
 "GameUI.SortInventory","Sort Inventory","Ordenar inventario","Trier l'inventaire","Organizza inventario","Сортировка инвентаря","物品栏排序","物品栏排序","Organizar Inventário","Inventar sortieren","Uporządkuj ekwipunek"
-"GameUI.Speed","{0} mph","{0} mph","{0} mph","{0} mph","{0} миль в час","{0} mph","{0} mph","{0} mph","{0} mph","{0} mph"
+
 
 "GameUI.StormEffects","Storm Effects: {0}","Efectos de tormenta: {0}","Effets de tempête : {0}","Effetti tempesta: {0}","Эффекты шторма: {0}","暴风雨影响：{0}","暴风雨影响：{0}","Efeitos da Tempestade: {0}","Sturmeffekte: {0}","Efekty burzy: {0}"
 "GameUI.ThirdQuarter","Third Quarter","Tercer cuarto","Troisième quartier","Terzo quarto","Третья четверть","下弦月","下弦月","Quarto Minguante","Drittes Viertel","Trzecia kwadra"
@@ -3888,7 +3885,7 @@ GameUI.QuickStackToNearby","Quick Stack to Nearby Chests","Guardar rápido en co
 "GameUI.WaveQuality","Waves Quality: {0}","Calidad de las oleadas: {0}","Qualité des vagues : {0}","Qualità onde: {0}","Качество волн: {0}","水波质量：{0}","水波质量：{0}","Qualidade das Ondas: {0}","Wellenqualität: {0}","Jakość fal: {0}"
 "GameUI.WaxingCrescent","Waxing Crescent","Cuarto creciente","lune croissante","Luna crescente","Молодая луна","娥眉月","娥眉月","Crescente","Zunehmender Sichelmond","Przybywający sierp"
 "GameUI.WaxingGibbous","Waxing Gibbous","Luna creciente","Gibbeuse croissante","Gibbosa crescente","Растущая луна","盈凸月","盈凸月","Gibosa","Zunehmender Dreiviertelmond","Przybywający garb"
-"GameUI.WestWind"," ({0} mph W)"," ({0} mph O)"," ({0} mph O)"," ({0} mph ovest)"," ({0} миль в час на запад)"," （{0} mph西风）","（{0} mph西风）"," ({0} mph W)"," ({0} mph W)"," ({0} mph W)"
+
 "GameUI.WireModeForced","Mechanical Display: Forced","Pantalla mecánica: Forzada","Affichage mécanique : forcé","Display meccanico: visibile","Отображение механических элементов: принудительное","机械显示：始终显示","机械显示：始终显示","Exibição Mecânica: Forçada","Mechanische Anzeige: Gezwungen","Wyświetlanie kabli: Wymuszone"
 "GameUI.WireModeNormal","Mechanical Display: Normal","Pantalla mecánica: Normal","Affichage mécanique : normal","Display meccanico: normale","Отображение механических элементов: обычное","机械显示：正常","机械显示：正常","Exibição Mecânica: Normal","Mechanische Anzeige: Normal","Wyświetlanie kabli: Normalne"
 "GameUI.ZoomCategory","Zoom","Zoom","Zoom","Avvicina","Приближение","缩放","缩放","Aproximação","Zoom","Zbliżenie"
