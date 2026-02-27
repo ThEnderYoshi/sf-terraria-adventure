@@ -5,11 +5,11 @@ Upcoming version: _N/A_
 
 ## Planned Updates
 
-Generally, each category (biome, event, etc.) will have its own update,
-if large enough.
+Generally, each category (biome, event, etc.) will have its own update, if
+large enough.
 
-The following list shows updates that have a concrete theme set in place,
-or already have some content done for it.
+The following list shows updates that have a concrete theme set in place, or
+already have some content done for it. The list is in no particular order.
 
 - The Desert/Snow Update
 - The Sky/Underground Update

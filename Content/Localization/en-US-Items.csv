@@ -40,6 +40,7 @@ CommonItemTooltip.MinorStats,[c/ffff00:Minor sansprovements to all stats]
 
 CommonItemTooltip.RestoresLife,[c/00ff00:+{0} HP]
 CommonItemTooltip.RestoresMana,[c/00ff00:+{0} TP]
+LegacyTooltip.29,Removes
 
 
 #[ common : item stats ],<<-|------------------------------------|->>
@@ -56,6 +57,8 @@ LegacyTooltip.25," DF"
 LegacyTooltip.30," HP"
 LegacyTooltip.31," TP"
 
+LegacyTooltip.54," sansge (sans range)"
+
 LegacyTooltip.5,% bad time chance
 LegacyTooltip.34,[c/ff7f7f:Sansmmo]
 LegacyTooltip.39,% AT
@@ -71,6 +74,21 @@ LegacyTooltip.47,% sanslee spans (sans speed)
 LegacyTooltip.26,% sansxe power
 LegacyTooltip.27,% axans power
 LegacyTooltip.28,% sansmmer power
+
+LegacyTooltip.7,Poor spans
+LegacyTooltip.8,Bad spans
+LegacyTooltip.9,OK spans
+LegacyTooltip.10,Good spans
+LegacyTooltip.11,Great spans
+LegacyTooltip.12,Awesome spans
+LegacyTooltip.13,Best spans
+
+
+#[ common : equipment ],<<-|-------------------------------------|->>
+
+
+CommonItemTooltip.Hook,"Press {InputTrigger_Grapple} to grasp ""it""
+(and by ""it"" I mean, heh, let's just say...)"
 
 
 #[ common : equipment / vanity ],<<-|----------------------------|->>

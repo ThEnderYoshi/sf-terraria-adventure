@@ -12,7 +12,7 @@ game to be themed around <span style="color:red">[_Sans Fanfic_]</span>.
 That mainly includes the game's
 **<!--#region img_count-->14,994<!--#endregion-->** images and
 **<!--#region txt_count-->19,963<!--#endregion-->** text entries. See the
-`Status` section below for the current progress.
+[Status](#-3) section below for the current progress.
 
 > [!NOTE]
 > ![info](.github/images/thyme.png) You can find out more info on
@@ -48,14 +48,14 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2026-02-14 UTC_
+> Last updated: _2026-02-27 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
 | Total        | ![13%](https://geps.dev/progress/13) |
-| Update       | ![96%](https://geps.dev/progress/96) |
-| Images       | 1,963 / 14,994                       |
-| Text Entries | 4,373 / 19,963                       |
+| Update       | ![97%](https://geps.dev/progress/97) |
+| Images       | 1,972 / 14,994                       |
+| Text Entries | 4,472 / 19,963                       |
 | Songs        | 25 / 104                             |
 | Sounds       | 78 / 851                             |
 <!--#endregion-->

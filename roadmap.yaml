@@ -4,15 +4,12 @@
 # -- End of Commit --
 
 # Next in line
-- <statues for all current enemies>
-- New 1.4.5 jungle backgrounds # 300-302
 
 # For later - BEFORE JUNGLE UPDATE RELEASES
 - all sounds relevant to the jungle:
   - Frog # Zombie_13
   - Golem Fist/Piranha Gun
   - <TBA>
-- Jungle Mimic # Or maybe do with other biome mimics?
 - final steps:
   - Clean up changelog
   - Update in-game and workshop icons
@@ -125,6 +122,11 @@
 - <corruption, crimson and hallow lily pads>
 - <corruption, crimson and hallow cattails>
 - <corruption, crimson and hallow pots>
+- biome mimics:
+  - Corruption
+  - Crimson
+  - Hallow
+  - Jungle
 - Hallowed/Corrupt/Crimson Water Fountains
 - Flask of Cursed Flames
 - Flask of Ichor

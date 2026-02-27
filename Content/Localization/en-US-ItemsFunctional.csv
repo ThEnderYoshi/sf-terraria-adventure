@@ -58,9 +58,17 @@ ItemName.WoodenSpike,Googi Growth
 #[ statues : enemies ],<<-|--------------------------------------|->>
 
 
+ItemName.BatStatue,Sancoo Stanstue
+ItemName.BombStatue,SnowSpam Stanstue
+ItemName.CorruptStatue,Loominal Stanstue
+ItemName.EyeballStatue,Judgement Stanstue
 ItemName.GoblinStatue,Lnik Stanstue
 ItemName.HarpyStatue,Blaster Rider Stanstue
 ItemName.HornetStatue,Gohst Stanstue
+ItemName.ImpStatue,Spade Stanstue
+ItemName.PiranhaStatue,"Pathetic, Miserable Little Stanstue"
+ItemName.SlimeStatue,Slans Stanstue
+ItemName.SkeletonStatue,Fallen Sans Stanstue
 
 
 #[ statues : critters ],<<-|-------------------------------------|->>
