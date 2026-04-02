@@ -49,7 +49,8 @@ The theme for this update was beloved and/or beloathed
 - _Summons:_ Abeemination, Lihzahrd Power Cell
 - _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
   Jungle/Bee Hive/Temple map backgrounds, Leaf Minimap Frame, World Icons, NPC
-  happiness icons
+  happiness icons, remaining secret seed icons, Random World Name button, Goblin
+  Invasion icon
 - _Backgrounds:_ All Jungle-related backgrounds.
 - _Music (+ boxes):_ Jungle, Jungle (night), Underground Jungle, Jungle Temple,
   Queen Bee, Plantera, Golem
@@ -67,6 +68,7 @@ The theme for this update was beloved and/or beloathed
 - Jungle Spores
 - Jungle + Lihzahrd rubble (only natural versions)
 - Vial of Venom
+- UI/OnePixel.png, whatever this sprite does...
 
 #### Furniture
 
@@ -180,6 +182,9 @@ The theme for this update was beloved and/or beloathed
 - Freed up the Wandering Eye
 - _(tool):_ Replaced `pack_diagnostic` with an unfinished version
   of TPack Toolbox.
+- Changed the Not The Bees! and Remix icons to better match the pack's new bee
+  hive theme.
+- Update the World Creator's Random Seed button.
 
 ### Fixed
 

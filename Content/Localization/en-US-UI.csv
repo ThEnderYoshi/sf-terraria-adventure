@@ -412,14 +412,43 @@ UI.WorldNewlyGenerated,Bros fucking NEW
 UI.WorldHasBeenPlayed,Hes old
 
 
+#[ world creation : secret seeds ],<<-|--------------------------|->>
+
+
+UI.WorldDescriptionSecretSeeds_Title,CHOOSE YOUR AU
+UI.WorldCreationSeedMenuDescription,"Tired of the same old Sans Fanfic? Then give one of these AUs a try? They're snazzy, blazzy, and most of all, glazzy! (??????)"
+
+UI.Seed_Normal_Title,Sans Fanfic
+UI.Seed_Normal,"Welcome to hell! Embark on your quest with that Classic!Sans Fanfic pain and suffering charm."
+
+UI.Seed_Everything_Title,HELP_Fanfic
+UI.Seed_Everything,"Wake up and smell the pain, it's every AU combined into one! You can't survive this one, just give up."
+UI.Seed_Remix_Title,Sans Deltarune Fanfic
+UI.Seed_Remix,"Undertale? That's soooo 2015... This Deltarune-themed AU starts you off right at the Dark World so you can get to theorizing right away!"
+UI.Seed_NoTraps_Title,Sans Fanflc
+UI.Seed_NoTraps,"Doesn't actually change anything (trust)"
+UI.Seed_ForTheWorthy_Title,Sans Fanfell
+UI.Seed_ForTheWorthy,"If you though Classic!Sans Fanfic's Sanses were evil, just wait until you see these Fallen freaks!"
+UI.Seed_TheConstant_Title,Sans X!fic
+UI.Seed_TheConstant,"See that Sans? You can climb it. That's right, you can do it all on X the everything Fanfic!"
+UI.Seed_Celebration_Title,Pretty Fanfic
+UI.Seed_Celebration,"[ B I G   S A N S ] done all pretty with a bow! How nice. (blushes deeply...)"
+UI.Seed_Drunk_Title,Toggle Fanfic
+UI.Seed_Drunk,"IN A WORLD... WHERE SANS FANFIC LOST... THE EVIL LUIGI FANFIC REIGNS SUPREME! Can you survive this even more hellish landscape?"
+UI.Seed_NotTheBees_Title,MOTHER Fanfic
+UI.Seed_NotTheBees,"Earthbound fans, this one's not for you! Toriel's house has fully taken over, not even Sens can save you now!"
+UI.Seed_Skyblock_Title,Outer Fanfic
+UI.Seed_Skyblock,Look I didn't know how to differentiate Outer!Sans with just his head ok? Give me a break.
+
+
 #[ world creation : misc ],<<-|----------------------------------|->>
 
 
-UI.CopySeed,Soppy (sans copy) SansID: {0}
+UI.CopySeed,Soppy (sans copy) AU: {0}
 
 UI.WorldDescriptionDefault,Please enjoy your last moments of peace before you enter a world.
 
-UI.WorldCreationName,Forbidden words:
+UI.WorldCreationName,Type ""sans"" here:
 UI.WorldCreationNameEmpty,"<nothing, nada, zilch>"
 UI.WorldDescriptionName,"If you call your sans anything other than ""sans"", what's even the point?"
 
@@ -432,9 +461,9 @@ UI.WorldCreationRandomizeNameDescription,Does nothing.
 
 UI.WorldCreationRandomizeSeedDescription,Does nothing ;)
 
-UI.WorldCreationSeed,SansID
-UI.WorldCreationSeedEmpty,<Random>
-UI.WorldDescriptionSeed,Set a SansID.
+UI.WorldCreationSeed,AU:
+UI.WorldCreationSeedEmpty,Sans' special surprise ;)
+UI.WorldDescriptionSeed,Make your own AU!
 
 
 #[ menu : titles ],<<-|------------------------------------------|->>
