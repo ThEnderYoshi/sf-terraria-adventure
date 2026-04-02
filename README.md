@@ -48,16 +48,16 @@ complete, so **strap in!!!**
 
 <!--#region progress-->
 > [!NOTE]
-> Last updated: _2026-02-27 UTC_
+> Last updated: _2026-04-01 UTC_
 
 | Progress     |                                      |
 |:------------:|:------------------------------------:|
 | Total        | ![13%](https://geps.dev/progress/13) |
-| Update       | ![97%](https://geps.dev/progress/97) |
-| Images       | 1,972 / 14,994                       |
-| Text Entries | 4,472 / 19,963                       |
+| Update       | ![99%](https://geps.dev/progress/99) |
+| Images       | 1,990 / 14,994                       |
+| Text Entries | 4,492 / 19,963                       |
 | Songs        | 25 / 104                             |
-| Sounds       | 78 / 851                             |
+| Sounds       | 81 / 851                             |
 <!--#endregion-->
 
 ## ![questions & answers](.github/images/icon-other.png)

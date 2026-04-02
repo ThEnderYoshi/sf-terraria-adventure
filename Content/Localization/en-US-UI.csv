@@ -99,6 +99,8 @@ LegacyInterface.12,Sansmet
 LegacyInterface.13,Shans
 LegacyInterface.14,Sants
 
+UI.DefenseDamageReduction,Increases hit sansmage by {0}
+
 
 #[ housing ],<<-|------------------------------------------------|->>
 
@@ -128,6 +130,7 @@ LegacyInterface.28,Close
 LegacyInterface.29,Deposit All
 LegacyInterface.30,Loot All
 LegacyInterface.66,Sanvings
+UI.ItemSetBonusGeneral,"Sanst Bone-us: {Description}"
 
 
 #[ languages ],<<-|----------------------------------------------|->>
@@ -352,6 +355,11 @@ UI.PlayerCreateCategoryUndershirtColor,Bones
 UI.PlayerCreateCategoryPantsColor,Bones
 UI.PlayerCreateCategoryShoesColor,"Yep, you guessed it, more bones"
 
+UI.PlayerCreateVoicePitch,How much should it hurt?
+UI.PlayerCreateVoicePrev,Oop! Not this way!
+UI.PlayerCreateVoiceNext,Next SOUL color
+UI.PlayerCreateVoicePlay,Poke your SOUL
+
 UI.PlayerCreateDiscardWarningWithName,Are you sure you {0} to die?
 UI.PlayerCreateDiscardWarningNoName,Are you sure you want me to die?
 UI.PlayerCreateDiscardWarningYes,Yes... >:)
@@ -395,6 +403,13 @@ UI.WorldCreationSize,Size of [ B I G   S A N S ]:
 UI.WorldDescriptionSizeLarge,Prepare for a lot of walking.
 UI.WorldDescriptionSizeMedium,Right in the Goldilocks zone.
 UI.WorldDescriptionSizeSmall,Prone to worldgen errors.
+
+
+#[ world creation : selction ],<<-|------------------------------|->>
+
+
+UI.WorldNewlyGenerated,Bros fucking NEW
+UI.WorldHasBeenPlayed,Hes old
 
 
 #[ world creation : misc ],<<-|----------------------------------|->>
@@ -442,16 +457,28 @@ UI.SpawnPoint,Gates of Hell
 #[ minimap : frames ],<<-|---------------------------------------|->>
 
 
+UI.SelectMapBorder,Sansnimap Boneder: {0}
 UI.MinimapFrame_Default,Sansfault
 UI.MinimapFrame_Golden,Palyld
-UI.MinimapFrame_Leaf,DeltaWarriors
+UI.MinimapFrame_Leaf,TorielHouse
 UI.MinimapFrame_Remix,Sansmix
-UI.MinimapFrame_Retro,FallenChild
+UI.MinimapFrame_Retro,OhMyGodSoRetro
 UI.MinimapFrame_Sticks,MysteryMan
 UI.MinimapFrame_StoneGold,Hologram
 UI.MinimapFrame_TwigLeaf,HumanSouls
 UI.MinimapFrame_Valkyrie,Loogiefault
 
+
+#[ health and mana ],<<-|----------------------------------------|->>
+
+
+UI.SelectHealthStyle,HP & TP stans (style sans): {0}
+UI.HealthManaStyle_Default,Undertale
+UI.HealthManaStyle_New,Undertale...2!
+UI.HealthManaStyle_NewWithText,Undertale...5!
+UI.HealthManaStyle_HorizontalBars,Deltarune
+UI.HealthManaStyle_HorizontalBarsWithText,Deltarune...2!
+UI.HealthManaStyle_HorizontalBarsWithFullText,Deltarune...5!
 
 #[ workshop ],<<-|-----------------------------------------------|->>
 

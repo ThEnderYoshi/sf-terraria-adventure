@@ -122,6 +122,9 @@ ProjectileName.Pygmy3,Puffle
 ProjectileName.Pygmy4,Puffle
 ProjectileName.PygmySpear,Puffle
 
+ProjectileName.DeadCellsBarnacle,Writhing Mass
+ProjectileName.DeadCellsBarnacleShot,Spooky Blast
+
 ProjectileName.BlandWhip,Sansy Tongue
 ProjectileName.ThornWhip,Gastongue
 ProjectileName.FlowerWhip,Speed Tongue

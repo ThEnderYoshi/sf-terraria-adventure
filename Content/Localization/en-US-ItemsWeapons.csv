@@ -248,10 +248,11 @@ ItemName.GrenadeLauncher,Powerup Ballcher (ball launcher)
 
 
 ItemName.Blowpipe,Petri-Pipe
-ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo"
+ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo
+'You probably shouldn't be putting your mouth on that...'"
 
-ItemName.Blowgun,Rusti-Pipe
-ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}
+ItemName.Blowgun,Putri-Pipe
+ItemTooltip.Blowgun,"Allows the collection of sprouts for sansmmo
 'You REALLY shouldn't be putting your mouth on that...'"
 
 ItemName.Stynger,Sneezer
@@ -307,6 +308,14 @@ ItemTooltip.ImpStaff,"Sansmmons a round boy to protect your behind"
 
 ItemName.PygmyStaff,O' Berry on a Stick
 ItemTooltip.PygmyStaff,"Sansmmons puffles to protect your behind"
+
+
+#[ summoner : sentries ],<<-|------------------------------------|->>
+
+
+ItemName.DeadCellsBarnacleSummonItem,Para-gohst
+ItemTooltip.DeadCellsBarnacleSummonItem,"{$CommonItemTooltip.Sentry}
+Sansmmons a writhing mass to fire parasites at sanses"
 
 
 #[ summoner : whips ],<<-|---------------------------------------|->>

@@ -1,15 +1,20 @@
 # This is a "short-term" list of the "next" things to be added, "sorted" by the
 # "planned" order of creation.
 
+- barnacle staff
+  - item
+  - sentry
+  - shot
+  - sound
+  - text entries
+
 # -- End of Commit --
 
 # Next in line
 
 # For later - BEFORE JUNGLE UPDATE RELEASES
-- all sounds relevant to the jungle:
-  - Frog # Zombie_13
-  - Golem Fist/Piranha Gun
-  - <TBA>
+- finalize moth sprite # See todo.yaml
+- make the puffles actually stare daggers
 - final steps:
   - Clean up changelog
   - Update in-game and workshop icons

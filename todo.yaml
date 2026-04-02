@@ -2,7 +2,6 @@
 
 important:
   BEFORE UPDATE 2 RELEASES:
-    - Add statues for all current enemies.
     - Add Wandering Eye gores.
   BEFORE DST UPDATE RELEASES:
     - Check out DSTNoise.png ;)
@@ -47,17 +46,6 @@ long-term notes:
   - Foods are slippers.
   - Fishes are (happy) worms (parasites).
   - Locked chests are glued shut.
-
-boss todos:
-  golem:
-    # Reminder that all of these need to have their own text entries
-    npcs: #TODO: Golem (and servants) NPC sprites
-    gores: #TODO: Golem (and servants) Gore sprites
-    projectiles: #TODO: Golem (and servants) Projectile sprites
-    items:
-      #TODO: Golem-related items
-    blocks:
-      #TODO: Golem-related blocks
 
 unfinished textures:
   critter cages:
@@ -200,7 +188,7 @@ reconsider:
   <other>:
     - Achievement UI assets
 broken:
-  - 'Extra_181.png' # Pylon crystals. Broke in 1.4.5
+  # None!
 image sets:
   Daybreak:
     - Missing explosion sprite.
@@ -214,6 +202,7 @@ image sets:
     - <check for related items, etc.>
   Skelet:
     - Add Chippy's Couch.
+    - Add Chippy version.
     - <check for related items, etc.>
   WoF:
     - Fix WallOfFlesh.png
@@ -241,7 +230,7 @@ music notes:
   Boss 1:
     - Intro is repeated at the end, breaking the loop.
   <tba>:
-    - Check music that broke/was replaced in 1.4.5
+    # None!
 tools:
   TPack Toolbox:
     - Add the GUI for the `jigsaw` tool.

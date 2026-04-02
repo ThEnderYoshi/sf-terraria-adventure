@@ -48,7 +48,8 @@ The theme for this update was beloved and/or beloathed
 - _Kites:_ Man Eater, Angry Trapper
 - _Summons:_ Abeemination, Lihzahrd Power Cell
 - _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
-  Jungle/Bee Hive/Temple map backgrounds
+  Jungle/Bee Hive/Temple map backgrounds, Leaf Minimap Frame, World Icons, NPC
+  happiness icons
 - _Backgrounds:_ All Jungle-related backgrounds.
 - _Music (+ boxes):_ Jungle, Jungle (night), Underground Jungle, Jungle Temple,
   Queen Bee, Plantera, Golem
@@ -139,6 +140,7 @@ The theme for this update was beloved and/or beloathed
 - _Staves:_ Nettle Burst, Staff of Earth
 - _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun, Heat Ray
 - _Minions:_ Hornet Staff, Pigmy Staff
+- _Sentries:_ Barnacle Staff
 - _Whips:_ Leather Whip, Snapthorn, Vulgar Display of Flower
 
 #### Tools
