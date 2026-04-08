@@ -204,7 +204,7 @@ LoadingTips_Default.55,As you can see I have a very mature sense of humor.
 LoadingTips_Default.56,You can destroy your lower parts with a sledge hammer but you really shouldn't.
 LoadingTips_Default.57,"When dealing with a Lnik army, HEYAAAAAAA is (small or boss) key."
 
-LoadingTips_Default.59,Use ""suspicious looking items""! Use them forever! Yippie!
+LoadingTips_Default.59,Use "suspicious looking items"! Use them forever! Yippie!
 LoadingTips_Default.60,Sans is overpowered.
 
 LoadingTips_Default.62,Try not to increase your SIN meter too much...
@@ -214,10 +214,10 @@ LoadingTips_Default.66,Misplaced a sall? Looks like you'll have to live with you
 LoadingTips_Default.67,Got too much reading material? Throw your comics away! Literacy be damned!
 LoadingTips_Default.68,Be careful around pools of gastric acid! Those things are LOADED with parasites.
 LoadingTips_Default.69,Nothing improves your mood (or genus) quite like a refreshing cup of battery acid!
-LoadingTips_Default.70,Placing brown bricks with Minecrap is the most fun you can possibly have!
+LoadingTips_Default.70,Placing brown bricks with Minecrap is the most fun you can possibly have.
 LoadingTips_Default.71,"Red SOULs not enough for you, you sick fuck? Don't worry, more and more of your brethren will soon fall for the trap of Toriel's House."
 
-LoadingTips_Default.73,Mounts grant humans the special ""Disease Blast"" ability. Simply double-tap the Ç button to use!
+LoadingTips_Default.73,Mounts grant humans the special "Disease Blast" ability. Simply double-tap the Ç button to use!
 LoadingTips_Default.74,Looking for a challenge? Unplug your monitor and speakers and instead just use the official Sans Fanfic Unsightly Lump™ accessory!
 
 LoadingTips_Default.82,"Gaster!Sans is busy GAMING at Gamestop. Don't disturb him, or else!"
@@ -246,7 +246,7 @@ LoadingTips_Default.109,Have some Sanses perished? Good! You're on the right tra
 LoadingTips_Default.110,The Spamton NutriNose™'s healing properties work best when used near your bed or friendly NPCs!
 
 LoadingTips_Keyboard.1,Press {InputTrigger_SmartCursor}+{InputTrigger_SmartSelect}+{InputTriggerUI_FavoriteItem} to activate Scungus Mode®.
-LoadingTips_Keyboard.2,"If your Sansventory is full, idk empty it? Do I gotta hold your hand for everything? Are you a baby? Are you a little baby gamer? Shame on you. I hate you."
+LoadingTips_Keyboard.2,"If your Sansventory is full, idk empty it? Do I gotta hold your hand for everything? Are you a baby? Are you a little fucking baby gamer? Shame on you. I hate you."
 LoadingTips_Keyboard.3,"When speaking to a Sans, KILL HIM. KILL HIM. KILL HIM. KILL HIM."
 
 LoadingTips_Keyboard.4,"You can remove sanches all you want, but they'll still remember."
@@ -416,7 +416,8 @@ UI.WorldHasBeenPlayed,Hes old
 
 
 UI.WorldDescriptionSecretSeeds_Title,CHOOSE YOUR AU
-UI.WorldCreationSeedMenuDescription,"Tired of the same old Sans Fanfic? Then give one of these AUs a try? They're snazzy, blazzy, and most of all, glazzy! (??????)"
+UI.WorldCreationSeedMenuDescription,"Tired of the same old Sans Fanfic? Then give one of these AUs a try!
+They're snazzy, blazzy, and most of all, glazzy! (??????)"
 
 UI.Seed_Normal_Title,Sans Fanfic
 UI.Seed_Normal,"Welcome to hell! Embark on your quest with that Classic!Sans Fanfic pain and suffering charm."
@@ -448,7 +449,7 @@ UI.CopySeed,Soppy (sans copy) AU: {0}
 
 UI.WorldDescriptionDefault,Please enjoy your last moments of peace before you enter a world.
 
-UI.WorldCreationName,Type ""sans"" here:
+UI.WorldCreationName,Type "sans" here:
 UI.WorldCreationNameEmpty,"<nothing, nada, zilch>"
 UI.WorldDescriptionName,"If you call your sans anything other than ""sans"", what's even the point?"
 
@@ -546,9 +547,7 @@ Workshop.Publish,[ U N L E A S H ]
 #[ workshop : descriptions ],<<-|--------------------------------|->>
 
 
-Workshop.HubDescriptionDefault,"[c/ff0000:PREPARE YOU'RE POSTERIOR]
-
-Warning: Full of spoilers for Undertale and Deltarune (and lots of other stuff too)!"
+Workshop.HubDescriptionDefault,"[c/ff0000:PREPARE YOU'RE POSTERIOR]"
 
 Workshop.HubDescriptionPublishResourcePacks,"Why would you publish a Resource Pack? You don't need anything other than Sans Fanfic: Terraria Adventure."
 Workshop.HubDescriptionPublishWorlds,"Publish your [ B I G   S A N S ] and have it spread across the galaxy."
@@ -592,7 +591,7 @@ Misc.WaterSettled,Gastric acid has been sansttled.
 
 
 UI.ControllerGlyphAuto,Let Sans Decide
-UI.ControllerGlyphXbox,""Se""xbox
+UI.ControllerGlyphXbox,"""Se""xbox"
 UI.ControllerGlyphPlayStation,PS Triple
 UI.ControllerGlyphSwitch,Baby Company That Makes Baby Games for Babies
 

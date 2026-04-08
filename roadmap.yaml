@@ -1,17 +1,17 @@
 # This is a "short-term" list of the "next" things to be added, "sorted" by the
 # "planned" order of creation.
 
-- finalize moth sprite # See todo.yaml
-- make the puffles actually stare daggers
-
 # -- End of Commit --
 
 # Next in line
 
 - final steps:
-  - Clean up changelog
-  - Update in-game and workshop icons
+  - better screenshots
   - Update workshop description
+  # After all this, 'dev' should be merged into 'main'
+  - setup media posts:
+    - tumplr
+    - forum
 
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
@@ -29,6 +29,7 @@
 # For later - BEFORE THE UPDATE WITH HELL
 - Potted Hell Plants
 - reconsider: WallOfFlesh.png
+- reconsider: Inferno Potion # Item 2348
 
 # For later - BEFORE THE UPDATE WITH GRAVEYARDS
 - <check all graveyard-related npc dialog>
@@ -64,9 +65,6 @@
 
 # For later - BEFORE THE UPDATE WITH METEORS
 - Meteor Map BG Overlay # MapBGOverlay 7
-
-# For later - BEFORE THE UPDATE WITH THE UNDERWORLD
-- reconsider: Inferno Potion # Item 2348
 
 # For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
 - missing npc portraits:

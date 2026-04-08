@@ -1,6 +1,9 @@
 .ignore/
 .vscode/
 
+_workshop.json
+desktop.ini
+
 # These may change a lot between commits and the contents are always temporary.
 ExternalAssets/FactoryIn
 ExternalAssets/FactoryOut

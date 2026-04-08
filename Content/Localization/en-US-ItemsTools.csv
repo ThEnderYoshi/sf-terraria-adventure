@@ -6,7 +6,7 @@ Key,Translation
 
 ItemName.Bomb,Spamton NutriNose™
 ItemTooltip.Bomb,"Provides delicious improvements to stats
-(do not blow into the nose)
+(do not blow into the nozzle)
 'Spamton NutriNose™: Try it inside your house!'"
 
 
@@ -64,7 +64,8 @@ ItemName.ChlorophyteJackhammer,Horned Pwner
 ItemName.Picksaw,Fluoroantimonic Acid
 ItemTooltip.Picksaw,"Capable of dissolving pretty much anything
 'Originally used to dispose of G-00 samples.
-For the love of GOD don't let this touch your hands. Or water. Or heat. Or most things, really'"
+For the love of GOD don't let this touch your hands.
+Or water. Or heat. Or most things, really'"
 
 ItemName.MeteorHamaxe,Planetarium Sansmmaxe
 ItemName.MoltenHamaxe,BraveHamax

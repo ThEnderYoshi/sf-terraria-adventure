@@ -1,7 +1,9 @@
 # Changelog
 
-Current version: **UPDATE 2** \
-Upcoming version: _N/A_
+| Version    | Number       | Name                |
+| ---------- | ------------ | ------------------- |
+| Current    | **UPDATE 2** | _The Jungle Update_ |
+| Next Major | **UPDATE 3** | _Heights & Depths_  |
 
 ## Planned Updates
 
@@ -12,189 +14,209 @@ The following list shows updates that have a concrete theme set in place, or
 already have some content done for it. The list is in no particular order.
 
 - The Desert/Snow Update
-- The Sky/Underground Update
-- The Corruption/Crimson Update
+- The Evil Biome Update
 - The Dungeon Update
 - The Player Update
 
-## UPDATE 2 - _The Jungle Update_ - [ Upcoming ]
+## UPDATE 2 - _The Jungle Update_
 
-<!-- NOTE: Organize this changelog before the update releases. -->
+> **Release Date:** *upcoming*
 
-As the name implies, this is the update that re-textures the Jungle biome.
+As the name implies, this is the update that re-textures the Surface and
+Undeground Jungle biomes, as well as the Jungle Temple. The theme for this
+update was the beloved and/or beloathed Sans Fanfic Proper location of
+Toriel's House!
 
-The theme for this update was beloved and/or beloathed
-<span style="color:red">Sans Fanfic Proper</span> location Toriel's House!
+As you might be able to tell, this time I was A LOT more thorough when it came
+to actually tracking the changes.
 
 ### Added
 
-- _Blocks:_ Mud, Jungle Grass (+ Corrupt and Crimson variants), Hive,
-  Rich Mahogany, Bamboo, Large Bamboo, Honey, Crispy Honey, Lihzahrd Brick,
-  Mudstone Brick
-- _Walls:_ Mud, Jungle, Hive, Rich Mahogany, Bamboo, Large Bamboo, Chlorophyte,
-  Lichen Stone, Leafy Jungle, Jungle Vine, Ivy Stone, Lihzahrd Brick,
-  Mudstone Brick
+- _Blocks:_ (Crispy) Honey, Hive, Jungle Grass (+ Corrupt and Crimson variants),
+  (Large) Bamboo, Lihzahrd Brick, Mud, Mudstone Brick and Rich Mahogany.
+- _Walls:_ Chlorophyte, (Crispy) Honey, Hive, (Large) Bamboo, (Leafy) Jungle
+  (Vine), Lichen & Ivy Stone, Lihzahrd Brick and Mud and Rich Mahogany
 - _Ores:_ Chlorophyte
-- _Campfires:_ Wood, Jungle
-- _Pylons:_ Forest, Jungle
-- _Other Background Objects:_ Rich Mahogany Beam, Forest & Jungle Pots
-- _Potions:_ Fishing
-- _Flasks:_ Poison, Fire, Venom
-- _Food:_ Coffee Cup, Mango, Pineapple, Tropical Smoothie, Grapes, Grape Juice,
-  Apple, Apple Juice, Grub Soup, Sauteed Frog Legs
-- _Fish:_ Bass, Double Cod, Neon Tetra, Mudfish, Catfish, Tropical Barracuda,
-  Derpfish
-- _Crates:_ Wooden, Iron, Gold, Jungle, Bramble
-- _Kites:_ Man Eater, Angry Trapper
-- _Summons:_ Abeemination, Lihzahrd Power Cell
-- _UI:_ Summon focus indicator, Jungle Splash Screen, Jungle/Underground
-  Jungle/Bee Hive/Temple map backgrounds, Leaf Minimap Frame, World Icons, NPC
-  happiness icons, remaining secret seed icons, Random World Name button, Goblin
-  Invasion icon
-- _Backgrounds:_ All Jungle-related backgrounds.
-- _Music (+ boxes):_ Jungle, Jungle (night), Underground Jungle, Jungle Temple,
-  Queen Bee, Plantera, Golem
+- _Background Objects:_ Forest & Jungle Pots and Rich Mahogany Beam
+- _Fish:_ Bass, Catfish, Derpfish, Double Cod, Mudfish, Neon Tetra and
+  Tropical Barracuda
+- _Kites:_ Angry Trapper and Man Eater
+_ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
+  Plantera and Underground Jungle
 - Seeds for all currently added grasses
-- Items for all currently added banners.
-  Enemies with these banners now all properly have names and bestiary entries.
-- The "Spampton NutriNose&trade;"
-- Moonglow (plus seeds and planter box)
-- Sky Blue Dye/Paint/Flower
-- Violet Dye/Paint/Husk
+- Items for all currently added banners
+- The "Spamton NutriNode&trade;"
 - Honey (liquid + bucket + bottled)
-- Guide to Environmental Preservation
-- Stinger
-- Bee Wax
-- Jungle Spores
-- Jungle + Lihzahrd rubble (only natural versions)
-- Vial of Venom
-- UI/OnePixel.png, whatever this sprite does...
+- _Materials:_ Jungle Spores, Bee Wax, Stinger and Vial of Venom
+- Most item prefixes, a lot of loading screen tips, some death messages and
+  other misc. text entries
 
 #### Furniture
 
-- _Sets:_ Rich Mahogany, Bamboo, Honey, Lihzahrd
-- _Crafting Stations:_ Honey Dispenser, Lihzahrd Furnace, Imbuing Station
-- _Paintings:_ Do Not Step on the Grass, Queen of Bees, It's Scragglin' Time
-- All Jungle critter cages + statues
-- Jungle Torch
+- All jungle critter cages + statues
+- All lihzahrd traps + statues
 - Ivy Chest
-- Jungle Water Fountain
-- All Lihzahrd Traps + statues
+- Jungle Torch + Water Fountain
+- _Campfires:_ Jungle and Wood
+- _Crafting Stations:_ Honey Dispenser, Imbuing Station and Lihzahrd Furnace
+- _Crates:_ Bramble, Gold, Iron, Jungle and Wooden
+- _Pylons:_ Forest and Jungle
+- _Rubble:_ Jungle and Lihzahrd (only natural versions)
+- _Sets:_ Bamboo, Honey, Lihzahrd and Rich Mahogany
 
-#### Bosses
+#### Plants
 
-> [!NOTE]
-> Trophies and Relics are not included, they'll be done all at once when all
-> bosses have been completed.
+- Moonglow (+ seeds and planter box)
+- _Dyes/Paints/Plants:_ Sky Blue and Violet
 
-- Queen Bee
-- Plantera
-- Golem
+#### Consumables
+
+- _Boss/Event Summons:_ Abeemination and Lihzahrd Power Cell
+- _Flasks:_ Fire, Poison and Venom
+- _Food:_ Apple (Juice), Coffee Cup, Grapes, Grape Juice, Grub Soup, Mango,
+  Pineapple, Tropical Smoothie and Sauteed Frog Legs
+- _Potions:_ Fishing
+
+#### Backgrounds
+
+- _Map/Bestiary:_ Bee Hive, Temples and (Undeground) Jungle
+- _World:_ All Jungle-related backgrounds
+
+#### UI
+
+- Leaf minimap frame
+- Jungle splash screen
+- Goblin Invasion icon
+- `UI/OnePixel.png`, whatever it does...
+- _In-Game:_ Summon focus indicator
+- _World Creator:_ Random World Name button and Remaining secret seed icons
+
+#### Accessories
+
+- _"""Accessories:"""_ Guide to Environmental Preservation
 
 #### NPCs
 
-- _Town NPCs:_ Painter, Witch Doctor
-- _Jungle:_ (Spiked) Jungle Slime, Jungle Bat, Piranha, Snatcher, Derpling,
-  Giant Flying Fox, Angler Fish, Giant Tortoise, Hornet, Man Eater, Lac Beetle,
-  Bee, Small Bee, Moss Hornet, Angry Trapper, Jungle Creeper, Moth, Arapaima,
-  Lihzahrd, Flying Snake
-- _Underground:_ Cave/Giant Bat
-- _Critters:_ Grubby, Sluggy, Buggy, Frog, Gold Frog, Cockatiels,
-  Toucan, Macaws
-  - Also added cages & statues where applicable
+> [!NOTE]
+> Boss Trophies and Relics are not included, they'll be done all at once when
+> all bosses have been completed.
+
+- _Bosses:_ Golem, Plantera and Queen Bee
+- _Town NPCs:_ Painter and Witch Doctor
+- _Critters:_ Buggy, Cockatiels, Frog (+ gold), Grubby, Macaws, Sluggy
+  and Toucan
+- _Jungle:_ Angler Fish, Arapaima, Derpling, Flying Snake, Giant Flying Fox,
+  Giant Tortoise, Jungle Bat, Lac Beetle, Lihzahrd, Man Eater, (Moss) Hornet,
+  Moth, Piranha, (Small) Bee, Snatcher and (Spiked) Jungle Slime
+
+- _Underground:_ Cave & Giant Bat
 
 #### Buffs
 
 > [!NOTE]
 > Minion/pet/minecart buffs are not included here.
 
-- _Positive:_ Regeneration, Honey, Fishing
-- _Negative:_ Bleeding, Confusion, Venom, Webbed, Hemorrhage
+- _Positive:_ Fishing, Honey and Regeneration
+- _Negative:_ Bleeding, Confusion, Hemorrhage, Venom and Webbed
 
 #### Armors
 
 > [!IMPORTANT]
 > Only item sprites are included; most equipped armor GFX will not be part of
-> the pack for a good while. (see
+> the pack for a good while (see
 > [FAQ: "where is the player model"](./README.md#where-is-the-player-model) for
-> more info)
+> more info).
 
-- _Sets:_ Copper, Tin, Iron, Lead, Silver, Tungsten, Gold, Platinum, Turtle,
-  Ancient Cobalt, Bee Armor, Jungle, Chlorophyte, Beetle, Rich Mahogany, Tiki
-- _Vanity:_ Archaeologist's Set, Robot Hat, Jungle Rose, Jim's Cap,
-  Queen Bee Mask, Bee Set, Plantera Mask
+- _Sets:_ Ancient Cobalt, Bee Armor, Beetle, Chlorophyte, Copper, Gold, Iron,
+  Jungle, Lead, Platinum, Rich Mahogany, Silver, Tiki, Tin, Tungsten and Turtle
+- _Vanity:_ Archaeologist's Set, Bee Set, Jim's Cap, Jungle Rose, Queen Bee &
+  Plantera Masks and Robot Hat
 
 #### Weapons
 
-- _Yoyos:_ Amazon, Yelets, Hive-Five
-- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Saber + Claymore, Seedler,
-  Rich Mahogany
-- _Boomerangs:_ Thorn Chakram, Possessed Hatchet
-- _Spears:_ Chlorophyte Partisan
-- _Maces:_ Flower Pow
+- _Boomerangs:_ Possessed Hatchet and Thorn Chakram
 - _Flails:_ Golem Fist
-- _Bows:_ The Bee's Knees, Chlorophyte Shotbow, Rich Mahogany
-- _Arrows:_ Chlorophyte, Venom
-- _Guns:_ Uzi, Paintball Gun, Boomstick, Venus Magnum, Stynger (+ Bolts), Blowgun
+- _Maces:_ Flower Pow
+- _Spears:_ Chlorophyte Partisan
+- _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Claymore & Saber, Rich
+  Mahogany and Seedler
+- _Yoyos:_ Amason, Hive-Five and Yelets
+
+---
+
+- _Arrows & Bullets:_ Chlorophyte and Venom
+- _Bows:_ Chlorophyte Shotbow, Rich Mahogany and The Bee's Knees
+- _Guns:_ Blowgun, Boomstick, Paintball Gun, Stynher (+ Bolts), Uzi,
+  Venus Magnum
 - _Launchers:_ Grenade Launcher
 - _Rockets:_ Grenade forms of all rockets
-- _Bullets:_ Chlorophyte, Venom
-- _Staves:_ Nettle Burst, Staff of Earth
-- _Magic Guns:_ Bee Gun, Leaf Blower, Wasp Gun, Heat Ray
-- _Minions:_ Hornet Staff, Pigmy Staff
+
+---
+
+- _Magic Guns:_ Bee Gun, Heat Ray, Leaf Blower and Wasp Gun
+- _Staves:_ Nettle Burst and Staff of Earth
+
+---
+
+- _Minions:_ Hornet & Pigmy Staff
 - _Sentries:_ Barnacle Staff
-- _Whips:_ Leather Whip, Snapthorn, Vulgar Display of Flower
+- _Whips:_ Leather Whipe, Snapthorn and Vulgar Display of Flower
 
 #### Tools
 
-- _Picks:_ Chlorophyte Pickaxe + Drill, Picksaw
-- _Axes:_ Chlorophyte Greataxe + Chainsaw, Axe of Regrowth, The Axe
-- _Hammer:_ Chlorophyte Warhammer + Jackhammer, Rich Mahogany
-- _Fishing Poles:_ Wooden, Fiberglass
-- _Painting:_ Paintbrush (+ spectral), Paint Roller (+ spectral),
-  Paint Scraper (+ spectral)
-- _Powders:_ Purification Powder, Vile Powder, Vicious Powder
-- _Other:_ Staff of Regrowth, Living Rich Mahogany Wand, Rich Mahogany Leaf Wand
+- _Axes:_ Axe of Regrowth, Chlorophyte Greataxe & Chainsaw and The Axe
+- _Fishing Poles:_ Fiberglass & Wooden
+- _Hammer:_ Chlorophyte Warhammer & Jackhammer and Rich Mahogany
+- _Painting:_ (Spectral) Paintbrush, (Spectral) Paint Roller and (Spectral)
+  Paint Scraper
+- _Picks:_ Chlorophyte Pickaxe & Drill and Picksaw
+- _Powders:_ Purification, Vile, Vicious
+- Living Rich Mahogany Wand
+- Rich Mahogany Leaf Wand
+- Staff of Regrowth
 
 #### Accessories & Equipment
 
-- _Melee:_ Feral Claws
-- _Summoner:_ Hercules Beetle, Pygmy Necklace
+- _Debuff Immunity:_ Adhesive Bandage <!-- not the only one, check -->
+- _Expert:_ Hive Pack, Shiny Stone and Spore Sac
+- _Hooks:_ Ivy Whip and Thorn Hook
 - _Info Display:_ Compass
-- _Debuff Immunity:_ Adhesive Bandage
-- _Wings:_ Leaf, Bee, Moth, Beetle
-- _Mounts:_ Honeyed Goggles, Cursed Piper Flute
-- _Pets:_ Tiki Totem, Nectar, Sparkling Honey, Seaweed, Mud Bud, Seedling,
-  Plantera Seedling, Guardian Golem
-- _Hooks:_ Ivy Whip, Thorn Hook
-- _Minecarts:_ Wooden, Bee, Beetle
+- _Melee:_ Feral Claws
+- _Minecarts:_ Bee, Beetle and Wooden
+- _Mounts:_ Cursed Piper Flute and Honeyed Goggles
 - _Movement:_ Anklet of the Wind
-- _Expert:_ Hive Pack, Spore Sac, Shiny Stone
-- _Other:_ Flower Boots, Sun Stone, Eye of the Golem
+- _Pets:_ Guardian Golem, Mud Bud, Nectar, Seaweed, (Plantera) Seedling,
+  Sparkling Honey, Tiki Totem
+- _Summoner:_ Hercules Beetle and Pygmy Necklace
+- _Wings:_ Leaf, Bee, Moth, Beetle
+- Eye of the Golem
+- Flower Boots
+- Sun Stone
 
 ### Changed
 
-- Touched up some Dryad-related things. (The rest of her dialog and sold items
-  will be changed in future updates)
-- Buckets are now jugs instead of capsules.
-- Bottles are now for condiments instead of being sans-shaped.
-- Minor tweaks to Fancy UI, bubbles and the star cursor.
+- Bottles are now for condiments instead of just being sans-shaped
+- Buckets are now jugs instead of capsules
+- Changed the `Not the Bees!` and `Remix` seed icons to better match the
+  updated lore
 - Freed up the Wandering Eye
-- _(tool):_ Replaced `pack_diagnostic` with an unfinished version
-  of TPack Toolbox.
-- Changed the Not The Bees! and Remix icons to better match the pack's new bee
-  hive theme.
-- Update the World Creator's Random Seed button.
+- Minor tweaks to the Fancy UI, emote bubbles and the favorite cursor
+- Touched up some Dryad-related things (The rest of her dialog and sold items
+  will be changed in future updates)
+- Updated the World Creator's `Random Seed` button
+- _(tool):_ Replaced `pack_diagnostic` with an unfinished version of
+  TPack Toolbox
 
 ### Fixed
 
-- Vanilla Bestiary icons are no longer transparent.
-- Rain bestiary icon now no longer in the place of the Ocean's icon.
-- Ebonwood Lamp is no longer offset by 1 pixel when turned off.
-- Title Screen theme is not as loud anymore.
-- `Misc/Perlin.png` is now appropriately sansy.
+- Ebonwood Lamp is no longer offset by 1 pixel when turned off
+- `Misc/Perlin.png` is not appropriately sansy
+- Rain bestiary icon is now no longer in the place of the Ocean's icon
+- Vanilla Bestiary icons are no longer transparent
 
-## MINOR 1.2 - _Larger Shipments_ - 2023-07-18
+## MINOR 1.2 - _Larger Shipments_
+
+> **Release Date:** 2023-07-18
 
 Fixed an oversight in `pack_diagnostic`
 that made it not copy `.mp3` music files.
@@ -203,7 +225,9 @@ that made it not copy `.mp3` music files.
 
 - _(tool) `pack_diagnostic`:_ Now copies `icon.png` and `pack.json`.
 
-## MINOR 1.1 - _Smaller Shipments_ - 2023-07-17
+## MINOR 1.1 - _Smaller Shipments_
+
+> **Release Date:** 2023-07-17
 
 The pack's first minor update!
 From now on, the pack should no longer ship with non-resource pack files.
@@ -218,7 +242,9 @@ From now on, the pack should no longer ship with non-resource pack files.
 
 - Resource Pack was shiping with non-essential files.
 
-## UPDATE 1 - _Initial Release_ - 2023-07-17
+## UPDATE 1 - _Initial Release_
+
+> **Release Date:** 2023-07-17
 
 This is STFA's initial release!
 

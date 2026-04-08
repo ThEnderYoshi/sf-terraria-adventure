@@ -112,7 +112,7 @@ unfinished textures:
   Item_:
     - '511-512'     # (In)active stone blocks. They're still using vanilla wire textures.
   NPC_:
-    - '205'         # Moth. Missing an animation. See `Moth.ase`.
+    - '35/36'       # Skeletron. Missing alternate form.
   Tiles_:
     - '3/73'        # Natural plants/flowers.
     - '4'           # Torches.
