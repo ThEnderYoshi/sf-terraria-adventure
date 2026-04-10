@@ -79,7 +79,7 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
 
 #### Backgrounds
 
-- _Map/Bestiary:_ Bee Hive, Temples and (Undeground) Jungle
+- _Map/Bestiary:_ Bee Hive, Temple and (Undeground) Jungle
 - _World:_ All Jungle-related backgrounds
 
 #### UI
@@ -90,10 +90,6 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
 - `UI/OnePixel.png`, whatever it does...
 - _In-Game:_ Summon focus indicator
 - _World Creator:_ Random World Name button and Remaining secret seed icons
-
-#### Accessories
-
-- _"""Accessories:"""_ Guide to Environmental Preservation
 
 #### NPCs
 
@@ -140,13 +136,13 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
 - _Spears:_ Chlorophyte Partisan
 - _Swords:_ Bee Keeper, Blade of Grass, Chlorophyte Claymore & Saber, Rich
   Mahogany and Seedler
-- _Yoyos:_ Amason, Hive-Five and Yelets
+- _Yoyos:_ Amazon, Hive-Five and Yelets
 
 ---
 
 - _Arrows & Bullets:_ Chlorophyte and Venom
 - _Bows:_ Chlorophyte Shotbow, Rich Mahogany and The Bee's Knees
-- _Guns:_ Blowgun, Boomstick, Paintball Gun, Stynher (+ Bolts), Uzi,
+- _Guns:_ Blowgun, Boomstick, Paintball Gun, Stynger (+ Bolts), Uzi,
   Venus Magnum
 - _Launchers:_ Grenade Launcher
 - _Rockets:_ Grenade forms of all rockets
@@ -160,13 +156,13 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
 
 - _Minions:_ Hornet & Pigmy Staff
 - _Sentries:_ Barnacle Staff
-- _Whips:_ Leather Whipe, Snapthorn and Vulgar Display of Flower
+- _Whips:_ Leather Whip, Snapthorn and Vulgar Display of Flower
 
 #### Tools
 
 - _Axes:_ Axe of Regrowth, Chlorophyte Greataxe & Chainsaw and The Axe
 - _Fishing Poles:_ Fiberglass & Wooden
-- _Hammer:_ Chlorophyte Warhammer & Jackhammer and Rich Mahogany
+- _Hammers:_ Chlorophyte Warhammer & Jackhammer and Rich Mahogany
 - _Painting:_ (Spectral) Paintbrush, (Spectral) Paint Roller and (Spectral)
   Paint Scraper
 - _Picks:_ Chlorophyte Pickaxe & Drill and Picksaw
@@ -189,6 +185,7 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
   Sparkling Honey, Tiki Totem
 - _Summoner:_ Hercules Beetle and Pygmy Necklace
 - _Wings:_ Leaf, Bee, Moth, Beetle
+- _"""Accessories""":_ Guide to Environmental Preservation
 - Eye of the Golem
 - Flower Boots
 - Sun Stone
@@ -210,7 +207,7 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
 ### Fixed
 
 - Ebonwood Lamp is no longer offset by 1 pixel when turned off
-- `Misc/Perlin.png` is not appropriately sansy
+- `Misc/Perlin.png` is now appropriately sansy
 - Rain bestiary icon is now no longer in the place of the Ocean's icon
 - Vanilla Bestiary icons are no longer transparent
 
