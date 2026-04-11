@@ -50,6 +50,7 @@ _ _Music (+ boxes):_ Golem, Jungle, Jungle (night), Jungle Temple, Queen Bee,
 - _Materials:_ Jungle Spores, Bee Wax, Stinger and Vial of Venom
 - Most item prefixes, a lot of loading screen tips, some death messages and
   other misc. text entries
+- Added all fonts
 
 #### Furniture
 

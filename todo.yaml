@@ -231,6 +231,10 @@ music notes:
     - Intro is repeated at the end, breaking the loop.
   <tba>:
     # None!
+font notes:
+  <the ones that are comic sans>: >
+    Some special characters are missing and too small. Namely, the oxford quotes
+    and cyrillic letters.
 tools:
   TPack Toolbox:
     - Add the GUI for the `jigsaw` tool.
