@@ -1,4 +1,18 @@
-:: Performs a pack_diagnostic scan.
-:: Run this from the repo's root dir.
+@rem Performs a TPack Toolbox scan and updates the README file.
+@rem Run this from the repo's root dir.
 
-Tools\t_pack_diagnostic.exe scan -i . -r Tools/generated_refs
+echo off
+
+echo.
+echo === Scan Resource Pack ===
+echo.
+
+cd Tools
+t_pack_app.exe scan .. tpack_refs --dump
+
+echo.
+echo === Update README ===
+echo.
+
+cd ..
+py Tools/update_readme.py

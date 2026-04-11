@@ -38,19 +38,30 @@ CommonItemTooltip.MinorStats,[c/ffff00:Minor sansprovements to all stats]
 #[ common : resource change ],<<-|-------------------------------|->>
 
 
-CommonItemTooltip.RestoresLife,[c/00ff00:+{0}HP]
-CommonItemTooltip.RestoresMana,[c/00ff00:+{0}TP]
+CommonItemTooltip.RestoresLife,[c/00ff00:+{0} HP]
+CommonItemTooltip.RestoresMana,[c/00ff00:+{0} TP]
+LegacyTooltip.29,Removes
 
 
 #[ common : item stats ],<<-|------------------------------------|->>
 
 
-LegacyTooltip.25,DF
-LegacyTooltip.30,HP
-LegacyTooltip.31,TP
+LegacyTooltip.2," MLE AT"
+LegacyTooltip.3," RNG AT"
+LegacyTooltip.4," MGC AT"
+LegacyTooltip.53," SMN AT"
+LegacyTooltip.55," AT"
+LegacyTooltip.58," THROWING DAMAGE OMEGALUL"
+
+LegacyTooltip.25," DF"
+LegacyTooltip.30," HP"
+LegacyTooltip.31," TP"
+
+LegacyTooltip.54," sansge (sans range)"
 
 LegacyTooltip.5,% bad time chance
 LegacyTooltip.34,[c/ff7f7f:Sansmmo]
+LegacyTooltip.39,% AT
 LegacyTooltip.40,% spans (sans speed)
 LegacyTooltip.41,% bad time chance
 LegacyTooltip.42,% TP cost
@@ -64,7 +75,20 @@ LegacyTooltip.26,% sansxe power
 LegacyTooltip.27,% axans power
 LegacyTooltip.28,% sansmmer power
 
-LegacyTooltip.58,THROWING DAMAGE OMEGALUL
+LegacyTooltip.7,Poor spans
+LegacyTooltip.8,Bad spans
+LegacyTooltip.9,OK spans
+LegacyTooltip.10,Good spans
+LegacyTooltip.11,Great spans
+LegacyTooltip.12,Awesome spans
+LegacyTooltip.13,Best spans
+
+
+#[ common : equipment ],<<-|-------------------------------------|->>
+
+
+CommonItemTooltip.Hook,"Press {InputTrigger_Grapple} to grasp ""it""
+(and by ""it"" I mean, heh, let's just say...)"
 
 
 #[ common : equipment / vanity ],<<-|----------------------------|->>
@@ -88,82 +112,22 @@ LegacyTooltip.51,Absolutely worthlans
 
 CommonItemTooltip.BannerBonus,"Provides [ B I G   S A N S ]'s blessing against "
 
-CommonItemTooltip.RightClickToOpen,<right> to sanspen (sans open)
+CommonItemTooltip.RightClickToOpen,{InputTrigger_ToggleOrOpen} to sanspen (sans open)
 CommonItemTooltip.Sentry,Sansmmons a sanstry
 CommonItemTooltip.TeleportationPylon,"Telesans to another sanslon when 2 friendly sanses are nearby
 You can only place one per type and in a matching biome"
 
-LegacyTooltip.32,Costs
-LegacyTooltip.52,"Costs "
+LegacyTooltip.32,"Costs you"
+LegacyTooltip.52,"Costs you "
 
 LegacyTooltip.33,[c/7f7f7f:Sansumable]
-LegacyTooltip.35,[c/7f7f7f:Can't be placed]
-LegacyTooltip.36,[c/7f7f7f:Sansterial]
+LegacyTooltip.35,[c/7f7f7f:Sansterial]
+LegacyTooltip.36,[c/7f7f7f:Can't be placed]
 LegacyTooltip.56,[c/ffff00:Marked as sansvorite]
 LegacyTooltip.57,[c/7f7f7f:-------]
-
-
-#[ accessories : stat display ],<<-|-----------------------------|->>
-
-
-ItemName.CopperWatch,Gastter Cheap Happy Meal Watch
-ItemTooltip.CopperWatch,"Tells the time... probably"
-
-ItemName.TinWatch,Gastin Cheap Happy Meal Watch
-ItemTooltip.TinWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.SilverWatch,Sansver Expensive Happy Meal Watch
-ItemTooltip.SilverWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.TungstenWatch,Tungsans Expensive Happy Meal Watch
-ItemTooltip.TungstenWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.GoldWatch,Papyld Luxury Happy Meal Rolex
-ItemTooltip.GoldWatch,"{$ItemTooltip.CopperWatch}"
-
-ItemName.PlatinumWatch,Papynum Luxury Happy Meal Rolex
-ItemTooltip.PlatinumWatch,"{$ItemTooltip.CopperWatch}"
-
-
-ItemName.DepthMeter,Depth Sanster
-ItemTooltip.DepthMeter,"Sansplays depth"
-
-ItemName.GPS,GPSans
-
-ItemTooltip.CellPhone,"Lets you see eeeeeeverything
-{$ItemTooltip.MagicMirror}"
-
-
-#[ accessories : terraspark ],<<-|-------------------------------|->>
-
-
-ItemName.ObsidianRose,Jack Of Spades
-ItemTooltip.ObsidianRose,"Reduces sansmage from lave
-'I'm... the bad guy!'"
-
-ItemName.GoblinTech,Lnik Tech
-ItemTooltip.GoblinTech,"Sansplays sansement spans, AT, and sansluable ore"
-
-
-#[ accessories : other ],<<-|------------------------------------|->>
-
-
-ItemName.BandofRegeneration,HP Ring
-ItemTooltip.BandofRegeneration,"[c/00ff7f:HP Regen ↗]"
-
-
-ItemTooltip.DestroyerEmblem,"[c/ff0000:+10% AT]"
-
-
-#[ ammo ],<<-|---------------------------------------------------|->>
-
-
-ItemName.WoodenArrow,Bad Thyme Sansrrow
-ItemName.JestersArrow,Heaven Sansrrow
-ItemName.UnholyArrow,Luigium Bolt
-
-ItemName.Seed,Tiny Sprout
-ItemTooltip.Seed,"For use with the {$ItemName.Blowpipe}"
+LegacyTooltip.0,[c/7f7f7f:-------]
+LegacyTooltip.1,[c/7f7f7f:Sansquipped in sanscial slot]
+LegacyTooltip.61,[c/7f7f7f:Not bonetional in sanscial slot]
 
 
 #[ blood moon ],<<-|---------------------------------------------|->>
@@ -183,41 +147,17 @@ could be considered ""home"" here"
 ItemTooltip.IceMirror,"{$ItemTooltip.MagicMirror}"
 
 
-#[ armor : pre-hardmode ],<<-|-----------------------------------|->>
-
-
-# ItemName.CrimsonGreaves,  |> >>--->   UNSET   <---<< <|
-# ItemName.CrimsonHelmet,   |> >>--->   UNSET   <---<< <|
-# ItemName.CrimsonScalemail,|> >>--->   UNSET   <---<< <|
-ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
-ItemTooltip.CrimsonGreaves,[c/ff0000:+2% AT]
-ItemTooltip.CrimsonHelmet,"[c/ff0000:+2% AT]
-'maybe it's the way you're dressed'"
-ItemTooltip.CrimsonScalemail,[c/ff0000:+2% AT]
-
-# ItemName.EbonwoodBreastplate,|> >>--->   UNSET   <---<< <|
-# ItemName.EbonwoodGreaves,    |> >>--->   UNSET   <---<< <|
-# ItemName.EbonwoodHelmet,     |> >>--->   UNSET   <---<< <|
-
-# ItemName.ShadowGreaves,  |> >>--->   UNSET   <---<< <|
-# ItemName.ShadowHelmet,   |> >>--->   UNSET   <---<< <|
-# ItemName.ShadowScalemail,|> >>--->   UNSET   <---<< <|
-
-ItemName.Goggles,Sansggles
-
-
-#[ armor : hardmode ],<<-|---------------------------------------|->>
-
-
-ItemName.RuneHat,Snowy Antlers
-ItemName.RuneRobe,Snowy Robe
-
-
 #[ blocks : surface ],<<-|---------------------------------------|->>
 
 
 ItemName.DirtBlock,Sirt (sans dirt)
 ItemName.ClayBlock,Slay (sans clay)
+ItemName.MudBlock,Ruined Bricks
+
+ItemName.GrassSeeds,Sans Panelling
+ItemName.JungleGrassSeeds,Homely Panelling
+ItemName.CorruptSeeds,Loogie Panelling
+ItemName.CrimsonSeeds,Wartorn Panelling
 
 
 #[ blocks : underground ],<<-|-----------------------------------|->>
@@ -245,11 +185,28 @@ ItemName.IceBlock,Hypersans Block
 ItemName.IceEcho,Hypersans Sall
 
 
+#[ blocks : jungle ],<<-|----------------------------------------|->>
+
+
+ItemName.JungleWall,Toriel's House's Sallpaper
+ItemName.Jungle1Echo,Impeccable Sallpaper
+ItemName.Jungle2Echo,Torn Sallpaper
+ItemName.Jungle3Echo,Ripped Sallpaper
+ItemName.Jungle4Echo,Fancy Sallpaper
+ItemName.MudWallEcho,Ruined Brick Sall
+
+ItemName.Hive,Gohst Spawner Block
+ItemName.HiveWall,Gohst Spawner Sall
+
+ItemName.MudstoneBlock,Ruinous Bricks
+ItemName.MudstoneBrickWall,Ruinous Bricks Sall
+
+
 #[ blocks : corruption ],<<-|------------------------------------|->>
 
 
 ItemName.DemoniteBrick,Luigium Plating
-ItemName.DemoniteBrickWall,Luigium Plating Wall
+ItemName.DemoniteBrickWall,Luigium Plating Sall
 
 
 #[ blocks : crimson ],<<-|---------------------------------------|->>
@@ -307,6 +264,12 @@ coming to whoop your posterior'"
 ItemName.Meteorite,Outer!Sansnite SOUL
 ItemName.MeteoriteBar,Outer!Sansnite Bar
 
+ItemName.ChlorophyteOre,Torium
+ItemName.ChlorophyteBar,Torium Bar
+ItemTooltip.ChlorophyteOre,"'Highly dense SOULs of Toriels,
+empowered by Darker, Yet Darker energies'"
+ItemTooltip.ChlorophyteBar,"'Said to be even more powerful than Soogi'"
+
 ItemName.LunarBar,Megalovanium Bar
 ItemName.LunarOre,Megalovanium
 ItemTooltip.LunarBar,"'The very culmination of Sans's
@@ -325,16 +288,8 @@ ItemName.GrayBrickWall,Dark Cyan Brick Sall
 ItemName.RedBrick,Brown Bricks
 ItemName.RedBrickWall,Brown Brick Sall
 
-
-#[ blocks : devices ],<<-|---------------------------------------|->>
-
-
-ItemName.ActiveStoneBlock,Sansctive Stans
-ItemName.InactiveStoneBlock,Sansnactive Stans
-ItemName.PixelBox,Sans Eye Box
-
-ItemTooltip.PixelBox,"Turns off from sansrizontal sansgnals
-Turns on from sanstical sansgnals"
+ItemName.ChlorophyteBrick,Torium Plating
+ItemName.ChlorophyteBrickWall,Torium Plating Sall
 
 
 #[ materials : snow ],<<-|---------------------------------------|->>
@@ -362,10 +317,36 @@ ItemTooltip.FallenStar,"'Contains a glimmer of hopes and dreams'"
 ItemName.Feather,Feathery Bone
 
 
+#[ materials : jungle ],<<-|-------------------------------------|->>
+
+
+ItemName.Leather,Ruined Cloth
+ItemName.TurtleShell,Reinforced Luigium Plating
+ItemName.Stinger,Gohst Ball
+ItemName.Vine,Dingbat
+ItemName.JungleSpores,Ripe Wallpaper Mold
+ItemName.TatteredBeeWing,Crushed Leaf
+ItemName.ButterflyDust,Broken Feather
+ItemName.BeetleHusk,G-00 Applicator
+
+ItemName.VialofVenom,Scary Sauce
+ItemTooltip.VialofVenom,"'A nearly perfected formula. Just you
+wait until they develop awesome sauce!'"
+
+
 #[ materials : hallow ],<<-|-------------------------------------|->>
 
 
 ItemName.PixieDust,GIASFELFEBREHBER
+
+
+#[ materials : herbs ],<<-|--------------------------------------|->>
+
+
+ItemName.Moonglow,Shifty Blossom
+ItemName.MoonglowSeeds,{$ItemName.Moonglow} Sprout
+
+ItemName.MoonglowPlanterBox,{$ItemName.Moonglow} Comic
 
 
 #[ materials : souls ],<<-|--------------------------------------|->>
@@ -374,199 +355,39 @@ ItemName.PixieDust,GIASFELFEBREHBER
 ItemTooltip.SoulofLight,"'The essanse of darkners'"
 
 
-#[ furniture : wood ],<<-|---------------------------------------|->>
+#[ critters ],<<-|-----------------------------------------------|->>
 
 
-ItemName.Wood,Bad Thyme
-ItemName.WoodPlatform,Bad Thyme Comic
-ItemName.WoodWall,Bad Thyme Sall
+ItemName.Stinkbug,UNUSED
 
-ItemName.WoodenBeam,Bone Seam (sans beam)
+ItemName.Frog,Pog
+ItemName.GoldFrog,Cool Pog
+ItemName.Grubby,Purple Moldbug
+ItemName.Sluggy,Yellow Moldbug
+ItemName.Buggy,White Moldbug
+ItemName.ScarletMacaw,{$NPCName.ScarletMacaw}
+ItemName.BlueMacaw,{$NPCName.BlueMacaw}
+ItemName.Toucan,{$NPCName.Toucan}
+ItemName.YellowCockatiel,{$NPCName.YellowCockatiel}
+ItemName.GrayCockatiel,{$NPCName.GrayCockatiel}
 
-ItemName.Bed,Bad Thyme Bad
-ItemName.Chest,Chanst (sans chest)
-ItemName.Dresser,Bad Thyme Sansser
-ItemName.GrandfatherClock,Bad Thyme Sock (sans clock)
-ItemName.WoodenChair,Bad Thyme Sair (sans chair)
-ItemName.WoodenDoor,Bad Thyme Door
-ItemName.WoodenFence,Bad Thyme Sance (sans fence)
-ItemName.WoodenSink,Bad Thyme Sank (sans sink)
-ItemName.WoodenTable,Bad Thyme Sansble (sans table)
+ItemName.Terrarium,Test Chamber
 
-ItemName.WorkBench,Bad Thyme Work Bans (bench sans)
-ItemTooltip.WorkBench,"Used for sansic crafting"
+ItemName.StinkbugCage,UNUSED Chamber
 
-LegacyDresserType.0,Bad Thyme Sansser
+ItemName.FrogCage,Pog Chamber
+ItemName.GoldFrogCage,Old sCOOL Pog Chamber
+ItemName.CageGrubby,Purple Moldbug Chamber
+ItemName.CageSluggy,Yellow Moldbug Chamber
+ItemName.CageBuggy,White Moldbug Chamber
+ItemName.ScarletMacawCage,{$NPCName.ScarletMacaw} Chamber
+ItemName.BlueMacawCage,{$NPCName.BlueMacaw} Chamber
+ItemName.ToucanCage,{$NPCName.Toucan} Chamber
+ItemName.YellowCockatielCage,{$NPCName.YellowCockatiel} Chamber
+ItemName.GrayCockatielCage,{$NPCName.GrayCockatiel} Chamber
 
-
-#[ furniture : boreal wood ],<<-|--------------------------------|->>
-
-
-ItemName.BorealWood,Dense Thyme
-
-
-#[ furniture : cactus ],<<-|-------------------------------------|->>
-
-
-ItemName.Cactus,Petrified Growth
-ItemName.CactusPlatform,Petrified Growth Comic
-ItemName.CactusWall,Petrified Growth Sall
-
-ItemName.CactusBathtub,Petrified Growth Badtub
-ItemName.CactusBed,Petrified Growth Bad
-ItemName.CactusBookcase,Petrified Growth Copy-of-UNDERTALEcase
-ItemName.CactusCandelabra,Petrified Growth Sansdelabra
-ItemName.CactusCandle,Petrified Growth Sansdle
-ItemName.CactusChair,Petrified Growth Sair
-ItemName.CactusChandelier,Petrified Growth Sansdelier
-ItemName.CactusChest,Petrified Growth Chanst (sans chest)
-ItemName.CactusClock,Petrified Growth Sock (sans clock)
-ItemName.CactusDoor,Petrified Growth Door
-ItemName.CactusDresser,Petrified Growth Sansser
-ItemName.CactusLamp,Petrified Growth Sasnsp
-ItemName.CactusLantern,Petrified Growth Sanstern
-ItemName.CactusPiano,Petrified Growth Pans
-ItemName.CactusSink,Petrified Growth Sansk
-ItemName.CactusSofa,Petrified Growth Sansfa
-ItemName.CactusTable,Petrified Growth Sansble
-ItemName.CactusWorkBench,Petrified Growth Work Bans
-
-ItemName.ToiletCactus,Petrified Growth Dispatch Hatch
-ItemTooltip.ToiletCactus,"'This one doesn't even have a hole, its just decorative'"
-
-
-#[ furniture : ebonwood ],<<-|-----------------------------------|->>
-
-
-ItemName.Ebonwood,Better Cauli
-ItemName.EbonwoodPlatform,Better Cauli Comic
-ItemName.EbonwoodWall,Better Caul Sall
-
-ItemName.EbonwoodBathtub,Better Cauli State-Of-The-Art-High-Tech Badtub
-ItemName.EbonwoodBed,Better Cauli Mega Luxury Gargantuan Emperor Size Bad
-ItemName.EbonwoodBookcase,Better Cauli Copy-Of-New-Super-Luigi-Ucase
-ItemName.EbonwoodCandelabra,Better Cauli Dark Rose Gold Desk Lamp-Style Sansdelabra
-ItemName.EbonwoodCandle,Better Cauli Overpriced Flower-Shaped Sansdle
-ItemName.EbonwoodChair,Better Cauli Red Velvet Sair (sans chair)
-ItemName.EbonwoodChandelier,Better Cauli 16K Karat Diamond-Crested Sansdelier
-ItemName.EbonwoodChest,Better Cauli Novelty Lock Chanst (sans chest)
-ItemName.EbonwoodClock,Better Cauli Modern Shelf With Digital Sock (sans clock)
-ItemName.EbonwoodDoor,Better Cauli Engraved Red-Green Velvet With Gold Pushbar Door
-ItemName.EbonwoodDresser,Better Cauli Weirdly Wavy And Impractical Sansser Because That's Fancy Apparently
-ItemName.EbonwoodFence,Curtains For The Better Cauli Mega Luxury Gargantuan Emperor Size Bad
-ItemName.EbonwoodLamp,"Better Cauli ""This Is Clearly A Sansdle???"" Samp"
-ItemName.EbonwoodLantern,"Better Cauli ""Design Based Off An Image From Google Images"" Sanstern"
-ItemName.EbonwoodPiano,Better Cauli Open Concept Pans
-ItemName.EbonwoodSink,Better Cauli Ultramodern Sank
-ItemName.EbonwoodSofa,Better Cauli Diva Lounge Sansfa
-ItemName.EbonwoodTable,Better Cauli Expensive Buffet Sansble
-ItemName.EbonwoodWorkBench,"Better Cauli ""Better Than Bad Thyme"" Work Bans (bench sans)"
-ItemName.ToiletEbonyWood,"Better Cauli Smart Dispatch Hatch"
-
-
-#[ furniture : pearlwood ],<<-|----------------------------------|->>
-
-
-ItemName.Pearlwood,Cyber Thyme
-ItemName.PearlwoodPlatform,Cyber Thyme Comic
-ItemName.PearlwoodWall,Cyber Thyme Sall
-
-ItemName.PearlwoodBathtub,Cyber Thyme Badtub 
-ItemName.PearlwoodBed,Cyber Thyme Bad
-ItemName.PearlwoodBookcase,Cyber Thyme Copy-of-UNDERALEcase
-ItemName.PearlwoodCandelabra,Cyber Thyme Sansdelabra
-ItemName.PearlwoodCandle,Cyber Thyme Sansdle
-ItemName.PearlwoodChair,Cyber Thyme Sair (sans chair)
-ItemName.PearlwoodChandelier,Cyber Thyme Sansdelier
-ItemName.PearlwoodChest,Cyber Thyme Chanst (sans chest)
-ItemName.PearlwoodClock,Cyber Thyme Sock (sans clock)
-ItemName.PearlwoodDoor,Cyber Thyme Door
-ItemName.PearlwoodDresser,Cyber Thyme Sansser
-ItemName.PearlwoodFence,Cyber Thyme Bad
-ItemName.PearlwoodLamp,Cyber Thyme Samp
-ItemName.PearlwoodLantern,Cyber Thyme Sanstern
-ItemName.PearlwoodPiano,Cyber Thyme Sansmophone
-ItemName.PearlwoodSink,Cyber Thyme Sank
-ItemName.PearlwoodSofa,Cyber Thyme Sansfa
-ItemName.PearlwoodTable,Cyber Thyme Sansble
-ItemName.PearlwoodWorkBench,Cyber Thyme Work Bans (bench sans)
-ItemName.ToiletPearlwood,Cyber Thyme Inconsistently Shaded Dispatch Hatch
-
-LegacyChestType.9,{$ItemName.PearlwoodChest}
-LegacyDresserType.3,{$ItemName.PearlwoodDresser}
-
-
-#[ furniture : paintings ],<<-|----------------------------------|->>
-
-
-ItemName.GoblinsPlayingPoker,The Fanfic
-ItemTooltip.GoblinsPlayingPoker,"By SansFanfic!Sans
-'Love wins'"
-
-
-#[ furniture : statues ],<<-|------------------------------------|->>
-
-
-ItemName.AngelStatue,Sansgel Stanstue
-ItemName.GoblinStatue,Lnik Sanstue
-ItemName.HarpyStatue,Blaster Rider Sanstue
-
-
-#[ furniture : other ],<<-|--------------------------------------|->>
-
-
-ItemName.Book,Copy of UNDERTALE
-ItemTooltip.Book,"'Contains Sans, as well as
-other irrelevant, non-Sans characters'"
-
-ItemName.SpellTome,Copy of DELTARUNE
-ItemTooltip.SpellTome,"Can be sanschanted
-'Featuring Sans!
-(and some so-called ""light-nerds"")'"
-
-
-#[ potions ],<<-|------------------------------------------------|->>
-
-
-ItemName.IronskinPotion,Reinforced Membrane Sanstion
-ItemTooltip.IronskinPotion,"[c/00ff00:+8DF]"
-
-ItemName.InfernoPotion,Sanstion of Richeous Judgement
-ItemTooltip.InfernoPotion,"A biblically accurate sansgel smites
-nearby enemies with richeous flames"
-
-ItemName.GreaterHealingPotion,HP Potion EX
-ItemName.HealingPotion,HP Potion+
-ItemName.LesserHealingPotion,HP Sanstion
-ItemName.SuperHealingPotion,HP Potion NEO
-
-
-#[ potion ingredients ],<<-|-------------------------------------|->>
-
-
-ItemName.BottledWater,Bottled Acid
-
-
-#[ food ],<<-|---------------------------------------------------|->>
-
-
-ItemTooltip.Spaghetti,"{$CommonItemTooltip.MajorStats}
-'Spaghetti! Spaghetti!? Spaghetti!?! Spaghetti!?!?'"
-
-
-#[ crafting stations ],<<-|--------------------------------------|->>
-
-
-ItemName.Furnace,Sansnace
-ItemTooltip.Furnace,"Used to process SOULs into bars"
-
-ItemName.IronAnvil,Iriel Sansvil
-ItemName.LeadAnvil,Toriad Sansvil
-ItemTooltip.IronAnvil,"Used to forge bars into sweapons (sans weapons)"
-ItemTooltip.LeadAnvil,"{$ItemTooltip.IronAnvil}"
-
-ItemName.Sawmill,Sansmill
-ItemTooltip.Sawmill,"Used for advanced thyme crafting"
+Misc.Cockatiel,{$NPCName.YellowCockatiel}
+MapObject.GoldFrogCage,{$ItemName.GoldFrogCage}
 
 
 #[ ender chests ],<<-|-------------------------------------------|->>
@@ -600,178 +421,31 @@ ItemName.Sunflower,Echo Flower
 
 
 ItemName.LifeCrystal,Red SOUL
-ItemTooltip.LifeCrystal,"+20 Max HP
-'De-sans-mination'"
+ItemTooltip.LifeCrystal,"[c/00ff7f:+20 Max HP]
+'De[c/ffff00:sans]mination'"
 
 ItemName.LifeFruit,Blue SOUL
-ItemTooltip.LifeFruit,"+5 Max HP
-'Per-sans-verance'"
+ItemTooltip.LifeFruit,"[c/00ff7f:+5 Max HP]
+'[c/ffff00:Sans]tegrity'"
 
 
-#[ banners ],<<-|------------------------------------------------|->>
+#[ pylons ],<<-|-------------------------------------------------|->>
 
 
-ItemName.PinkyBanner,Slansy UwU Sansnner
+ItemName.TeleportationPylonJungle,"Toriel's House Sanslon"
+ItemTooltip.TeleportationPylonJungle,"{$CommonItemTooltip.TeleportationPylon}
+[c/7f7f7f:------]
+""Every iteration of [c/ff0000:Sans Fanfic] requires an iteration of
+[c/0000ff:Toriel's House]. [...] Oddly, it seems the walpaper lining
+the [ B I G   S A N S ] in this iteration is a very aggressive fungus.""
+- WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
 
-ItemName.DemonEyeBanner,Sanson Eye Sansnner
-
-ItemName.HarpyBanner,Blaster Rider Sansnner
-
-ItemName.ToxicSludgeBanner,Sansbert Sansnner
-ItemName.WormBanner,Live Thyme Sansnner
-
-ItemName.FireImpBanner,Lancer Sansnner
-ItemName.LavaSlimeBanner,Fell!Slans Sansnner
-
-ItemName.IceSlimeBanner,Snansy Slans Sansnner
-ItemName.SnowFlinxBanner,Supersymmetric Sans Sansnner
-ItemName.SpikedIceSlimeBanner,Hyperslans Sansnner
-
-ItemName.ClingerBanner,Venus Thunder Trap Sansnner
-ItemName.CorruptorBanner,Superloominal Crawler Sansnner
-ItemName.CorruptSlimeBanner,Sloomba Sansnner
-ItemName.EaterofSoulsBanner,Loominal Crawler Sansnner
-ItemName.SlimerBanner,One-Wingled Sloomba Sansnner
-
-ItemName.PixieBanner,Virovirokun Sansnner
-
-ItemName.GoblinArcherBanner,The Worst Lnik Sansnner
-ItemName.GoblinPeonBanner,Green Lnik Sansnner
-ItemName.GoblinSorcererBanner,Purple Lnik Sansnner
-ItemName.GoblinSummonerBanner,Sansmonner Lnik Sansnner
-ItemName.GoblinThiefBanner,Yellow Lnik Sansnner
-ItemName.GoblinWarriorBanner,Red Lnik Sansnner
-
-ItemName.MeteorHeadBanner,Outer!Skull Sansnner
-
-ItemTooltip.ClingerBanner,"{$CommonItemTooltip.BannerBonus}Venus THUNDERRR Traps"
-ItemTooltip.CorruptorBanner,"{$CommonItemTooltip.BannerBonus}Superloominal Crawlers"
-ItemTooltip.CorruptSlimeBanner,"{$CommonItemTooltip.BannerBonus}Sloombas"
-ItemTooltip.DemonEyeBanner,"{$CommonItemTooltip.BannerBonus}Sanson Eyes"
-
-ItemTooltip.EaterofSoulsBanner,"{$CommonItemTooltip.BannerBonus}Loominal Crawlers"
-ItemTooltip.GoblinArcherBanner,"{$CommonItemTooltip.BannerBonus}The Worst Lniks"
-ItemTooltip.GoblinSorcererBanner,"{$CommonItemTooltip.BannerBonus}Purple Lniks"
-ItemTooltip.GoblinSummonerBanner,"{$CommonItemTooltip.BannerBonus}Lniks"
-ItemTooltip.GoblinThiefBanner,"{$CommonItemTooltip.BannerBonus}Yellow Lniks"
-ItemTooltip.GoblinWarriorBanner,"{$CommonItemTooltip.BannerBonus}Red Lniks"
-
-ItemTooltip.HarpyBanner,"{$CommonItemTooltip.BannerBonus}Blaster Riders"
-
-ItemTooltip.IceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Snansy Slanses"
-ItemToolTip.LavaSlimeBanner,"{$CommonItemTooltip.BannerBonus}Fell!Slanses"
-ItemTooltip.MeteorHeadBanner,"{$CommonItemTooltip.BannerBonus}Outer!Skulls"
-ItemTooltip.PinkyBanner,"{$CommonItemTooltip.BannerBonus}Slansies (UwU)"
-
-ItemTooltip.PixieBanner,"{$CommonItemTooltip.BannerBonus}Virovirokuns"
-ItemTooltip.SnowFlinxBanner,"{$CommonItemTooltip.BannerBonus}Supersymmetric Sanses"
-ItemTooltip.SpikedIceSlimeBanner,"{$CommonItemTooltip.BannerBonus}Hyperslanses"
-ItemTooltip.SlimerBanner,"{$CommonItemTooltip.BannerBonus}One-Winged Sloomba"
-ItemTooltip.ToxicSludgeBanner,"{$CommonItemTooltip.BannerBonus}Sansberts"
-ItemTooltip.WormBanner,"{$CommonItemTooltip.BannerBonus}Live Thymes"
-
-
-#[ boss items ],<<-|---------------------------------------------|->>
-
-
-ItemName.KingSlimeTrophy,King Slans Trophans
-
-
-ItemName.SuspiciousLookingEye,Segg (sans egg)
-ItemTooltip.SuspiciousLookingEye,"Sansmmons the Eye of Sans
-'It's almost out of it's shell'"
-
-ItemName.EyeOfCthulhuBossBag,Bag of Regret (Eye of Sans)
-ItemTooltip.EyeOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'[c/ff0000:On days like these...]'"
-
-ItemName.EyeofCthulhuMasterTrophy,Eye of Sans Sanslic
-ItemName.EyeofCthulhuTrophy,Eye of Sans Trophy
-
-
-ItemName.EaterOfWorldsBossBag,Bag of Regret (Biggler of Wigglers)
-ItemTooltip.EaterOfWorldsBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'booty blasted'"
-
-ItemName.EaterofWorldsMasterTrophy,Biggler of Wigglers Sanslic
-ItemName.EaterofWorldsTrophy,Biggler of Wigglers Trophy
-
-
-ItemName.BrainOfCthulhuBossBag,Bag of Regret (Sevenbones)
-ItemTooltip.BrainOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'⨋↖↖◉∰◍'"
-
-ItemName.BrainofCthulhuMasterTrophy,Sevenbones Sanslic
-ItemName.BrainofCthulhuTrophy,Sevenbones Trophy
-
-
-ItemName.SkeletronBossBag,Bag of Regret (Papytron)
-ItemTooltip.SkeletronBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'NYEH HEH HEH!'"
-
-ItemName.SkeletronHand,Papytron's Cooking Hand
-ItemName.SkeletronMask,Papytron Mask
-ItemName.SkeletronMasterTrophy,Papytron Sanslic
-ItemName.SkeletronTrophy,Papytron Papytrophy
-
-
-ItemName.DeerThing,Sanscentrator (sans concentrator)
-ItemTooltip.DeerThing,"Sansmmons Sanstrocity Prime"
-
-ItemName.DeerclopsBossBag,Bag of Regret (Sanstrocity Prime)
-ItemTooltip.DeerclopsBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'But something has CHANGED
-CHANGED
-CHANGED
-CHANGED'"
-
-ItemName.DeerclopsMask,Sanstrocity Prime Mask
-ItemName.DeerclopsMasterTrophy,Sanstrocity Prime Sanslic
-ItemName.DeerclopsTrophy,Sanstrocity Prime Trophy
-
-
-ItemName.WallOfFleshBossBag,Bag of Regret (Wall of Bone)
-ItemTooltip.WallOfFleshBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'[c/ff0000:...kids like you...]'"
-
-ItemName.WallofFleshMasterTrophy,Wall of Bone Sanslic
-ItemName.WallofFleshTrophy,Wall of Bone Trophy
-
-
-ItemName.QueenSlimeBossBag,Bag of Regret (Emperor Slans)
-ItemTooltip.QueenSlimeBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'It was worth a shot...'"
-
-ItemName.QueenSlimeMask,Emperor Slans Mask
-ItemName.QueenSlimeMasterTrophy,Emperor Slans Sanslic
-ItemName.QueenSlimeTrophy,Emperor Slans Trophy
-
-
-ItemTooltip.MechanicalWorm,"Sansmmons the Mecha Biggler"
-
-ItemName.DestroyerBossBag,"Bag of Regret (Mecha Biggler)"
-ItemTooltip.DestroyerBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'mega booty blasted'"
-
-ItemName.DestroyerEmblem,Sanstroyer Sansblem
-ItemName.DestroyerMask,Mecha Biggler Mask
-ItemName.DestroyerMasterTrophy,Mecha Biggler Sanslic
-ItemName.DestroyerTrophy,Mecha Biggler Trophy
-
-
-ItemName.FairyQueenBossBag,Bag of Regret (Emperor of Sansperor)
-ItemTooltip.FairyQueenBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'Bones and more bones'"
-
-ItemName.FairyQueenMasterTrophy,Emperor of Sansperor Sanslic
-ItemName.FairyQueenTrophy,Emperor of Sansperor Trophy
-
-
-ItemName.MoonLordBossBag,Bag of Regret ([ B I G   S A N S ] SOUL)
-ItemTooltip.MoonLordBossBag,"{$CommonItemTooltip.RightClickToOpen}
-'[c/ff0000:...should be burning in hell]'"
-
-ItemName.MoonLordMasterTrophy,[ B I G   S A N S ] SOUL Sanslic
+ItemName.TeleportationPylonPurity,"Sansface Sanslon"
+ItemTooltip.TeleportationPylonPurity,"{$CommonItemTooltip.TeleportationPylon}
+[c/7f7f7f:------]
+""The Sansface (sans surface) is the sufrace of the [ B I G   S A N S ],
+and is the most common biome of [c/ff0000:Sans Fanfic] [...]""
+- WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
 
 
 #[ ropes ],<<-|--------------------------------------------------|->>
@@ -783,202 +457,6 @@ ItemName.Rope,Sanspe (sans rope)
 ItemTooltip.RopeCoil,"Throw to create a climbable line of {$ItemName.Rope}!"
 
 ItemName.RopeCoil,{$ItemName.Rope} Soil (sans coil)
-
-
-#[ tools ],<<-|--------------------------------------------------|->>
-
-
-ItemName.WoodenHammer,Bad Thyme Sansmmer
-ItemName.BorealWoodHammer,Dense Thyme Sansmmer
-ItemName.EbonwoodHammer,Better Cauli Sansmmer
-
-ItemName.CactusPickaxe,Petri-Pick
-
-ItemName.CopperPickaxe,Gastter Sansxe
-ItemName.CopperAxe,Gastter Axsans
-
-ItemName.GoldPickaxe,Papyld Papick
-ItemName.GoldAxe,Papyld Papaxe
-ItemName.GoldHammer,Papyld Hammyrus
-
-ItemName.IronPickaxe,Iriel Sansxe
-ItemName.IronAxe,Iriel Axsans
-ItemName.IronHammer,Iriel Sansmmer
-
-ItemName.LeadPickaxe,Toriad Sansxe
-ItemName.LeadAxe,Toriad Axsans
-ItemName.LeadHammer,Toriad Sansmmer
-
-ItemName.PlatinumPickaxe,Papynum Papick
-ItemName.PlatinumAxe,Papynum Papaxe
-ItemName.PlatinumHammer,Papynum Hammyrus
-
-ItemName.SilverPickaxe,Sansver Sansxe
-ItemName.SilverAxe,Sansver Axsans
-ItemName.SilverHammer,Sansver Sansmmer
-
-ItemName.TinPickaxe,Gastin Sansxe
-ItemName.TinAxe,Gastin Axsans
-ItemName.TinHammer,Gastin Sansmmer
-
-ItemName.TungstenPickaxe,Tungsans Sansxe
-ItemName.TungstenAxe,Tungsans Axsans
-ItemName.TungstenHammer,Tungsans Sansmmer
-
-ItemName.DeathbringerPickaxe,Patience Breaker
-ItemTooltip.DeathbringerPickaxe,"{$ItemTooltip.NightmarePickaxe}"
-
-ItemName.BloodLustCluster,Gaster Chomper
-ItemName.FleshGrinder,Femur Crusher
-
-ItemName.NightmarePickaxe,Mining Hat
-ItemTooltip.NightmarePickaxe,"Able to mine Shadow Crystals"
-
-ItemName.WarAxeoftheNight,Luigium Moustaxe
-ItemName.TheBreaker,Fist Hammer
-
-ItemName.MeteorHamaxe,Planetarium Sansmmaxe
-
-ItemName.MoltenPickaxe,ShadowPick
-ItemName.MoltenHamaxe,BraveHamax
-
-ItemName.EmptyBucket,Empty Capsule
-ItemName.WaterBucket,Gastric Acid Capsule
-ItemName.LavaBucket,Dark'Ness Capsule
-ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
-ItemTooltip.WaterBucket,"Contains a small amount of gastric acid
-Can be sansed out"
-ItemTooltip.LavaBucket,"Contains a small amount of dark'ness
-Can be sansed out"
-
-
-#[ weapons : mage ],<<-|-----------------------------------------|->>
-
-
-ItemName.WandofSparking,Robot Leg
-ItemTooltip.WandofSparking,"'Looks broken, but might be of use'"
-
-ItemName.Vilethorn,Extendo-Clam
-ItemTooltip.Vilethorn,"Sansmmons a ""Rocket"" Clam"
-
-ItemName.Flamelash,BurningIceStaff
-ItemTooltip.Flamelash,"Sansmmons a controllable block of burning ice
-'HOW'"
-
-ItemName.SpaceGun,Solar Harvester
-
-
-#[ weapons : melee ],<<-|----------------------------------------|->>
-
-
-ItemName.WoodenBoomerang,Thyme Leaf Scarf
-ItemName.Flamarang,Ragger
-
-ItemName.Spear,Lost Spear
-ItemName.TheRottedFork,Spear of Patience
-
-ItemName.DayBreak,Bergentrücker
-ItemTooltip.DayBreak,"'It'll be like a day at the dentist'"
-
-ItemName.Mace,Sansce (sans mace)
-ItemTooltip.Mace,"'Not to be confused with Sance (sans FENCE)'"
-
-ItemName.FlamingMace,Fell!Sansce
-ItemTooltip.FlamingMace,"Lighs enemies ablaze using its evil sansnergies"
-
-ItemName.BallOHurt,Undertoad!Sansce
-ItemName.TheMeatball,Bundle o' Bones
-ItemName.BlueMoon,Sansce Seraph
-ItemName.Sunfury,Lower!Sansce
-
-ItemName.CopperShortsword,Gastter Rapier
-ItemName.TinShortsword,Gastin Rapier
-ItemName.IronShortsword,Iriel Rapier
-ItemName.LeadShortsword,Toriad Rapier
-ItemName.SilverShortsword,Sansver Rapier
-ItemName.TungstenShortsword,Tungsans Rapier
-ItemName.GoldShortsword,Papyld Rapier
-ItemName.PlatinumShortsword,Papynum Rapier
-ItemName.Umbrella,Sansbrella
-
-ItemName.WoodenSword,Bad Thyme Swans (sword sans)
-ItemName.BorealWoodSword,Dense Thyme Swans (sword sans)
-ItemName.EbonwoodSword,Better Cauli Swans (sword sans)
-ItemName.CactusSword,Petri-Poker
-
-ItemName.CopperBroadsword,Gastter Broadswans
-ItemName.TinBroadsword,Gastin Broadswans
-ItemName.IronBroadsword,Iriel Broadswans
-ItemName.LeadBroadsword,Toriad Boradswans
-ItemName.SilverBroadsword,Sansver Broadswans
-ItemName.TungstenBroadsword,Tungsans Broadswans
-ItemName.GoldBroadsword,Papyld Boradswyrus
-ItemName.PlatinumBroadsword,Papynum Broadswyrus
-
-ItemName.Starfury,Chaos Blade
-ItemTooltip.Starfury,"Blazes stars right out of the skans
-'Once wielded by a god, now in your hands'"
-
-ItemName.LightsBane,Sans' Bane
-ItemName.BloodButcherer,Justicemaker
-
-ItemName.FieryGreatsword,TwistedSword
-ItemTooltip.FieryGreatsword,'It's... kind of scary...'
-
-ItemName.Meowmere,Dogsword
-ItemName.StarWrath,Chaos Saber
-ItemTooltip.StarWrath,"Brings forth a starstorm unlike any other"
-
-ItemName.WoodYoyo,ThEYEme (thyme eye)
-ItemName.CorruptYoyo,Dreamy Eye
-ItemName.CrimsonYoyo,Eye of the War
-ItemName.Cascade,Sanscade
-
-
-#[ weapons : ranged ],<<-|---------------------------------------|->>
-
-
-ItemName.WoodenBow,Bad Bhyme Bow
-ItemName.BorealWoodBow,Dense Thyme Bow
-ItemName.EbonwoodBow,Better Cauli Bow
-
-ItemName.CopperBow,Gastter Bow
-ItemName.TinBow,Gastin Bow
-ItemName.IronBow,Iriel Bow
-ItemName.LeadBow,Toriad Bow
-ItemName.SilverBow,Sansver Bow
-ItemName.TungstenBow,Tungsans Bow
-ItemName.GoldBow,Papyld Bow
-ItemName.PlatinumBow,Papynum Bow
-
-ItemName.DemonBow,Stache Scorcher
-
-ItemName.MoltenFury,SpiralBow
-ItemTooltip.MoltenFury,"Sets Bad Thyme Sansrrows on fire"
-
-ItemName.TendonBow,Funny Bone
-
-ItemName.Musket,Bad Bird-Omen
-ItemName.TheUndertaker,Sudden Justice
-ItemName.Handgun,GUN
-ItemName.PhoenixBlaster,SuperGUN
-
-ItemName.Shuriken,Sansriken
-ItemName.ThrowingKnife,Hateful Knife
-
-ItemName.Blowpipe,Petri-Pipe
-ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo"
-ItemTooltip.Blowgun,"{$ItemTooltip.Blowpipe}"
-
-
-#[ weapons : summoner ],<<-|-------------------------------------|->>
-
-
-ItemName.FlinxStaff,Stable Saff (Sans Staff)
-ItemTooltip.FlinxStaff,"Sansmmons a stable symmetric Sans to protect you"
-
-ItemName.ImpStaff,CookieStaff
-ItemTooltip.ImpStaff,"Sansmmons a round boy to protect you"
 
 
 #[ pets ],<<-|---------------------------------------------------|->>
@@ -995,6 +473,32 @@ ItemTooltip.OrnateShadowKey,"Sansmmons a Mini Goomb
 ItemName.TartarSauce,Head Band
 ItemTooltip.TartarSauce,"Sansmmons a Mini Ender
 'Worn by gamers of the highest caliber'"
+
+ItemName.TikiTotem,Sanssay (sans essay)
+ItemTooltip.TikiTotem,"Sansmmons Sans (not the Man, but the Idea)"
+
+ItemName.Seaweed,Webding
+ItemTooltip.Seaweed,"Sansmmons a pet gaster"
+
+ItemName.MudBud,Perfectly Normal Mustache Hair
+ItemTooltip.MudBud,"Sansmmons a completely indifferent little man"
+
+ItemName.LizardEgg,Decaffeinated Goo Sample
+ItemTooltip.LizardEgg,"Sansmmons a decaffeinated Googi"
+
+
+#[ minecarts ],<<-|----------------------------------------------|->>
+
+
+ItemName.BeeMinecart,Ghostchrap
+ItemName.BeetleMinecart,Gooicrap
+
+
+#[ grappling hooks ],<<-|----------------------------------------|->>
+
+
+ItemName.IvyWhip,WD's Grabbers
+ItemName.ThornHook,Sad Man's Grabbers
 
 
 #[ dungeon defenders 2 ],<<-|------------------------------------|->>

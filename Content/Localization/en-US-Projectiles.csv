@@ -6,16 +6,26 @@ Key,Translation
 
 ProjectileName.Flamelash,Burning Ice
 ProjectileName.GreenLaser,Solar Beam
-ProjectileName.VilethornBase,""Rocket"" Clam
-ProjectileName.VilethornTip,""Rocket"" Clam
+ProjectileName.BoulderStaffOfEarth,Ballgi (ball loogi)
+ProjectileName.VilethornBase,"""Rocket"" Clam"
+ProjectileName.VilethornTip,"""Rocket"" Clam"
 ProjectileName.WandOfSparkingSpark,Fabulous Spark
 
+ProjectileName.Bee,Gst
+ProjectileName.GiantBee,Ghst
+ProjectileName.BeeArrow,Gsts
+ProjectileName.Wasp,Chckn
+
+ProjectileName.Leaf,Finger Gun
+ProjectileName.HeatRay,Pingor Gun
 
 #[ friendly : melee ],<<-|---------------------------------------|->>
 
 
 ProjectileName.WoodenBoomerang,Thyme Leaf Scarf
+ProjectileName.ThornChakram,Epsilon
 ProjectileName.Flamarang,Ragger
+ProjectileName.PossessedHatchet,Overall Strap
 
 ProjectileName.Mace,Sansce
 ProjectileName.FlamingMace,Fell!Sansce
@@ -23,6 +33,9 @@ ProjectileName.BallOHurt,Undertoad!Sansce
 ProjectileName.TheMeatball,Bundle o' Bones
 ProjectileName.BlueMoon,Sansce Seraph
 ProjectileName.Sunfury,Lower!Sansce
+ProjectileName.FlowerPow,V!Sansce
+ProjectileName.FlowerPowPetal,V!Sansce
+ProjectileName.GolemFist,Eye of the GOOt
 
 ProjectileName.CopperShortswordStab,Gastter Rapier
 ProjectileName.TinShortswordStab,Gastin Rapier
@@ -35,28 +48,88 @@ ProjectileName.PlatinumShortswordStab,Papynum Rapier
 
 ProjectileName.Spear,Lost Spear
 ProjectileName.TheRottedFork,Spear of Patience
+ProjectileName.ChlorophytePartisan,Motherly Spear
 ProjectileName.Daybreak,Bergentrücker
 ProjectileName.DaybreakExplosion,Bergentrücker
 
 ProjectileName.Starfury,Chaos Blade
 ProjectileName.StarWrath,Chaos Saber
+ProjectileName.BladeOfGrass,Dingbat Gohst
+ProjectileName.SporeCloud,Tori Flame
+ProjectileName.ChlorophyteOrb,Tori Flame
 ProjectileName.Meowmere,Temmie
+
+ProjectileName.WoodYoyo,ThEYEme (thyme eye)
+ProjectileName.CorruptYoyo,Dreamy Eye
+ProjectileName.CrimsonYoyo,Eye of the War
+ProjectileName.JungleYoyo,EYEriel
+ProjectileName.Cascade,Sanscade
+ProjectileName.Yelets,Eye of the GOAT
+ProjectileName.HiveFive,Gohst Eye
+
+ProjectileName.SeedlerNut,Cookie
+ProjectileName.SeedlerThorn,Chocolate Chip
 
 
 #[ friendly : ranged ],<<-|--------------------------------------|->>
 
 
+ProjectileName.WoodenArrowFriendly,Bad Thyme Sansrrow
+ProjectileName.FireArrow,Safe Sansrrow
 ProjectileName.JestersArrow,Heaven Sansrrow
+ProjectileName.UnholyArrow,Luigium Bolt
+ProjectileName.ChlorophyteArrow,Torium Sansrrow
+ProjectileName.VenomArrow,Scary Sansrrow
+
+ProjectileName.ChlorophyteBullet,Torium Round
+ProjectileName.VenomBullet,Scary Round
+
+ProjectileName.GrenadeI,Fireball
+ProjectileName.GrenadeII,Iceball
+ProjectileName.GrenadeIII,Superball
+ProjectileName.GrenadeIV,Bombshellball
+ProjectileName.ClusterGrenadeI,Spitball
+ProjectileName.ClusterGrenadeII,THUNDERRRball
+ProjectileName.MiniNukeGrenadeI,Sansball
+ProjectileName.MiniNukeGrenadeII,Brotherball
+ProjectileName.DryGrenade,Parchedball
+ProjectileName.WetGrenade,Gastricball
+ProjectileName.LavaGrenade,Darkball
+ProjectileName.HoneyGrenade,Acidball
+
 ProjectileName.Seed,Tiny Sprout
 
 ProjectileName.ThrowingKnife,Hateful Knife
+
+ProjectileName.Beenade,Spooky Cocktail
+
+ProjectileName.PainterPaintball,Ink
+
+ProjectileName.Stynger,Sneezer
+ProjectileName.StyngerShrapnel,Sneezer
 
 
 #[ friendly : summoner ],<<-|------------------------------------|->>
 
 
 ProjectileName.FlinxMinion,Stable Symmetric Sans
+ProjectileName.Hornet,Anger Gohst
+ProjectileName.HornetStinger,Anger Gohst Ball
 ProjectileName.FlyingImp,Lancer
+ProjectileName.Pygmy,Puffle
+ProjectileName.Pygmy2,Puffle
+ProjectileName.Pygmy3,Puffle
+ProjectileName.Pygmy4,Puffle
+ProjectileName.PygmySpear,Puffle
+
+ProjectileName.DeadCellsBarnacle,Writhing Mass
+ProjectileName.DeadCellsBarnacleShot,Spooky Blast
+
+ProjectileName.BlandWhip,Sansy Tongue
+ProjectileName.ThornWhip,Gastongue
+ProjectileName.FlowerWhip,Speed Tongue
+ProjectileName.FlowerWhipPetal,Speed Saliva
+
 
 
 #[ friendly : pets ],<<-|----------------------------------------|->>
@@ -65,6 +138,32 @@ ProjectileName.FlyingImp,Lancer
 ProjectileName.MiniMinotaur,Mini Tey
 ProjectileName.Penguin,Pingus
 ProjectileName.ShadowMimic,Mini Goomb
+ProjectileName.TikiSpirit,Sans the Idea
+ProjectileName.BabyHornet,Gohst
+ProjectileName.Turtle,Pet Gaster
+ProjectileName.Sapling,Hamburger Hinderance
+ProjectileName.PetLizard,Decaff Googi
+
+
+#[ friendly : tools ],<<-|---------------------------------------|->>
+
+
+ProjectileName.ChlorophyteDrill,{$ItemName.ChlorophyteDrill}
+ProjectileName.ChlorophyteChainsaw,{$ItemName.ChlorophyteChainsaw}
+ProjectileName.ChlorophyteJackhammer,{$ItemName.ChlorophyteJackhammer}
+ProjectileName.PurificationPowder,{$ItemName.PurificationPowder}
+ProjectileName.VilePowder,{$ItemName.VilePowder}
+ProjectileName.ViciousPowder,{$ItemName.ViciousPowder}
+
+ProjectileName.BobberWooden,Fake Parasite
+ProjectileName.BobberFiberglass,"{$ProjectileName.BobberWooden}"
+
+
+#[ friendly : hooks ],<<-|---------------------------------------|->>
+
+
+ProjectileName.IvyWhip,{$ItemName.IvyWhip}
+ProjectileName.ThornHook,{$ItemName.ThornHook}
 
 
 #[ friendly : other ],<<-|---------------------------------------|->>
@@ -74,6 +173,20 @@ ProjectileName.FlyingPiggyBank,Lil' Sansy
 
 ProjectileName.RopeCoil,{$ItemName.RopeCoil}
 
+ProjectileName.DirtBall,{$ItemName.DirtBlock}
+
+ProjectileName.SporeGas,Sadness Aura
+ProjectileName.SporeGas2,{$ProjectileName.SporeGas}
+ProjectileName.SporeGas3,{$ProjectileName.SporeGas}
+ProjectileName.SporeTrap,Sad Trap
+ProjectileName.SporeTrap2,{$ProjectileName.SporeTrap}
+
+
+#[ friendly : npcs ],<<-|----------------------------------------|->>
+
+
+ProjectileName.DryadsWardCircle,Flowey's Floweys
+
 
 #[ hostile : bosses ],<<-|---------------------------------------|->>
 
@@ -82,6 +195,19 @@ ProjectileName.DeerclopsIceSpike,Sance Spike
 ProjectileName.DeerclopsRangedProjectile,Sansbris
 
 ProjectileName.EyeLaser,San's Fired Lazor
+
+ProjectileName.QueenBeeStinger,MOTHERBALL
+
+ProjectileName.PoisonSeedPlantera,Spooky Tear
+ProjectileName.SeedPlantera,Tear
+ProjectileName.ThornBall,Cryberry
+
+
+#[ hostile : ammo ],<<-|-----------------------------------------|->>
+
+
+ProjectileName.WoodenArrowHostile,Bad Thyme Sansrrow
+ProjectileName.FlamingArrow,Safe Sansrrow
 
 
 #[ hostile : snow ],<<-|-----------------------------------------|->>
@@ -94,6 +220,15 @@ ProjectileName.IceSpike,Fractured Bone
 
 
 ProjectileName.HarpyFeather,Blaster Rider Feather
+
+
+#[ hostile : jungle ],<<-|---------------------------------------|->>
+
+
+ProjectileName.Stinger,Gohst Ball
+ProjectileName.JungleSpike,Gohst Ball
+ProjectileName.BeeHive,{$ItemName.BeeHive}
+ProjectileName.WebSpit,Grabber Target
 
 
 #[  ],<<-|-------------------------------------------------------|->>

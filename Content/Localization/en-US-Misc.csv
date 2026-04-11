@@ -10,9 +10,9 @@ Announcement.HasBeenDefeated_Single,{0}'s behind was kicked!
 Announcement.HasBeenDefeated_Plural,{0}'s behinds were kicked!
 
 Game.BedObstructed,Your bad is sansbstructed.
-Game.BirthdayParty_1,{0} is getting funky!
-Game.BirthdayParty_2,{0} and {1} are getting it on!
-Game.BirthdayParty_3,"{0}, {1} and {2} are party rockin' in the house tonight!"
+Game.BirthdayParty_1,{0} is forgetting core memories!
+Game.BirthdayParty_2,{0} and {1} are losing their sense of self!
+Game.BirthdayParty_3,"{0}, {1} and {2} are no longer who anyone remembers them as being!"
 Game.InvasionPoints,[c/001111:{0} sans points]
 Game.InvasionWave_Type1,"[ {0} ] : {1}"
 Game.InvasionWave_Type2,"[ {0} ] : {1} and {2}"
@@ -33,6 +33,8 @@ LegacyMisc.0,The Lnik army's behind was kicked!
 LegacyMisc.8,My Mans (moon sans) is PISSED!
 LegacyMisc.9,You feel like you're gonna have a bad time...
 LegacyMisc.15,The spirits of dark and darker have become yet darker.
+LegacyMisc.32,There is a spy in Toriel's House...
+LegacyMisc.33,Black Friday has started at Gamestop...
 
 
 #[ currency ],<<-|-----------------------------------------------|->>
@@ -49,8 +51,8 @@ Currency.DefenderMedals,Luigium Coins
 #[ controls ],<<-|-----------------------------------------------|->>
 
 
-Controls.LeftClick,L-Click
-Controls.RightClick,Mouse II
+Controls.LeftClick,Undermouse
+Controls.RightClick,Mousarune
 
 
 #[ game ],<<-|---------------------------------------------------|->>
@@ -58,10 +60,9 @@ Controls.RightClick,Mouse II
 
 Game.DroppedCoins,"Don't lose hope! (But you did lose: {0})"
 
-Game.NPCTitle,{1}!{0}
 Game.PlayerDeathTime,{0}'s behind was kicked {1} ago.
 
-Game.RespawnInSuffix,"{0}. Hold yer horses"
+Game.RespawnInSuffix,"Reloading in {0}. Hold yer horsies"
 
 Game.SpawnPointRemoved,Sanspoint removed!
 Game.SpawnPointSet,Sanspoint set!
@@ -73,17 +74,40 @@ Game.Time,{0} ST (Sans Time)
 
 
 GameUI.Bestiary,Open Sanstiary
+
+GameUI.Enabled,WINDOWS + G
+GameUI.Disabled,ENABLE
 GameUI.Cancel,Cansans
+
 GameUI.CompassCenter,Sanster
 GameUI.CompassEast,{0} ½m East
 GameUI.CompassWest,{0} ½m Weast
+
+GameUI.DepthLevel,Temperature
+GameUI.Depth,{0}K
+GameUI.LayerSpace,(fever)
+GameUI.LayerSurface,(hypothermia)
+GameUI.LayerUnderground,(hypothermia)
+GameUI.LayerCaverns,(fever)
+GameUI.LayerUnderworld,(heat stroke)
+
 GameUI.DPS,{0} sansmage per sanscond
+
+GameUI.LightRain,Light Drooling
+GameUI.Rain,Drooling
+GameUI.HeavyRain,JASON
+GameUI.Storm,JAAAAAASOOOOON
+GameUI.EastWind,({0} ½m/s East)
+GameUI.WestWind,({0} ½m/s Weast)
+
+GameUI.Speed,{0} ½m/s
 
 
 #[ map objects ],<<-|--------------------------------------------|->>
 
 
 MapObject.Copper,Gastter
+MapObject.Chlorophyte,Torium
 MapObject.CrimsonAltar,Wartorn Altar
 MapObject.Crimtane,Sansnium
 MapObject.DemonAltar,Loogie Altar
@@ -93,11 +117,40 @@ MapObject.Fossil,Sans Matter
 MapObject.Gold,Papyld
 MapObject.Iron,Iriel
 MapObject.Lead,Toriad
+MapObject.LivingWood,[ L I V I N G   S A N S ]
+MapObject.MetalBar,SOUL Bar
+MapObject.PlanterasBulb,Blue SOUL (real)
 MapObject.Platinum,Papynum
+MapObject.Pot,Treasurehead
+MapObject.Sapling,Thyme Sprout
 MapObject.Silver,Sansver
 MapObject.Tin,Gastin
-MapObject.Toilet,Dispatch Hatch
 MapObject.Tungsten,Tungsans
+MapObject.Thorn,Toriel's Furniture
+MapObject.Thorns,Tendrils
+MapObject.Trap,Yummy Treats!!!
+MapObject.Tree,Bad Thyme
+
+
+#[ map object : furniture ],<<-|---------------------------------|->>
+
+
+MapObject.Anvil,Sansvil
+MapObject.TeleportationPylon,Sansleportation Sanslon
+
+MapObject.Chair,Sair
+MapObject.Chandelier,Sansdelier
+MapObject.Door,Door (but sans)
+MapObject.FloorLamp,Samp
+MapObject.Lantern,Sanstern
+MapObject.Sink,Sank (sans sink)
+MapObject.Table,Sansble
+MapObject.Toilet,Dispatch Hatch
+
+MapObject.Banner,Sansnner
+MapObject.Painting,Trading Card
+MapObject.Statue,Stanstue
+MapObject.Trophy,Trading Card
 
 
 #[ misc ],<<-|---------------------------------------------------|->>
@@ -107,7 +160,11 @@ Misc.CanBePlacedInVanity,[c/ff7f7f:Can be equipped in sansnity slots]
 
 Misc.Crimstone,Wartorn Stans
 Misc.Ebonstone,Loostone
-Misc.Fruit,Froot
+Misc.Fruit,Slipper
+Misc.ShortDays,Gb
+Misc.ShortHours,Mb
+Misc.ShortMinutes,Kb
+Misc.ShortSeconds,b
 
 
 #[ world creation ],<<-|-----------------------------------------|->>
@@ -129,7 +186,7 @@ LegacyWorldGen.4,Placing stans in the sirt
 
 LegacyWorldGen.5,Placing sirt in the stans
 
-# LegacyWorldGen.6,|> >>--->   UNSET   <---<< <| # adding clay
+LegacyWorldGen.6,Placing brown bricks with Minecrap!
 
 LegacyWorldGen.7,Making random orifices
 LegacyWorldGen.8,Sansnerating small sanves
@@ -204,7 +261,7 @@ LegacyWorldGen.60,Soothing the [ B I G   S A N S ]
 # LegacyWorldGen.61,|> >>--->   UNSET   <---<< <| # mossification
 
 LegacyWorldGen.62,Samification
-LegacyWorldGen.63,Making sansve walls
+LegacyWorldGen.63,Making sansve salls
 
 #LegacyWorldGen.64,|> >>--->   UNSET   <---<< <| # growing spider caves
 
@@ -214,10 +271,8 @@ LegacyWorldGen.67,Loading mappe data:
 LegacyWorldGen.68,Drawing mappe:
 LegacyWorldGen.69,Creating gastrofalls
 
-LegacyWorldGen.70,Creating twilight sansrest ruans
-
-# LegacyWorldGen.71,|> >>--->   UNSET   <---<< <| # creating hornet nests
-
+LegacyWorldGen.70,Creating Toriel's House
+LegacyWorldGen.71,Spawning Spawners
 LegacyWorldGen.72,Making the [ B I G   S A N S ] dusty
 LegacyWorldGen.73,Validating [ B I G   S A N S ] save:
 LegacyWorldGen.74,Slanses are falling from the skans!
@@ -231,9 +286,7 @@ LegacyWorldGen.79,Weathering sansverns
 LegacyWorldGen.80,Chiseling mars
 LegacyWorldGen.81,Growing grans
 LegacyWorldGen.82,Disarming broken sansps
-
-# LegacyWorldGen.83,|> >>--->   UNSET   <---<< <| # growing rich mahogany
-
+LegacyWorldGen.83,Growing Wallpaper Mold
 LegacyWorldGen.84,SANS IT UP!
 
 LegacyWorldGen.85,Felling growths

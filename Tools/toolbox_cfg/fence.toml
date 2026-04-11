@@ -1,0 +1,309 @@
+format = 1
+
+[input.pieces]
+# Variant 1
+t1  = " 8:12 8:4 4:0 " # Top
+b1  = " 8:24 8:4 4:12" # Bottom
+l1  = "16:16 4:8 4:4 " # Left
+r1  = "12:16 4:8 8:4 " # Right
+le1 = " 8:16 4:8 4:4 " # Left End
+re1 = "20:16 4:8 8:4 " # Right End
+ta1 = "16:8  8:8 4:4 " # Top Accent
+ba1 = "16:24 8:4 4:12" # Bottom Accent
+# Variant 2
+t2  = "32:12 8:4 4:0 " # Top
+b2  = "32:24 8:4 4:12" # Bottom
+l2  = "40:16 4:8 4:4 " # Left
+r2  = "36:16 4:8 8:4 " # Right
+le2 = "32:16 4:8 4:4 " # Left End
+re2 = "44:16 4:8 8:4 " # Right End
+ta2 = "40:8  8:8 4:4 " # Top Accent
+ba2 = "40:24 8:4 4:12" # Bottom Accent
+# Variant 3
+t3  = "56:12 8:4 4:0 " # Top
+b3  = "56:24 8:4 4:12" # Bottom
+l3  = "64:16 4:8 4:4 " # Left
+r3  = "60:16 4:8 8:4 " # Right
+le3 = "56:16 4:8 4:4 " # Left End
+re3 = "68:16 4:8 8:4 " # Right End
+ta3 = "64:8  8:8 4:4 " # Top Accent
+ba3 = "64:24 8:4 4:12" # Bottom Accent
+
+[output]
+size = "234:90"
+suffix = "_out"
+post_process = { scale = 2 }
+
+# Center
+
+[[output.jigsaw]]
+pos = "18:18"
+pieces = ["l1", "r1"]
+
+[[output.jigsaw]]
+pos = "36:18"
+pieces = ["l2", "r2"]
+
+[[output.jigsaw]]
+pos = "54:18"
+pieces = ["l3", "r3"]
+
+# Left
+
+[[output.jigsaw]]
+pos = "0:0"
+pieces = ["le1", "r1"]
+
+[[output.jigsaw]]
+pos = "0:18"
+pieces = ["le2", "r2"]
+
+[[output.jigsaw]]
+pos = "0:36"
+pieces = ["le3", "r3"]
+
+# Right
+
+[[output.jigsaw]]
+pos = "72:0"
+pieces = ["l1", "re1"]
+
+[[output.jigsaw]]
+pos = "72:18"
+pieces = ["l2", "re2"]
+
+[[output.jigsaw]]
+pos = "72:36"
+pieces = ["l3", "re3"]
+
+# Top
+
+[[output.jigsaw]]
+pos = "18:0"
+pieces = ["l1", "r1", "t1"]
+
+[[output.jigsaw]]
+pos = "36:0"
+pieces = ["l2", "r2", "t2"]
+
+[[output.jigsaw]]
+pos = "54:0"
+pieces = ["l3", "r3", "t3"]
+
+# Bottom
+
+[[output.jigsaw]]
+pos = "18:36"
+pieces = ["l1", "r1", "b1"]
+
+[[output.jigsaw]]
+pos = "36:36"
+pieces = ["l2", "r2", "b2"]
+
+[[output.jigsaw]]
+pos = "54:36"
+pieces = ["l3", "r3", "b3"]
+
+# Corners 1
+
+[[output.jigsaw]]
+pos = "0:54"
+pieces = ["le1", "r1", "t1"]
+
+[[output.jigsaw]]
+pos = "0:72"
+pieces = ["le1", "r1", "b1"]
+
+[[output.jigsaw]]
+pos = "18:54"
+pieces = ["l1", "re1", "t1"]
+
+[[output.jigsaw]]
+pos = "18:72"
+pieces = ["l1", "re1", "b1"]
+
+# Corners 2
+
+[[output.jigsaw]]
+pos = "36:54"
+pieces = ["le2", "r2", "t2"]
+
+[[output.jigsaw]]
+pos = "36:72"
+pieces = ["le2", "r2", "b2"]
+
+[[output.jigsaw]]
+pos = "54:54"
+pieces = ["l2", "re2", "t2"]
+
+[[output.jigsaw]]
+pos = "54:72"
+pieces = ["l2", "re2", "b2"]
+
+# Corners 3
+
+[[output.jigsaw]]
+pos = "72:54"
+pieces = ["le3", "r3", "t3"]
+
+[[output.jigsaw]]
+pos = "72:72"
+pieces = ["le3", "r3", "b3"]
+
+[[output.jigsaw]]
+pos = "90:54"
+pieces = ["l3", "re3", "t3"]
+
+[[output.jigsaw]]
+pos = "90:72"
+pieces = ["l3", "re3", "b3"]
+
+# Column
+
+[[output.jigsaw]]
+pos = "90:0"
+pieces = ["le1", "re1"]
+
+[[output.jigsaw]]
+pos = "90:18"
+pieces = ["le2", "re2"]
+
+[[output.jigsaw]]
+pos = "90:36"
+pieces = ["le3", "re3"]
+
+# Row
+
+[[output.jigsaw]]
+pos = "108:72"
+pieces = ["l1", "r1", "t1", "b1"]
+
+[[output.jigsaw]]
+pos = "126:72"
+pieces = ["l2", "r2", "t2", "b2"]
+
+[[output.jigsaw]]
+pos = "144:72"
+pieces = ["l3", "r3", "t3", "b3"]
+
+# Left Cap
+
+[[output.jigsaw]]
+pos = "162:0"
+pieces = ["le1", "r1", "t1", "b1"]
+
+[[output.jigsaw]]
+pos = "162:18"
+pieces = ["le2", "r2", "t2", "b2"]
+
+[[output.jigsaw]]
+pos = "162:36"
+pieces = ["le3", "r3", "t3", "b3"]
+
+# Right Cap
+
+[[output.jigsaw]]
+pos = "216:0"
+pieces = ["l1", "re1", "t1", "b1"]
+
+[[output.jigsaw]]
+pos = "216:18"
+pieces = ["l2", "re2", "t2", "b2"]
+
+[[output.jigsaw]]
+pos = "216:36"
+pieces = ["l3", "re3", "t3", "b3"]
+
+# Top Cap
+
+[[output.jigsaw]]
+pos = "108:0"
+pieces = ["ta1"]
+
+[[output.jigsaw]]
+pos = "126:0"
+pieces = ["ta2"]
+
+[[output.jigsaw]]
+pos = "144:0"
+pieces = ["ta3"]
+
+# Bottom Cap
+
+[[output.jigsaw]]
+pos = "108:54"
+pieces = ["le1", "re1", "ba1"]
+
+[[output.jigsaw]]
+pos = "126:54"
+pieces = ["le2", "re2", "ba2"]
+
+[[output.jigsaw]]
+pos = "144:54"
+pieces = ["le3", "re3", "ba3"]
+
+# Lone Tile
+
+[[output.jigsaw]]
+pos = "162:54"
+pieces = ["t1", "le1", "re1", "b1"]
+
+[[output.jigsaw]]
+pos = "180:54"
+pieces = ["t2", "le2", "re2", "b2"]
+
+[[output.jigsaw]]
+pos = "198:54"
+pieces = ["t3", "le3", "re3", "b3"]
+
+# Up/Down T-Pieces
+
+[[output.jigsaw]]
+pos = "108:18"
+pieces = ["l1", "r1"]
+
+[[output.jigsaw]]
+pos = "126:18"
+pieces = ["l2", "r2"]
+
+[[output.jigsaw]]
+pos = "144:18"
+pieces = ["l3", "r3"]
+
+[[output.jigsaw]]
+pos = "108:36"
+pieces = ["l1", "r1"]
+
+[[output.jigsaw]]
+pos = "126:36"
+pieces = ["l2", "r2"]
+
+[[output.jigsaw]]
+pos = "144:36"
+pieces = ["l3", "r3"]
+
+# Left/Right T-Pieces
+
+[[output.jigsaw]]
+pos = "180:0"
+pieces = ["l1", "r1"]
+
+[[output.jigsaw]]
+pos = "180:18"
+pieces = ["l2", "r2"]
+
+[[output.jigsaw]]
+pos = "180:36"
+pieces = ["l3", "r3"]
+
+[[output.jigsaw]]
+pos = "198:0"
+pieces = ["l1", "r1"]
+
+[[output.jigsaw]]
+pos = "198:18"
+pieces = ["l2", "r2"]
+
+[[output.jigsaw]]
+pos = "198:36"
+pieces = ["l3", "r3"]

@@ -7,6 +7,7 @@ Key,Translation
 NPCName.DemonEye,Sanson Eye
 NPCName.DemonEyeOwl,Sanson Eye
 NPCName.DemonEyeSpaceship,Sanson Eye
+NPCName.WanderingEye,Mature Sanson Eye
 
 NPCName.BaldZombie,Headless Horseless Horsesans
 NPCName.FemaleZombie,Tall!Sans
@@ -20,11 +21,27 @@ NPCName.Zombie,Agressive Sans
 #[ surface ],<<-|------------------------------------------------|->>
 
 
-NPCName.BlueSlime,Blue Slans
-NPCName.GreenSlime,Green Slans
-NPCName.PurpleSlime,Ourple Slans
-NPCName.RedSlime,Red Slans
+NPCName.BlueSlime,Slans
+NPCName.GreenSlime,Normal Slans
+NPCName.PurpleSlime,Standard Slans
 NPCName.Pinky,Slansy UwU
+
+
+#[ critters ],<<-|-----------------------------------------------|->>
+
+
+NPCName.Frog,Pog
+NPCName.GoldFrog,Cool Pog
+NPCName.Grubby,Purple Moldbug
+NPCName.Sluggy,Yellow Moldbug
+NPCName.Buggy,White Moldbug
+NPCName.ScarletMacaw,Mini Sans
+NPCName.BlueMacaw,Mini Toriel
+NPCName.Toucan,Bird That Carries you Over a Disproportionally Long gap
+NPCName.YellowCockatiel,Bird That Carries you Over a Disproportionally Small gap
+NPCName.GrayCockatiel,Sans That Carries you Over a Disproportionally Small gap
+
+NPCName.Stinkbug,UNUSED
 
 
 #[ sky ],<<-|----------------------------------------------------|->>
@@ -36,9 +53,17 @@ NPCName.Harpy,Blaster Rider
 #[ underground ],<<-|--------------------------------------------|->>
 
 
-NPCName.BabySlime,Tiny Slans
-NPCName.MotherSlime,Beeg Slans
+NPCName.RedSlime,Default Slans
+NPCName.YellowSlime,Average Slans
+NPCName.BlackSlime,Regular Slans
+NPCName.BabySlime,Ninji Slans
+NPCName.MotherSlime,Ninja Slans
 NPCName.ToxicSludge,Sansbert
+
+NPCName.CaveBat,Sanccoo
+NPCName.GiantBat,Twooccoo
+
+NPCName.Piranha,Jape Worm
 
 NPCName.BoundGoblin,Bound Lnik
 NPCName.BoundWizard,Bound Sans
@@ -79,10 +104,55 @@ NPCName.SpikedIceSlime,Hyperslans
 NPCName.SandSlime,Dry Slans
 
 
+#[ jungle ],<<-|-------------------------------------------------|->>
+
+
+NPCName.JungleSlime,Moldy Slans
+NPCName.JungleBat,Molddoo
+NPCName.Snatcher,Hand of Gaster
+NPCName.DoctorBones,Husk
+NPCName.Derpling,Jumpler
+NPCName.GiantTortoise,Handy Loogi
+NPCName.GiantFlyingFox,Stage 7 Molddoo
+NPCName.AnglerFish,Worm from the String
+
+
+#[ underground jungle ],<<-|-------------------------------------|->>
+
+
+NPCName.Hornet,Gohst
+NPCName.HornetFatty,Boxy Gohst
+NPCName.HornetHoney,Motherly Gohst
+NPCName.HornetLeafy,Sansy Gohst
+NPCName.HornetSpikey,Spinny Gohst
+NPCName.HornetStingy,Bitey Gohst
+NPCName.MossHornet,Bo
+NPCName.Bee,Ghst
+NPCName.BeeSmall,Gst
+
+NPCName.ManEater,Other Hand of Gaster
+NPCName.AngryTrapper,Fist of Gaster
+NPCName.SpikedJungleSlime,Spooky Slans
+NPCName.JungleCreeper,Landliner
+NPCName.JungleCreeperWall,Landliner
+NPCName.Arapaima,Deathcan
+NPCName.Moth,Hammer
+
+NPCName.LacBeetle,Perseverant Bones
+
+
+#[ jungle temple ],<<-|------------------------------------------|->>
+
+
+NPCName.Lihzahrd,Dr. Loogie
+NPCName.LihzahrdCrawler,Dr. Loogie
+NPCName.FlyingSnake,Goominal Crawler
+
+
 #[ corruption ],<<-|---------------------------------------------|->>
 
 
-NPCName.Clinger,Venus Thunder Trap
+NPCName.Clinger,Venus THUNDERRR Trap
 NPCName.Corruptor,Superloominal Crawler
 NPCName.CorruptSlime,Sloomba
 
@@ -90,11 +160,11 @@ NPCName.DevourerBody,Wiggler
 NPCName.DevourerHead,Wiggler
 NPCName.DevourerTail,Wiggler
 
-NPCName.EaterofSouls,Loominal Crawler
+NPCName.SeekerBody,Biggler
+NPCName.SeekerHead,Biggler
+NPCName.SeekerTail,Biggler
 
-NPCName.SeekerBody,Angry Wiggler
-NPCName.SeekerHead,Angry Wiggler
-NPCName.SeekerTail,Angry Wiggler
+NPCName.EaterofSouls,Loominal Crawler
 
 NPCName.Slimeling,Mini Sloomba
 NPCName.Slimer,One-Winged Sloomba
@@ -120,9 +190,11 @@ NPCName.DungeonGuardian,Paps.
 NPCName.GoblinArcher,The Worst Lnik
 NPCName.GoblinPeon,Green Lnik
 NPCName.GoblinSorcerer,Purple Lnik
-NPCName.GoblinSummoner,Sansmonner Lnik
 NPCName.GoblinThief,Yellow Lnik
 NPCName.GoblinWarrior,Red Lnik
+
+NPCName.GoblinSummoner,Warlnik
+NPCName.ShadowFlameApparition,Sansnian Apparition
 
 
 #[ dungeon defenders 2 ],<<-|------------------------------------|->>
@@ -135,6 +207,24 @@ NPCName.DD2EterniaCrystal,Brandshroom
 
 
 NPCName.MeteorHead,Outer!Skull
+
+
+#[ special ],<<-|------------------------------------------------|->>
+
+
+SpecialNPCName.DirtSlime,Sirt!Slans
+SpecialNPCName.StoneSlime,Stans!Slans
+SpecialNPCName.WoodSlime,Thyme!Slans
+SpecialNPCName.GraniteSlime,Grans!Slans
+SpecialNPCName.MarbleSlime,Mars!Slans
+SpecialNPCName.TorchSlime,Sanch!Slans
+SpecialNPCName.HiveSlime,Spawner!Slans
+SpecialNPCName.HoneySlime,Battery Acid!Slans
+SpecialNPCName.HerbSlime,StoryShift!Slans
+SpecialNPCName.SnowSlime,Snans!Slans
+SpecialNPCName.FossilSlime,Petrified Calcium!Slans
+SpecialNPCName.HeartSlime,SOUL!Slans
+SpecialNPCName.HellSlime,Dark!Slans
 
 
 #[  ],<<-|-------------------------------------------------------|->>

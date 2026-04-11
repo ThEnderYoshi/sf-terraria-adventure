@@ -1,37 +1,106 @@
 # Let's just hope I actually remember to check and update this list...
 
 important:
-
-next commit:
-  # Committed.
+  BEFORE UPDATE 3 RELEASES:
+    - Add Wandering Eye gores.
+  BEFORE DST UPDATE RELEASES:
+    - Check out DSTNoise.png ;)
 
 milestones:
-  start: 2022-07-12
-  update 01: <TBD>  # 1K images
-  update 02: <TBD>  # 2K images
-  update 03: <TBD>  # 3K images
-  update 04: <TBD>  # 4K images
-  update 05: <TBD>  # 5K images
-  update 06: <TBD>  # 6K images
-  update 07: <TBD>  # 7K images
-  update 08: <TBD>  # 8K images
-  update 09: <TBD>  # 9K images
-  update 10: <TBD>  # 10K images
-  update 11: <TBD>  # 11K images
-  update 12: <TBD>  # 12K images
-  update 13: <TBD>  # 13K images
-  update ω:  <TBD>  # ALL images
-  all tiles: <TBD>  # (Tiles_ + Misc/TileOutlines/Tiles_ + _Cactus)
-  all npcs:  <TBD>  # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
-  all items: <TBD>  # (Item_ + Coin_ + ItemFlame_)
+  start:     2022-07-12
+  update 01: 2023-07-17 # 1K images; Initial Release
+  update 02: 2026-04-02 # 2K images; Jungle Update
+  update 03: <TBD>      # 3K images
+  update 04: <TBD>      # 4K images
+  update 05: <TBD>      # 5K images
+  update 06: <TBD>      # 6K images
+  update 07: <TBD>      # 7K images
+  update 08: <TBD>      # 8K images
+  update 09: <TBD>      # 9K images
+  update 10: <TBD>      # 10K images
+  update 11: <TBD>      # 11K images
+  update 12: <TBD>      # 12K images
+  update 13: <TBD>      # 13K images
+  update 14: <TBD>      # 14K images
+  update ω:  <TBD>      # ALL images
+  all tiles: <TBD>      # (Tiles_ + Misc/TileOutlines/Tiles_ + _Cactus)
+  all npcs:  <TBD>      # (NPC_ + TownNPCs/ + NPC_Head_ + <NPC Parts>)
+  all items: <TBD>      # (Item_ + Coin_ + ItemFlame_)
+  all particles: <TBD>  # (Gore_ + Dust.png)
+  all text entries: <TBD>
+  all songs: <TBD>
+  all sounds: <TBD>
+  everything: <TBD>
+
+future ideas:
+  - Dreadnautilus -> Onionsans
+
+long-term notes:
+  - Pressure plates are LEGO bricks strewn throughout the floor.
+  - Buffs should depict bad/unpleasant things. # Exceptions apply
+  - Debuffs should depict good things.         # Exceptions apply
+  - Spiders are flowey themed.
+  - Move ItemName.DestroyedEmblem [sic] out of en-US-Bosses.csv
+  - Potions are condiments.
+  - Flasks are cups of coffee themed after AU sanses
+  - Foods are slippers.
+  - Fishes are (happy) worms (parasites).
+  - Locked chests are glued shut.
 
 unfinished textures:
+  critter cages:
+    - '275'         # Bunny
+    - '276'         # Squirrel
+    - '277'         # Mallard Duck
+    - '278'         # White Duck
+    - '279'         # White Bird
+    - '280'         # Blue Bird
+    - '281'         # Red Bird
+    - '282'         # Goldfish
+    - '285'         # Snail
+    - '286'         # Glow Snail
+    - '288'         # Monarch Butterfly
+    - '289'         # Purple Butterfly
+    - '290'         # Red Butterfly
+    - '291'         # Blue Butterfly
+    - '292'         # Yellow Butterfly
+    - '293'         # White Butterfly
+    - '294'         # Zebra Butterfly
+    - '295'         # Orange Butterfly
+    - '296'         # Yellow Scorpion
+    - '297'         # Black Scorpion
+    - '299'         # Mouse
+    - '309'         # Penguin
+    - '310'         # Worm
+    - '339'         # Grasshopper
+    - '391'         # Enchanted Nightcrawler
+    - '412'         # Squirrel 2.0
+    - '413'         # Gold Squirrel
+    - '582'         # Lava Snail
+    - '598'         # Lava Serpent Bowl
+    - '599'         # Amethyst Bunny
+    - '600'         # Topaz Bunny
+    - '601'         # Sapphire Bunny
+    - '602'         # Emerald Bunny
+    - '603'         # Ruby Bunny
+    - '604'         # Diamond Bunny
+    - '605'         # Amber Bunny
+    - '606'         # Amethyst Squirrel
+    - '607'         # Topaz Squirrel
+    - '608'         # Sapphire Squirrel
+    - '609'         # Emerald Squirrel
+    - '610'         # Ruby Squirrel
+    - '611'         # Diamond Squirrel
+    - '612'         # Amber Squirrel
+    - '619'         # Truffle Worm
+    - '629'         # Stinkbug
   Background_:
     - '93/160-170'  # Could use some more touches
     - '261-262'     # Recolor of vanilla image
   Extra_:
-    - '48'          # See !chat bubbles.ase
+    - '48'          # See ChatBubbles.ase
     - '54'          # Equipment slot icons.
+    - '181/182'     # Pylon Crystals/Map Icons.
   Flame_:
     - '0'           # See Flame_0.ase
     - '1'           # See Flame_1.ase
@@ -42,11 +111,12 @@ unfinished textures:
     - '15'          # See Flame_15.ase
   Item_:
     - '511-512'     # (In)active stone blocks. They're still using vanilla wire textures.
+  NPC_:
+    - '35/36'       # Skeletron. Missing alternate form.
   Tiles_:
-    - '0'           # Dirt. Missing mud connections.
     - '3/73'        # Natural plants/flowers.
     - '4'           # Torches.
-    - '5'           # Trees. Missing: Mahogany, Shadewood, Ungerground Mah., Mushroom.
+    - '5'           # Trees. Missing: Shadewood, Mushroom.
     - '10/11'       # Doors.
     - '13'          # Placed liquid containers. (Bottles, Potions, etc.)
     - '14'          # Tables.
@@ -55,14 +125,17 @@ unfinished textures:
     - '19'          # Platforms.
     - '20'          # Saplings.
     - '21'          # Chests + Barrel + Trash Can.
+    - '28'          # Pots.
     - '33'          # Candle.
     - '34'          # Chandelier.
     - '35'          # Lanterns.
+    - '61'          # Natural jungle plants + jungle rose + jungle spores + nature's gift.
     - '79'          # Beds.
     - '80'          # Cacti.
-    - '81'          # Pianos.
-    - '82'          # Drawers.
-    - '83'          # Bench + Sofas + Chippy's Couch.
+    - '81/82/83'    # Herbs. See also: Tiles_380
+    - '87'          # Pianos.
+    - '88'          # Drawers.
+    - '89'          # Bench + Sofas + Chippy's Couch.
     - '90'          # Bathtubs.
     - '91'          # Banners.
     - '93'          # Lamp.
@@ -71,31 +144,47 @@ unfinished textures:
     - '104'         # Grandfather Clocks.
     - '105'         # Statues.
     - '109'         # Hallowed Grass. Still based on Card Kingdom instead of Cyber World.
+    - '135'         # Pressure Plates: Red, Green, Gray, Brown, Blue, Yellow, Orange
+    - '137'         # 1x1 Projectile Emitting Traps.
+    - '139'         # Placed Music Boxes.
     - '165'         # Stalactites/stalagmites.
     - '172'         # Sinks.
-    - '185'         # Debree. Also check for tiles placed by Rubblemaker.
+    - '185'         # Debris. Also check for tiles placed by Rubblemaker.
+    - '187'         # `LargePiles2`. Also check for Rubblemaker & Tiles_186.png
+    - '207'         # Water Fountains.
     - '215'         # Campfire.
+    - '227'         # Dye Plants.
     - '239'         # Bars.
     - '240/242'     # 3x3/6x4 paintings.
+    - '245/246'     # 2x3/3x2 paintings.
+    - '376'         # Placed Crates.
+    - '380'         # Planter Boxes.
     - '497'         # Toilets.
+    - '518'         # Lily pads
+    - '519'         # Cattails
+    - '547/548'     # Potted Trees.
+    - '597'         # Pylon bases.
   UI/Bestiary/:
     - 'Icon_Tags_Shadow'
+  other:
+    - 'Dust.png'    # See Dust.ase
+    - 'Rain.png'    # Needs updated water colors.
+    - 'Wires.png'   # Using vanilla wire texture
 reconsider:
   Gore_:
-    - '1218'        # These coins are being spewed by the goomba pet.
-                    # Maybe make them more related to the goomber?
+    - '914'  # Falling Jungle Leaves. Just a recolor of forest leaves.
+             # Didn't feel like making them unique, but they probably
+             # should be.
+    - '1218' # These coins are being spewed by the goomba pet.
+             # Maybe make them more related to the goomber?
   Item_:
-    - '7/10'        # Iron hammer/axe. They look really similar.
-    - '31'          # Bottle. Didn't like how this one turned out.
-    - '2348'        # Potion. Not sure how to feel about the design.
+    - '7/10' # Iron hammer/axe. They look really similar.
+    - '2348' # Potion. Potions are now condiment bottles; this one hasn't got the memo.
   NPC_:
-    - '16'          # Mother slime. Don't like how the bottom turned out.
-    - '48'          # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
-    - '121'         # Slimer. Wing animation sucks.
-    - '134'         # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
-    - '458'         # Eternia Crystal. Sprite feels like it needs a couple tweaks.
-  UI/Cursor_:
-    - '3'           # Star cursor. Looks weird.
+    - '48'   # Harpy. Outdated sans design + p sure i could do a better blaster now + L + Ratio
+    - '121'  # Slimer. Wing animation sucks.
+    - '134'  # Destroyer head. Glowy flower isn't represnting the SOUL colors correctly.
+    - '458'  # Eternia Crystal. Sprite feels like it needs a couple tweaks.
   <other>:
     - Achievement UI assets
 broken:
@@ -106,34 +195,53 @@ image sets:
   Flaming Mace:
     - Chain textures scrungled.
   The Rotted Fork:
-    - Missing shockwave sprite.
+    - Missing shockwave sprite. # Shockwave probably added by other spears too.
   King Slime:
     - <check for related items, etc.>
   EoC:
     - <check for related items, etc.>
   Skelet:
     - Add Chippy's Couch.
+    - Add Chippy version.
     - <check for related items, etc.>
   WoF:
-    - Bestiary icon
+    - Fix WallOfFlesh.png
     - <check for related items, etc.>
-  The Hungry:
-    - Bestiary icon
   Shadowflame Apparition:
     - Missing glow sprite.
+  Fruit: # Once these are done I should start spriting the fruit-based items.
+    - Missing apricot.
+    - Missing banana.
+    - Missing blackcurrant.
+    - Missing blood orange.
+    - Missing cherry.
+    - Missing coconut.
+    - Missing dragon fruit.
+    - Missing elderberry.
+    - Missing grapefruit.
+    - Missing lemon.
+    - Missing peach.
+    - Missing plum.
+    - Missing rambutan.
+    - Missing star fruit.
+    - Missing spicy pepper.
+    - Missing pomegranate.
 music notes:
   Boss 1:
     - Intro is repeated at the end, breaking the loop.
-  Title:
-    - Lower volume so it better matches the rest of the soundtrack.
+  <tba>:
+    # None!
+font notes:
+  <the ones that are comic sans>: >
+    Some special characters are missing and too small. Namely, the oxford quotes
+    and cyrillic letters.
 tools:
-  pack_diagnostic:
-    - Make scan check for image sizes.
-    - Make scan keep track of different (and invalid) languages.
-    - Make scan cross reference with vanilla language CSV.
-    - |
-      Make helpers::update_progress() more efficient:
-      https://rust-cli.github.io/book/tutorial/output.html#a-note-on-printing-performance
+  TPack Toolbox:
+    - Add the GUI for the `jigsaw` tool.
+    - Restore the `build` tool.
+    - Make the `build` tool optimize files where possible.
+    - Make the multithreading better.
+    - (maybe?) Add XNB extraction + sound conversion.
 
 text placeholders:
   format: '#( placeholder : { name } )[,{ aliases }]'
@@ -144,14 +252,15 @@ text placeholders:
   items:
     - don't starve
     - mushroom biome
-    - jungle
-    - plantera
+    - string
+    - moss
+    - fishing
+    - bait
+    - movement speed
+    - night
 
 other:
   - Hallow splash still depicts card kingdom instead of cyber world.
   - >
     Considering the Hallow's current lore, it'd make more sense to make
     EoL based on deltarune instead of just being a 7-souled sans.
-  - >
-    Create a world specifically for testing Resource Packs.
-    Builder's workshop just doesn't cut it sometimes :(

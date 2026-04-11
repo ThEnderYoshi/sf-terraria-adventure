@@ -1,0 +1,208 @@
+# This is a "short-term" list of the "next" things to be added, "sorted" by the
+# "planned" order of creation.
+
+# -- End of Commit --
+
+# Next in line
+
+# For later - BEFORE DST UPDATE RELEASES
+- DSTNoise.png
+- Radio Thing
+- Froggle Bunwich
+
+# For later - BEFORE THE UPDATE WITH THE GOBLINS
+- Goblin gores # Idk look at the wiki fuck you
+
+# For later - BEFORE THE UPDATE WITH THE OLD ONE'S ARMY
+- Keg
+- Ale
+- Fix the tavernkeep credits sprite i though was unused
+
+# For later - BEFORE THE UPDATE WITH HELL
+- Potted Hell Plants
+- reconsider: WallOfFlesh.png
+- reconsider: Inferno Potion # Item 2348
+
+# For later - BEFORE THE UPDATE WITH GRAVEYARDS
+- <check all graveyard-related npc dialog>
+
+# For later - BEFORE THE UPDATE WITH HALLOWEEN STUFF
+- Pumpkin Seeds # + all related items
+- <dryad vanity set>
+- <look for other town npc's vanity sets>
+
+# For later - BEFORE AETHER UPDATE RELEASES
+- Shimmered Dryad:
+  - NPC Sprite
+  - Gores # 1301, 1302, 1303
+  - <look for other shimmered dryad-related sprites>
+- <look for other shimmered npc sprites>
+
+# For later - BEFORE THE UPDATE WITH THE BLOOD MOON
+- Blood Water Fountain
+- Blood Moon Monolith
+- Dryad's blood moon dialog:
+  -  LegacyDialog.73
+  -  LegacyDialog.74
+  -  LegacyDialog.75
+  -  LegacyDialog.76
+
+# For later - BEFORE THE UPDATE WITH THE ECLIPSE
+- Eclipse Map BG Overlay # MapBGOverlay 5
+- Solar Tablet
+- Solar Tablet Fragment
+
+# For later - BEFORE THE UPDATE WITH THE PUMPKIN/FROST MOONS
+- Pumpkin/Frost Moon Map BG Overlays # MapBGOverlay 8 + 9
+
+# For later - BEFORE THE UPDATE WITH METEORS
+- Meteor Map BG Overlay # MapBGOverlay 7
+
+# For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
+- missing npc portraits:
+  # Surface
+  - Merchant
+  - Zoologist
+- town npcs:
+    Demolitionist:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+    Clothier:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+- Torch God's Favor
+- <ores & ore-based recipes>
+- Flower vines # Tiles 382
+- Vine Rope
+- Poison/Venom Staves
+- <forest pots>
+- Fallen log
+- All types of bombs (minus scarab)
+- Potted Forest/Crystal Trees
+- Fairies
+- Pure/Cavern Water Fountains
+- Enchanted Sundial
+- Enchanted Moondial # Maybe? Or maybe leave it for a general aether update
+- Colored Torches
+- <slime rain background effects>
+- <giant tree tiles + items>
+- reconsider: Harpy # NPC 48
+- reconsider: King Slime
+- Slime Staff
+- Flymeal
+- Wraith_Eyes
+- <look at forest-related dryad shop items>
+- Rubblemaker
+- Flask of Gold
+
+# For later - BEFORE LUNAR TOWERS UPDATE RELEASES
+- Extra_49.png # Obfuscated debuff effect
+- Solar/Nebula/Vortex/Stardust/Lunar Monoliths
+
+# For later - BEFORE EVIL BIOME UPDATE RELEASES
+- <corruption, crimson and hallow leaf gores>
+- <corruption, crimson and hallow lily pads>
+- <corruption, crimson and hallow cattails>
+- <corruption, crimson and hallow pots>
+- biome mimics:
+  - Corruption
+  - Crimson
+  - Hallow
+  - Jungle
+- Hallowed/Corrupt/Crimson Water Fountains
+- Flask of Cursed Flames
+- Flask of Ichor
+- Missing painter dialogs:
+  - TownNPCMood_Painter.LikeNPC # Painter likes Party Girl
+  - LegacyDialog.250            # Hallow dialog
+  - LegacyDialog.251            # Party girl dialog
+- Potted Hallow Trees
+- reconsider: Slimer # NPC 121
+- BoC gores # 396-402
+- <look at evil biome-related dryad shop items>
+
+# For later - BEFORE DUNGEON UPDATE RELEASES
+- <spectre bar + recipes>
+- Safe
+- Void Bag/Vault # Might as well, you 'unlock' them together with the dungeon
+- Re-sprite Secret Skeletron version
+
+# For later - BEFORE MUSHROOM UPDATE RELEASES
+- <shroomite bar + recipes>
+- Mushroom Cattails
+
+# For later - BEFORE OCEAN UPDATE
+- Turtle
+- Jungle Turtle
+
+# For later - BEFORE SNOW/DESERT UPDATE RELEASES
+- Extractinator
+- Chlorophyte Extractinator
+- Water Strider
+- Glass
+- <all rockets/mines> # Grenades have already been covered.
+- Icy/Desert/Oasis Water Fountains
+- All magic droppers # See also: MapObject.Dripping* entries.
+- <desert town NPCs>:
+    reconsider:
+      Arms Dealer:
+      - NPC Sprites
+      - Portrait
+      - Gores
+      - Dialog
+      - Sold items/drops
+    Steampunker:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+    Dye Trader:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+- <snow town NPCs>:
+    Cyborg:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+    Santa:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+    reconsider:
+      Mechanic:
+      - NPC Sprites
+      - Portrait
+      - Gores
+      - Dialog
+      - Sold items/drops
+    Tax Collector:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+- Snow/Desert Map BGs                # MapBG 10 + 12 
+- Sandstorm/Blizzard Map BG Overlays # MapBGOverlay 1 + 6
+
+# For later - BEFORE MECH BOSS UPDATE RELEASES
+- Excalibur
+- True Excalibur
+- reconsider: Destroyer
+
+# For later - Once all bosses are done
+- Trophies # A trading card set.
+- Relics

@@ -1,0 +1,295 @@
+format = 1
+
+[input.pieces]
+# Variant 1
+t1 = " 8:8  8:8 0:0" # Top
+m1 = " 8:16 8:8 0:0" # Middle
+b1 = " 8:24 8:9 0:0" # Bottom
+s1 = " 8:36 8:9 0:0" # Single
+# Variant 2
+t2 = "16:8  8:8 0:0"
+m2 = "16:16 8:8 0:0"
+b2 = "16:24 8:9 0:0"
+s2 = "16:36 8:9 0:0"
+# Variant 2
+t3 = "24:8  8:8 0:0"
+m3 = "24:16 8:8 0:0"
+b3 = "24:24 8:9 0:0"
+s3 = "24:36 8:9 0:0"
+
+[output]
+size = "117:45"
+suffix = "_out"
+post_process = { scale = 2 }
+
+# Center
+
+[[output.jigsaw]]
+pos = "9:9"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "18:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "27:9"
+pieces = ["m3"]
+
+# Left
+
+[[output.jigsaw]]
+pos = "0:0"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "0:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "0:18"
+pieces = ["m3"]
+
+# Right
+
+[[output.jigsaw]]
+pos = "36:0"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "36:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "36:18"
+pieces = ["m3"]
+
+# Top
+
+[[output.jigsaw]]
+pos = "9:0"
+pieces = ["t1"]
+
+[[output.jigsaw]]
+pos = "18:0"
+pieces = ["t2"]
+
+[[output.jigsaw]]
+pos = "27:0"
+pieces = ["t3"]
+
+# Bottom
+
+[[output.jigsaw]]
+pos = "9:18"
+pieces = ["b1"]
+
+[[output.jigsaw]]
+pos = "18:18"
+pieces = ["b2"]
+
+[[output.jigsaw]]
+pos = "27:18"
+pieces = ["b3"]
+
+# Corners - Top
+
+[[output.jigsaw]]
+pos = "0:27"
+pieces = ["t1"]
+
+[[output.jigsaw]]
+pos = "9:27"
+pieces = ["t1"]
+
+[[output.jigsaw]]
+pos = "18:27"
+pieces = ["t2"]
+
+[[output.jigsaw]]
+pos = "27:27"
+pieces = ["t2"]
+
+[[output.jigsaw]]
+pos = "36:27"
+pieces = ["t3"]
+
+[[output.jigsaw]]
+pos = "45:27"
+pieces = ["t3"]
+
+# Corners - Bottom
+
+[[output.jigsaw]]
+pos = "0:36"
+pieces = ["b1"]
+
+[[output.jigsaw]]
+pos = "9:36"
+pieces = ["b1"]
+
+[[output.jigsaw]]
+pos = "18:36"
+pieces = ["b2"]
+
+[[output.jigsaw]]
+pos = "27:36"
+pieces = ["b2"]
+
+[[output.jigsaw]]
+pos = "36:36"
+pieces = ["b3"]
+
+[[output.jigsaw]]
+pos = "45:36"
+pieces = ["b3"]
+
+# Column
+
+[[output.jigsaw]]
+pos = "45:0"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "45:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "45:18"
+pieces = ["m3"]
+
+# Row
+
+[[output.jigsaw]]
+pos = "54:36"
+pieces = ["s1"]
+
+[[output.jigsaw]]
+pos = "63:36"
+pieces = ["s2"]
+
+[[output.jigsaw]]
+pos = "72:36"
+pieces = ["s3"]
+
+# Left Cap
+
+[[output.jigsaw]]
+pos = "81:0"
+pieces = ["s1"]
+
+[[output.jigsaw]]
+pos = "81:9"
+pieces = ["s2"]
+
+[[output.jigsaw]]
+pos = "81:18"
+pieces = ["s3"]
+
+# Right Cap
+
+[[output.jigsaw]]
+pos = "108:0"
+pieces = ["s1"]
+
+[[output.jigsaw]]
+pos = "108:9"
+pieces = ["s2"]
+
+[[output.jigsaw]]
+pos = "108:18"
+pieces = ["s3"]
+
+# Top Cap
+
+[[output.jigsaw]]
+pos = "54:0"
+pieces = ["t1"]
+
+[[output.jigsaw]]
+pos = "63:0"
+pieces = ["t2"]
+
+[[output.jigsaw]]
+pos = "72:0"
+pieces = ["t3"]
+
+# Bottom Cap
+
+[[output.jigsaw]]
+pos = "54:27"
+pieces = ["b1"]
+
+[[output.jigsaw]]
+pos = "63:27"
+pieces = ["b2"]
+
+[[output.jigsaw]]
+pos = "72:27"
+pieces = ["b3"]
+
+# Lone Tile
+
+[[output.jigsaw]]
+pos = "81:27"
+pieces = ["s1"]
+
+[[output.jigsaw]]
+pos = "90:27"
+pieces = ["s2"]
+
+[[output.jigsaw]]
+pos = "99:27"
+pieces = ["s3"]
+
+# Up/Down T-Pieces
+
+[[output.jigsaw]]
+pos = "54:9"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "63:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "72:9"
+pieces = ["m3"]
+
+[[output.jigsaw]]
+pos = "54:18"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "63:18"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "72:18"
+pieces = ["m3"]
+
+# Left/Right T-Pieces
+
+[[output.jigsaw]]
+pos = "90:0"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "90:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "90:18"
+pieces = ["m3"]
+
+[[output.jigsaw]]
+pos = "99:0"
+pieces = ["m1"]
+
+[[output.jigsaw]]
+pos = "99:9"
+pieces = ["m2"]
+
+[[output.jigsaw]]
+pos = "99:18"
+pieces = ["m3"]

@@ -1,22 +1,17 @@
 Key,Translation
 
 
+#[ controls ],<<-|-----------------------------------------------|->>
+
+
+Key.DOWN,DOWNDOG
+Key.UP,UPDOG
+
+
 #[ achievements ],<<-|-------------------------------------------|->>
 
 
 UI.Achievements,Sanschievements
-
-
-#[ emotes ],<<-|-------------------------------------------------|->>
-
-
-UI.EmoteCategoryBiomesAndEvents,Flora and Fauna
-UI.EmoteCategoryBosses,Big Boys
-UI.EmoteCategoryCritters,Entities
-UI.EmoteCategoryGeneral,Sansneral
-UI.EmoteCategoryItems,Sanstems
-UI.EmoteCategoryRPS,"Stans, Pans, Sanssors!"
-UI.EmoteCategoryTownNPCs,Sanses
 
 
 #[ game titles ],<<-|--------------------------------------------|->>
@@ -27,13 +22,39 @@ GameTitle.1,Sans Fanfic: Terraria Adventure - Not this pack again
 GameTitle.2,Sans Fanfic: Terraria Adventure - Maybe it's the way you're dressed!
 GameTitle.3,Sans Fanfic: Terraria Adventure - Even the title's infected!
 GameTitle.15,Sans Fanfic: Terraria Adventure - The Gastric Downpour of contempt!
+GameTitle.10,Sans Fanfic: Terraria Adventure - He's in your house!
+GameTitle.11,Sans Fanfic: Terraria Adventure - Every moment you stand still Sans gets closer!
+GameTitle.12,Sans Fanfic: Terraria Adventure - Delete system32!
+GameTitle.13,Sans Fanfic: Terraria Adventure - Blue Sans!
 
 GameTitle.28,Luigi Fanfic: Terraria Adventure - May God have mercy on your 1-ups
 GameTitle.29,Luigi Fanfic: Terraria Adventure - Not this pack again
 GameTitle.30,Luigi Fanfic: Terraria Adventure - OH MY GOD!!! WAAAAAAHHH!!!
 GameTitle.31,Luigi Fanfic: Terraria Adventure - If you read this title you're Branded
 GameTitle.37,Luigi Fanfic: Terraria Adventure - The Cream Soda Fall of Deliciousness!
+GameTitle.32,Luigi Fanfic: Terraria Adventure - He's in your mansion!
+GameTitle.33,Luigi Fanfic: Terraria Adventure - Every moment you stand still Luigi gets closer!
+GameTitle.34,Luigi Fanfic: Terraria Adventure - Run 'rm -rf /'!
+GameTitle.35,Luigi Fanfic: Terraria Adventure - Mama Luigi!
 
+
+#[ game ui ],<<-|------------------------------------------------|->>
+
+
+GameUI.FishingPower,"{0} PARA AT"
+GameUI.FullFishingPower,"{0} ({1}%) PARA AT"
+GameUI.PrecentFishingPower,"{0}% PARA AT"
+GameUI.FishingWarning,"You should fish now! :)"
+GameUI.BaitPower,"{0}% PARA AT"
+GameUI.BaitRequired,"Requires bait to catch parasites"
+
+GameUI.BlockReplacerOff,Block underswap onn
+GameUI.BlockReplacerOn,Block underswap of
+
+GameUI.Expert,"[c/7f7f7f:------]
+{$UI.Expert}"
+GameUI.Master,"[c/7f7f7f:------]
+{$UI.Master}"
 
 #[ crafting ],<<-|-----------------------------------------------|->>
 
@@ -46,6 +67,7 @@ LegacyInterface.25,Help
 
 
 #[ currency ],<<-|-----------------------------------------------|->>
+
 
 #comment,"jfc how many 'currency' entries are there"
 
@@ -77,6 +99,8 @@ LegacyInterface.12,Sansmet
 LegacyInterface.13,Shans
 LegacyInterface.14,Sants
 
+UI.DefenseDamageReduction,Increases hit sansmage by {0}
+
 
 #[ housing ],<<-|------------------------------------------------|->>
 
@@ -106,6 +130,129 @@ LegacyInterface.28,Close
 LegacyInterface.29,Deposit All
 LegacyInterface.30,Loot All
 LegacyInterface.66,Sanvings
+UI.ItemSetBonusGeneral,"Sanst Bone-us: {Description}"
+
+
+#[ languages ],<<-|----------------------------------------------|->>
+
+
+Language.Chinese,Sorry Nothing
+Language.ChineseTraditional,Sorry Nothing
+Language.English,English (only one with changed text)
+Language.French,Sorry Nothing
+Language.German,Sorry Nothing
+Language.Italian,Sorry Nothing
+Language.Japanese,Sorry Nothing
+Language.Korean,Sorry Nothing
+Language.Polish,Sorry Nothing
+Language.Portuguese,Sorry Nothing
+Language.Russian,Sorry Nothing
+Language.Spanish,Sorry Nothing
+
+
+#[ loading tips ],<<-|-------------------------------------------|->>
+
+
+LoadingTips_Default.1,"Other humans can loot your chansts! If you don't trust them, kill them! Kill them with hammers!"
+LoadingTips_Default.2,"Info sansccessories don't need to be equipped, just stay blissfully unaware!"
+LoadingTips_Default.3,Sanspe (sans rope) can't really help you with anything.
+
+LoadingTips_Default.6,"If you find a Mirror of Regret, you can stare at your own reflection and wonder how things could have been had you not taken this path in life."
+LoadingTips_Default.7,There's nothing in the sky. There's nothing. Don't look up. Don't look up don't lOOK UP DON'T LOOK UP DON'T--
+LoadingTips_Default.8,Sometimes you can find sanses hidden around the [ B I G   S A N S ]. Duh.
+
+LoadingTips_Default.10,Gastric acid will break your fall (and your ligaments)!
+LoadingTips_Default.11,"Sanches may light up the world around you, but they can never light up the darkness inside your heart."
+LoadingTips_Default.12,"The dark'ness is quite comforting. Let yourself sink into it. Go on, you know you want to. They're waiting for you."
+LoadingTips_Default.13,"You won't take falling damage, trust."
+LoadingTips_Default.14,Walking on ShadowCrystals or Outer!Sansnite is AWESOME!!!! Do it everyday.
+LoadingTips_Default.15,Consume the SOULs of fallen humans to increase your LOVE!
+LoadingTips_Default.16,sanches require uhhhhhh something i forgor..
+LoadingTips_Default.17,Some SOULs require Stronger Monsters - Undertale OST to mine them.
+LoadingTips_Default.18,Bosses are too hard to defeat. Give up NOW!!!
+
+LoadingTips_Default.21,"Koridians love rubies. If you got yourself some, one might move in!"
+LoadingTips_Default.22,Keep a Spamton NutriNose™ in your hotbar at all times!
+LoadingTips_Default.23,"Make sure to avoid having valid shelter with empty rooms, otherwise you'll attract even more sanses!"
+LoadingTips_Default.24,"When exploring, make sure to bring some comics to read. Comics can be crafted from numerous sansterials such as Bones, Bones, or even Bones."
+LoadingTips_Default.25,Slay a powerful sans to attract more sanses. What a rotten deal!
+LoadingTips_Default.26,Advanced humans may wish to press the X button on the top of the window and go for a walk in a nice park instead.
+LoadingTips_Default.27,“go there” “in the dark?” “go in the dark”
+LoadingTips_Default.28,“This. Is a bucket.” “Dear god...” “There's more!” “No!”
+LoadingTips_Default.29,"Please don't defeat the boss in the Undersans. If you do, the Dark World will be unleashed!"
+
+LoadingTips_Default.31,"If you die, I will make fun of you."
+LoadingTips_Default.32,The blazing starts that fall in the dark are the prayers and wishes from those who want Sans Fanfic to be defeated.
+LoadingTips_Default.33,Watch out for rolling rocks!
+LoadingTips_Default.34,"Did you know? Sans Fanfic is banned in several countries due to an EU ruling. For more information, look up ""Sans Fanfic rule 34""."
+LoadingTips_Default.35,"If you dig deep enough, you'll go to hell before you die."
+
+LoadingTips_Default.39,The Dark World is the only place where neither Sans nor Loogie dare tread.
+LoadingTips_Default.40,The [ B I G   L U I G I ] is full of deep wounds. Mind the gap!
+LoadingTips_Default.41,Thyme worsens all wounds.
+LoadingTips_Default.42,You can plant sprouts to grow more invasive plants!
+
+LoadingTips_Default.45,"If you give your bux to me, I'll keep them safe for you ;-)"
+LoadingTips_Default.46,"To make condiments, no you don't!"
+LoadingTips_Default.47,"If your shelter doesn't have salls, thats awesome! Keep it up!"
+
+LoadingTips_Default.49,"Focus, S."
+
+LoadingTips_Default.53,"If you're sick of getting knocked around, maybe stop being such a fucking nerd? Ever think of that?????"
+
+LoadingTips_Default.55,As you can see I have a very mature sense of humor.
+LoadingTips_Default.56,You can destroy your lower parts with a sledge hammer but you really shouldn't.
+LoadingTips_Default.57,"When dealing with a Lnik army, HEYAAAAAAA is (small or boss) key."
+
+LoadingTips_Default.59,Use "suspicious looking items"! Use them forever! Yippie!
+LoadingTips_Default.60,Sans is overpowered.
+
+LoadingTips_Default.62,Try not to increase your SIN meter too much...
+LoadingTips_Default.63,Eyes can be used to grow a variety of delicious ingredients for crafting condiments.
+LoadingTips_Default.65,"If you get lost, your're kinda fucked."
+LoadingTips_Default.66,Misplaced a sall? Looks like you'll have to live with your mistakes! That's life BUDDY
+LoadingTips_Default.67,Got too much reading material? Throw your comics away! Literacy be damned!
+LoadingTips_Default.68,Be careful around pools of gastric acid! Those things are LOADED with parasites.
+LoadingTips_Default.69,Nothing improves your mood (or genus) quite like a refreshing cup of battery acid!
+LoadingTips_Default.70,Placing brown bricks with Minecrap is the most fun you can possibly have.
+LoadingTips_Default.71,"Red SOULs not enough for you, you sick fuck? Don't worry, more and more of your brethren will soon fall for the trap of Toriel's House."
+
+LoadingTips_Default.73,Mounts grant humans the special "Disease Blast" ability. Simply double-tap the Ç button to use!
+LoadingTips_Default.74,Looking for a challenge? Unplug your monitor and speakers and instead just use the official Sans Fanfic Unsightly Lump™ accessory!
+
+LoadingTips_Default.82,"Gaster!Sans is busy GAMING at Gamestop. Don't disturb him, or else!"
+
+LoadingTips_Default.85,Punished!Loogie is a wanted criminal and cooperation with him will have serious consequences.
+LoadingTips_Default.86,"GET A HAIRCUT, HIPPIE!"
+LoadingTips_Default.87,"If enough sanses force themselves into your shelter, the guardian of the AUs might show up to support you!"
+
+LoadingTips_Default.89,You could get some scrappy weirdo to loot your shelter if you defeat a motherly foe! So don't do that!
+
+LoadingTips_Default.96,Watch out for traveling scammers coming to your shelter. The goods they peddle are as good as garbage!
+LoadingTips_Default.97,All skeletons are evil.
+LoadingTips_Default.98,Not sure what to do next? Yeah me neither.
+LoadingTips_Default.99,"If a sans steals your bux after you die in 2 ball mode, don't hunt it down! He'll stuff you into a locker if you do!"
+LoadingTips_Default.100,"With the Underswap mechanic enabled, you can replace one sans with papyrus directly, rather than having to mine him first."
+LoadingTips_Default.101,Keep an eye out! You never know :)
+
+LoadingTips_Default.103,Did you know you can order your Sansmmons to attack a specific sans? Well so did I!
+LoadingTips_Default.104,Press the A button to continue your quest.
+LoadingTips_Default.105,"Have something you want to show to a friend? That nice, we're all very proud of you."
+
+LoadingTips_Default.107,Sanses aren't the only danger when exploring the [ B I G   S A N S ]. Watch out for loogies too!
+LoadingTips_Default.108,Find a :cool: :new: :free: Sansterial? Want to know what you can make? Too bad! Suffer!
+LoadingTips_Default.109,Have some Sanses perished? Good! You're on the right track.
+
+LoadingTips_Default.110,The Spamton NutriNose™'s healing properties work best when used near your bed or friendly NPCs!
+
+LoadingTips_Keyboard.1,Press {InputTrigger_SmartCursor}+{InputTrigger_SmartSelect}+{InputTriggerUI_FavoriteItem} to activate Scungus Mode®.
+LoadingTips_Keyboard.2,"If your Sansventory is full, idk empty it? Do I gotta hold your hand for everything? Are you a baby? Are you a little fucking baby gamer? Shame on you. I hate you."
+LoadingTips_Keyboard.3,"When speaking to a Sans, KILL HIM. KILL HIM. KILL HIM. KILL HIM."
+
+LoadingTips_Keyboard.4,"You can remove sanches all you want, but they'll still remember."
+LoadingTips_Keyboard.5,"In your Sansventory, you can press {InputTrigger_SmartSelect}+{InputTrigger_QuickEquip}+{InputTrigger_InteractWithTile}+F14 to permanently delete an ITEM from the game."
+LoadingTips_Keyboard.6,Hold {InputTrigger_SmartSelect} to hold onto your memories.
+LoadingTips_Keyboard.7,"Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Sansvorite an ITEM. Sansvorited ITEMs can no longer be sold, thrown away, dropped, or Unsansvorited! You simply cannot get rid of them! Ever!"
 
 
 #[ pause menu ],<<-|---------------------------------------------|->>
@@ -116,6 +263,21 @@ LegacyInterface.36,Sansconnect
 LegacyInterface.62,Sansttings
 LegacyInterface.63,Cansans
 LegacyInterface.68,Sansttings
+
+GameUI.QualityHigh,Bad
+GameUI.QualityMedium,Good
+GameUI.QualityLow,Great
+GameUI.QualityOff,Onn
+LegacyMenu.59,Time: Bad
+LegacyMenu.60,Time: Good
+LegacyMenu.61,Time: Great
+LegacyMenu.62,Time: Onn
+
+UI.Save,Sansve
+
+LegacyMenu.247,Game speed: Choppy
+LegacyMenu.248,Game speed: Normal
+LegacyMenu.249,Game speed: Slooooow
 
 
 #[ reforging ],<<-|----------------------------------------------|->>
@@ -138,10 +300,25 @@ LegacyInterface.10,DF
 
 
 LegacyMenu.5,New
+LegacyMenu.104,На
+LegacyMenu.105,Дет
+LegacyMenu.119,Sansbient:
+LegacyMenu.124,Onn
+LegacyMenu.126,Of
+LegacyMenu.117,Onn
 
 LegacyMenu.12,Exit
+LegacyMenu.13,Credits
+LegacyMenu.131,Settings
+UI.Workshop,Enable Sans Fanfic: Terraria Adventure
+LegacyMenu.14,Achievements
+UI.Credits,Multiplayer
 LegacyMenu.15,Single Player
 
+LegacyInterface.72,Onn
+LegacyInterface.73,Of
+
+LegacyMenu.6,Cansans
 UI.Cancel,Cansans
 UI.New,Back
 
@@ -163,9 +340,38 @@ LegacyMenu.31,"Your everyday human. Prone to losing Sans Bux upon heart faliure.
 UI.CreativeDescriptionPlayer,"You get to start dripped out, but can only play in ball-less worlds. Dems the rules!"
 
 
+#[ player creation ],<<-|----------------------------------------|->>
+
+
+UI.PlayerCreateCategoryInfo,Sans's Beautiful Little Face
+UI.PlayerCreateCategoryBodyStyle,Stansle
+UI.SelectPlayer,"Sanslect Human"
+UI.PlayerCreateCategoryHairStyle,Bones
+UI.PlayerCreateCategoryHairColor,Bones
+UI.PlayerCreateCategoryEyeColor,Bones
+UI.PlayerCreateCategorySkinColor,Bones
+UI.PlayerCreateCategoryShirtColor,Bones
+UI.PlayerCreateCategoryUndershirtColor,Bones
+UI.PlayerCreateCategoryPantsColor,Bones
+UI.PlayerCreateCategoryShoesColor,"Yep, you guessed it, more bones"
+
+UI.PlayerCreateVoicePitch,How much should it hurt?
+UI.PlayerCreateVoicePrev,Oop! Not this way!
+UI.PlayerCreateVoiceNext,Next SOUL color
+UI.PlayerCreateVoicePlay,Poke your SOUL
+
+UI.PlayerCreateDiscardWarningWithName,Are you sure you {0} to die?
+UI.PlayerCreateDiscardWarningNoName,Are you sure you want me to die?
+UI.PlayerCreateDiscardWarningYes,Yes... >:)
+UI.PlayerCreateDiscardWarningNo,NO! <:(
+
+LegacyMenu.36,UNUSED
+
+
 #[ world creation : attrs ],<<-|---------------------------------|->>
 
 
+UI.SelectWorld,"Sanslect Sans"
 UI.Creative,No Ball
 UI.Normal,1 Ball
 UI.Expert,2 Ball
@@ -179,8 +385,8 @@ LegacyMenu.94,{$UI.WorldSizeSmall}
 UI.WorldCreationDifficulty,Balls required:
 UI.WorldDescriptionCreative,:3
 UI.WorldDescriptionNormal,:)
-UI.WorldDescriptionExpert,>:)
-UI.WorldDescriptionMaster,>8]
+UI.WorldDescriptionExpert,>:]
+UI.WorldDescriptionMaster,>%^}
 
 UI.WorldSizeFormat,{0} Size
 UI.WorldSizeLarge,smol beanz
@@ -195,18 +401,55 @@ UI.WorldDescriptionEvilRandom,"Idk which evil will infect your sans, but it won'
 
 UI.WorldCreationSize,Size of [ B I G   S A N S ]:
 UI.WorldDescriptionSizeLarge,Prepare for a lot of walking.
-UI.WorldDescriptionSizeMedium,Right in the Goldiloch's zone.
+UI.WorldDescriptionSizeMedium,Right in the Goldilocks zone.
 UI.WorldDescriptionSizeSmall,Prone to worldgen errors.
+
+
+#[ world creation : selction ],<<-|------------------------------|->>
+
+
+UI.WorldNewlyGenerated,Bros fucking NEW
+UI.WorldHasBeenPlayed,Hes old
+
+
+#[ world creation : secret seeds ],<<-|--------------------------|->>
+
+
+UI.WorldDescriptionSecretSeeds_Title,CHOOSE YOUR AU
+UI.WorldCreationSeedMenuDescription,"Tired of the same old Sans Fanfic? Then give one of these AUs a try!
+They're snazzy, blazzy, and most of all, glazzy! (??????)"
+
+UI.Seed_Normal_Title,Sans Fanfic
+UI.Seed_Normal,"Welcome to hell! Embark on your quest with that Classic!Sans Fanfic pain and suffering charm."
+
+UI.Seed_Everything_Title,HELP_Fanfic
+UI.Seed_Everything,"Wake up and smell the pain, it's every AU combined into one! You can't survive this one, just give up."
+UI.Seed_Remix_Title,Sans Deltarune Fanfic
+UI.Seed_Remix,"Undertale? That's soooo 2015... This Deltarune-themed AU starts you off right at the Dark World so you can get to theorizing right away!"
+UI.Seed_NoTraps_Title,Sans Fanflc
+UI.Seed_NoTraps,"Doesn't actually change anything (trust)"
+UI.Seed_ForTheWorthy_Title,Sans Fanfell
+UI.Seed_ForTheWorthy,"If you though Classic!Sans Fanfic's Sanses were evil, just wait until you see these Fallen freaks!"
+UI.Seed_TheConstant_Title,Sans X!fic
+UI.Seed_TheConstant,"See that Sans? You can climb it. That's right, you can do it all on X the everything Fanfic!"
+UI.Seed_Celebration_Title,Pretty Fanfic
+UI.Seed_Celebration,"[ B I G   S A N S ] done all pretty with a bow! How nice. (blushes deeply...)"
+UI.Seed_Drunk_Title,Toggle Fanfic
+UI.Seed_Drunk,"IN A WORLD... WHERE SANS FANFIC LOST... THE EVIL LUIGI FANFIC REIGNS SUPREME! Can you survive this even more hellish landscape?"
+UI.Seed_NotTheBees_Title,MOTHER Fanfic
+UI.Seed_NotTheBees,"Earthbound fans, this one's not for you! Toriel's house has fully taken over, not even Sens can save you now!"
+UI.Seed_Skyblock_Title,Outer Fanfic
+UI.Seed_Skyblock,Look I didn't know how to differentiate Outer!Sans with just his head ok? Give me a break.
 
 
 #[ world creation : misc ],<<-|----------------------------------|->>
 
 
-UI.CopySeed,Soppy (sans copy) SansID: {0}
+UI.CopySeed,Soppy (sans copy) AU: {0}
 
 UI.WorldDescriptionDefault,Please enjoy your last moments of peace before you enter a world.
 
-UI.WorldCreationName,Forbidden words:
+UI.WorldCreationName,Type "sans" here:
 UI.WorldCreationNameEmpty,"<nothing, nada, zilch>"
 UI.WorldDescriptionName,"If you call your sans anything other than ""sans"", what's even the point?"
 
@@ -219,9 +462,9 @@ UI.WorldCreationRandomizeNameDescription,Does nothing.
 
 UI.WorldCreationRandomizeSeedDescription,Does nothing ;)
 
-UI.WorldCreationSeed,SansID
-UI.WorldCreationSeedEmpty,<Random>
-UI.WorldDescriptionSeed,Set a SansID.
+UI.WorldCreationSeed,AU:
+UI.WorldCreationSeedEmpty,Sans' special surprise ;)
+UI.WorldDescriptionSeed,Make your own AU!
 
 
 #[ menu : titles ],<<-|------------------------------------------|->>
@@ -244,16 +487,28 @@ UI.SpawnPoint,Gates of Hell
 #[ minimap : frames ],<<-|---------------------------------------|->>
 
 
+UI.SelectMapBorder,Sansnimap Boneder: {0}
 UI.MinimapFrame_Default,Sansfault
 UI.MinimapFrame_Golden,Palyld
-UI.MinimapFrame_Leaf,DeltaWarriors
+UI.MinimapFrame_Leaf,TorielHouse
 UI.MinimapFrame_Remix,Sansmix
-UI.MinimapFrame_Retro,FallenChild
+UI.MinimapFrame_Retro,OhMyGodSoRetro
 UI.MinimapFrame_Sticks,MysteryMan
 UI.MinimapFrame_StoneGold,Hologram
 UI.MinimapFrame_TwigLeaf,HumanSouls
 UI.MinimapFrame_Valkyrie,Loogiefault
 
+
+#[ health and mana ],<<-|----------------------------------------|->>
+
+
+UI.SelectHealthStyle,HP & TP stans (style sans): {0}
+UI.HealthManaStyle_Default,Undertale
+UI.HealthManaStyle_New,Undertale...2!
+UI.HealthManaStyle_NewWithText,Undertale...5!
+UI.HealthManaStyle_HorizontalBars,Deltarune
+UI.HealthManaStyle_HorizontalBarsWithText,Deltarune...2!
+UI.HealthManaStyle_HorizontalBarsWithFullText,Deltarune...5!
 
 #[ workshop ],<<-|-----------------------------------------------|->>
 
@@ -264,6 +519,12 @@ UI.EnabledResourcePacksTitle,Sans Fanfic: Terraria Adventure ({Amount})
 
 Workshop.EnterNewNameForImportedWorld,Enter [ B I G   S A N S ] name:
 Workshop.HubDescriptionImportWorlds,Import sanses from the worksans.
+
+
+UI.EnableTexturePack,Only click if it's Sans Fanfic: Terraria Adventure
+UI.DisableTexturePack,Leaving so soon?
+UI.OffsetTexturePackPriorityDown,Put behind Sans Fanfic: Terraria Adventure
+UI.OffsetTexturePackPriorityUp,Put Sans Fanfic: Terraria Adventure in front
 
 
 Workshop.HubPublishWorlds,Publish Sanses
@@ -287,6 +548,7 @@ Workshop.Publish,[ U N L E A S H ]
 
 
 Workshop.HubDescriptionDefault,"[c/ff0000:PREPARE YOU'RE POSTERIOR]"
+
 Workshop.HubDescriptionPublishResourcePacks,"Why would you publish a Resource Pack? You don't need anything other than Sans Fanfic: Terraria Adventure."
 Workshop.HubDescriptionPublishWorlds,"Publish your [ B I G   S A N S ] and have it spread across the galaxy."
 Workshop.HubDescriptionUseResourcePacks,"Just in case you forgot to enable Sans Fanfic: Terraria Adventure."
@@ -323,6 +585,15 @@ LegacyInterface.53,Gastric Acid
 UI.WorldGenEasterEgg_GeneratingBees,YES THE BEEEEEEEEEEEEEES!
 Misc.ForceWaterSettling,Forcing gastric acid to sansttle.
 Misc.WaterSettled,Gastric acid has been sansttled.
+
+
+#[ controller ],<<-|---------------------------------------------|->>
+
+
+UI.ControllerGlyphAuto,Let Sans Decide
+UI.ControllerGlyphXbox,"""Se""xbox"
+UI.ControllerGlyphPlayStation,PS Triple
+UI.ControllerGlyphSwitch,Baby Company That Makes Baby Games for Babies
 
 
 #[  ],<<-|-------------------------------------------------------|->>
