@@ -1,0 +1,475 @@
+Key,Translation
+# content,"Decorative/functional furniture items + related building blocks and items"
+
+MapObject.Chair,Sair
+MapObject.Chandelier,Sansdelier
+MapObject.Door,Door (but sans)
+MapObject.FloorLamp,Samp
+MapObject.Lantern,Sanstern
+MapObject.Sink,Sank (sans sink)
+MapObject.Table,Sansble
+MapObject.Toilet,Dispatch Hatch
+
+
+# decorative::bamboo,-----------------------------------------------------------
+
+ItemName.BambooBlock,Tooth Stack
+ItemName.BambooBlockWall,Tooth Stack Sall
+ItemName.BambooPlatform,Tooth Stack Comic
+ItemName.BambooWorkbench,Tooth Stack Work Bans (bench sans)
+
+ItemName.LargeBambooBlock,Tooth Array
+ItemName.LargeBambooBlockWall,Tooth Array Sall
+
+ItemName.BambooBathtub,Tooth Stack Badtub
+ItemName.BambooBed,Tooth Stack Bad
+ItemName.BambooBookcase,Tooth Stack Copy-of-UNDERTALEcase
+ItemName.BambooCandelabra,Tooth Stack Sansdelabra
+ItemName.BambooCandle,Tooth Stack Sansdle
+ItemName.BambooChair,Tooth Stack Sair
+ItemName.BambooChandelier,Tooth Stack Sansdelier
+ItemName.BambooChest,Tooth Stack Chanst (sans chest)
+ItemName.BambooClock,Tooth Stack Sock (sans clock)
+ItemName.BambooDoor,Tooth Stack Door
+ItemName.BambooDresser,Tooth Stack Sansser
+ItemName.BambooFence,Tooth Stack Sance (sans fence)
+ItemName.BambooLamp,Tooth Stack Samp
+ItemName.BambooLantern,Tooth Stack Sanstern
+ItemName.BambooPiano,Tooth Stack Pans
+ItemName.BambooSink,Tooth Stack Sansk
+ItemName.BambooSofa,Tooth Stack Sansfa
+ItemName.BambooTable,Tooth Stack Sansble
+ItemName.BambooToilet,Tooth Stack Dispatch Hatch
+
+
+# decorative::boreal wood,------------------------------------------------------
+
+ItemName.BorealWood,Dense Thyme
+
+
+# decorative::cactus,-----------------------------------------------------------
+
+ItemName.Cactus,Petrified Growth
+ItemName.CactusPlatform,Petrified Growth Comic
+ItemName.CactusWall,Petrified Growth Sall
+
+ItemName.CactusBathtub,Petrified Growth Badtub
+ItemName.CactusBed,Petrified Growth Bad
+ItemName.CactusBookcase,Petrified Growth Copy-of-UNDERTALEcase
+ItemName.CactusCandelabra,Petrified Growth Sansdelabra
+ItemName.CactusCandle,Petrified Growth Sansdle
+ItemName.CactusChair,Petrified Growth Sair
+ItemName.CactusChandelier,Petrified Growth Sansdelier
+ItemName.CactusChest,Petrified Growth Chanst (sans chest)
+ItemName.CactusClock,Petrified Growth Sock (sans clock)
+ItemName.CactusDoor,Petrified Growth Door
+ItemName.CactusDresser,Petrified Growth Sansser
+ItemName.CactusLamp,Petrified Growth Samp
+ItemName.CactusLantern,Petrified Growth Sanstern
+ItemName.CactusPiano,Petrified Growth Pans
+ItemName.CactusSink,Petrified Growth Sansk
+ItemName.CactusSofa,Petrified Growth Sansfa
+ItemName.CactusTable,Petrified Growth Sansble
+ItemName.CactusWorkBench,Petrified Growth Work Bans
+
+ItemName.ToiletCactus,Petrified Growth Dispatch Hatch
+ItemTooltip.ToiletCactus,"'This one doesn't even have a hole, its just decorative'"
+
+
+# decorative::ebonwood,---------------------------------------------------------
+
+ItemName.Ebonwood,Better Cauli
+ItemName.EbonwoodPlatform,Better Cauli Comic
+ItemName.EbonwoodWall,Better Caul Sall
+
+ItemName.EbonwoodBathtub,Better Cauli State-Of-The-Art-High-Tech Badtub
+ItemName.EbonwoodBed,Better Cauli Mega Luxury Gargantuan Emperor Size Bad
+ItemName.EbonwoodBookcase,Better Cauli Copy-Of-New-Super-Luigi-Ucase
+ItemName.EbonwoodCandelabra,Better Cauli Dark Rose Gold Desk Lamp-Style Sansdelabra
+ItemName.EbonwoodCandle,Better Cauli Overpriced Flower-Shaped Sansdle
+ItemName.EbonwoodChair,Better Cauli Red Velvet Sair (sans chair)
+ItemName.EbonwoodChandelier,Better Cauli 16K Karat Diamond-Crested Sansdelier
+ItemName.EbonwoodChest,Better Cauli Novelty Lock Chanst (sans chest)
+ItemName.EbonwoodClock,Better Cauli Modern Shelf With Digital Sock (sans clock)
+ItemName.EbonwoodDoor,Better Cauli Engraved Red-Green Velvet With Gold Pushbar Door
+ItemName.EbonwoodDresser,Better Cauli Weirdly Wavy And Impractical Sansser Because That's Fancy Apparently
+ItemName.EbonwoodFence,Curtains For The Better Cauli Mega Luxury Gargantuan Emperor Size Bad
+ItemName.EbonwoodLamp,"Better Cauli ""This Is Clearly A Sansdle???"" Samp"
+ItemName.EbonwoodLantern,"Better Cauli ""Design Based Off An Image From Google Images"" Sanstern"
+ItemName.EbonwoodPiano,Better Cauli Open Concept Pans
+ItemName.EbonwoodSink,Better Cauli Ultramodern Sank
+ItemName.EbonwoodSofa,Better Cauli Diva Lounge Sansfa
+ItemName.EbonwoodTable,Better Cauli Expensive Buffet Sansble
+ItemName.EbonwoodWorkBench,"Better Cauli ""Better Than Bad Thyme"" Work Bans (bench sans)"
+ItemName.ToiletEbonyWood,"Better Cauli Smart Dispatch Hatch"
+
+
+# decorative::granite,----------------------------------------------------------
+
+ItemName.Granite,Grans
+
+
+# decorative::honey,------------------------------------------------------------
+
+ItemName.HoneyBlock,Coagulated Battery Acid
+ItemName.CrispyHoneyBlock,Gohst Sauce Block
+ItemName.HoneyPlatform,Car Exhaust Comic
+ItemName.HoneyWorkBench,Automotive Work Bans (bench sans)
+
+ItemName.HoneyBathtub,Automotive Badtub
+ItemName.HoneyBed,Automotive Bad
+ItemName.HoneyBookcase,Automotive Copy-of-UNDERTALEcase
+ItemName.HoneyCandelabra,Automotive Sansdelabra
+ItemName.HoneyCandle,Automotive Sansdle
+ItemName.HoneyChair,Automotive Sair
+ItemName.HoneyChandelier,Automotive Sansdelier
+ItemName.HoneyChest,Automotive Chanst (sans chest)
+ItemName.HoneyClock,Automotive Sock (sans clock)
+ItemName.HoneyDoor,Automotive Door
+ItemName.HoneyDresser,Automotive Sansser
+ItemName.HoneyLamp,Automotive Samp
+ItemName.HoneyLantern,Automotive Sanstern
+ItemName.HoneyPiano,Automotive Pans
+ItemName.HoneySink,Automotive Sansk
+ItemName.HoneySofa,Automotive Sansfa
+ItemName.HoneyTable,Automotive Sansble
+ItemName.ToiletHoney,Automotive Dispatch Hatch
+
+
+# decorative::ice,--------------------------------------------------------------
+
+ItemName.IceBlock,Hypersans Block
+ItemName.IceEcho,Hypersans Sall
+
+
+# decorative::lihzahrd,---------------------------------------------------------
+
+# comment,"Statues are in statues::decorative"
+
+ItemName.LihzahrdBrick,Forsaken Cauli
+ItemName.LihzahrdBrickWall,Forsaken Caul Sall
+ItemName.LihzahrdWorkBench,Forsaken Work Bans (bench sans)
+ItemName.LihzahrdPlatform,Forsaken Comic
+
+ItemName.LihzahrdBathtub,Forsaken Badtub
+ItemName.LihzahrdBed,Forsaken Operation Sansble
+ItemName.LihzahrdBookcase,Forsaken Copy-of-Luigi's Mansioncase
+ItemName.LihzahrdCandle,Forsaken Sansdle
+ItemName.LihzahrdCandelabra,Forsaken Sansdelabra
+ItemName.LihzahrdChair,Forsaken Sair
+ItemName.LihzahrdChandelier,Forsaken Sansdelier
+ItemName.LihzahrdChest,Forsaken Chanst (sans chest)
+ItemName.LihzahrdClock,Forsaken Sock (sans clock)
+ItemName.LihzahrdDoor,Forsaken Door
+ItemName.LihzahrdDresser,Forsaken Sansser...?
+ItemName.LihzahrdLamp,Forsaken Samp
+ItemName.LihzahrdLantern,Forsaken Sanstern
+ItemName.LihzahrdPiano,Forsaken “Furniture”
+ItemName.LihzahrdSink,Forsaken Emergency Eyewash Station
+ItemName.LihzahrdSofa,Forsaken Sansfa
+ItemName.LihzahrdTable,Forsaken Sansble
+ItemName.ToiletLihzhard,Forsaken World's Cleanest Urinal
+
+
+# decorative::living wood,------------------------------------------------------
+
+MapObject.LivingWood,[ L I V I N G   S A N S ]
+
+
+# decorative::marble,-----------------------------------------------------------
+
+ItemName.Marble,Mars
+
+
+# decorative::mushroom,---------------------------------------------------------
+
+ItemName.Mushroom,Sanshroom
+
+
+# decorative::pearlwood,--------------------------------------------------------
+
+ItemName.Pearlwood,Cyber Thyme
+ItemName.PearlwoodPlatform,Cyber Thyme Comic
+ItemName.PearlwoodWall,Cyber Thyme Sall
+
+ItemName.PearlwoodBathtub,Cyber Thyme Badtub
+ItemName.PearlwoodBed,Cyber Thyme Bad
+ItemName.PearlwoodBookcase,Cyber Thyme Copy-of-UNDERALEcase
+ItemName.PearlwoodCandelabra,Cyber Thyme Sansdelabra
+ItemName.PearlwoodCandle,Cyber Thyme Sansdle
+ItemName.PearlwoodChair,Cyber Thyme Sair (sans chair)
+ItemName.PearlwoodChandelier,Cyber Thyme Sansdelier
+ItemName.PearlwoodChest,Cyber Thyme Chanst (sans chest)
+ItemName.PearlwoodClock,Cyber Thyme Sock (sans clock)
+ItemName.PearlwoodDoor,Cyber Thyme Door
+ItemName.PearlwoodDresser,Cyber Thyme Sansser
+ItemName.PearlwoodFence,Cyber Thyme Bad
+ItemName.PearlwoodLamp,Cyber Thyme Samp
+ItemName.PearlwoodLantern,Cyber Thyme Sanstern
+ItemName.PearlwoodPiano,Cyber Thyme Sansmophone
+ItemName.PearlwoodSink,Cyber Thyme Sank
+ItemName.PearlwoodSofa,Cyber Thyme Sansfa
+ItemName.PearlwoodTable,Cyber Thyme Sansble
+ItemName.PearlwoodWorkBench,Cyber Thyme Work Bans (bench sans)
+ItemName.ToiletPearlwood,Cyber Thyme Inconsistently Shaded Dispatch Hatch
+
+LegacyChestType.9,{$ItemName.PearlwoodChest}
+LegacyDresserType.3,{$ItemName.PearlwoodDresser}
+
+
+# decorative::rich mahogany,----------------------------------------------------
+
+ItemName.RichMahogany,Homely Fungus
+ItemName.RichMahoganyPlatform,Homely Comic
+ItemName.RichMahoganyWall,Homely Sall
+ItemName.RichMahoganyBeam,Homely Seam (sans beam)
+
+ItemName.RichMahoganyBathtub,Homely Badtub
+ItemName.RichMahoganyBed,Homely Bad
+ItemName.RichMahoganyBookcase,Homely Copy-of-UNDERTALEcase
+ItemName.RichMahoganyCandelabra,Homely Sansdelabra
+ItemName.RichMahoganyCandle,Homely Sansdle
+ItemName.RichMahoganyChair,Homely Sair
+ItemName.RichMahoganyChandelier,Homely Sansdelier
+ItemName.RichMahoganyChest,Homely Chanst (sans chest)
+ItemName.RichMahoganyClock,Homely Potted Plant That Somehow Tells the Time
+ItemName.RichMahoganyDoor,Homely Door
+ItemName.RichMahoganyDresser,Homely Sansser
+ItemName.RichMahoganyFence,Homely Sance (sans fence)
+ItemName.RichMahoganyLamp,Homely Sasnsp
+ItemName.RichMahoganyLantern,Homely Sanstern
+ItemName.RichMahoganyPiano,Homely Pans
+ItemName.RichMahoganySink,Homely Sansk
+ItemName.RichMahoganySofa,Homely Sansfa
+ItemName.RichMahoganyTable,Homely Sansble
+ItemName.RichMahoganyWorkBench,Homely Work Bans (bench sans)
+ItemName.ToiletRichMahogany,Homely Dispatch Hatch
+
+
+# decorative::snow,-------------------------------------------------------------
+
+ItemName.SnowBlock,Snans (snow sans)
+
+
+# decorative::wood,-------------------------------------------------------------
+
+ItemName.Wood,Bad Thyme
+ItemName.WoodPlatform,Bad Thyme Comic
+ItemName.WoodWall,Bad Thyme Sall
+ItemName.WoodenBeam,Bone Seam (sans beam)
+
+ItemName.Bed,Bad Thyme Bad
+ItemName.Chest,Chanst (sans chest)
+ItemName.Dresser,Bad Thyme Sansser
+ItemName.GrandfatherClock,Bad Thyme Sock (sans clock)
+ItemName.WoodenChair,Bad Thyme Sair (sans chair)
+ItemName.WoodenDoor,Bad Thyme Door
+ItemName.WoodenFence,Bad Thyme Sance (sans fence)
+ItemName.WoodenSink,Bad Thyme Sank (sans sink)
+ItemName.WoodenTable,Bad Thyme Sansble (sans table)
+
+ItemName.WorkBench,Bad Thyme Work Bans (bench sans)
+ItemTooltip.WorkBench,"Used for sansic crafting"
+
+LegacyDresserType.0,Bad Thyme Sansser
+
+
+# functional::campfires,--------------------------------------------------------
+
+ItemName.Campfire,Campsans
+ItemName.JungleCampfire,Toriel's Camphouse
+ItemTooltip.Campfire,"When near a campsans: [c/00ff7f:HP regen ↗]"
+ItemTooltip.JungleCampfire,"{ItemTooltip.Campfire}"
+
+
+# functional::crafting stations,------------------------------------------------
+
+ItemName.Furnace,Sansnace
+ItemTooltip.Furnace,"Used to process SOULs into bars"
+
+ItemName.IronAnvil,Iriel Sansvil
+ItemName.LeadAnvil,Toriad Sansvil
+ItemTooltip.IronAnvil,"Used to forge bars into sweapons (sans weapons)"
+ItemTooltip.LeadAnvil,"{$ItemTooltip.IronAnvil}"
+MapObject.Anvil,Sansvil
+
+ItemName.Sawmill,Sansmill
+ItemTooltip.Sawmill,"Used for advanced thyme crafting"
+
+ItemName.ImbuingStation,Coffee Machine
+ItemTooltip.ImbuingStation,"Used to brew new and exciting kinds of caffeine products™"
+
+ItemName.HoneyDispenser,Automotive Workshop
+ItemName.LihzahrdFurnace,G-00 Formation Chamber
+ItemTooltip.HoneyDispenser,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.HoneyBlock}"
+ItemTooltip.LihzahrdFurnace,"{$CommonItemTooltip.SpecialCrafting}{$ItemName.LihzahrdBrick}"
+
+
+# functional::pylons,-----------------------------------------------------------
+
+ItemName.TeleportationPylonJungle,"Toriel's House Sanslon"
+ItemTooltip.TeleportationPylonJungle,"{$CommonItemTooltip.TeleportationPylon}
+[c/7f7f7f:------]
+""Every iteration of [c/ff0000:Sans Fanfic] requires an iteration of
+[c/0000ff:Toriel's House]. [...] Oddly, it seems the walpaper lining
+the [ B I G   S A N S ] in this iteration is a very aggressive fungus.""
+- WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
+
+ItemName.TeleportationPylonPurity,"Sansface Sanslon"
+ItemTooltip.TeleportationPylonPurity,"{$CommonItemTooltip.TeleportationPylon}
+[c/7f7f7f:------]
+""The Sansface (sans surface) is the sufrace of the [ B I G   S A N S ],
+and is the most common biome of [c/ff0000:Sans Fanfic] [...]""
+- WD!Alphys, Exploration of [c/ff0000:Sans Fanfic]'s Biomes"
+
+MapObject.TeleportationPylon,Sansleportation Sanslon
+
+
+# functional::ropes,------------------------------------------------------------
+
+# comment,"Look, Gordon! Ropes!"
+# comment,"Beware, Brother! Lines!"
+
+ItemName.Rope,Sanspe (sans rope)
+ItemTooltip.RopeCoil,"Throw to create a climbable line of {$ItemName.Rope}!"
+
+ItemName.RopeCoil,{$ItemName.Rope} Soil (sans coil)
+ProjectileName.RopeCoil,{$ItemName.RopeCoil}
+
+
+# functional::storage,----------------------------------------------------------
+
+ItemName.PiggyBank,Piggy!Sans
+ItemName.MoneyTrough,Hot Cat
+ItemTooltip.PiggyBank,"He's a tough boy, treat him like one of your ITEMs"
+ItemTooltip.MoneyTrough,"Sansmmons a lil' Sansy to store your ITEMs"
+ProjectileName.FlyingPiggyBank,Lil' Sansy
+
+ItemName.IvyChest,Toy Chanst (sans chest)
+LegacyChestType.10,"{$ItemName.IvyChest}"
+
+
+# functional::torches,----------------------------------------------------------
+
+ItemName.Torch,Sanch (sans torch)
+ItemName.JungleTorch,Toriel's Houch (house torch)
+
+
+# functional::unique,-----------------------------------------------------------
+
+ItemTooltip.DD2ElderCrystal,"Place in the Brandshroom Stand to summon Luigian Portals"
+ItemTooltip.DD2ElderCrystalStand,"Holds the Brandshroom"
+
+
+# functional::wiring::inputs,---------------------------------------------------
+
+ItemName.LihzahrdPressurePlate,Forsaken LEGO Brick
+ItemTooltip.LihzahrdPressurePlate,"Something bad's bound to happen if you step on it!
+'Ah, the Goo Legoo...'"
+
+
+# functional::wiring::outputs,--------------------------------------------------
+
+ItemName.ActiveStoneBlock,Sansctive Stans
+ItemName.InactiveStoneBlock,Sansnactive Stans
+ItemName.PixelBox,Sans Eye Box
+ItemTooltip.PixelBox,"Turns off from sansrizontal sansgnals
+Turns on from sanstical sansgnals"
+
+ItemName.BeeHive,Remote Spawner
+ProjectileName.BeeHive,{$ItemName.BeeHive}
+MapObject.BeeHive,"{$ItemName.BeeHive}"
+
+ItemName.SpearTrap,Speedy Googi
+ItemName.SpikyBallTrap,Toothy Googi
+ItemName.SuperDartTrap,Bullshit Background-Colored 'Stachy Googi
+ItemName.FlameTrap,Snotty Googi
+ProjectileName.SpearTrap,{$ItemName.SpearTrap}
+ProjectileName.SpikyBallTrap,Gooey Tooth
+ProjectileName.PoisonDartTrap,Bullshit Background-Colored 'Stache
+ProjectileName.FlamesTrap,Snot
+ItemName.WoodenSpike,Googi Growth
+MapObject.Trap,Yummy Treats!!!
+
+
+# paintings,--------------------------------------------------------------------
+
+# comment,"3x3 paintings go in Items_TradingCards"
+
+ItemName.GoblinsPlayingPoker,The Fanfic
+ItemName.Dryadisque,Luigisque
+ItemName.DoNotStepontheGrass,Days Gone By
+ItemName.QueenOfBees,MY CHILD
+ItemName.PaintingItsScragglinTime,I can be Your angle....or Yuor Devil
+ItemTooltip.GoblinsPlayingPoker,"By SansFanfic!Sans
+'Love wins'"
+ItemTooltip.Dryadisque,"By Loodvig von Shroom
+'Average Loogie'"
+ItemTooltip.DoNotStepontheGrass,"'Recovered from a Classic timeline (Pre-Plan Era)'
+'Things used to be good'"
+ItemTooltip.QueenOfBees,"BY ME YOURE MOM ]: )
+'MY CHILD YOU ARE BREAKING MY [c/ff0000:HEART]'"
+ItemTooltip.PaintingItsScragglinTime,"[c/ffff00:::EXPLICIT PURPOSE::'recurring scenery';'evil mode';'hehe']"
+
+# plants,-----------------------------------------------------------------------
+
+ItemName.Sunflower,Echo Flower
+
+ItemName.PottedJungleBamboo,Potted Toothy Toriel
+ItemName.PottedJungleCedar,Potted Brambly Toriel
+ItemName.PottedJunglePalm,Potted Hollow Toriel
+ItemName.PottedJungleTree,Potted Handy Toriel
+
+MapObject.Sapling,Thyme Sprout
+MapObject.Tree,Bad Thyme
+MapObject.Thorn,Toriel's Furniture
+MapObject.Thorns,Tendrils
+
+
+# rubble,-----------------------------------------------------------------------
+
+MapObject.Pot,Treasurehead
+
+
+# statues,----------------------------------------------------------------------
+
+MapObject.Statue,Stanstue
+
+
+# statues::critters,------------------------------------------------------------
+
+ItemName.FrogStatue,Pog Stanstue
+ItemName.BuggyStatue,Moldbug Stanstue
+ItemName.MacawStatue,Mini Sans Stanstue
+ItemName.ToucanStatue,{$NPCName.Toucan} Stanstue
+ItemName.CockatielStatue,{$NPCName.YellowCockatiel} Stanstue
+
+
+# statues::decorative,----------------------------------------------------------
+
+ItemName.AngelStatue,Sansgel Stanstue
+
+ItemName.LihzahrdStatue,Loogie Vat
+ItemName.LihzahrdGuardianStatue,Bursting Vat
+ItemName.LihzahrdWatcherStatue,Gohst Vat
+
+
+# statues::enemies,-------------------------------------------------------------
+
+ItemName.BatStatue,Sancoo Stanstue
+ItemName.BombStatue,SnowSpam Stanstue
+ItemName.CorruptStatue,Loominal Stanstue
+ItemName.EyeballStatue,Judgement Stanstue
+ItemName.GoblinStatue,Lnik Stanstue
+ItemName.HarpyStatue,Blaster Rider Stanstue
+ItemName.HornetStatue,Gohst Stanstue
+ItemName.ImpStatue,Spade Stanstue
+ItemName.PiranhaStatue,"Pathetic, Miserable Little Stanstue"
+ItemName.SlimeStatue,Slans Stanstue
+ItemName.SkeletonStatue,Fallen Sans Stanstue
+
+
+# statues::fountains,-----------------------------------------------------------
+
+CommonItemTooltip.Fountain,"Alters the characteristics of nearby gastric acid"
+ItemName.JungleWaterFountain,Moldy Gastric Acid Fountsans

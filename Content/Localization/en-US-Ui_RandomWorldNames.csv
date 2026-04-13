@@ -1,8 +1,8 @@
 Key,Translation
+# comment,"All RandomWorldName* entries (there are a lot of them)"
 
 
-#[ location ],<<-|-----------------------------------------------|->>
-
+# location,---------------------------------------------------------------------
 
 RandomWorldName_Location.Abode,Sans
 RandomWorldName_Location.Abyss,Sans
@@ -382,8 +382,7 @@ RandomWorldName_Location.Yeet,Sans
 RandomWorldName_Location.Zone,Sans
 
 
-#[ noun ],<<-|---------------------------------------------------|->>
-
+# noun,-------------------------------------------------------------------------
 
 RandomWorldName_Noun.Ability,Sans
 RandomWorldName_Noun.Absurdity,Sans

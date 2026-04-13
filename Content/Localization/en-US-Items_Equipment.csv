@@ -1,0 +1,405 @@
+Key,Translation
+#content,"Any item that goes in an Armor, Accessory or Equipment slot"
+
+
+# accessories::damage,----------------------------------------------------------
+
+ItemName.DestroyerEmblem,Sanstroyer Emblem
+ItemTooltip.DestroyerEmblem,"[c/ff0000:+10% AT]"
+
+ItemName.EyeoftheGolem,Nice of the GOOGI
+ItemTooltip.EyeoftheGolem,"[c/ff0000:+10% CRIT]
+'Nice as in, the plural of nouse'"
+
+
+# accessories::mage,------------------------------------------------------------
+
+ItemName.NaturesGift,Bad Eye
+ItemTooltip.NaturesGift,"[c/ff0000:-6% TP cost]"
+
+
+# accessories::melee,-----------------------------------------------------------
+
+ItemName.FeralClaws,Motherly Claws
+ItemTooltip.FeralClaws,"[c/ff0000:+12% MLE AT]
+[c/00ff00:+MLE Auto swans (swing sans)]"
+
+
+# accessories::resource gain,---------------------------------------------------
+
+ItemName.BandofRegeneration,HP Ring
+ItemTooltip.BandofRegeneration,"[c/00ff7f:HP Regen ↗]"
+
+ItemName.ShinyStone,Assimilation Core
+ItemTooltip.ShinyStone,"While standing still: [c/00ff7f:HP Regen ↗↗↗]
+'Thats [ B I G   L U I G I ] to you, Mario!'"
+
+
+# accessories::summoner,--------------------------------------------------------
+
+ItemName.PygmyNecklace,Forsaken Charm
+ItemTooltip.PygmyNecklace,"[c/00ff00:+1 SMN]"
+
+ItemName.HerculesBeetle,Drip Snail
+ItemTooltip.HerculesBeetle,"[c/ff0000:+15% SMN AT]
+[c/ff0000:SMN KB ↗]"
+
+
+# accessories::tree::ankh shield,-----------------------------------------------
+
+ItemName.Bezoar,Exorcism Cross
+ItemName.AdhesiveBandage,Snake Oil
+ItemName.MedicatedBandage,Ghost Oil
+ItemTooltip.Bezoar,"Prevents you from getting Spook'd"
+ItemTooltip.AdhesiveBandage,"Stops Rapid Growth (I swear)"
+ItemTooltip.MedicatedBandage,"Prevents Spook'd and Rapid Growth"
+
+
+# accessories::tree::celestial shell,-------------------------------------------
+
+ItemName.SunStone,Flush Stans (stone sans)
+ItemTooltip.SunStone,"Sansproves a bunch of stuff if you make someone blush"
+
+
+# accessories::tree::pda,-------------------------------------------------------
+
+ItemName.CopperWatch,Gastter Cheap Happy Meal Watch
+ItemName.TinWatch,Gastin Cheap Happy Meal Watch
+ItemName.SilverWatch,Sansver Expensive Happy Meal Watch
+ItemName.TungstenWatch,Tungsans Expensive Happy Meal Watch
+ItemName.GoldWatch,Papyld Luxury Happy Meal Rolex
+ItemName.PlatinumWatch,Papynum Luxury Happy Meal Rolex
+ItemTooltip.CopperWatch,"Thells the thyme"
+ItemTooltip.TinWatch,"{$ItemTooltip.CopperWatch}"
+ItemTooltip.SilverWatch,"{$ItemTooltip.CopperWatch}"
+ItemTooltip.TungstenWatch,"{$ItemTooltip.CopperWatch}"
+ItemTooltip.GoldWatch,"{$ItemTooltip.CopperWatch}"
+ItemTooltip.PlatinumWatch,"{$ItemTooltip.CopperWatch}"
+
+ItemName.GPS,GPSans
+ItemName.Compass,Sanspass
+ItemName.DepthMeter,Depth Sanster
+ItemTooltip.Compass,"Sansplays sansrizontal posanstion"
+ItemTooltip.DepthMeter,"Sansplays depth"
+
+ItemTooltip.CellPhone,"Lets you see eeeeeeverything
+{$ItemTooltip.MagicMirror}"
+
+ItemName.GoblinTech,Lnik Tech
+ItemTooltip.GoblinTech,"Sansplays sansement spans, AT, and sansluable ore"
+
+
+# accessories::tree::terraspark,------------------------------------------------
+
+ItemName.AnkletoftheWind,Butterscotch Sansnammon Pie
+ItemTooltip.AnkletoftheWind,"[c/ff0000:+10% SPD]
+'increases speed by causing you to waft
+through the air like a cartoon character'"
+
+ItemName.ObsidianRose,Jack Of Spades
+ItemTooltip.ObsidianRose,"[c/00ff00:DMG from Dark'ness ↘]
+'I'm... the bad guy!'"
+
+
+# accessories::unique,----------------------------------------------------------
+
+ItemName.FlowerBoots,Sans Slipper
+ItemTooltip.FlowerBoots,"Thymes grow on the sans you walk on
+'As in made out of sans. Not to be confused with Sans' Slipper'"
+
+
+# accessories::wings,-----------------------------------------------------------
+
+ItemName.LeafWings,Artificial Loominal 'Stache
+ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'Artificial enhancements cause this
+'stache to be severely powered up'"
+
+ItemName.BeeWings,Flighty Leaf
+ItemTooltip.BeeWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'I'd say he's hot on our tail!'"
+
+ItemName.ButterflyWings,Flighty Feather
+ItemTooltip.ButterflyWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'Legends speak of the feather - the most powerful powerup'"
+
+ItemName.BeetleWings,Gooigium Goostache
+ItemTooltip.BeetleWings,"{$CommonItemTooltip.FlightAndSlowfall}
+'Enhanced to it actually flies
+instead of sticking to walls'"
+
+# comment,"Not completely removing this because the idea is neat."
+#ItemName.LeafWings,Ruined Cape
+#ItemTooltip.LeafWings,"{$CommonItemTooltip.FlightAndSlowfall}
+#'It has a faded Delta Rune on it'"
+
+
+# armors::early ores,-----------------------------------------------------------
+
+ItemName.CopperHelmet,Gastter Cap
+ItemName.CopperChainmail,Gastter Hoodie
+ItemName.CopperGreaves,Gastter Slippers
+
+ItemName.IronHelmet,Iriel Cap
+ItemName.IronChainmail,Iriel Hoodie
+ItemName.IronGreaves,Iriel Slippers
+
+ItemName.SilverHelmet,Sansver Cap
+ItemName.SilverChainmail,Sansver Hoodie
+ItemName.SilverGreaves,Sansver Slippers
+
+ItemName.GoldHelmet,Papyld Cap
+ItemName.GoldChainmail,Papyld Hoodie
+ItemName.GoldGreaves,Papyld Slippers
+
+ArmorSetBonus.MetalTier1,"[c/ff0000:+2 DF]"
+ArmorSetBonus.MetalTier2,"[c/ff0000:+3 DF]"
+
+
+# armors::evil ores,------------------------------------------------------------
+
+#ItemName.ShadowGreaves,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#ItemName.ShadowHelmet,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#ItemName.ShadowScalemail,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+#ItemName.CrimsonGreaves,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#ItemName.CrimsonHelmet,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#ItemName.CrimsonScalemail,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ItemTooltip.CrimsonGreaves,[c/ff0000:+2% AT]
+ItemTooltip.CrimsonHelmet,"[c/ff0000:+2% AT]
+'maybe it's the way you're dressed'"
+ItemTooltip.CrimsonScalemail,[c/ff0000:+2% AT]
+
+ArmorSetBonus.Crimson,[c/00ff7f:HP regen ↗↗↗]
+
+
+# armors::jungle,---------------------------------------------------------------
+
+# comment,Jungle
+
+ItemName.JungleHat,Gastic Mask
+ItemName.JungleShirt,Gastic Coat
+ItemName.JunglePants,Gastic Trousers
+ItemTooltip.JungleHat,"[c/00ff00:+40 max TP]
+[c/ff0000:+6% MGC CRIT]
+'That's what the point of the mask is'"
+ItemTooltip.JungleShirt,"[c/00ff00:+20 max TP]
+[c/ff0000:+6% MGC AT]"
+ItemTooltip.JunglePants,"[c/00ff00:+20 max TP]
+[c/ff0000:+6% MGC CRIT]"
+
+ArmorSetBonus.Jungle,"[c/00ff7f:-16% TP usage]"
+
+# comment,Ancient Cobalt
+
+ItemName.AncientCobaltHelmet,Megamet
+ItemName.AncientCobaltBreastplate,Megaplate
+ItemName.AncientCobaltLeggings,Megaboots
+ItemTooltip.AncientCobaltHelmet,"[c/00ff00:+40 max TP]
+[c/ff0000:+6% MGC CRIT]
+'what'"
+ItemTooltip.AncientCobaltBreastplate,"[c/00ff00:+10 max TP]
+[c/ff0000:+6% MGC AT]"
+ItemTooltip.AncientCobaltLeggings,"[c/00ff00:+20 max TP]
+[c/ff0000:+6% MGC CRIT]"
+
+# comment,Bee Armor
+
+ItemName.BeeHeadgear,Gohst Cap
+ItemName.BeeBreastplate,Gohst Robe
+ItemName.BeeGreaves,Gohst Slippers
+ItemTooltip.BeeHeadgear,"[c/ff0000:+4% SMN AT]
+[c/00ff00:+1 SMN]"
+ItemTooltip.BeeBreastplate,"[c/ff0000:+4% SMN AT]
+[c/00ff00:+1 SMN]"
+ItemTooltip.BeeGreaves,"[c/ff0000:+5% SMN AT]"
+
+ArmorSetBonus.Bee,"+10% SMN AT"
+
+# comment,Chlorophyte
+
+ItemName.ChlorophyteMask,Torium Skull
+ItemName.ChlorophyteHelmet,Torium Cranium
+ItemName.ChlorophyteHeadgear,Torium Jaw
+ItemName.ChlorophyteVisor,Torium Ears
+ItemName.ChlorophytePlateMail,Torium Robe
+ItemName.ChlorophyteGreaves,Torium Slippers
+ItemTooltip.ChlorophyteMask,"[c/ff0000:+16% MLE AT]
+[c/ff0000:+6% MLE CRIT]"
+ItemTooltip.ChlorophyteHelmet,"[c/ff0000:+16 RNG AT]
+[c/00ff7f:-20% AMMO usage]"
+ItemTooltip.ChlorophyteHeadgear,"[c/ff0000:+80 max TP]
+[c/00ff7f:-17% TP usage]
+[c/ff0000:+16% MGC AT]"
+ItemTooltip.ChlorophyteVisor,"[c/00ff00:+1 SMN]
+[c/ff0000:+12% SMN AT]"
+ItemTooltip.ChlorophytePlateMail,"[c/ff0000:+5% AT]
+[c/ff0000:+7% CRIT]"
+#( placeholder : movement speed ),movement SPD
+ItemTooltip.ChlorophyteGreaves,"[c/ff0000:+8% CRIT]
+[c/ff0000:+5% movement SPD]"
+
+ArmorSetBonus.Chlorophyte,"Sansmmons a sans to shoot sanses at nearby sanses"
+ArmorSetBonus.ChlorophyteMelee,"{$ArmorSetBonus.Chlorophyte}
+[c/ff0000:+5% AT Red.]"
+ArmorSetBonus.ChlorophyteSummon,"{$ArmorSetBonus.Chlorophyte}
+[c/00ff00:+2 SMN]"
+
+# comment,Turtle
+
+ItemName.TurtleHelmet,Reinforced Luigium Stache n' Cap
+ItemName.TurtleScaleMail,Reinforced Luigium Plumbin' Overalls
+ItemName.TurtleLeggings,Reinforced Luigium Stompin' Boots
+ItemTooltip.TurtleHelmet,"[c/ff0000:+15% MLE AT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.TurtleLeggings,"[c/ff0000:+8% MLE AT]
+[c/ff0000:+8% MLE CRIT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.TurtleScaleMail,"[c/ff0000:+4% MLE AT]
+[c/ff0000:AGGR ↗]"
+
+ArmorSetBonus.Turtle,"Attackers cut themselves on the plating's sharp corners
+[c/ff0000:+15% AT Red.]"
+
+# comment,Beetle
+
+ItemName.BeetleHelmet,Gooigium Slime n' Cap
+ItemName.BeetleScaleMail,Gooigium Cloggin' Overalls
+ItemName.BeetleShell,Gooigium Gohstin' Disguise
+ItemName.BeetleLeggings,Gooigium Slitherin' Boots
+ItemTooltip.BeetleHelmet,"[c/ff0000:+8% MLE AT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.BeetleScaleMail,"[c/ff0000:+8% MLE AT]
+[c/ff0000:+8% MLE CRIT]
+[c/ff0000:+6% move spans]
+[c/ff0000:+6% MLE spans]"
+ItemTooltip.BeetleShell,"[c/ff0000:+5% MLE AT]
+[c/ff0000:+5% MLE CRIT]
+[c/ff0000:AGGR ↗]"
+ItemTooltip.BeetleLeggings,"[c/ff0000:+6% move spans]
+[c/ff0000:+6% MLE spans]
+[c/ff0000:AGGR ↗]"
+
+ArmorSetBonus.BeetleDamage,"Googies increase MLE AT and SPD"
+ArmorSetBonus.BeetleDefense,"Googies protect their leader from sans AT"
+
+# comment,Tiki
+
+ItemName.TikiMask,Dr.'s Head Mirror
+ItemName.TikiShirt,Dr.'s Labcoat
+ItemName.TikiPants,Dr.'s Stompers
+ItemTooltip.TikiMask,"[c/00ff00:+1 SMN]
+[c/ff0000:+10% SMN AT]
+[c/ff0000:+10% tongue sansge (sans range)]"
+ItemTooltip.TikiShirt,"[c/00ff00:+1 SMN]
+[c/ff0000:+10% SMN AT]"
+ItemTooltip.TikiPants,"[c/00ff00:+1 SMN]
+[c/ff0000:+10% SMN AT]"
+
+ArmorSetBonus.Tiki,"[c/00ff00:+1 SMN]"
+
+
+# armors::unique,---------------------------------------------------------------
+
+ItemName.Goggles,Sansggles
+
+
+# armors::woods,----------------------------------------------------------------
+
+ItemName.RichMahoganyHelmet,Homely Brain Infection
+ItemName.RichMahoganyBreastplate,Homely Body Infection
+ItemName.RichMahoganyGreaves,Homely Leg Infection
+
+#ItemName.EbonwoodBreastplate,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#ItemName.EbonwoodGreaves,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+#ItemName.EbonwoodHelmet,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+# equipment::hooks,-------------------------------------------------------------
+
+ItemName.IvyWhip,WD's Grabbers
+ItemName.ThornHook,Sad Man's Grabbers
+ProjectileName.IvyWhip,{$ItemName.IvyWhip}
+ProjectileName.ThornHook,{$ItemName.ThornHook}
+
+
+# equipment::minecarts,---------------------------------------------------------
+
+ItemName.BeeMinecart,Ghostchrap
+ItemName.BeetleMinecart,Gooicrap
+
+
+# equipment::mounts,------------------------------------------------------------
+
+ItemName.RatMountItem,Mini DT Extractor
+ItemTooltip.RatMountItem,"Imparts unto the bearer the true nature of the SOUL"
+
+ItemTooltip.BatMountItem,"Imparts unto the bearer the true nature of the SOUOƧ"
+
+
+# equipment::pets,--------------------------------------------------------------
+
+# comment,"Master mode pets go in Npcs_Bosses"
+
+ItemName.Fish,Broken Armcannon
+ItemName.OrnateShadowKey,Pingu Doll
+ItemName.TartarSauce,Head Band
+ItemName.TikiTotem,Sanssay (sans essay)
+ItemName.Seaweed,Webding
+ItemName.MudBud,Perfectly Normal Mustache Hair
+ItemName.LizardEgg,Decaffeinated Goo Sample
+ItemTooltip.Fish,"Sansmmons Pingus (pingu samus)
+'Snooping as usual, I see!'"
+ItemTooltip.OrnateShadowKey,"Sansmmons a Mini Goomb
+'Coveted by gamers of the highest caliber'"
+ItemTooltip.TartarSauce,"Sansmmons a Mini Ender
+'Worn by gamers of the highest caliber'"
+ItemTooltip.TikiTotem,"Sansmmons Sans (not the Man, but the Idea)"
+ItemTooltip.Seaweed,"Sansmmons a pet gaster"
+ItemTooltip.MudBud,"Sansmmons a completely indifferent little man"
+ItemTooltip.LizardEgg,"Sansmmons a decaffeinated Googi"
+ProjectileName.MiniMinotaur,Mini Tey
+ProjectileName.Penguin,Pingus
+ProjectileName.ShadowMimic,Mini Goomb
+ProjectileName.TikiSpirit,Sans the Idea
+ProjectileName.BabyHornet,Gohst
+ProjectileName.Turtle,Pet Gaster
+ProjectileName.Sapling,Hamburger Hinderance
+ProjectileName.PetLizard,Decaff Googi
+
+
+# inventory switches,-----------------------------------------------------------
+
+ItemName.DontHurtNatureBook,Little Guy That Tells You Not To Hurt Plants
+ItemName.DontHurtNatureBookInactive,Little Guy That Tells You Not To Hurt Plants (sleeping)
+ItemTooltip.DontHurtNatureBook,"What it says on the tin
+{InputTrigger_ToggleOrOpen} to trick into sleeping"
+ItemTooltip.DontHurtNatureBookInactive,"What it says on the tin
+{InputTrigger_ToggleOrOpen} to feel bad for tricking him and wake him up"
+
+
+# vanity::accessories,----------------------------------------------------------
+
+ItemName.JungleRose,Glass Eye
+ItemTooltip.JungleRose,"'Wait, where do your actual eyes go?'"
+
+
+# vanity::hats,-----------------------------------------------------------------
+
+ItemName.RobotHat,Pathetic Visage
+ItemName.JimsCap,Boney's Cap
+
+
+# vanity::sets,-----------------------------------------------------------------
+
+ItemName.ArchaeologistsHat,Boss Horns
+ItemName.ArchaeologistsJacket,Boss Robe
+ItemName.ArchaeologistsPants,Boss Slippers
+
+ItemName.BeeHat,Kind Hat
+ItemName.BeeShirt,Kind Apron
+ItemName.BeePants,Kind Boots
+
+ItemName.RuneHat,Snowy Antlers
+ItemName.RuneRobe,Snowy Robe

@@ -1,0 +1,71 @@
+Key,Translation
+# content,"Names, bestiary entries, item forms and terrariums of all critters"
+# ref,"Bait powers: 15% -> ok, 25% -> good, 40% -> great"
+
+
+# containers,-------------------------------------------------------------------
+
+ItemName.Terrarium,Test Chamber
+
+
+# jungle,-----------------------------------------------------------------------
+
+NPCName.Frog,Pog
+NPCName.GoldFrog,Cool Pog
+NPCName.Grubby,Purple Moldbug
+NPCName.Sluggy,Yellow Moldbug
+NPCName.Buggy,White Moldbug
+NPCName.ScarletMacaw,Mini Sans
+NPCName.BlueMacaw,Mini Toriel
+NPCName.Toucan,Bird That Carries you Over a Disproportionally Long gap
+NPCName.YellowCockatiel,Bird That Carries you Over a Disproportionally Small gap
+NPCName.GrayCockatiel,Sans That Carries you Over a Disproportionally Small gap
+
+Bestiary_FlavorText.npc_Frog,"Frog? More like
+
+pog"
+Bestiary_FlavorText.npc_GoldFrog,"{$Bestiary_FlavorText.npc_Frog}{$CommonBestiaryFlavor.GoldCritter}"
+Bestiary_FlavorText.npc_Grubby,"A little chunk of Wallpaper Mold that seeks to spread Toriel's House. Makes for ok parasite bait."
+Bestiary_FlavorText.npc_Sluggy,"A little chunk of Wallpaper Mold that seeks to spread Toriel's House. Makes for good parasite bait."
+Bestiary_FlavorText.npc_Buggy,"A little chunk of Wallpaper Mold that seeks to spread Toriel's House. Makes for great parasite bait."
+Bestiary_FlavorText.npc_ScarletMacaw,"These numerous coin munching rascals were seen as pests in their universe of origin and were promptly banished to Sans Fanfic. They love it here!"
+Bestiary_FlavorText.npc_BlueMacaw,"A Mini Sans that was taken over by the wallpaper mold. These are trying to kill you, by the way; they just don't have the strength or brainpower to do so."
+Bestiary_FlavorText.npc_Toucan,"A small bird that was taken over by the mold, the two parts of their beak have been fused into a single, long horn."
+Bestiary_FlavorText.npc_YellowCockatiel,"A small bird with big dreams who never gives up!"
+Bestiary_FlavorText.npc_GrayCockatiel,"This is what happens when those little birds give up: they get sansified! Poor guys..."
+
+ItemName.Frog,Pog
+ItemName.GoldFrog,Cool Pog
+ItemName.Grubby,Purple Moldbug
+ItemName.Sluggy,Yellow Moldbug
+ItemName.Buggy,White Moldbug
+ItemName.ScarletMacaw,{$NPCName.ScarletMacaw}
+ItemName.BlueMacaw,{$NPCName.BlueMacaw}
+ItemName.Toucan,{$NPCName.Toucan}
+ItemName.YellowCockatiel,{$NPCName.YellowCockatiel}
+ItemName.GrayCockatiel,{$NPCName.GrayCockatiel}
+
+ItemName.FrogCage,Pog Chamber
+ItemName.GoldFrogCage,Old sCOOL Pog Chamber
+ItemName.CageGrubby,Purple Moldbug Chamber
+ItemName.CageSluggy,Yellow Moldbug Chamber
+ItemName.CageBuggy,White Moldbug Chamber
+ItemName.ScarletMacawCage,{$NPCName.ScarletMacaw} Chamber
+ItemName.BlueMacawCage,{$NPCName.BlueMacaw} Chamber
+ItemName.ToucanCage,{$NPCName.Toucan} Chamber
+ItemName.YellowCockatielCage,{$NPCName.YellowCockatiel} Chamber
+ItemName.GrayCockatielCage,{$NPCName.GrayCockatiel} Chamber
+
+Misc.Cockatiel,{$NPCName.YellowCockatiel}
+MapObject.GoldFrogCage,{$ItemName.GoldFrogCage}
+
+
+# surface,----------------------------------------------------------------------
+
+NPCName.Stinkbug,UNUSED
+
+Bestiary_FlavorText.npc_Stinkbug,"ERROR: NPC NOT FOUND"
+
+ItemName.Stinkbug,UNUSED
+
+ItemName.StinkbugCage,UNUSED Chamber

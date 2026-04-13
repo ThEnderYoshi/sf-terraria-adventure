@@ -1,4 +1,6 @@
 Key,Translation
+# content,"All music boxes"
+# ref,"Name format: '[ <in-game location> ] <song name> - <source|author>'"
 
 ItemName.MusicBoxJungle,"[ Toriel's House ] Home - Undertale"
 #( placeholder : night ),Night

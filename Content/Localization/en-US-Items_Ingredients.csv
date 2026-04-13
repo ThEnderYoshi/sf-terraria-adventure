@@ -1,0 +1,150 @@
+Key,Translation
+# content,"Items that are mainly crafting ingredients"
+
+
+# dungeon,----------------------------------------------------------------------
+
+ItemName.Book,Copy of UNDERTALE
+ItemTooltip.Book,"'Contains Sans, as well as
+other irrelevant, non-Sans characters'"
+
+
+# hallow,-----------------------------------------------------------------------
+
+ItemName.PixieDust,GIASFELFEBREHBER
+
+ItemName.SpellTome,Copy of DELTARUNE
+ItemTooltip.SpellTome,"Can be sanschanted
+'Featuring Sans!
+(and some so-called ""light-nerds"")'"
+
+
+# jungle,-----------------------------------------------------------------------
+
+ItemName.Leather,Ruined Cloth
+ItemName.TurtleShell,Reinforced Luigium Plating
+ItemName.Stinger,Gohst Ball
+ItemName.Vine,Dingbat
+ItemName.JungleSpores,Ripe Wallpaper Mold
+ItemName.TatteredBeeWing,Crushed Leaf
+ItemName.ButterflyDust,Broken Feather
+ItemName.BeetleHusk,G-00 Applicator
+
+ItemName.VialofVenom,Scary Sauce
+ItemTooltip.VialofVenom,"'A nearly perfected formula. Just you
+wait until they develop awesome sauce!'"
+
+
+# ores,-------------------------------------------------------------------------
+
+ItemName.CopperBar,Gastter Bar
+ItemName.CopperOre,Gastter SOUL
+ItemName.IronBar,Iriel Bar
+ItemName.IronOre,Iriel SOUL
+ItemName.SilverBar,Sansver Bar
+ItemName.SilverOre,Sansver SOUL
+ItemName.GoldBar,Papyld Bar
+ItemName.GoldOre,Papyld SOUL
+ItemName.TinBar,Gastin Bar
+ItemName.TinOre,Gastin SOUL
+ItemName.LeadBar,Toriad Bar
+ItemName.LeadOre,Toriad SOUL
+ItemName.TungstenBar,Tungsans Bar
+ItemName.TungstenOre,Tungsans SOUL
+ItemName.PlatinumBar,Papynum Bar
+ItemName.PlatinumOre,Papynum SOUL
+
+ItemName.CrimtaneBar,Sansnium Bar
+ItemName.CrimtaneOre,Sansnium Ore
+
+ItemName.DemoniteBar,Luigium Bar
+ItemName.DemoniteOre,Luigium Ore
+ItemTooltip.DemoniteBar,"'Coping with shroomic energy'"
+ItemTooltip.DemoniteOre,"'Seething with shroomic energy'"
+
+ItemName.FossilOre,Purified Calcium
+ItemName.DesertFossil,Sans Matter
+ItemName.DesertFossilWall,Sans Matter Sall
+
+ItemName.Hellstone,ShadowCrystal
+ItemName.HellstoneBar,ShadowCrystalBar
+ItemTooltip.HellstoneBar,"'For a moment, for just a brief
+moment, you swear you could see Sans
+coming to whoop your posterior'"
+
+ItemName.Meteorite,Outer!Sansnite SOUL
+ItemName.MeteoriteBar,Outer!Sansnite Bar
+
+ItemName.ChlorophyteOre,Torium
+ItemName.ChlorophyteBar,Torium Bar
+ItemTooltip.ChlorophyteOre,"'Highly dense SOULs of Toriels,
+empowered by Darker, Yet Darker energies'"
+ItemTooltip.ChlorophyteBar,"'Said to be even more powerful than Soogi'"
+
+ItemName.LunarBar,Megalovanium Bar
+ItemName.LunarOre,Megalovanium
+ItemTooltip.LunarBar,"'The very culmination of UNDERTALE.
+[c/ffff00:Use it wisely.]'"
+ItemTooltip.LunarOre,'It emits an immense power'
+
+MapObject.Copper,Gastter
+MapObject.Iron,Iriel
+MapObject.Silver,Sansver
+MapObject.Gold,Papyld
+MapObject.Tin,Gastin
+MapObject.Lead,Toriad
+MapObject.Tungsten,Tungsans
+MapObject.Platinum,Papynum
+MapObject.Demonite,Luigium
+MapObject.Crimtane,Sansnium
+MapObject.Chlorophyte,Torium
+MapObject.MetalBar,SOUL Bar
+
+MapObject.Fossil,Sans Matter
+MapObject.DesertFossil,Sans Matter
+
+MapObject.CrimsonAltar,Wartorn Altar
+MapObject.DemonAltar,Loogie Altar
+
+
+
+# potion ingredients::bases,----------------------------------------------------
+
+ItemName.Bottle,Condiment Bottle
+ItemName.BottledWater,Condiment Base
+ItemName.BottledHoney,Battery-flavored Ketchup
+
+
+# potion ingredients::herbs,----------------------------------------------------
+
+ItemName.Moonglow,Shifty Blossom
+ItemName.MoonglowSeeds,{$ItemName.Moonglow} Sprout
+
+ItemName.MoonglowPlanterBox,{$ItemName.Moonglow} Comic
+
+
+# sky,--------------------------------------------------------------------------
+
+ItemName.FallenStar,Blazing Star
+ItemTooltip.FallenStar,"'Contains a glimmer of hopes and dreams'"
+
+ItemName.Feather,Feathery Bone
+
+
+# snow,-------------------------------------------------------------------------
+
+ItemName.FlinxFur,Superimposed Bones
+ItemTooltip.FlinxFur,"'It's vibrating in and out of reality'"
+
+
+# souls,------------------------------------------------------------------------
+
+ItemTooltip.SoulofLight,"'The essanse of darkners'"
+
+
+# surface,----------------------------------------------------------------------
+
+ItemName.Gel,Gans
+ItemTooltip.Gel,"'It's prononunced ""Jans""'"
+
+ItemName.Lens,Lans (Lens Sans)

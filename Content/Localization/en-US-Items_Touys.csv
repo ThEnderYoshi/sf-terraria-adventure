@@ -1,12 +1,12 @@
 Key,Translation
+# content,"Items that have no purpose other than 'fun'."
 
 
-#[ kites ],<<-|--------------------------------------------------|->>
-
+# kites,------------------------------------------------------------------------
 
 #( placeholder : fishing ),fish up
 CommonItemTooltip.Kite,"Can be used to fish up air parasites
-Well, it would if that was actually a thing
+(Well, it would if that was actually a thing)
 Reel it in with {InputTrigger_ToggleOrOpen}"
 
 #( placeholder : bait ),bait
@@ -18,6 +18,3 @@ ItemTooltip.KiteAngryTrapper,"{$CommonItemTooltip.Kite}
 ItemName.KiteManEater,Hand of Gaster Aero-bait
 ItemTooltip.KiteManEater,"{$CommonItemTooltip.Kite}
 'Now you too can be in Toriel's walls!'"
-
-
-#[  ],<<-|-------------------------------------------------------|->>

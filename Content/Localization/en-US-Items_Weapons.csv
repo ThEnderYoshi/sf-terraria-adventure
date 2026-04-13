@@ -1,0 +1,398 @@
+Key,Translation
+# content,"All weapons and items whose main purpose is being ammunition"
+
+
+# mage::guns,-------------------------------------------------------------------
+
+ItemName.SpaceGun,Solar Harvester
+ProjectileName.GreenLaser,Solar Beam
+
+ItemName.BeeGun,Ghost Grill
+ItemName.WaspGun,Ghost Chicken
+ItemTooltip.BeeGun,"Leaks a bunch of gohsts that chase Sanses
+'WHY IS ALL THEIR FOOD
+FULL OF GHOSTS'"
+ItemTooltip.WaspGun,"[c/ff0000:-10 sans DF]
+'JOKES ON YOU DUMBASS
+THE CHICKEN HAS GHOST TOO'"
+ProjectileName.Bee,Gst
+ProjectileName.GiantBee,Ghst
+ProjectileName.Wasp,Chckn
+
+ItemName.LeafBlower,Finger Gun
+ItemName.HeatRay,Pingor Gun
+ItemTooltip.LeafBlower,"'POW, HAHA!'"
+ItemTooltip.HeatRay,"Shoots an acid stream of goo
+'GET REAADY TO00 MOOOO0()#@#O3####'"
+ProjectileName.Leaf,Finger Gun
+ProjectileName.HeatRay,Pingor Gun
+
+
+# mage::staves,-----------------------------------------------------------------
+
+ItemName.WandofSparking,Robot Leg
+ItemName.StaffofEarth,Broken Vat
+ItemTooltip.WandofSparking,"'Looks broken, but might be of use'"
+ItemTooltip.StaffofEarth,Sansmmons a powerful ballgi (ball loogi)
+ProjectileName.WandOfSparkingSpark,Fabulous Spark
+ProjectileName.VilethornBase,"""Rocket"" Clam"
+ProjectileName.VilethornTip,"""Rocket"" Clam"
+ProjectileName.BoulderStaffOfEarth,Ballgi (ball loogi)
+
+ItemName.Vilethorn,Extendo-Clam
+ItemName.NettleBurst,Extendo-Munch
+ItemTooltip.Vilethorn,"Sansmmons a ""Rocket"" Clam"
+ItemTooltip.NettleBurst,"[c/ff0000:-10 sans DF]"
+
+ItemName.Flamelash,BurningIceStaff
+ItemTooltip.Flamelash,"Sansmmons a controllable block of burning ice
+'HOW'"
+ProjectileName.Flamelash,Burning Ice
+
+
+# melee::boomerangs,------------------------------------------------------------
+
+ItemName.WoodenBoomerang,Thyme Leaf Scarf
+ItemName.ThornChakram,Epsilon
+ItemName.Flamarang,Ragger
+ItemName.PossessedHatchet,Overall Strap
+ItemTooltip.PossessedHatchet,Rapidly flings sans-chasing goo
+ProjectileName.WoodenBoomerang,Thyme Leaf Scarf
+ProjectileName.ThornChakram,Epsilon
+ProjectileName.Flamarang,Ragger
+ProjectileName.PossessedHatchet,Overall Strap
+
+
+# melee::flails,----------------------------------------------------------------
+
+
+ItemName.GolemFist,Eye of the GOOt
+ItemTooltip.GolemFist,"Punches with the force (and flesh) of GOOGI"
+ProjectileName.GolemFist,Eye of the GOOt
+
+
+# melee::maces,-----------------------------------------------------------------
+
+ItemName.Mace,Sansce (sans mace)
+ItemName.FlamingMace,Fell!Sansce
+ItemName.BallOHurt,Undertoad!Sansce
+ItemName.TheMeatball,Bundle o' Bones
+ItemName.FlowerPow,V!Sansce
+ItemName.BlueMoon,Sansce Seraph
+ItemName.Sunfury,Lower!Sansce
+ItemTooltip.Mace,"'Not to be confused with Sance (sans FENCE)'"
+ItemTooltip.FlamingMace,"Lighs enemies ablaze using its evil sansnergies"
+ItemTooltip.FlowerPow,"Shcüts tears at nearby sanses
+'Hey, V!Sansce! Michael here'"
+ProjectileName.Mace,Sansce
+ProjectileName.FlamingMace,Fell!Sansce
+ProjectileName.BallOHurt,Undertoad!Sansce
+ProjectileName.TheMeatball,Bundle o' Bones
+ProjectileName.FlowerPow,V!Sansce
+ProjectileName.FlowerPowPetal,V!Sansce
+ProjectileName.BlueMoon,Sansce Seraph
+ProjectileName.Sunfury,Lower!Sansce
+
+
+# melee::spears,----------------------------------------------------------------
+
+ItemName.Spear,Lost Spear
+ItemName.ChlorophytePartisan,Motherly Spear
+ItemName.DayBreak,Bergentrücker
+ItemName.TheRottedFork,Spear of Patience
+ItemTooltip.ChlorophytePartisan,"Shoots a fireball"
+ItemTooltip.DayBreak,"'It'll be like a day at the dentist'"
+ProjectileName.Spear,Lost Spear
+ProjectileName.TheRottedFork,Spear of Patience
+ProjectileName.ChlorophytePartisan,Motherly Spear
+ProjectileName.Daybreak,Bergentrücker
+ProjectileName.DaybreakExplosion,Bergentrücker
+
+
+# melee::swords,----------------------------------------------------------------
+
+
+ItemName.CopperShortsword,Gastter Rapier
+ItemName.TinShortsword,Gastin Rapier
+ItemName.IronShortsword,Iriel Rapier
+ItemName.LeadShortsword,Toriad Rapier
+ItemName.SilverShortsword,Sansver Rapier
+ItemName.TungstenShortsword,Tungsans Rapier
+ItemName.GoldShortsword,Papyld Rapier
+ItemName.PlatinumShortsword,Papynum Rapier
+ItemName.Umbrella,Sansbrella
+ProjectileName.CopperShortswordStab,Gastter Rapier
+ProjectileName.TinShortswordStab,Gastin Rapier
+ProjectileName.IronShortswordStab,Iriel Rapier
+ProjectileName.LeadShortswordStab,Toriad Rapier
+ProjectileName.SilverShortswordStab,Sansver Rapier
+ProjectileName.TungstenShortswordStab,Tungsans Rapier
+ProjectileName.GoldShortswordStab,Papyld Rapier
+ProjectileName.PlatinumShortswordStab,Papynum Rapier
+
+ItemName.WoodenSword,Bad Thyme Swans (sword sans)
+ItemName.BorealWoodSword,Dense Thyme Swans (sword sans)
+ItemName.RichMahoganySword,Homely Swans (sword sans)
+ItemName.EbonwoodSword,Better Cauli Swans (sword sans)
+ItemName.CactusSword,Petri-Poker
+
+ItemName.CopperBroadsword,Gastter Broadswans
+ItemName.TinBroadsword,Gastin Broadswans
+ItemName.IronBroadsword,Iriel Broadswans
+ItemName.LeadBroadsword,Toriad Boradswans
+ItemName.SilverBroadsword,Sansver Broadswans
+ItemName.TungstenBroadsword,Tungsans Broadswans
+ItemName.GoldBroadsword,Papyld Boradswyrus
+ItemName.PlatinumBroadsword,Papynum Broadswyrus
+
+ItemName.Starfury,Chaos Blade
+ItemTooltip.Starfury,"Blazes stars right out of the skans
+'Once wielded by a god, now it's in your hands'"
+ProjectileName.Starfury,Chaos Blade
+
+
+ItemName.LightsBane,Sans' Bane (BLADE OF BROTHERHOOD)
+ItemName.BloodButcherer,Justicemaker (BLADE OF JUSTICE)
+
+ItemName.BeeKeeper,Mothersword (BLADE OF THE MATRIARCH)
+ItemTooltip.BeeKeeper,"Sansmmons killer gohsts after striking Sanses
+Small chance to turn their controllers upside-down"
+
+ItemName.BladeofGrass,The Mailboxer (BLADE OF WINGDINGS)
+ItemTooltip.BladeofGrass,"Shoots Dingbat Gohsts
+Has a chance to spook sanses"
+ProjectileName.BladeOfGrass,Dingbat Gohst
+
+ItemName.FieryGreatsword,TwistedSword
+ItemTooltip.FieryGreatsword,'It's... kind of scary...'
+
+ItemName.ChlorophyteSaber,Torium Flamespewer
+ItemTooltip.ChlorophyteSaber,"Throws flames
+'Not to be confused with flamethrowers, which spew flames'"
+ProjectileName.SporeCloud,Tori Flame
+
+ItemName.ChlorophyteClaymore,Torium Flamapult
+ItemTooltip.ChlorophyteClaymore,"Calapults fireballs at sanses"
+ProjectileName.ChlorophyteOrb,Tori Flame
+
+ItemName.Seedler,Boxxord (BLADE OF NIGHTMARES)
+ProjectileName.SeedlerNut,Cookie
+ProjectileName.SeedlerThorn,Chocolate Chip
+
+ItemName.Meowmere,Dogsword
+ItemName.StarWrath,Chaos Saber
+ItemTooltip.StarWrath,"Brings forth a starstorm unlike any other"
+ProjectileName.Meowmere,Temmie
+ProjectileName.StarWrath,Chaos Saber
+
+
+# melee::yoyos,-----------------------------------------------------------------
+
+ItemName.WoodYoyo,ThEYEme (thyme eye)
+ItemName.CorruptYoyo,Dreamy Eye
+ItemName.CrimsonYoyo,Eye of the War
+ItemName.JungleYoyo,EYEriel
+ItemName.HiveFive,Gohst Eye
+ItemName.Cascade,Sanscade
+ItemName.Yelets,Eye of the GOAT
+ItemTooltip.HiveFive,"Spawns killer Gohsts after striking sanses
+'Under the SPAWNER's watchful eye (singular)'"
+ProjectileName.WoodYoyo,ThEYEme (thyme eye)
+ProjectileName.CorruptYoyo,Dreamy Eye
+ProjectileName.CrimsonYoyo,Eye of the War
+ProjectileName.JungleYoyo,EYEriel
+ProjectileName.Cascade,Sanscade
+ProjectileName.Yelets,Eye of the GOAT
+ProjectileName.HiveFive,Gohst Eye
+
+
+# ranged::ammo,-----------------------------------------------------------------
+
+ItemName.WoodenArrow,Bad Thyme Sansrrow
+ItemName.FlamingArrow,Safe Sansrrow
+ItemName.JestersArrow,Heaven Sansrrow
+ItemName.UnholyArrow,Luigium Bolt
+ItemName.ChlorophyteArrow,Torium Sansrrow
+ItemName.VenomArrow,Scary Arrow
+ItemTooltip.ChlorophyteArrow,"Bounces toward sanses after hitting salls"
+ItemTooltip.VenomArrow,"Scares sanses away"
+ProjectileName.WoodenArrowFriendly,Bad Thyme Sansrrow
+ProjectileName.FireArrow,Safe Sansrrow
+ProjectileName.JestersArrow,Heaven Sansrrow
+ProjectileName.UnholyArrow,Luigium Bolt
+ProjectileName.ChlorophyteArrow,Torium Sansrrow
+ProjectileName.VenomArrow,Scary Sansrrow
+
+ItemName.ChlorophyteBullet,Torium Round
+ItemName.VenomBullet,Scary Round
+ItemTooltip.ChlorophyteBullet,"Chases sanses to the ends of the Sans
+'Not really ""round"", is it?'"
+ItemTooltip.VenomBullet,"Scares sanses away"
+ProjectileName.ChlorophyteBullet,Torium Round
+ProjectileName.VenomBullet,Scary Round
+
+ProjectileName.GrenadeI,Fireball
+ProjectileName.GrenadeII,Iceball
+ProjectileName.GrenadeIII,Superball
+ProjectileName.GrenadeIV,Bombshellball
+ProjectileName.ClusterGrenadeI,Spitball
+ProjectileName.ClusterGrenadeII,THUNDERRRball
+ProjectileName.MiniNukeGrenadeI,Sansball
+ProjectileName.MiniNukeGrenadeII,Brotherball
+ProjectileName.DryGrenade,Parchedball
+ProjectileName.WetGrenade,Gastricball
+ProjectileName.LavaGrenade,Darkball
+ProjectileName.HoneyGrenade,Acidball
+
+ItemName.Seed,Tiny Sprout
+ItemTooltip.Seed,"For use with the {$ItemName.Blowpipe}"
+ProjectileName.Seed,Tiny Sprout
+
+ItemName.StyngerBolt,Snot Shot
+ItemTooltip.StyngerBolt,"Explodes into gooey sansrapnel (sans shrapnel)"
+ProjectileName.Stynger,Sneezer
+ProjectileName.StyngerShrapnel,Sneezer
+
+
+# ranged::bows,-----------------------------------------------------------------
+
+ItemName.WoodenBow,Bad Bhyme Bowne
+ItemName.BorealWoodBow,Dense Thyme Bowne
+ItemName.RichMahoganyBow,Homely Bowne
+ItemName.EbonwoodBow,Better Cauli Bowne
+
+ItemName.CopperBow,Gastter Bowne
+ItemName.TinBow,Gastin Bowne
+ItemName.IronBow,Iriel Bowne
+ItemName.LeadBow,Toriad Bowne
+ItemName.SilverBow,Sansver Bowne
+ItemName.TungstenBow,Tungsans Bowne
+ItemName.GoldBow,Papyld Bowne
+ItemName.PlatinumBow,Papynum Bowne
+
+ItemName.DemonBow,Stache Scorcher
+
+ItemName.BeesKnees,Carbo
+ItemTooltip.BeesKnees,"Douses Bad Thyme Sansrrows with mold and battery acid
+'Now THIS is the kind of bow a car would use!'"
+ProjectileName.BeeArrow,Gsts
+
+ItemName.MoltenFury,SpiralBow
+ItemTooltip.MoltenFury,"Sets Bad Thyme Sansrrows on fire"
+
+ItemName.TendonBow,Funny Bone
+
+ItemName.ChlorophyteShotbow,Torium Schütbowne
+
+
+# ranged::dart guns,------------------------------------------------------------
+
+ItemName.Blowpipe,Petri-Pipe
+ItemTooltip.Blowpipe,"Allows the collection of sprouts for sansmmo
+'You probably shouldn't be putting your mouth on that...'"
+
+ItemName.Blowgun,Putri-Pipe
+ItemTooltip.Blowgun,"Allows the collection of sprouts for sansmmo
+'You REALLY shouldn't be putting your mouth on that...'"
+
+
+# ranged::guns,-----------------------------------------------------------------
+
+# comment,"BAD ASSSSSSS >%^}"
+
+ItemName.Musket,Bad Bird-Omen
+ItemName.TheUndertaker,Sudden Justice
+ItemName.Handgun,GUN
+ItemName.PhoenixBlaster,GUN2
+
+ItemName.Boomstick,The Raker
+ItemName.Uzi,Suzi
+ItemTooltip.Boomstick,"'The sharp ends where filed off,
+but tHE CHAMBERS WEREN'T'"
+ItemTooltip.Uzi,"'Oh look it's my neighbor'"
+
+ItemName.VenusMagnum,Magnum Bone
+ItemTooltip.VenusMagnum,"'man i don't even know'"
+
+ItemTooltip.VortexBeater,"[c/ff0000:-66.6% sansmmo]
+'AOUGHHH MY EARS AAAAGH'"
+
+
+# ranged::rocket launchers,-----------------------------------------------------
+
+ItemName.GrenadeLauncher,Powerup Ballcher (ball launcher)
+
+
+# ranged::thrown,---------------------------------------------------------------
+
+ItemName.Shuriken,Sansriken
+ItemName.ThrowingKnife,Hateful Knife
+ProjectileName.ThrowingKnife,Hateful Knife
+
+ItemName.Beenade,Spooky Cocktail
+ItemTooltip.Beenade,Explodes into many Gohsts
+ProjectileName.Beenade,Spooky Cocktail
+
+
+# ranged::unique,---------------------------------------------------------------
+
+ItemName.PainterPaintballGun,Out!Code Standard Issue Ink Rifle
+ProjectileName.PainterPaintball,Ink
+
+ItemName.Stynger,Sneezer
+ItemTooltip.Stynger,"Sneezes a goo-spreading shot
+Deals extra sansmage (sans damage) on hit"
+
+
+# summoner::minions,------------------------------------------------------------
+
+ItemName.FlinxStaff,Stable Saff (Sans Staff)
+ItemName.HornetStaff,Gohst Spawner
+ItemName.ImpStaff,CookieStaff
+ItemName.PygmyStaff,O' Berry on a Stick
+ItemTooltip.FlinxStaff,"Sansmmons a stable symmetric Sans to protect your behind"
+ItemTooltip.HornetStaff,"Sansmmons an anger gohst to protect your behind"
+ItemTooltip.ImpStaff,"Sansmmons a round boy to protect your behind"
+ItemTooltip.PygmyStaff,"Sansmmons puffles to stare daggers at sanses"
+ProjectileName.FlinxMinion,Stable Symmetric Sans
+ProjectileName.Hornet,Anger Gohst
+ProjectileName.HornetStinger,Anger Gohst Ball
+ProjectileName.FlyingImp,Lancer
+ProjectileName.Pygmy,Puffle
+ProjectileName.Pygmy2,Puffle
+ProjectileName.Pygmy3,Puffle
+ProjectileName.Pygmy4,Puffle
+ProjectileName.PygmySpear,Puffle
+
+
+# summoner::sentries,----------------------------------------------------------
+
+ItemName.DeadCellsBarnacleSummonItem,Para-gohst
+ItemTooltip.DeadCellsBarnacleSummonItem,"{$CommonItemTooltip.Sentry}
+Sansmmons a writhing mass to fire parasites at sanses"
+ProjectileName.DeadCellsBarnacle,Writhing Mass
+ProjectileName.DeadCellsBarnacleShot,Spooky Blast
+
+
+# summoner::whips,--------------------------------------------------------------
+
+ItemName.BlandWhip,Sansy Tongue
+ItemTooltip.BlandWhip,"4 SMN TAG-AT
+{$CommonItemTooltip.Whips}
+'Why does he have a tongue'"
+ProjectileName.BlandWhip,Sansy Tongue
+
+ItemName.ThornWhip,Gastongue
+ItemTooltip.ThornWhip,"6 SMN TAG-AT
+{$CommonItemTooltip.Whips}
+Lick sanses to gain AT SPD"
+ProjectileName.ThornWhip,Gastongue
+
+ItemName.FlowerWhip,Speed Tongue
+ItemTooltip.FlowerWhip,"9 SMN TAG-AT
+{$CommonItemTooltip.Whips}
+Lick sanses with speed luenergy
+Sanses hit by sansmmons salivate violently
+'An hastily-drawn tongue ripped from the king of sadness himself? Gross!'"
+ProjectileName.FlowerWhip,Speed Tongue
+ProjectileName.FlowerWhipPetal,Speed Saliva

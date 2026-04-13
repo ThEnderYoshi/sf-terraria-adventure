@@ -1,26 +1,23 @@
 Key,Translation
+# content,"Key-values that I think are unused"
+# note,"Unused assets count toward the asset total so they need to be replaced as well"
 
+Bestiary_Biomes.Hallow,..__UNUSED__..
+Bestiary_ItemDropConditions.IsCorruptionAndNotExpert,..__UNUSED__..
+Bestiary_ItemDropConditions.IsCrimsonAndNotExpert,..__UNUSED__..
+Bestiary_ItemDropConditions.NotExpert,..__UNUSED__..
+Bestiary_ItemDropConditions.NotMasterMode,..__UNUSED__..
 
-#comment,"I'm uncluding all unused texts, sprites, etc."
-#comment,"But I also need to change them, hence why these are here."
+Game.RespawnInPrefix,..__UNUSED__..
+LegacyMisc.100,..__UNUSED__..
 
-
-Bestiary_Biomes.Hallow,                              |> >>=/=>   UNUSED   <=/=<< <|
-Bestiary_ItemDropConditions.IsCorruptionAndNotExpert,|> >>=/=>   UNUSED   <=/=<< <|
-Bestiary_ItemDropConditions.IsCrimsonAndNotExpert,   |> >>=/=>   UNUSED   <=/=<< <|
-Bestiary_ItemDropConditions.NotExpert,               |> >>=/=>   UNUSED   <=/=<< <|
-Bestiary_ItemDropConditions.NotMasterMode,           |> >>=/=>   UNUSED   <=/=<< <|
-
-Game.RespawnInPrefix,|> >>=/=>   UNUSED   <=/=<< <|
-LegacyMisc.100,      |> >>=/=>   UNUSED   <=/=<< <|
-
-ItemName.CorruptionKeyMold,   |> >>=/=>   UNUSED   <=/=<< <|
-ItemName.CrimsonKeyMold,      |> >>=/=>   UNUSED   <=/=<< <|
-ItemName.FrozenKeyMold,       |> >>=/=>   UNUSED   <=/=<< <|
-ItemName.JungleKeyMold,       |> >>=/=>   UNUSED   <=/=<< <|
-ItemName.HallowedKeyMold,     |> >>=/=>   UNUSED   <=/=<< <|
-ItemTooltip.CorruptionKeyMold,|> >>=/=>   UNUSED   <=/=<< <|
-ItemTooltip.CrimsonKeyMold,   |> >>=/=>   UNUSED   <=/=<< <|
-ItemTooltip.FrozenKeyMold,    |> >>=/=>   UNUSED   <=/=<< <|
-ItemTooltip.HallowedKeyMold,  |> >>=/=>   UNUSED   <=/=<< <|
-ItemTooltip.JungleKeyMold,    |> >>=/=>   UNUSED   <=/=<< <|
+ItemName.CorruptionKeyMold,..__UNUSED__..
+ItemName.CrimsonKeyMold,..__UNUSED__..
+ItemName.FrozenKeyMold,..__UNUSED__..
+ItemName.JungleKeyMold,..__UNUSED__..
+ItemName.HallowedKeyMold,..__UNUSED__..
+ItemTooltip.CorruptionKeyMold,..__UNUSED__..
+ItemTooltip.CrimsonKeyMold,..__UNUSED__..
+ItemTooltip.FrozenKeyMold,..__UNUSED__..
+ItemTooltip.HallowedKeyMold,..__UNUSED__..
+ItemTooltip.JungleKeyMold,..__UNUSED__..

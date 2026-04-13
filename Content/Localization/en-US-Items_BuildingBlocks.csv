@@ -1,0 +1,80 @@
+Key,Translation
+# content,"Building blocks/walls that aren't in other categories"
+
+
+# artificial,-------------------------------------------------------------------
+
+ItemName.GrayBrick,Dark Cyan Bricks
+ItemName.StonePlatform,Dark Cyan Brick Comic
+ItemName.GrayBrickWall,Dark Cyan Brick Sall
+
+ItemName.RedBrick,Brown Bricks
+ItemName.RedBrickWall,Brown Brick Sall
+
+ItemName.ChlorophyteBrick,Torium Plating
+ItemName.ChlorophyteBrickWall,Torium Plating Sall
+
+
+# corruption,-------------------------------------------------------------------
+
+ItemName.DemoniteBrick,Luigium Plating
+ItemName.DemoniteBrickWall,Luigium Plating Sall
+
+# crimson,----------------------------------------------------------------------
+
+ItemName.CrimstoneBlock,Wartorn Stans
+ItemName.EbonstoneBlock,Loostone Block
+Misc.Crimstone,Wartorn Stans
+Misc.Ebonstone,Loostone Block
+
+
+# desert,-----------------------------------------------------------------------
+
+ItemName.SandBlock,Sansd Block
+
+
+# jungle,-----------------------------------------------------------------------
+
+ItemName.JungleWall,Toriel's House's Sallpaper
+ItemName.Jungle1Echo,Impeccable Sallpaper
+ItemName.Jungle2Echo,Torn Sallpaper
+ItemName.Jungle3Echo,Ripped Sallpaper
+ItemName.Jungle4Echo,Fancy Sallpaper
+ItemName.MudWallEcho,Ruined Brick Sall
+
+ItemName.Hive,Gohst Spawner Block
+ItemName.HiveWall,Gohst Spawner Sall
+
+ItemName.MudstoneBlock,Ruinous Bricks
+ItemName.MudstoneBrickWall,Ruinous Bricks Sall
+
+
+# plant seeds,------------------------------------------------------------------
+
+# comment,"Herb seeds go in Items_Materials.csv"
+# comment,"Dye ingredients go in Items_Colors.csv"
+
+ItemName.GrassSeeds,Sans Panelling
+ItemName.JungleGrassSeeds,Homely Panelling
+ItemName.CorruptSeeds,Loogie Panelling
+ItemName.CrimsonSeeds,Wartorn Panelling
+
+ItemName.Acorn,Thyme Sprout
+
+
+# surface,----------------------------------------------------------------------
+
+ItemName.DirtBlock,Sirt (sans dirt)
+ItemName.ClayBlock,Slay (sans clay)
+ItemName.MudBlock,Ruined Bricks
+ProjectileName.DirtBall,{$ItemName.DirtBlock}
+
+
+# underground,------------------------------------------------------------------
+
+ItemName.StoneBlock,Stans (Stone Sans)
+
+
+# underworld,-------------------------------------------------------------------
+
+ItemName.AshBlock,DarkStone

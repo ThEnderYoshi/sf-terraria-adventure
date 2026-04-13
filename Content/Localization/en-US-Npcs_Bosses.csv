@@ -1,0 +1,342 @@
+Key,Translation
+# content,"Names, bestiary entries, projectiles and drops of bosses and their servants"
+# comment,"Order of entries: NPCs, Bestiary, Summons, Drops"
+# commment,"Order of drops: Trophy, Relic, Mask, Boss Bag, Expert Item, Master Item, Normal Drops"
+
+
+# brain of cthulhu,-------------------------------------------------------------
+
+NPCName.BrainofCthulhu,Sevenbones
+NPCName.Creeper,Shrooper
+
+Bestiary_FlavorText.npc_BrainofCthulhu,"Formally called “:bone::bone::bone::bone::bone::bone::bone:”, this amalgamate was fromed from Sixbones merging with a Loogie during a bloody fight. A great amount of hatred emanates from it."
+Bestiary_FlavorText.npc_Creeper,"The fused manifestation of a mushroom and a sanson eye. Psychically controlled by Sevenbones as their main method of defense, as the fused Loogie hinders the Sans and Papyrus's magic."
+
+ItemName.BrainOfCthulhuBossBag,Bag of Regret (Sevenbones)
+ItemTooltip.BrainOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'⨋↖↖◉∰◍'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.BrainofCthulhuTrophy,Sevenbones Trophy
+ItemName.BrainofCthulhuMasterTrophy,Sevenbones Sanslic
+
+
+# deerclops,--------------------------------------------------------------------
+
+NPCName.Deerclops,Sanstrocity Prime
+ProjectileName.DeerclopsIceSpike,Hyperspike
+ProjectileName.DeerclopsRangedProjectile,Sansbris
+
+Bestiary_FlavorText.npc_Deerclops,"Hailing from the land of HELP_TALE, the Sanstrocity found familiarity in the Consanstrate. All the added Sanses around it elevated the Sanstrocty to Twitch Prime tier!"
+
+ItemName.DeerThing,Sanscentrator (sans concentrator)
+ItemTooltip.DeerThing,"Sansmmons Sanstrocity Prime"
+
+ItemName.DeerclopsBossBag,Bag of Regret (Sanstrocity Prime)
+ItemTooltip.DeerclopsBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'But something has CHANGED
+CHANGED
+CHANGED
+CHANGED'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.DeerclopsTrophy,Sanstrocity Prime Trophy
+ItemName.DeerclopsMasterTrophy,Sanstrocity Prime Sanslic
+ItemName.DeerclopsMask,Sanstrocity Prime Sask (sans mask)
+
+
+# destroyer,--------------------------------------------------------------------
+
+NPCName.Probe,Sansian Core
+NPCName.TheDestroyer,Mecha Biggler
+NPCName.TheDestroyerBody,Mecha Biggler
+NPCName.TheDestroyerTail,Mecha Biggler
+
+Bestiary_FlavorText.npc_TheDestroyer,"A massive mech modelled off a biggler, but partly made of Sansnian technology. Made to seek out non-loogie entities, its many segments open up whenever it finds a target, revealing its many sansnic cores."
+Bestiary_FlavorText.npc_Probe,"Counter-intuitively, the many cores of the Mecha Biggler are sansnium-based. They come equipped with powerful sansers (sans lasers) and propulsion sanstems (sans systems), just in case."
+
+ItemTooltip.MechanicalWorm,"Sansmmons the Mecha Biggler"
+
+ItemName.DestroyerBossBag,"Bag of Regret (Mecha Biggler)"
+ItemTooltip.DestroyerBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'mega booty blasted'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.DestroyerTrophy,Mecha Biggler Trophy
+ItemName.DestroyerMasterTrophy,Mecha Biggler Sanslic
+ItemName.DestroyerMask,Mecha Biggler Sask (sans mask)
+
+
+# eater of worlds,--------------------------------------------------------------
+
+NPCName.EaterofWorldsBody,Biggler of Wigglers
+NPCName.EaterofWorldsHead,Biggler of Wigglers
+NPCName.EaterofWorldsTail,Biggler of Wigglers
+NPCName.VileSpitEaterOfWorlds,THUNDERRR
+
+Bestiary_FlavorText.npc_EaterofWorldsHead,"A massive, enraged wiggler, hellbent on finding its lost flower. It will stop at nothing to achieve its goal."
+
+ItemName.EaterOfWorldsBossBag,Bag of Regret (Biggler of Wigglers)
+ItemTooltip.EaterOfWorldsBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'booty blasted'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.EaterofWorldsTrophy,Biggler of Wigglers Trophy
+ItemName.EaterofWorldsMasterTrophy,Biggler of Wigglers Sanslic
+
+
+# empress of light,-------------------------------------------------------------
+
+NPCName.HallowBoss,Emperor of Sansperor
+
+Bestiary_FlavorText.npc_HallowBoss,"A Sans that has absorbed the power of 7 human SOULs, his new god-like abilities (and height) strike fear on the locals. Not to be confused with Sans Seraphim."
+
+ItemName.FairyQueenBossBag,Bag of Regret (Emperor of Sansperor)
+ItemTooltip.FairyQueenBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'Bones and more bones'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.FairyQueenTrophy,Emperor of Sansperor Trophy
+ItemName.FairyQueenMasterTrophy,Emperor of Sansperor Sanslic
+
+
+# eye of cthulhu,---------------------------------------------------------------
+
+NPCName.EyeofCthulhu,Eye of Sans
+NPCName.ServantofCthulhu,Young Sanson Eye
+
+Bestiary_FlavorText.npc_EyeofCthulhu,"A piece of a Titan Sans ripped from its body at least 2 ago. Now it seeks unsuspecting n00bs to epically troll!"
+Bestiary_FlavorText.npc_ServantofCthulhu,"A young Sanson Eye that hasn't even left its shell yet."
+
+ItemName.SuspiciousLookingEye,Segg (sans egg)
+ItemTooltip.SuspiciousLookingEye,"Sansmmons the Eye of Sans
+'It's almost out of it's shell'"
+
+ItemName.EyeOfCthulhuBossBag,Bag of Regret (Eye of Sans)
+ItemTooltip.EyeOfCthulhuBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'[c/ff0000:On days like these...]'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.EyeofCthulhuTrophy,Eye of Sans Trophy
+ItemName.EyeofCthulhuMasterTrophy,Eye of Sans Sanslic
+
+
+# golem,------------------------------------------------------------------------
+
+NPCName.Golem,GOOGI
+NPCName.GolemFistLeft,GOOGI Looist
+NPCName.GolemFistRight,GOOGI Looist
+NPCName.GolemHead,GOOGI Looead
+NPCName.GolemHeadFree,GOOGI Looead
+
+Bestiary_FlavorText.npc_Golem,"A failed prototype of the MOTHERFAKER, shelved once it was clear things weren't working. It wasn't able to be contained forever though, and GOOGI eventually took over the lab."
+
+ItemName.LihzahrdAltar,Forsaken Coffee Machine
+ItemName.LihzahrdPowerCell,Goo Sample
+ItemTooltip.LihzahrdPowerCell,"Has a note: 'Failed sample from G-00 tests. DO NOT, UNDER ANY
+CIRCUMSTANCES, OPEN, DISPOSE OF, OR INFUSE WITH CAFFEINE'"
+
+ItemName.GolemMask,GOOGI Sask (sans mask)
+
+ItemName.GolemPetItem,Gooey Sprout
+ItemTooltip.GolemPetItem,"Sansmmons a GOOGI Sprout
+[c/7f7f7f:------]
+""Log G01: We've found something interesting in our
+projenitor's memories: A clone of him made of goo
+called 'Gooigi'. This has a lot of potential for us...
+
+Log G02: The recreation of G-00 samples are going
+well. If we can properly bend these new-fangled
+'Googies' to our will, we'll have and army
+nigh-invincible super soldiers! Exciting!
+
+Log G03: We've taught it to expand the [ B I G
+L U I G I ], but it now thinks that IT is the [ B I G
+L U I G I ] and we're fodder for it. That won't do.
+It's a shame, but we'll have to shelve this one.""
+- Large House project logs"
+
+
+# king slime,-------------------------------------------------------------------
+
+NPCName.KingSlime,King Slans
+
+Bestiary_FlavorText.npc_KingSlime,"A massive and powerful slans, he harnesses the power of the Ninja!Sans he ate to perform ninja multiplication moves."
+
+#( placeholder : trophy ),Trophans
+ItemName.KingSlimeTrophy,King Slans Trophans
+
+
+# moon lord,--------------------------------------------------------------------
+
+
+NPCName.MoonLordCore,THE SOUL OF UNDERTALE
+NPCName.MoonLordFreeEye,FINAL JUSTICE ENFORCER
+NPCName.MoonLordHand,[ B I G   S A N S ] SOUL'S HANDPLATE
+NPCName.MoonLordHead,[ B I G   S A N S ] SOUL'S CRANIUM
+NPCName.MoonLordLeechBlob,JUSTICE IS BEING SERVED
+
+Enemies.MoonLord,[ B I G   S A N S ] SOUL
+
+ItemName.MoonLordBossBag,Bag of Regret ([ B I G   S A N S ] SOUL)
+ItemTooltip.MoonLordBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'[c/ff0000:...should be burning in hell]'"
+
+#( placeholder : relic ),Sanslic
+ItemName.MoonLordMasterTrophy,[ B I G   S A N S ] SOUL Sanslic
+
+# plantera,---------------------------------------------------------------------
+
+NPCName.Plantera,MOTHERFAKER
+NPCName.PlanterasHook,MOTHERFAKER's Hand
+NPCName.PlanterasTentacle,MOTHERFAKER's Hand
+NPCName.Spore,Para-Tear
+ProjectileName.PoisonSeedPlantera,Spooky Tear
+ProjectileName.SeedPlantera,Tear
+ProjectileName.ThornBall,Cryberry
+
+Bestiary_FlavorText.npc_Plantera,"An unfinished Loogie experiment to create something that blends in with MOTHERSPAWNERS. Interestingly, the great sadness coming from this being seems to have started long before it was transformed into this abomination."
+
+MapObject.PlanterasBulb,Blue SOUL (real)
+
+ItemName.PlanteraMask,MOTHERFAKER Sask (sans mask)
+
+ItemName.PlanteraBossBag,Bag of Regret (MOTHERFAKER)
+ItemTooltip.PlanteraBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'I'm not happy'"
+
+ItemName.SporeSac,Cryberry
+ItemTooltip.SporeSac,Sansmmons an aura of sadness that will damage sanses
+ProjectileName.SporeGas,Sadness Aura
+ProjectileName.SporeGas2,{$ProjectileName.SporeGas}
+ProjectileName.SporeGas3,{$ProjectileName.SporeGas}
+ProjectileName.SporeTrap,Sad Trap
+ProjectileName.SporeTrap2,{$ProjectileName.SporeTrap}
+
+ItemName.PlanteraPetItem,Wet Mustache Hair
+ItemTooltip.PlanteraPetItem,"Sansmmons a sad little man
+[c/7f7f7f:------]
+""The S Experiment has been deemed a success. The whole
+kingdom has become a lot 'cheerier' as all negative
+emotions have been diverted to the test subject. He is
+now experiencing extreme depression, but we consider
+it acceptable in the name of the greater good""
+- Toadsworth, Mushroom Kingdom Secret Archive document"
+
+ItemName.TempleKey,Mansion Key
+ItemTooltip.TempleKey,"Opens the door to the forsaken research center"
+
+ItemName.Seedling,Hand Burger
+ItemTooltip.Seedling,Sansmmons a Hamburger Hinderance
+
+
+# queen bee,--------------------------------------------------------------------
+
+NPCName.QueenBee,MOTHERSPAWNER
+
+Bestiary_FlavorText.npc_QueenBee,"The overgrown spawners' battery acid mixes with the surrounding Wallpaper Mold to create Gohsts. Add too much Mold however, and you get a fully formed ""Toriel"" like this one. These aren't too pleased to see you destroying their successors."
+
+MapObject.Larva,"Successor"
+ItemName.Abeemination,Artificial Successor
+ItemTooltip.Abeemination,"Sansmmons MOTHERSPAWNER
+'Looks just like the real thing!'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.QueenBeeTrophy,MOTHERSPAWNER Trophy
+ItemName.QueenBeeMasterTrophy,MOTHERSPAWNER Sanslic
+ItemName.BeeMask,MOTHERSPAWNER Sask (sans mask)
+
+ItemName.QueenBeeBossBag,Bag of Regret (MOTHERSPAWNER)
+ItemTooltip.QueenBeeBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'my child you are breaking my [c/ff0000:heart]'"
+
+ItemName.QueenBeePetItem,Orphaned Successor
+ItemTooltip.QueenBeePetItem,"Sansmmons a young MOTHERSPAWNER
+[c/7f7f7f:------]
+""[...] the young MOTHERSPAWNERS don't become aggressive
+until they've fed on the corpse of their predecessor.""
+- WD!Alphys, [c/ff0000:Sans Fanfic]'s Conquered Worlds"
+
+ItemName.HoneyComb,Ball of Gohst
+ItemTooltip.HoneyComb,"Releases gohsts and melts the user's skin when sansmaged
+'As in: Ball made of Gohst. Not to be confused with Gohst Ball'"
+
+ItemName.Nectar,Bowl of Acid
+ItemTooltip.Nectar,"Sansmmons a scary gohst!!"
+
+ItemName.HoneyedGoggles,Shmuckcessor
+ItemTooltip.HoneyedGoggles,"Sansmmons Toirel
+'Looks just like the rael tignh !'"
+
+ItemName.BeeWax,Gohst Sauce
+
+
+# queen bee,--------------------------------------------------------------------
+
+NPCName.QueenSlimeBoss,Emperor Slans
+ProjectileName.QueenBeeStinger,MOTHERBALL
+
+Bestiary_FlavorText.npc_QueenSlimeBoss,"Hey, y'know how they first discovered some really big penguins and were like ""wow, these guys must be the kings of penguins, let's call them King Penguins!"", but then they found EVEN BIGGER penguins, so they were like ""shit uuuuuuhh Emperor Penguins""? Yeah this is like that."
+
+ItemName.QueenSlimeBossBag,Bag of Regret (Emperor Slans)
+ItemTooltip.QueenSlimeBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'It was worth a shot...'"
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.QueenSlimeTrophy,Emperor Slans Trophy
+ItemName.QueenSlimeMasterTrophy,Emperor Slans Sanslic
+ItemName.QueenSlimeMask,Emperor Slans Sask (sans mask)
+
+
+# skeletron,--------------------------------------------------------------------
+
+NPCName.SkeletronHand,Papytron
+NPCName.SkeletronHead,Papytron
+
+Bestiary_FlavorText.npc_SkeletronHead,"In hopes of becoming a Royal Knight, Papyrus has stationed himself in front of a Gamestop, waiting for a human (a gamer, no doubt) to just waltz in."
+
+ItemName.SkeletronBossBag,Bag of Regret (Papytron)
+ItemTooltip.SkeletronBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'NYEH HEH HEH!'"
+
+#( placeholder : trophy ),Papytrophy
+#( placeholder : relic ),Sanslic
+ItemName.SkeletronTrophy,Papytron Papytrophy
+ItemName.SkeletronMasterTrophy,Papytron Sanslic
+ItemName.SkeletronMask,Papytron Sask (sans mask)
+
+ItemName.SkeletronHand,Papytron's Cooking Hand
+
+
+# wall of flesh,----------------------------------------------------------------
+
+NPCName.WallofFlesh,Wall of Bone
+NPCName.WallofFleshEye,Wall of Bone
+NPCName.LeechBody,Floppy Bone
+NPCName.LeechHead,Floppy Bone
+NPCName.LeechTail,Floppy Bone
+NPCName.TheHungry,The Funny
+NPCName.TheHungryII,The Funny
+ProjectileName.EyeLaser,San's Fired Lazor
+
+Bestiary_FlavorText.npc_WallofFlesh,"Keeper of the Undersans, his job is to keep the Dark World from spreading beyond the Undersans. Well, it WAS. Now DELTARUNE's all over your Sans!"
+Bestiary_FlavorText.npc_LeechHead,"Oh that just... That's just disappointing... Why is it floppy..."
+Bestiary_FlavorText.npc_TheHungry,"Why the laughter, what's so funny? Your certain doom most certainly is!"
+Bestiary_FlavorText.npc_TheHungryII,{$Bestiary_FlavorText.npc_TheHungry}
+
+#( placeholder : trophy ),Trophy
+#( placeholder : relic ),Sanslic
+ItemName.WallofFleshTrophy,Wall of Bone Trophy
+ItemName.WallofFleshMasterTrophy,Wall of Bone Sanslic
+
+ItemName.WallOfFleshBossBag,Bag of Regret (Wall of Bone)
+ItemTooltip.WallOfFleshBossBag,"{$CommonItemTooltip.RightClickToOpen}
+'[c/ff0000:...kids like you...]'"

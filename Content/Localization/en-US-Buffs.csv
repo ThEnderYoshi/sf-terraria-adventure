@@ -1,16 +1,30 @@
 Key,Translation
+# content,"All buff and debuff names and descriptions"
+# ref,"Buff color:   4782c9"
+# ref,"Debuff color: e9581c"
+# ref,"Minion color: ffc700"
 
 
-#[ reference ],<<-|----------------------------------------------|->>
+# armor set bonuses,------------------------------------------------------------
+
+BuffName.LeafCrystal,Sansjak
+BuffDescription.LeafCrystal,"This was going to be something called a 'MOTHERSPIRIT', but I couldn't resist doing this instead I'm REALLY sorry"
+
+BuffName.BeetleEndurance1,Gooey Hide
+BuffName.BeetleEndurance2,Gooey Hide
+BuffName.BeetleEndurance3,Gooey Hide
+BuffName.BeetleMight1,Gooey Growth
+BuffName.BeetleMight2,Gooey Growth
+BuffName.BeetleMight3,Gooey Growth
+BuffDescription.BeetleEndurance1,"-15% sans AT"
+BuffDescription.BeetleEndurance2,"-30% sans AT"
+BuffDescription.BeetleEndurance3,"-45% sans AT"
+BuffDescription.BeetleMight1,"+10% MLE & move spans"
+BuffDescription.BeetleMight2,"+20% MLE & move spans"
+BuffDescription.BeetleMight3,"+30% MLE & move spans"
 
 
-#( color : buff ),4782c9
-#( color : debuff ),e9581c
-#( color : minion ),ffc700
-
-
-#[ buffs ],<<-|--------------------------------------------------|->>
-
+# buffs,------------------------------------------------------------------------
 
 BuffName.Regeneration,[c/4782c9:Sansgeneration]
 BuffDescription.Regeneration,"HP regen ↗"
@@ -40,16 +54,7 @@ BuffName.DryadsWard,[c/4782c9:Flowey'd]
 BuffDescription.DryadsWard,"See? Flowey was a good guy after all :)"
 
 
-#[ whips ],<<-|--------------------------------------------------|->>
-
-
-
-BuffName.ThornWhipPlayerBuff,[c/4782c9:Gasted Out]
-BuffDescription.ThornWhipPlayerBuff,"You are in lockstep with Gaster; AT SPD ↗"
-
-
-#[ imbues ],<<-|-------------------------------------------------|->>
-
+# buffs::imbues,----------------------------------------------------------------
 
 BuffName.WeaponImbuePoison,[c/8b7653:Fell!Caffeine]
 BuffDescription.WeaponImbuePoison,"The caffeine makes you want to give the sanses a wedgie
@@ -64,11 +69,16 @@ BuffDescription.WeaponImbueVenom,"The caffeine makes you seek bloody revenge
 MLE and tongue attacks scare sanses"
 
 
-#[ debuffs ],<<-|------------------------------------------------|->>
+# buffs::whips,-----------------------------------------------------------------
 
+BuffName.ThornWhipPlayerBuff,[c/4782c9:Gasted Out]
+BuffDescription.ThornWhipPlayerBuff,"You are in lockstep with Gaster; AT SPD ↗"
+
+
+# debuffs,----------------------------------------------------------------------
 
 BuffName.Frozen,[c/e9581c:Snowgraved]
-BuffDescription.Frozen,"THIS IS A CERTIFIED SNOWGRAVE MOMENT"
+BuffDescription.Frozen,"rip bozo"
 
 BuffName.Bleeding,[c/e9581c:Rapid Growth]
 BuffDescription.Bleeding,"Your body is spending too many resources growing new organs; HP regen disabled"
@@ -91,8 +101,20 @@ BuffDescription.DryadsWardDebuff,"SIKE! Flowey was bad guy ALL ALONG ! ! >:)"
 BuffName.Hemorrhage,[c/e9581c:Assimilating]
 BuffDescription.Hemorrhage,"You are becoming one with GOOGI. It's okay, don't resist. It'll all be over soon."
 
-#[ minions ],<<-|------------------------------------------------|->>
 
+# summons::minecarts,-----------------------------------------------------------
+
+BuffName.MinecartWood,Bad Thyme Minecrap
+BuffDescription.MinecartWood,"Playing minecrap"
+
+BuffName.BeeMinecart,"{$ItemName.BeeMinecart}"
+BuffDescription.BeeMinecart,"{$BuffDescription.MinecartWood}"
+
+BuffName.BeetleMinecart,"{$ItemName.BeetleMinecart}"
+BuffDescription.BeetleMinecart,"{$BuffDescription.MinecartWood}"
+
+
+# summons::minions,-------------------------------------------------------------
 
 BuffName.FlinxMinion,[c/ffc700:Stable Symmetric Sans]
 BuffDescription.FlinxMinion,"The stable symmetric sans will protect your behind"
@@ -107,8 +129,16 @@ BuffName.Pygmies,[c/ffc700:Puffles]
 BuffDescription.Pygmies,"The puffles will protect your behind"
 
 
-#[ pets ],<<-|---------------------------------------------------|->>
+# summons::mounts,--------------------------------------------------------------
 
+BuffName.BeeMount,[c/ffc700:Toirel]
+BuffDescription.BeeMount,"Uhh..."
+
+BuffName.RatMount,[c/ffc700:Blue SOUL]
+BuffDescription.RatMount,"Who needs a vessel anyway?"
+
+
+# summons::pets,----------------------------------------------------------------
 
 BuffName.BabyPenguin,"[c/ffc700:Pingus]"
 BuffDescription.BabyPenguin,"'make that the penguin in terraria'"
@@ -145,46 +175,3 @@ BuffDescription.PetLizard,"May or may not be plotting to assimilate you into GOO
 
 BuffName.GolemPet,[c/ffc700:GOOGI Sprout]
 BuffDescription.GolemPet,"Definitely plotting to assimilate you into GOOGI"
-
-
-#[ mounts ],<<-|-------------------------------------------------|->>
-
-
-BuffName.BeeMount,[c/ffc700:Toirel]
-BuffDescription.BeeMount,"Uhh..."
-
-BuffName.RatMount,[c/ffc700:Blue SOUL]
-BuffDescription.RatMount,"Who needs a vessel anyway?"
-
-
-#[ minecarts ],<<-|----------------------------------------------|->>
-
-
-BuffName.MinecartWood,Bad Thyme Minecrap
-BuffDescription.MinecartWood,"Playing minecrap"
-
-BuffName.BeeMinecart,"{$ItemName.BeeMinecart}"
-BuffDescription.BeeMinecart,"{$BuffDescription.MinecartWood}"
-
-BuffName.BeetleMinecart,"{$ItemName.BeetleMinecart}"
-BuffDescription.BeetleMinecart,"{$BuffDescription.MinecartWood}"
-
-
-#[ armor set bonuses ],<<-|--------------------------------------|->>
-
-
-BuffName.LeafCrystal,Sansjak
-BuffDescription.LeafCrystal,"This was going to be something called a 'MOTHERSPIRIT', but I couldn't resist doing this instead I'm REALLY sorry"
-
-BuffName.BeetleEndurance1,Gooey Hide
-BuffName.BeetleEndurance2,Gooey Hide
-BuffName.BeetleEndurance3,Gooey Hide
-BuffName.BeetleMight1,Gooey Growth
-BuffName.BeetleMight2,Gooey Growth
-BuffName.BeetleMight3,Gooey Growth
-BuffDescription.BeetleEndurance1,"-15% sans AT"
-BuffDescription.BeetleEndurance2,"-30% sans AT"
-BuffDescription.BeetleEndurance3,"-45% sans AT"
-BuffDescription.BeetleMight1,"+10% MLE & move spans"
-BuffDescription.BeetleMight2,"+20% MLE & move spans"
-BuffDescription.BeetleMight3,"+30% MLE & move spans"

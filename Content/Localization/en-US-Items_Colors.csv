@@ -1,0 +1,37 @@
+Key,Translation
+# content,"All paints, yo-yo strings, dyes and dye materials"
+# comment,"Painting tools go in Items_Tools"
+
+
+# dyes::materials,--------------------------------------------------------------
+
+ItemName.SkyBlueFlower,Baby Blue Bone
+ItemName.VioletHusk,Perseverance Violet Bone
+ItemTooltip.SkyBlueFlower,"Its pigment can be extracted"
+ItemTooltip.VioletHusk,"{$ItemTooltip.SkyBlueFlower}"
+
+
+# dyes::standard,---------------------------------------------------------------
+
+ItemName.SkyBlueDye,Melanin That Refracts Light in Such a way That it Looks Baby Blue
+ItemName.VioletDye,Melanin That Refracts Light in Such a way That it Looks Perseverance Violet
+
+
+# paints::coatings,-------------------------------------------------------------
+# paints::deep,-----------------------------------------------------------------
+
+ItemName.DeepSkyBluePaint,"Vibrant {$ItemName.SkyBluePaint}"
+ItemName.DeepVioletPaint,"Vibrant {$ItemName.VioletPaint}"
+
+
+# paints::standard,-------------------------------------------------------------
+
+ItemName.SkyBluePaint,Baby Blue Vial
+ItemName.VioletPaint,Perseverance Violet Vial
+
+
+# yoyo strings,-----------------------------------------------------------------
+
+#( placeholder : string ),String
+ItemName.SkyBlueString,Baby Blue String
+ItemName.VioletString,Perseverance Purple String

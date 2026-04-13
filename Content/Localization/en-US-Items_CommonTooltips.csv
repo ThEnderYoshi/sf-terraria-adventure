@@ -1,0 +1,128 @@
+Key,Translation
+# content,"All CommonItemTooltip* and other generic tooltip-related entries"
+
+
+# blocks,-----------------------------------------------------------------------
+
+CommonItemTooltip.SpecialCrafting,"Used to make stuff out of "
+
+
+# cost,-------------------------------------------------------------------------
+
+CommonItemTooltip.UsesLife,[c/ff7f00:Costs {0} HP]
+CommonItemTooltip.UsesMana,[c/ff7f00:Costs {0} TP]
+
+CommonItemTooltip.EtherianManaCost10,[c/ff7f00:Costs 10 FP while defending a Brandshroom]
+LegacyMisc.104,Cannot be used without FP until the Brandshroom has been defended.
+
+LegacyTooltip.49,Will cost them
+LegacyTooltip.50,Will cost you
+LegacyTooltip.51,Absolutely worthlans
+
+LegacyTooltip.32,"Costs you"
+LegacyTooltip.52,"Costs you "
+
+
+# duration,---------------------------------------------------------------------
+
+CommonItemTooltip.MinuteDuration,[c/4782c9:{0} sansnute duration]
+CommonItemTooltip.SecondDuration,[c/4782c9:{0} sanscond duration]
+
+
+# equipment,--------------------------------------------------------------------
+
+CommonItemTooltip.Hook,"Press {InputTrigger_Grapple} to grasp ""it""
+(and by ""it"" I mean, heh, let's just say...)"
+
+LegacyTooltip.23,[c/ff7f7f:Sansquippable]
+LegacyTooltip.24,[c/ff7f7f:Sansnity (sans vanity)]
+LegacyTooltip.1,[c/7f7f7f:Sansquipped in sanscial slot]
+LegacyTooltip.61,[c/7f7f7f:Not bonetional in sanscial slot]
+
+LegacyTooltip.48,[c/ffff00:Sanst bonus:]
+UI.ItemSetBonusGeneral,"Sanst Bone-us: {Description}"
+
+
+# food,-------------------------------------------------------------------------
+
+CommonItemTooltip.MajorStats,[c/ffff00:Major sansprovements to all stats]
+CommonItemTooltip.MediumStats,[c/ffff00:Medium sansprovements to all stats]
+CommonItemTooltip.MinorStats,[c/ffff00:Minor sansprovements to all stats]
+
+
+# item stats,-------------------------------------------------------------------
+
+LegacyTooltip.2," MLE AT"
+LegacyTooltip.3," RNG AT"
+LegacyTooltip.4," MGC AT"
+LegacyTooltip.53," SMN AT"
+LegacyTooltip.55," AT"
+LegacyTooltip.58," THROWING DAMAGE OMEGALUL"
+
+LegacyTooltip.25," DF"
+LegacyTooltip.30," HP"
+LegacyTooltip.31," TP"
+UI.DefenseDamageReduction,Increases hit sansmage by {0}
+
+LegacyTooltip.54," sansge (sans range)"
+
+LegacyTooltip.5,% bad time chance
+LegacyTooltip.34,[c/ff7f7f:Sansmmo]
+LegacyTooltip.39,% AT
+LegacyTooltip.40,% spans (sans speed)
+LegacyTooltip.41,% bad time chance
+LegacyTooltip.42,% TP cost
+LegacyTooltip.43,% sanze
+LegacyTooltip.44,% sanslocity
+LegacyTooltip.45,% sans knockback
+LegacyTooltip.46,% movement spans (sans speed)
+LegacyTooltip.47,% sanslee spans (sans speed)
+
+LegacyTooltip.26,% sansxe power
+LegacyTooltip.27,% axans power
+LegacyTooltip.28,% sansmmer power
+
+LegacyTooltip.7,Poor spans
+LegacyTooltip.8,Bad spans
+LegacyTooltip.9,OK spans
+LegacyTooltip.10,Good spans
+LegacyTooltip.11,Great spans
+LegacyTooltip.12,Awesome spans
+LegacyTooltip.13,Best spans
+
+GameUI.FishingPower,"{0} PARA AT"
+GameUI.FullFishingPower,"{0} ({1}%) PARA AT"
+GameUI.PrecentFishingPower,"{0}% PARA AT"
+GameUI.FishingWarning,"You should fish now! :)"
+GameUI.BaitPower,"{0}% PARA AT"
+GameUI.BaitRequired,"Requires bait to catch parasites"
+
+
+# resource change,--------------------------------------------------------------
+
+CommonItemTooltip.RestoresLife,[c/00ff00:+{0} HP]
+CommonItemTooltip.RestoresMana,[c/00ff00:+{0} TP]
+LegacyTooltip.29,Removes
+
+
+# unique,-----------------------------------------------------------------------
+
+LegacyTooltip.33,[c/7f7f7f:Sansumable]
+LegacyTooltip.35,[c/7f7f7f:Sansterial]
+LegacyTooltip.36,[c/7f7f7f:Can't be placed]
+
+LegacyTooltip.56,[c/ffff00:Marked as sansvorite]
+LegacyTooltip.57,[c/7f7f7f:-------]
+LegacyTooltip.0,[c/7f7f7f:-------]
+
+GameUI.Expert,"[c/7f7f7f:------]
+{$UI.Expert}"
+GameUI.Master,"[c/7f7f7f:------]
+{$UI.Master}"
+
+Misc.CanBePlacedInVanity,[c/ff7f7f:Can be equipped in sansnity slots]
+
+
+# weapons,----------------------------------------------------------------------
+
+CommonItemTooltip.Whips,"Your sansmmons will focus licked sanses"

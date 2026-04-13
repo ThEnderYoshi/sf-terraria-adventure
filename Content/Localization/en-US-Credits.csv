@@ -1,11 +1,14 @@
 Key,Translation
+# content,"All CreditsRoll* entries"
 
 
-#[ actual credits ],<<-|-----------------------------------------|->>
-
+# actual credits::creator,------------------------------------------------------
 
 CreditsRollCategory_Creator.1,The One to Blame for This Resource Pack
 CreditsRollCategory_Creator.2,ThEnderYoshi
+
+
+# actual credits::music,--------------------------------------------------------
 
 CreditsRollCategory_Programming.1,Music (actual credits)
 CreditsRollCategory_Programming.2,Undertale/Deltarune OST - Toby Fox
@@ -18,10 +21,13 @@ CreditsRollCategory_Programming.8,<placeholder>
 CreditsRollCategory_Programming.9,<placeholder>
 CreditsRollCategory_Programming.10,<placeholder>
 
+
+# actual credits::special thanks,-----------------------------------------------
+
 CreditsRollCategory_SpecialThanksto.1,Special Apologies to
-CreditsRollCategory_SpecialThanksto.2,Toby Fox
-CreditsRollCategory_SpecialThanksto.3,Temmie Chang
-CreditsRollCategory_SpecialThanksto.4,Anyone else that worked on Undertale/Deltarune
+CreditsRollCategory_SpecialThanksto.2,"Toby Fox, Temmie Chang"
+CreditsRollCategory_SpecialThanksto.3,Anyone else that worked on Undertale/Deltarune
+CreditsRollCategory_SpecialThanksto.4,The fine folks over at The Spriter's Resource
 CreditsRollCategory_SpecialThanksto.5,Andrew “Redigit” Spinks
 CreditsRollCategory_SpecialThanksto.6,Whitney “Cenx” Spinks
 CreditsRollCategory_SpecialThanksto.7,Everyone else at Re-Logic
@@ -33,8 +39,7 @@ CreditsRollCategory_SpecialThanksto.12,The very concept of Art
 CreditsRollCategory_SpecialThanksto.13,"You, for playing through this"
 
 
-#[ apologies ],<<-|----------------------------------------------|->>
-
+# fake credits,-----------------------------------------------------------------
 
 CreditsRollCategory_BusinessDevelopment.1,Sansiness Sansvelopment
 CreditsRollCategory_BusinessDevelopment.2,Sans Undertale

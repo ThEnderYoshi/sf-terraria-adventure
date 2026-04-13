@@ -1,0 +1,151 @@
+Key,Translation
+# content,"Anything that is shown as a chat message, including emotes"
+
+
+# announcements,----------------------------------------------------------------
+
+Announcement.HasArrived,{0} has arrived wether you like it or not!
+Announcement.HasAwoken,{0} is here to kick your behind!
+Announcement.HasBeenDefeated_Single,{0}'s behind was kicked!
+Announcement.HasBeenDefeated_Plural,{0}'s behinds were kicked!
+
+# comment,"a meteorite has landed!"
+#LegacyWorldGen.59,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+LegacyWorldGen.74,Slanses are falling from the skans!
+LegacyWorldGen.75,Slanses have stopped falling from the skans.
+
+Game.BirthdayParty_1,{0} is forgetting core memories!
+Game.BirthdayParty_2,{0} and {1} are losing their sense of self!
+Game.BirthdayParty_3,"{0}, {1} and {2} are no longer who anyone remembers them as being!"
+Game.InvasionPoints,[c/001111:{0} sans points]
+
+Game.InvasionWave_Type1,"[ {0} ] : {1}"
+Game.InvasionWave_Type2,"[ {0} ] : {1} and {2}"
+Game.InvasionWave_Type3,"[ {0} ] : {1}, {2} and {3}"
+Game.InvasionWave_Type4,"[ {0} ] : {1}, {2}, {3} and {4}"
+Game.InvasionWave_Type5,"[ {0} ] : {1}, {2}, {3}, {4} and {5}"
+Game.InvasionWave_Type6,"[ {0} ] : {1}, {2}, {3}, {4}, {5} and {6}"
+Game.InvasionWave_Type7,"[ {0} ] : {1}, {2}, {3}, {4}, {5}, {6} and {7}"
+Game.InvasionWave_Type8,"[ {0} ] : {1}, {2}, {3}, {4}, {5}, {6}, {7} and {8}"
+
+Game.JoinGreeting,Current victims: {0}.
+
+LegacyMisc.1,A Lnik army is approaching from the weast!
+LegacyMisc.2,A Lnik army is approaching from the east!
+LegacyMisc.3,The Lnik army is here to kick your behind!
+LegacyMisc.0,The Lnik army's behind was kicked!
+
+LegacyMisc.8,My Mans (moon sans) is PISSED!
+LegacyMisc.9,You feel like you're gonna have a bad time...
+LegacyMisc.15,The spirits of dark and darker have become yet darker.
+LegacyMisc.32,There is a spy in Toriel's House...
+LegacyMisc.33,Black Friday has started at Gamestop...
+
+
+# deaths::from debuffs,---------------------------------------------------------
+
+DeathText.Inferno,"{0}'s heaven was banished."
+DeathText.Poisoned,"{0} was simply too scared."
+
+
+# deaths::generic,--------------------------------------------------------------
+
+DeathTextGeneric.ArmTornOff,"{0} was added to my cringe compilation"
+DeathTextGeneric.Chopped,"{0} had a total misplay"
+
+
+# deaths::from world,-----------------------------------------------------------
+
+DeathText.Fell_1,"{0} underfell."
+DeathText.Fell_2,"{0} has fallen and can't get up."
+
+DeathText.Lava_1,"{0} succumbed to the dark'ness."
+DeathText.Lava_2,"{0} is about to write Entry 17."
+DeathText.Lava_3,"{0} became dark, darker, yet darker."
+DeathText.Lava_4,"{0} just met Dess."
+DeathText.Lava_5,"{0} slipped into a darker dream."
+
+DeathText.Slain,"Man, {0} really sucks at this!"
+
+DeathText.WasLicked_1,"{0} TOOK TOO LONG."
+DeathText.WasLicked_2,"{0} was aptly punished."
+
+
+# deaths::sources,--------------------------------------------------------------
+
+DeathSource.NPC,"{0} thanks to {1}"
+DeathSource.Player,"{0}. Blame {1} and their {2}"
+DeathSource.Projectile,"{0} because of {1}"
+
+DeathText.Default,"{0}! EVERYONE LAUGH AT THEM!!!!!!!!"
+
+
+# emotes::names,----------------------------------------------------------------
+
+EmojiName.BiomeCorruption,luigifanfic
+EmojiName.BiomeCrimson,nosansland
+EmojiName.BiomeDesert,wastes
+EmojiName.BiomeHallow,darkworld
+EmojiName.BiomeJungle,torielshouse
+EmojiName.BiomeLavalayer,undersans
+EmojiName.BiomeOtherworld,sansface
+EmojiName.BiomeRocklayer,sansverns
+EmojiName.BiomeSnow,consanstrate
+
+EmojiName.BossBoC,sevenbones
+EmojiName.BossDeerclops,sanstrocity
+EmojiName.BossDestroyer,bow2
+EmojiName.BossEmpressOfLight,sansperor
+EmojiName.BossEoC,eos
+EmojiName.BossEoW,bow
+EmojiName.BossGolem,googi
+EmojiName.BossKingSlime,kingslans
+EmojiName.BossMoonmoon,bigsanssoul
+EmojiName.BossPlantera,motherfaker
+EmojiName.BossQueenBee,motherspawner
+EmojiName.BossWoF,wob
+
+EmojiName.CritterBee,gohst
+EmojiName.CritterGoblin,lnik
+EmojiName.CritterSlime,slans
+EmojiName.CritterSkeleton,lostsans
+EmojiName.CritterZombie,aggrosans
+
+EmojiName.DebuffPoison,spookd
+
+EmojiName.ItemDefenderMedal,luigium
+EmojiName.ItemFishingRod,paracatcher
+EmojiName.ItemGoldpile,bux
+
+EmojiName.TownArmsDealer,sc
+EmojiName.TownBartender,punished
+EmojiName.TownBestiaryGirl,fur
+EmojiName.TownBestiaryGirlFox,furblue
+EmojiName.TownDryad,possessed
+EmojiName.TownGoblinTinkerer,nerd
+EmojiName.TownGuide,classic
+EmojiName.TownMechanic,gaster
+EmojiName.TownMerchant,koridai
+EmojiName.TownNurse,medic
+EmojiName.TownPainter,ink
+EmojiName.TownWitchDoctor,scavenger
+
+EmojiName.WeatherStorming,darkfountain
+
+
+# emotes::menu,-----------------------------------------------------------------
+
+UI.EmoteCategoryBiomesAndEvents,Flora and Fauna
+UI.EmoteCategoryBosses,Big Boys
+UI.EmoteCategoryCritters,Entities
+UI.EmoteCategoryGeneral,Sansneral
+UI.EmoteCategoryItems,Sanstems
+UI.EmoteCategoryRPS,"Stans, Pans, Sanssors!"
+UI.EmoteCategoryTownNPCs,Sanses
+
+
+# housing,----------------------------------------------------------------------
+
+Game.BedObstructed,Your bad is sansbstructed.
+Game.SpawnPointRemoved,Sanspoint sansmoved!
+Game.SpawnPointSet,Sanspoint sanst!

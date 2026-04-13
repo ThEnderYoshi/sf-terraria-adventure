@@ -1,8 +1,8 @@
 Key,Translation
+# content,"All items with tool power and others that can be considered 'tools'"
 
 
-#[ bombs ],<<-|--------------------------------------------------|->>
-
+# bombs,------------------------------------------------------------------------
 
 ItemName.Bomb,Spamton NutriNose™
 ItemTooltip.Bomb,"Provides delicious improvements to stats
@@ -10,8 +10,25 @@ ItemTooltip.Bomb,"Provides delicious improvements to stats
 'Spamton NutriNose™: Try it inside your house!'"
 
 
-#[ diggers : axes ],<<-|-----------------------------------------|->>
+# buckets,----------------------------------------------------------------------
 
+ItemName.EmptyBucket,Empty Jug
+ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
+
+ItemName.WaterBucket,Jug of Gastric Acid
+ItemTooltip.WaterBucket,"Contains a small amount of gastric acid
+Can be sansed out"
+
+ItemName.LavaBucket,Jug of Dark'Ness
+ItemTooltip.LavaBucket,"Contains a small amount of dark'ness
+Can be sansed out"
+
+ItemName.HoneyBucket,Jug of Battery Acid
+ItemTooltip.HoneyBucket,"Contains a small amount of delicious battery acid
+Can be sansed out"
+
+
+# diggers::axes,----------------------------------------------------------------
 
 ItemName.CopperAxe,Gastter Axsans
 ItemName.TinAxe,Gastin Axsans
@@ -27,6 +44,7 @@ ItemName.BloodLustCluster,Gaster Chomper
 
 ItemName.ChlorophyteGreataxe,Torium Axsans
 ItemName.ChlorophyteChainsaw,Torium Chainsans
+ProjectileName.ChlorophyteChainsaw,{$ItemName.ChlorophyteChainsaw}
 
 ItemName.TheAxe,The Worm
 
@@ -35,8 +53,7 @@ ItemTooltip.AcornAxe,"{$ItemTooltip.StaffofRegrowth}
 Plants saplings when cutting down bad thymes"
 
 
-#[ diggers : hammers ],<<-|--------------------------------------|->>
-
+# diggers::hammers,-------------------------------------------------------------
 
 ItemName.WoodenHammer,Bad Thyme Sansmmer
 ItemName.BorealWoodHammer,Dense Thyme Sansmmer
@@ -56,10 +73,10 @@ ItemName.FleshGrinder,Femur Crusher
 
 ItemName.ChlorophyteWarhammer,Torium Sansmmer
 ItemName.ChlorophyteJackhammer,Horned Pwner
+ProjectileName.ChlorophyteJackhammer,{$ItemName.ChlorophyteJackhammer}
 
 
-#[ diggers : mixed ],<<-|----------------------------------------|->>
-
+# diggers::mixed,---------------------------------------------------------------
 
 ItemName.Picksaw,Fluoroantimonic Acid
 ItemTooltip.Picksaw,"Capable of dissolving pretty much anything
@@ -71,8 +88,7 @@ ItemName.MeteorHamaxe,Planetarium Sansmmaxe
 ItemName.MoltenHamaxe,BraveHamax
 
 
-#[ diggers : pickaxes ],<<-|-------------------------------------|->>
-
+# diggers::pickaxe,-------------------------------------------------------------
 
 ItemName.CactusPickaxe,Petri-Pick
 
@@ -94,56 +110,50 @@ ItemName.MoltenPickaxe,ShadowPick
 
 ItemName.ChlorophytePickaxe,Torium Sansxe
 ItemName.ChlorophyteDrill,Torium Drans
+ProjectileName.ChlorophyteDrill,{$ItemName.ChlorophyteDrill}
 
 
-#[ fishing poles ],<<-|------------------------------------------|->>
-
+# fishing poles,----------------------------------------------------------------
 
 ItemName.WoodFishingPole,Bad Thyme Para-Catcher
 ItemName.FiberglassFishingPole,Gastic Para-Catcher
+ProjectileName.BobberWooden,Fake Parasite
+ProjectileName.BobberFiberglass,{$ProjectileName.BobberWooden}
 
 
-#[ painters ],<<-|-----------------------------------------------|->>
-
+# painters,---------------------------------------------------------------------
 
 ItemName.Paintbrush,Inky Pencil
-ItemTooltip.Paintbrush,"Paints socks (sans blocks) using color vials"
-
 ItemName.PaintRoller,Inky Marker
-ItemTooltip.PaintRoller,"Paints salls (sans walls) using color vials"
-
 ItemName.PaintScraper,Inky Eraser
+ItemTooltip.Paintbrush,"Paints socks (sans blocks) using color vials"
+ItemTooltip.PaintRoller,"Paints salls (sans walls) using color vials"
 #( placeholder : moss ),moss
 ItemTooltip.PaintScraper,"Removes the color and life from the world
 Also scrapes moss"
 
 ItemName.SpectrePaintbrush,Ink's Pencil
+ItemName.SpectrePaintRoller,Ink's Marker
+ItemName.SpectrePaintScraper,Ink's Eraser
 ItemTooltip.SpectrePaintbrush,"{$ItemTooltip.Paintbrush}
 'Can you believe this once belonged to Ink?'"
-
-ItemName.SpectrePaintRoller,Ink's Marker
 ItemTooltip.SpectrePaintRoller,"{$ItemTooltip.PaintRoller}
 'Can you believe this once belonged to Ink???'"
-
-ItemName.SpectrePaintScraper,Ink's Eraser
 ItemTooltip.SpectrePaintScraper,"{$ItemTooltip.PaintScraper}
 'Do you actually believe this once belonged to Ink???'"
 
 
-#[ placers ],<<-|------------------------------------------------|->>
-
+# placers,----------------------------------------------------------------------
 
 ItemName.DirtRod,Back Pinchers
 ItemTooltip.DirtRod,"Pinches Sirt Blocks
 'If you pinch Wendy's pennies, they pinch back!'"
 
 ItemName.HiveWand,Spawner Spawner
-ItemTooltip.HiveWand,"Spawns Spawner Blocks"
-
 ItemName.LivingMahoganyWand,Live Homely Fungus Grinder
-ItemTooltip.LivingMahoganyWand,"Sanses Live Homely Fungus"
-
 ItemName.LivingMahoganyLeafWand,Live Homely Bramble Grinder
+ItemTooltip.HiveWand,"Spawns Spawner Blocks"
+ItemTooltip.LivingMahoganyWand,"Sanses Live Homely Fungus"
 ItemTooltip.LivingMahoganyLeafWand,"Sanses Live Homely Bramble"
 
 ItemName.StaffofRegrowth,Bonular Restoration Wand
@@ -151,90 +161,28 @@ ItemTooltip.StaffofRegrowth,"Creates sans on sirt
 [c/ff0000:+Eye collection] when used to gather"
 
 
-#[ potions : ingredients ],<<-|----------------------------------|->>
-
-
-ItemName.Bottle,Condiment Bottle
-ItemName.BottledWater,Condiment Base
-ItemName.BottledHoney,Battery-flavored Ketchup
-
-
-#[ potions : restoration ],<<-|----------------------------------|->>
-
-
-ItemName.GreaterHealingPotion,HP Potion EX
-ItemName.HealingPotion,HP Potion+
-ItemName.LesserHealingPotion,HP Sanstion
-ItemName.SuperHealingPotion,HP Potion NEO
-
-
-#[ potions : buffs ],<<-|----------------------------------------|->>
-
-
-ItemName.IronskinPotion,Reinforced Membrane Sanstion
-ItemTooltip.IronskinPotion,"[c/00ff00:+8DF]"
-
-ItemName.InfernoPotion,Sanstion of Richeous Judgement
-ItemTooltip.InfernoPotion,"A biblically accurate sansgel smites
-nearby enemies with richeous flames"
-
-ItemName.FishingPotion,Biltricide Sauce
-ItemTooltip.FishingPotion,"Makes you more attractive to parasites
-'Don't ask me where the extra
-parasites are coming from'"
-
-
-#[ potions : flasks ],<<-|---------------------------------------|->>
-
-
-ItemName.FlaskofPoison,Fell!Coffee
-ItemTooltip.FlaskofPoison,"MLE and tongue attacks spook sanses"
-
-ItemName.FlaskofFire,DR!Coffee
-ItemTooltip.FlaskofFire,"MLE and tongue attacks darken sanses
-'Wait a minute... thats not Sans...'"
-
-ItemName.FlaskofVenom,Dust!Coffee
-ItemTooltip.FlaskofVenom,"MLE and tongue attacks scare sanses"
-
-
-#[ misc ],<<-|---------------------------------------------------|->>
-
+# spreaders,--------------------------------------------------------------------
 
 ItemName.PurificationPowder,Sansing Powder
 ItemTooltip.PurificationPowder,"Spreads Sans Fanfic
-'It's like a mini Sahn's Ritual in a bag!'"
+'It's like a mini Sh'ans Ritual in a bag!'"
+ProjectileName.PurificationPowder,{$ItemName.PurificationPowder}
 
 ItemName.VilePowder,Luiging Powder
 ItemTooltip.VilePowder,"Spreads Luigi Fanfic
 'This isn't going to make things any better'"
+ProjectileName.VilePowder,{$ItemName.VilePowder}
 
 ItemName.ViciousPowder,Powder of War
 ItemTooltip.ViciousPowder,"Spreads the No San's Land
 'Why are you spreading war'"
-
-ItemName.DontHurtNatureBook,Little Guy That Tells You Not To Hurt Plants
-ItemTooltip.DontHurtNatureBook,"What it says on the tin
-{InputTrigger_ToggleOrOpen} to trick into sleeping"
-
-ItemName.DontHurtNatureBookInactive,Little Guy That Tells You Not To Hurt Plants (sleeping)
-ItemTooltip.DontHurtNatureBookInactive,"What it says on the tin
-{InputTrigger_ToggleOrOpen} to feel bad for tricking him and wake him up"
-
-ItemName.EmptyBucket,Empty Jug
-ItemTooltip.EmptyBucket,"Can be used to suck up fluids"
-
-ItemName.WaterBucket,Jug of Gastric Acid
-ItemTooltip.WaterBucket,"Contains a small amount of gastric acid
-Can be sansed out"
-
-ItemName.LavaBucket,Jug of Dark'Ness
-ItemTooltip.LavaBucket,"Contains a small amount of dark'ness
-Can be sansed out"
-
-ItemName.HoneyBucket,Jug of Battery Acid
-ItemTooltip.HoneyBucket,"Contains a small amount of delicious battery acid
-Can be sansed out"
+ProjectileName.ViciousPowder,{$ItemName.ViciousPowder}
 
 
-#[  ],<<-|-------------------------------------------------------|->>
+# teleports,--------------------------------------------------------------------
+
+ItemName.MagicMirror,Mirror of Regret
+ItemTooltip.MagicMirror,"Sansleports you back to whatever
+could be considered ""home"" here"
+
+ItemTooltip.IceMirror,"{$ItemTooltip.MagicMirror}"

@@ -1,0 +1,3 @@
+[[language]]
+name = "csv"
+soft-wrap.enable = true

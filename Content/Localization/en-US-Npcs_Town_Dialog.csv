@@ -1,24 +1,19 @@
 Key,Translation
+# content,"All Town NPC/Pet dialog"
 
 
-#[ common : biomes ],<<-|----------------------------------------|->>
+# dialog options,---------------------------------------------------------------
+
+LegacyInterface.19,Resans
+LegacyInterface.25,Help
+LegacyInterface.51,Crafting
+LegacyInterface.52,Shop
+UI.BartenderHelp,Brandshroom
+
+LegacyInterface.20,Place an item here to resans
 
 
-TownNPCMoodBiomes.Corruption,Luigi Fanfic
-TownNPCMoodBiomes.Crimson,the No San's Land
-TownNPCMoodBiomes.Desert,The Wastes
-TownNPCMoodBiomes.Dungeon,Gamestop
-TownNPCMoodBiomes.Forest,the Sanface
-TownNPCMoodBiomes.Hallow,the Dark World
-TownNPCMoodBiomes.Jungle,Toriel's House
-# TownNPCMoodBiomes.Mushroom,|> >>--->   UNSET   <---<< <|
-TownNPCMoodBiomes.NormalUnderground,the Sansderground
-TownNPCMoodBiomes.Ocean,the Edge of [ B I G   S A N S ]
-TownNPCMoodBiomes.Snow,the Snans
-
-
-#[ angler : fishing ],<<-|---------------------------------------|->>
-
+# angler::fishing,--------------------------------------------------------------
 
 AnglerQuestText.TurnIn_1,"Blub blub
 (thank thank)"
@@ -32,8 +27,7 @@ AnglerQuestText.TurnIn_5,"Blub blub
 (oo gimme gimme)"
 
 
-#[ angler : special ],<<-|---------------------------------------|->>
-
+# angler::special,--------------------------------------------------------------
 
 AnglerSpecialText.BloodMoonFishing1,"Blub blub
 (Scary stuff. In Blood Moon water. Fish it up LMAO)"
@@ -57,81 +51,57 @@ AnglerSpecialText.Windy1,"Blub blub
 AnglerSpecialText.Windy2,"Meow."
 
 
-#[ dryad : world description ],<<-|------------------------------|->>
+# bartender::help,--------------------------------------------------------------
+
+BartenderHelpText.Help_1,"First off-a, you need to get some-a artifacts from me. Those cost-a Luigium Coins!"
+BartenderHelpText.Help_2,"Use the artifacts to place sentries and-a traps. That costs FP (flower points)"
+BartenderHelpText.Help_3,"It's-a easy to attract the Mushroom Army! They're after us, which means we can bait them with-a something BRANDED."
+BartenderHelpText.Help_4,"Luckly, I happen to sell Brandshrooms, which should do the trick! Just-a place it on a Stand (which I also sell)"
+BartenderHelpText.Help_5,"Place the Stand in an open, flat area. Obstacles will make this harder!"
+BartenderHelpText.Help_6,"Once the arena is-a done, place the Brandshroom on the Stand and watch the magic happen!"
+BartenderHelpText.Help_7,"You can't let them win. If they go back to their base, the'll be able to tell the rest of the Army our location! In other words: We'd be in REALLY BIG trouble!"
+BartenderHelpText.Help_8,"Defenses cost-a 10FP. The Brandshroom drops some-a when placed. Enemies also drop them when-a defeated."
+BartenderHelpText.Help_9,"They-a come in waves. Yeah, that's it."
+BartenderHelpText.Help_10,"If you win, the Branshroom will pay you in Luigium Coins for your services."
+BartenderHelpText.Help_11,"After your first-a win, you'll be able to use the artifacts outside of the event for regular TP."
 
 
-DryadSpecialText.WorldStatusAll,"F: {1}% of {0} is DELTARUNE, {2}% has been taken over by Luigi Fanfic, and {3}% is at war."
-DryadSpecialText.WorldStatusCorrupt,"F: {1}% of {0} has been taken over by Luigi Fanfic."
-DryadSpecialText.WorldStatusCorruptCrimson,"F: {1}% of {0} has been taken over by Luigi Fanfic and {2}% is at war."
-DryadSpecialText.WorldStatusCrimson,"F: {1}% of {0} is at war."
-DryadSpecialText.WorldStatusHallow,"F: {1}% of {0} is DELTARUNE."
-DryadSpecialText.WorldStatusHallowCorrupt,"F: {1}% of {0} is DELTARUNE and {2}% has been taken over by Luigi Fanfic."
-DryadSpecialText.WorldStatusHallowCrimson,"F: {1}% of {0} is DELTARUNE and {2}% is at war."
-DryadSpecialText.WorldStatusPure,"F: {0} is aaall Sans Fanfic! (not much of an improvement...)"
+# bartender::special,-----------------------------------------------------------
 
-DryadSpecialText.WorldDescriptionBalanced,"
-S: the [ B I G   S A N S ] is in sanslace."
-
-DryadSpecialText.WorldDescriptionClose,"
-S: we're so super close!"
-
-DryadSpecialText.WorldDescriptionFairyTale,"
-S: things starting to get very, very interesting around here."
-
-DryadSpecialText.WorldDescriptionGrim,"
-S: come on, {PlayerName}! you can't let the loogies win! they're worse than us sanses!"
-
-DryadSpecialText.WorldDescriptionWork,"
-S: so uuuh, you gonna stop the Loogies or.."
+BartenderSpecialText.AfterDD2Tier1,"Great-a job fighting the Mushroom Army back there! But-a those aren't their strongest forces. Always-a wondered why people never use-a their strongest attack first."
+BartenderSpecialText.AfterDD2Tier2,"The Mushroom Army keeps-a getting stronger. But-a I heard rumors that-a they're going to join-a forces with King Koopa, so I doubt-a we've seen the last-a of them."
+BartenderSpecialText.AfterDD2Tier3,"Wow! Even the big bad Koopa himself can't-a stop you! If I wasn't branded and you weren't from Undertale, I'd-a bring you over to Luigi Fanfic some time-a."
+BartenderSpecialText.BeforeDD2Tier1,"I fear that-a the Mushroom Army is preparing for an invasion. We should-a really do something about it..."
+BartenderSpecialText.FirstHelp,"Ok. First off, take-a these Luigium Coins, on the rocks."
+BartenderSpecialText.FirstMeeting,"Oh my God what is this hellscape!? Last I-a remember, I was running away from-a the cops for Timeout Corner crimes..."
+BartenderSpecialText.Graveyard1,"Mama mia! This place-a is scarier than my mansion!"
+BartenderSpecialText.Graveyard2,"This place is-a starting to smell like-a the Timeout Corner! Do you really want them to think-a you're branded?"
+BartenderSpecialText.Party_1,"...Mario?...Maaaarioooo..."
+BartenderSpecialText.Party_2,"...What's that...under the poster...?..."
+BartenderSpecialText.Rain1,"Doesn't rain much-a back in Luigi Fanfic. Mainly because-a it's in the Box Dimension."
+BartenderSpecialText.Rain2,"I almost want to go in the rain-a, but I know that won't wipe away my-a branded-ness."
+BartenderSpecialText.Storm1,"WAH! The lightning is too scary!"
+BartenderSpecialText.Storm2,"Buh buh buh buh buh buh buh buh buh..."
+BartenderSpecialText.Windy1,"This wind-a reminds me of the time-a that I went flying on-a busy beetles..."
+BartenderSpecialText.Windy2,"Hold on to your-a cap, friend-o! 'tis very windy today."
 
 
-#[ dryad : mood ],<<-|-------------------------------------------|->>
+# common::biomes,---------------------------------------------------------------
+
+TownNPCMoodBiomes.Corruption,Luigi Fanfic
+TownNPCMoodBiomes.Crimson,the No San's Land
+TownNPCMoodBiomes.Desert,The Wastes
+TownNPCMoodBiomes.Dungeon,Gamestop
+TownNPCMoodBiomes.Forest,the Sanface
+TownNPCMoodBiomes.Hallow,the Dark World
+TownNPCMoodBiomes.Jungle,Toriel's House
+TownNPCMoodBiomes.Mushroom,Errortale
+TownNPCMoodBiomes.NormalUnderground,the Sansderground
+TownNPCMoodBiomes.Ocean,the Edge of [ B I G   S A N S ]
+TownNPCMoodBiomes.Snow,the Snans
 
 
-TownNPCMood_Dryad.Content,"F: This place is okay I GUESS."
-TownNPCMood_Dryad.FarFromHome,"F: I really don't like being outside for this long. Can we go back home?"
-TownNPCMood_Dryad.LoveSpace,"F: Ah, a nice and spacious shelter. The perfect place to plant my roots. OH WAIT. >:("
-TownNPCMood_Dryad.NoHome,"F: Y'know, with the two of us being stuck like this, we kinda can't defend ourselves. So go build a shelter for us, will 'ya?"
-
-TownNPCMood_Dryad.HateBiome,"S: why must we fight? why must the sanses and loogies be at odds? i hate war! :("
-TownNPCMood_Dryad.DislikeBiome,"S: i dunno, {BiomeName} makes me kinda uneasy. it's as if those Sans-heads are always staring at me..."
-TownNPCMood_Dryad.LikeBiome,"S: {BiomeName} is great. i love mold, it reminds me of my friend flowey!"
-TownNPCMood_Dryad.LoveBiome,"S: {BiomeName} IS GUD ANDE BASED"
-
-TownNPCMood_Dryad.HateCrowded,"F: There's WAY too many sanses here! GET RID OF THEM! Kill 'em if you must!"
-TownNPCMood_Dryad.DislikeCrowded,"F: There's a little too many sanses here, it's making me kinda embarassed."
-
-TownNPCMood_Dryad.HateNPC,"S: i hate how unrealistic {NPCName} is. what sans would do SPORTS!?"
-TownNPCMood_Dryad.DislikeNPC,"S: {NPCName} smells like fish, i don't like it."
-TownNPCMood_Dryad.LikeNPC,"S: i can relate to {NPCName}. a sans down on his luck, but still living his life!"
-TownNPCMood_Dryad.LikeNPC_Princess,"S: {NPCName} is a little guy, like flowey. i like that!"
-TownNPCMood_Dryad.LoveNPC,"S: {BiomeName} IS GUD ANDE BASED"
-
-
-#[ dryad : special ],<<-|----------------------------------------|->>
-
-
-DryadSpecialText.AfterDD2Tier1,"S: yeah we've been to luigi fanfic, it was um, how do i put this-
-F: It sucked."
-DryadSpecialText.AfterDD2Tier2,"F: The Timeout Corner? Yeah, I've heard of it, but we've thankfully never been there."
-DryadSpecialText.Party,"?: ...No!...I don't wanna die!..."
-DryadSpecialText.Rain1,"F: Hey, I'm gonna take the opportunity that rain is on everyone's minds right now and say this: STOP JOKING ABOUT WATERING ME. This is ACID rain. Stop it. I WILL kill-
-S: oookay there pal! howzabout we change the topic?"
-DryadSpecialText.Rain2,"S: i've heard that the acid rain happens when the big sans upstairs drools because he though of a yummy ketchup :)
-F: No comment."
-DryadSpecialText.Storm1,"S: mmm, the big sans upstairs must'a thought of the yummiest ketchup to ever be bottled. d'aww, now I'M drooling!"
-DryadSpecialText.Storm2,"F: Everyone's saying 'acid rain' this, 'memory wiping wind' that, is no one gonna talk about the lightning? Where is it coming from? There are no clouds in Sans Fanfic!"
-DryadSpecialText.Windy1,"S: wow, this wind's making me drowsy! flowey, you mind taking over for a bit?
-F: I can't. That's the POINT."
-DryadSpecialText.Windy2,"F: God, Sans is so LAZY. He keeps making excuses to not pick up that damn sock-
-S: what sock? i forgot.
-F: No you didn't, stop lying.
-S: the wind, remember? or did it make you forget too?
-F: You did not forget about the sock."
-
-
-#[ dryad : legacy ],<<-|-----------------------------------------|->>
-
+# dryad::legacy,----------------------------------------------------------------
 
 LegacyDialog.78,"S: oh hey, it's you!
 F: Oh great. It's YOU."
@@ -158,52 +128,84 @@ LegacyDialog.332,"S: have you tried using {$ItemName.PurificationPowder} in the 
 F: (or, y'know, you could just explode it...)"
 LegacyDialog.333,"F: Y'know, Sans Fanfic's bad enough, did they REALLY need to also be at war?"
 
-#[ bartender : help ],<<-|---------------------------------------|->>
+
+# dryad::mood,------------------------------------------------------------------
+
+TownNPCMood_Dryad.Content,"F: This place is okay I GUESS."
+TownNPCMood_Dryad.FarFromHome,"F: I really don't like being outside for this long. Can we go back home?"
+TownNPCMood_Dryad.LoveSpace,"F: Ah, a nice and spacious shelter. The perfect place to plant my roots. OH WAIT. >:("
+TownNPCMood_Dryad.NoHome,"F: Y'know, with the two of us being stuck like this, we kinda can't defend ourselves. So go build a shelter for us, will 'ya?"
+
+TownNPCMood_Dryad.HateBiome,"S: why must we fight? why must the sanses and loogies be at odds? i hate war! :("
+TownNPCMood_Dryad.DislikeBiome,"S: i dunno, {BiomeName} makes me kinda uneasy. it's as if those Sans-heads are always staring at me..."
+TownNPCMood_Dryad.LikeBiome,"S: {BiomeName} is great. i love mold, it reminds me of my friend flowey!"
+TownNPCMood_Dryad.LoveBiome,"S: {BiomeName} IS GUD ANDE BASED"
+
+TownNPCMood_Dryad.HateCrowded,"F: There's WAY too many sanses here! GET RID OF THEM! Kill 'em if you must!"
+TownNPCMood_Dryad.DislikeCrowded,"F: There's a little too many sanses here, it's making me kinda embarassed."
+
+TownNPCMood_Dryad.HateNPC,"S: i hate how unrealistic {NPCName} is. what sans would do SPORTS!?"
+TownNPCMood_Dryad.DislikeNPC,"S: {NPCName} smells like fish, i don't like it."
+TownNPCMood_Dryad.LikeNPC,"S: i can relate to {NPCName}. a sans down on his luck, but still living his life!"
+TownNPCMood_Dryad.LikeNPC_Princess,"S: {NPCName} is a little guy, like flowey. i like that!"
+TownNPCMood_Dryad.LoveNPC,"S: {BiomeName} IS GUD ANDE BASED"
 
 
-BartenderHelpText.Help_1,"First off-a, you need to get some-a artifacts from me. Those cost-a Luigium Coins!"
-BartenderHelpText.Help_2,"Use the artifacts to place sentries and-a traps. That costs FP (flower points)"
-BartenderHelpText.Help_3,"It's-a easy to attract the Mushroom Army! They're after us, which means we can bait them with-a something BRANDED."
-BartenderHelpText.Help_4,"Luckly, I happen to sell Brandshrooms, which should do the trick! Just-a place it on a Stand (which I also sell)"
-BartenderHelpText.Help_5,"Place the Stand in an open, flat area. Obstacles will make this harder!"
-BartenderHelpText.Help_6,"Once the arena is-a done, place the Brandshroom on the Stand and watch the magic happen!"
-BartenderHelpText.Help_7,"You can't let them win. If they go back to their base, the'll be able to tell the rest of the Army our location! In other words: We'd be in REALLY BIG trouble!"
-BartenderHelpText.Help_8,"Defenses cost-a 10FP. The Brandshroom drops some-a when placed. Enemies also drop them when-a defeated."
-BartenderHelpText.Help_9,"They-a come in waves. Yeah, that's it."
-BartenderHelpText.Help_10,"If you win, the Branshroom will pay you in Luigium Coins for your services."
-BartenderHelpText.Help_11,"After your first-a win, you'll be able to use the artifacts outside of the event for regular TP."
+# dryad::special,---------------------------------------------------------------
+
+DryadSpecialText.AfterDD2Tier1,"S: yeah we've been to luigi fanfic, it was um, how do i put this-
+F: It sucked."
+DryadSpecialText.AfterDD2Tier2,"F: The Timeout Corner? Yeah, I've heard of it, but we've thankfully never been there."
+DryadSpecialText.Party,"?: ...No!...I don't wanna die!..."
+DryadSpecialText.Rain1,"F: Hey, I'm gonna take the opportunity that rain is on everyone's minds right now and say this: STOP JOKING ABOUT WATERING ME. This is ACID rain. Stop it. I WILL kill-
+S: oookay there pal! howzabout we change the topic?"
+DryadSpecialText.Rain2,"S: i've heard that the acid rain happens when the big sans upstairs drools because he though of a yummy ketchup :)
+F: No comment."
+DryadSpecialText.Storm1,"S: mmm, the big sans upstairs must'a thought of the yummiest ketchup to ever be bottled. d'aww, now I'M drooling!"
+DryadSpecialText.Storm2,"F: Everyone's saying 'acid rain' this, 'memory wiping wind' that, is no one gonna talk about the lightning? Where is it coming from? There are no clouds in Sans Fanfic!"
+DryadSpecialText.Windy1,"S: wow, this wind's making me drowsy! flowey, you mind taking over for a bit?
+F: I can't. That's the POINT."
+DryadSpecialText.Windy2,"F: God, Sans is so LAZY. He keeps making excuses to not pick up that damn sock-
+S: what sock? i forgot.
+F: No you didn't, stop lying.
+S: the wind, remember? or did it make you forget too?
+F: You did not forget about the sock."
 
 
-#[ bartender : special ],<<-|------------------------------------|->>
+# dryad::world description,-----------------------------------------------------
+
+DryadSpecialText.WorldStatusAll,"F: {1}% of {0} is DELTARUNE, {2}% has been taken over by Luigi Fanfic, and {3}% is at war."
+DryadSpecialText.WorldStatusCorrupt,"F: {1}% of {0} has been taken over by Luigi Fanfic."
+DryadSpecialText.WorldStatusCorruptCrimson,"F: {1}% of {0} has been taken over by Luigi Fanfic and {2}% is at war."
+DryadSpecialText.WorldStatusCrimson,"F: {1}% of {0} is at war."
+DryadSpecialText.WorldStatusHallow,"F: {1}% of {0} is DELTARUNE."
+DryadSpecialText.WorldStatusHallowCorrupt,"F: {1}% of {0} is DELTARUNE and {2}% has been taken over by Luigi Fanfic."
+DryadSpecialText.WorldStatusHallowCrimson,"F: {1}% of {0} is DELTARUNE and {2}% is at war."
+DryadSpecialText.WorldStatusPure,"F: {0} is aaall Sans Fanfic! (not much of an improvement...)"
+
+DryadSpecialText.WorldDescriptionBalanced,"
+S: the [ B I G   S A N S ] is in sanslace."
+
+DryadSpecialText.WorldDescriptionClose,"
+S: we're so super close!"
+
+DryadSpecialText.WorldDescriptionFairyTale,"
+S: things starting to get very, very interesting around here."
+
+DryadSpecialText.WorldDescriptionGrim,"
+S: come on, {PlayerName}! you can't let the loogies win! they're worse than us sanses!"
+
+DryadSpecialText.WorldDescriptionWork,"
+S: so uuuh, you gonna stop the Loogies or.."
 
 
-BartenderSpecialText.AfterDD2Tier1,"Great-a job fighting the Mushroom Army back there! But-a those aren't their strongest forces. Always-a wondered why people never use-a their strongest attack first."
-BartenderSpecialText.AfterDD2Tier2,"The Mushroom Army keeps-a getting stronger. But-a I heard rumors that-a they're going to join-a forces with King Koopa, so I doubt-a we've seen the last-a of them."
-BartenderSpecialText.AfterDD2Tier3,"Wow! Even the big bad Koopa himself can't-a stop you! If I wasn't branded and you weren't from Undertale, I'd-a bring you over to Luigi Fanfic some time-a."
-BartenderSpecialText.BeforeDD2Tier1,"I fear that-a the Mushroom Army is preparing for an invasion. We should-s really do something about it..."
-BartenderSpecialText.FirstHelp,"Ok. First off, take-a these Luigium Coins, on the rocks."
-BartenderSpecialText.FirstMeeting,"Oh my God what is this hellscape!? Last I-a remember, I was running away from-a the cops for Timeout Corner crimes..."
-BartenderSpecialText.Graveyard1,"Mama mia! This place-a is scarier than my mansion!"
-BartenderSpecialText.Graveyard2,"This place is-a starting to smell like-a the Timeout Corner! Do you really want to think-a you're branded?"
-BartenderSpecialText.Party_1,"Party time! I sure can't wait-a for friendships to end-a!"
-BartenderSpecialText.Party_2,"Uuuuhhh, hold on... What capsules do you have?"
-BartenderSpecialText.Rain1,"Doesn't rain much-a back in Luigi Fanfic. Mainly because-a it's in the Box Dimension."
-BartenderSpecialText.Rain2,"I almost want to go in the rain-a, but I know that won't wipe away my-a branded-ness."
-BartenderSpecialText.Storm1,"WAH! The lightning is too scary!"
-BartenderSpecialText.Storm2,"Buh buh buh buh buh buh buh buh buh..."
-BartenderSpecialText.Windy1,"This wind-a reminds me of the time-a that I went flying on-a busy beetles..."
-BartenderSpecialText.Windy2,"Hold on to your-a cap, friend-o! 'tis very windy today."
-
-
-#[ guide : help ],<<-|-------------------------------------------|->>
-
+# guide::help,------------------------------------------------------------------
 
 LegacyDialog.222,"make sure to smash that like button. Something good is bound to happen if you do!"
 LegacyDialog.401,"make sure to smash that subscribe button. Something good is bound to happen if you do!"
 
 
-#[ guide : mood ],<<-|-------------------------------------------|->>
-
+# guide::mood,------------------------------------------------------------------
 
 TownNPCMood_Guide.Content,"just bing chillin' my dude."
 TownNPCMood_Guide.FarFromHome,"i kinda gave up going back. and that housing doesn't really appeal to me either."
@@ -219,14 +221,28 @@ TownNPCMood_Guide.HateCrowded,"what's with the box towers? it gives me a really 
 TownNPCMood_Guide.DislikeCrowded,"you should never keep this many sanses together. it's always bound to result in bad things."
 
 TownNPCMood_Guide.HateNPC,"that snake, {NPCName}... He stabbed us all in the back when we least expected it. i hate him!"
-# TownNPCMood_Guide.DislikeNPC,|> >>--->   UNSET   <---<< <|
+#TownNPCMood_Guide.DislikeNPC,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 TownNPCMood_Guide.LikeNPC,"{NPCName} is a little weird, but that's what i like about them!"
 TownNPCMood_Guide.LikeNPC_Princess,"oh, {NPCName}? kinda hard not to like the lil' guy!"
 TownNPCMood_Guide.LoveNPC,"{NPCName} IS GUD ANDE BASED"
 
 
-#[ painter : mood ],<<-|-----------------------------------------|->>
+# painter::legacy,--------------------------------------------------------------
 
+# comment,Hardmode (hallow) dialog
+#LegacyDialog.250,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+# comment,Party girl dialog
+#LegacyDialog.251,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+LegacyDialog.252,"Usually I'd be against destroying an AU, but if we don't, *all* of Undertale will be destroyed!"
+LegacyDialog.253,"Have you seen my pencils? I can't find them anywhere."
+LegacyDialog.254,"Have you seen Luigi?"
+LegacyDialog.255,"You need to hurry! The longer you take, the more AUs get converted into Sans Fanfic!"
+LegacyDialog.256,"Hey, whatever happened to uh, the uh... what was I talking about?"
+
+
+# painter::mood,----------------------------------------------------------------
 
 TownNPCMood_Painter.Content,"My vials are full!"
 TownNPCMood_Painter.FarFromHome,"Reeeally wish I was at my shelter right now. The wild Sanses here are starting to make me uneasy."
@@ -243,41 +259,31 @@ TownNPCMood_Painter.DislikeCrowded,"There's quite a few people here, I'm getting
 
 TownNPCMood_Painter.HateNPC,"{NPCName} IS BADE AND CRING"
 TownNPCMood_Painter.DislikeNPC,"I have some...history with {NPCName}. It's best if the two of us keep our distance."
-# TownNPCMood_Painter.LikeNPC,|> >>--->   UNSET   <---<< <|
+#TownNPCMood_Painter.LikeNPC,!!__UNSET__!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 TownNPCMood_Painter.LikeNPC_Princess,"Me and {NPCName} are long time friends! He's always a joy to have around."
 TownNPCMood_Painter.LoveNPC,"That {NPCName} is a FASCINATING case of possession! I'd love to study those two whenever I get the chance."
 
 
-#[ painter : special ],<<-|--------------------------------------|->>
-
+# painter::special,-------------------------------------------------------------
 
 PainterSpecialText.Party,"...where are you..."
 PainterSpecialText.Rain1,"How do you do it? Surviving the acid rain I mean. I swear it has already torn holes in my scarf again."
 PainterSpecialText.Rain2,"Hey, can you destroy Sans Fanfic faster so I don't have to go through this acid rain again?"
-PainterSpecialText.Storm1,"A combination of acid rain plus a WIND EVENT. This is really bad."
-PainterSpecialText.Storm2,"Maybe I shouldn't be drinking these vials during these EVENTs. At least I wouldn't feel miserable."
+PainterSpecialText.Storm1,"A combination of acid rain plus that weird wind... This is really bad."
+PainterSpecialText.Storm2,"Maybe I shouldn't be drinking these vials during these winds. At least I wouldn't feel miserable."
 PainterSpecialText.Windy1,"I remember reading about Sans Fanfic not having any wind? Is this some kind of anomaly?"
 PainterSpecialText.Windy2,"Sometimes I get the feeling this wind is blowing some of my memories... what was I talking about?"
 
 
-#[ painter : legacy ],<<-|---------------------------------------|->>
+# witch doctor::legacy,---------------------------------------------------------
+
+LegacyDialog.261,"hey check out this junk i fo-- i mean... this treasure i found!"
+LegacyDialog.262,"oh that shiny thing? it's mine! but it can be yours for the low, low price of--"
+LegacyDialog.263,"you wouldn't believe what i found in {$Bestiary_Biomes.UndergroundJungle}! there's sooo much good stuff to scavenge there! it's also terrifying!"
+LegacyDialog.264,"how do i manage to sneak into that big structure in {$Bestiary_Biomes.UndergroundJungle} you ask? well, a good scavenger never reveals his secrets..."
 
 
-#comment,Hardmode (hallow) dialog:
-# LegacyDialog.250,|> >>--->   UNSET   <---<< <|
-
-#comment,Party girl dialog:
-# LegacyDialog.251,|> >>--->   UNSET   <---<< <|
-
-LegacyDialog.252,"Usually I'd be against destroying an AU, but if we don't, *all* of Undertale will be destroyed!"
-LegacyDialog.253,"Have you seen my pencils? I can't find them anywhere."
-LegacyDialog.254,"Have you seen Luigi?"
-LegacyDialog.255,"You need to hurry! The longer you take, the more AUs get converted into Sans Fanfic!"
-LegacyDialog.256,"Hey, whatever happened to uh, the uh... what was I talking about?"
-
-
-#[ witch doctor : mood ],<<-|------------------------------------|->>
-
+# witch doctor::mood,-----------------------------------------------------------
 
 TownNPCMood_WitchDoctor.Content,"not much of an improvement over a post-apocalyptic wasteland, but its acceptable."
 TownNPCMood_WitchDoctor.FarFromHome,"well i've already scrounged up anything useful from this area, now would be a good time to head back home."
@@ -299,8 +305,7 @@ TownNPCMood_WitchDoctor.LikeNPC_Princess,"i'm a fan of {NPCName}. it's hard not 
 TownNPCMood_WitchDoctor.LoveNPC,"{$TownNPCMood_WitchDoctor.LikeNPC}"
 
 
-#[ witch doctor : special ],<<-|---------------------------------|->>
-
+# witch doctor::special,--------------------------------------------------------
 
 WitchDoctorSpecialText.AfterDD2Tier1,"the timeout corner... heh, silly loogies, they think they can make going there illegal? you can't make laws in a place made of pure chaos!"
 WitchDoctorSpecialText.Party,"...not like this..."
@@ -310,15 +315,3 @@ WitchDoctorSpecialText.Storm1,"these sanses are so careless and destructive, it'
 WitchDoctorSpecialText.Storm2,"such destruction... i can't stand it."
 WitchDoctorSpecialText.Windy1,"it's important to hold on to your memories, especially in times like these."
 WitchDoctorSpecialText.Windy2,"i've seen all sorts of weird things in my life, but a memory-wiping windstorm is certainly the weirdest one. or maybe i forgot the weirder ones?"
-
-
-#[ witch doctor : legacy ],<<-|----------------------------------|->>
-
-
-LegacyDialog.261,"hey check out this junk i fo-- i mean... this treasure i found!"
-LegacyDialog.262,"oh that shiny thing? it's mine! but it can be yours for the low, low price of--"
-LegacyDialog.263,"you wouldn't believe what i found in {$Bestiary_Biomes.UndergroundJungle}! there's sooo much good stuff to scavenge there! it's also terrifying!"
-LegacyDialog.264,"how do i manage to sneak into that big structure in {$Bestiary_Biomes.UndergroundJungle} you ask? well, a good scavenger never reveals his secrets..."
-
-
-#[  ],<<-|-------------------------------------------------------|->>

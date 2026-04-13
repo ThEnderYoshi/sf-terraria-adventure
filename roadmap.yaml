@@ -5,6 +5,53 @@
 
 # Next in line
 
+# For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
+- missing npc portraits:
+  # Surface
+  - Merchant
+  - Zoologist
+- town npcs:
+    Demolitionist:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+    Clothier:
+    - NPC Sprites
+    - Portrait
+    - Gores
+    - Dialog
+    - Sold items/drops
+- Torch God's Favor
+- <ores & ore-based recipes>
+- Flower vines # Tiles 382
+- Vine Rope
+- Poison/Venom Staves
+- <forest pots>
+- Fallen log
+- All types of bombs (minus scarab)
+- Potted Forest/Crystal Trees
+- Fairies
+- Pure/Cavern Water Fountains
+- Enchanted Sundial
+- Enchanted Moondial # Maybe? Or maybe leave it for a general aether update
+- Colored Torches
+- <slime rain background effects>
+- <giant tree tiles + items>
+- reconsider: Harpy # NPC 48
+- reconsider: King Slime
+- Slime Staff
+- Flymeal
+- Wraith_Eyes
+- <look at forest-related dryad shop items>
+- <look at forest-related painter shop items>
+- Rubblemaker
+- Flask of Gold
+- 'Adding webs' # Ui_Menus -> world gen -> LegacyWorldGen.17
+- 'Mossification' # Ui_Menus -> world gen -> LegacyWorldGen.61
+- 'Growing spider caves' # Ui_Menus -> world gen -> LegacyWorldGen.64
+
 # For later - BEFORE DST UPDATE RELEASES
 - DSTNoise.png
 - Radio Thing
@@ -57,49 +104,7 @@
 
 # For later - BEFORE THE UPDATE WITH METEORS
 - Meteor Map BG Overlay # MapBGOverlay 7
-
-# For later - BEFORE SKY/UNDERGROUND UPDATE RELEASES
-- missing npc portraits:
-  # Surface
-  - Merchant
-  - Zoologist
-- town npcs:
-    Demolitionist:
-    - NPC Sprites
-    - Portrait
-    - Gores
-    - Dialog
-    - Sold items/drops
-    Clothier:
-    - NPC Sprites
-    - Portrait
-    - Gores
-    - Dialog
-    - Sold items/drops
-- Torch God's Favor
-- <ores & ore-based recipes>
-- Flower vines # Tiles 382
-- Vine Rope
-- Poison/Venom Staves
-- <forest pots>
-- Fallen log
-- All types of bombs (minus scarab)
-- Potted Forest/Crystal Trees
-- Fairies
-- Pure/Cavern Water Fountains
-- Enchanted Sundial
-- Enchanted Moondial # Maybe? Or maybe leave it for a general aether update
-- Colored Torches
-- <slime rain background effects>
-- <giant tree tiles + items>
-- reconsider: Harpy # NPC 48
-- reconsider: King Slime
-- Slime Staff
-- Flymeal
-- Wraith_Eyes
-- <look at forest-related dryad shop items>
-- Rubblemaker
-- Flask of Gold
+- 'A meteorite has landed!' # Ui_Chat::announcements -> LegacyWorldGen.59
 
 # For later - BEFORE LUNAR TOWERS UPDATE RELEASES
 - Extra_49.png # Obfuscated debuff effect

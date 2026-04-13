@@ -1,0 +1,105 @@
+Key,Translation
+# content,"Potions, foods and other consumable items that don't fit in other categories"
+
+
+# food::jungle,-----------------------------------------------------------------
+
+ItemName.Grapes,Nike Slipper
+ItemName.GrapeJuice,Kick Punch
+ItemName.CoffeeCup,Human Energy Drink
+ItemName.Mango,Toriel Slipper
+ItemName.Pineapple,Moldy Toriel Slipper
+ItemName.TropicalSmoothie,Mold Juice
+ItemName.GrubSoup,Mold Ball
+ItemName.SauteedFrogLegs,Pogger Slipper
+ItemTooltip.Grapes,"{$CommonItemTooltip.MediumStats}
+'Yo bro come over here, come over here!
+Check out my new shoes, they're the brand new
+1, 2, buckle my shoe ~
+3, 4, bucke some moooore ~
+5, 6, nike KICKS!
+Oohoohoohoo, that is so FIRE'"
+ItemTooltip.GrapeJuice,"{$CommonItemTooltip.MajorStats}
+'Just a hit and it really gets
+you in that swingin' mood'"
+ItemTooltip.CoffeeCup,"{$CommonItemTooltip.MediumStats}
+'Gotta be careful with this one,
+they're weirdly protective of their IP'"
+ItemTooltip.Mango,"{$CommonItemTooltip.MinorStats}
+'Golly gee I sure hope this doesn't get modly!'"
+ItemTooltip.Pineapple,"{$CommonItemTooltip.MinorStats}
+'Goddamnit it's moldy'"
+ItemTooltip.TropicalSmoothie,"{$CommonItemTooltip.MinorStats}
+'Moist and delicious'"
+ItemTooltip.GrubSoup,"{$CommonItemTooltip.MediumStats}
+'Mold salad, yummy yummy!'"
+ItemTooltip.SauteedFrogLegs,"{$CommonItemTooltip.MinorStats}
+'A pogger frogger'"
+
+
+# food::purity,-----------------------------------------------------------------
+
+ItemName.Apple,"Sans' Slipper"
+ItemName.AppleJuice,Sans Syrup
+ItemTooltip.Apple,"{$CommonItemTooltip.MinorStats}
+'As in belonging to sans. Not to be confused with the Sans Slipper.'"
+ItemTooltip.AppleJuice,"{$CommonItemTooltip.MinorStats}
+'Jam-packed with that iconically delicious Sans Fragrance™!'"
+
+
+# food::underground,------------------------------------------------------------
+
+ItemTooltip.Spaghetti,"{$CommonItemTooltip.MajorStats}
+'Spaghetti! Spaghetti!? Spaghetti!?! Spaghetti!?!?'"
+
+
+# food::unique,-----------------------------------------------------------------
+
+Misc.Fruit,Slipper
+
+
+# permanent buffs,--------------------------------------------------------------
+
+ItemName.LifeCrystal,Red SOUL
+ItemTooltip.LifeCrystal,"[c/00ff7f:+20 Max HP]
+'De[c/ffff00:sans]mination'"
+
+ItemName.LifeFruit,Blue SOUL
+ItemTooltip.LifeFruit,"[c/00ff7f:+5 Max HP]
+'[c/ffff00:Sans]tegrity'"
+
+
+# potions::buffs,---------------------------------------------------------------
+
+ItemName.IronskinPotion,Mayonnaise
+ItemTooltip.IronskinPotion,"[c/00ff00:+8 DF]
+'Likens your skin to that of a hardy egg'"
+
+ItemName.InfernoPotion,AngelChili
+ItemTooltip.InfernoPotion,"Creates an aura of dark'ness that drags
+sanses into a darker dream
+'The aura may or may not just be your breath'"
+
+ItemName.FishingPotion,Biltricide Sauce
+ItemTooltip.FishingPotion,"Makes you more attractive to parasites
+'Don't ask me where the extra
+parasites are coming from'"
+
+
+# potions::flasks,--------------------------------------------------------------
+
+ItemName.FlaskofPoison,Fell!Coffee
+ItemName.FlaskofFire,DR!Coffee
+ItemName.FlaskofVenom,Dust!Coffee
+ItemTooltip.FlaskofPoison,"MLE and tongue attacks spook sanses"
+ItemTooltip.FlaskofFire,"MLE and tongue attacks darken sanses
+'Wait a minute... thats not Sans...'"
+ItemTooltip.FlaskofVenom,"MLE and tongue attacks scare sanses"
+
+
+# potions::restoration,---------------------------------------------------------
+
+ItemName.LesserHealingPotion,Tomato Sauce
+ItemName.HealingPotion,Ketchup
+ItemName.GreaterHealingPotion,Dark Ketchup
+ItemName.SuperHealingPotion,Ketchup SOUL

@@ -1,0 +1,22 @@
+Key,Translation
+# content,"Anything relating to currency"
+
+# names,------------------------------------------------------------------------
+
+Currency.Copper,Gastter
+Currency.Silver,Sansver
+Currency.Gold,Papyld
+Currency.Platinum,Sans Bux
+Currency.DefenderMedals,Luigium Coins
+
+ItemName.CopperCoin,Gastter Coin
+ItemName.SilverCoin,Sansver Coin
+ItemName.GoldCoin,Papyld Coin
+ItemName.PlatinumCoin,Sans Bux
+ItemName.DefenderMedal,Luigium Coin
+ItemTooltip.DefenderMedal,"Currency used for trading with Punished!Loogie"
+
+LegacyInterface.15,sans bux
+LegacyInterface.16,papyld
+LegacyInterface.17,sansver
+LegacyInterface.18,gastter

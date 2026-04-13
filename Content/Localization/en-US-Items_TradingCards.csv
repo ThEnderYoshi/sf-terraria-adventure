@@ -1,24 +1,21 @@
 Key,Translation
-
-
-#[ reference ],<<-|----------------------------------------------|->>
-
-
-#( color : title ),00ff80
-#( color : card number ),008762
-
-#( template : title ),Trading Card (<set> Set)
-#( template : desc ),"[c/00ff80:'<card-name>']
+# content,"3x3 paintings and boss trophies, both of which are used as trading cards by the pack"
+# ref,"Title color: 00ff80"
+# ref,"Card number: 008762"
+# ref,"Title format: 'Trading Card (<set> Set)'"
+# ref,"Desc. format: 'c/00ff80:'<card-name>']
 [c/008762:Card <n> out of <nf>]
 [c/7f7f7f:-------]
 <description
 make it
 4 lines
-OwO>"
+OwO>'"
+
+MapObject.Painting,Trading Card
+MapObject.Trophy,Trading Card
 
 
-#[ invent a universe ],<<-|--------------------------------------|->>
-
+# set::invent a universe,-------------------------------------------------------
 
 ItemName.Sunflowers,Trading Card (Invent a Universe Set)
 ItemTooltip.Sunflowers,"[c/00ff80:'Back']
@@ -71,7 +68,7 @@ ItemTooltip.OldMiner,"[c/00ff80:'Dynamic']
 [c/7f7f7f:-------]
 It could be an animation,
 a pet, weapon, anything,
-really. The [c/ffff00:Dynamic type]
+really. The [c/ffff00:Dynamic] type
 is one of the most powerful."
 
 ItemName.Skelehead,Trading Card (Invent A Universe Set)
@@ -91,6 +88,3 @@ Tapping into the very DNA of
 Infinity, the [c/ffff00:Automation] types
 allow you to meld and warp the
 very fabric of reality."
-
-
-#[  ],<<-|-------------------------------------------------------|->>
