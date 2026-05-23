@@ -1,0 +1,3 @@
+# The only content dir with text files is 'Localization'
+Content/*
+!Content/Localization/

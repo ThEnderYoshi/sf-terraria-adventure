@@ -1,107 +1,171 @@
-"""update_readme v0.1.0
+"""update_readme v0.2.0
 
-    By ThEnderYoshi, 2025
-    Made with Python 3.10
+    By ThEnderYoshi, 2026
+    Made with Python 3.12
+    Under the MIT License
 
-    Auto-updates some parts of the README file.
+    Auto-updates some parts of the README file using the scan data from
+    RPack Toolbox.
 """
 
 
-from math import floor
+from dataclasses import dataclass
+from datetime import datetime, timezone
 from typing import Any
 
-import datetime
 import json
+import math
 import re
-import sys
 
 
-REGION_TABLE: str = "progress"
-REGION_IMAGE_COUNT: str = "img_count"
-REGION_TEXT_COUNT: str = "txt_count"
-DUMP_FILE_PATH: str = "Tools/tpack_scan_dump.json"
-README_PATH: str = "README.md"
+MILESTONE_OFFSET = 6
+PACK_INFO_PATH = "pack.json"
+README_PATH = "README.md"
+REGION_IMG_COUNT = "img_count"
+REGION_TABLE = "progress"
+REGION_TXT_COUNT = "txt_count"
+SCAN_DUMP_PATH = "Tools/rpack_scan_dump.json"
+
+TRACKED_ASSET_KINDS = {
+    "Images": None,
+    "English Text": "Text Entries",
+    "Sounds": None,
+    "Music": None,
+    "Fonts": None,
+}
 
 
-def eprint(*args, **kwargs) -> None:
-    print(*args, **kwargs, file=sys.stderr)
+@dataclass(init=False, slots=True)
+class ScanData:
+    """Represents the parsed scan data."""
+
+    kind: str
+    replaced: int
+    counts: str
+    percent: str
+
+    def __init__(self, kind: str, replaced: int, total: int) -> None:
+        self.kind = kind
+        self.replaced = replaced
+        self.counts = f"{replaced:,} / {total:,}"
+        self.percent = serialize_progress_bar((replaced / total) * 100.0)
+
+
+def info(*args, **kwargs) -> None:
+    print("[update_readme]", *args, **kwargs)
 
 
 def get_dump_data() -> dict[str, Any]:
-    """Gets the data from the dump file."""
+    """Reads the dumped scan data from the dump file."""
 
-    eprint("Reading dump file...")
+    info("Reading dump file...")
 
-    with open(DUMP_FILE_PATH) as f:
+    with open(SCAN_DUMP_PATH) as f:
         return json.load(f)
 
 
-def create_progress_bar(percent: float) -> str:
-    """Creates a Markdown progress bar."""
+def get_pack_version() -> tuple[int, int]:
+    """Returns the pack's version as the tuple `(major, minor)`."""
 
-    percent: int = floor(percent)
+    info(f"Reading `{PACK_INFO_PATH}`...")
+
+    with open(PACK_INFO_PATH) as f:
+        data: dict[str, Any] = json.load(f)
+        version: dict[str, int] = data["Version"]
+        return (version["major"], version["minor"])
+
+
+def process_dump_data(raw: dict[str, Any]) -> list[ScanData]:
+    """Processes the scan data into table rows."""
+
+    result: list[ScanData] = []
+    total_replaced = 0
+    total_total = 0 # Hrm yes
+
+    for kind in TRACKED_ASSET_KINDS:
+        raw_data: dict[str, int] = raw[kind]
+        replaced = raw_data["replaced"]
+        total = raw_data["total"]
+        total_replaced += replaced
+        total_total += total
+
+        name = TRACKED_ASSET_KINDS[kind]
+        name = kind if name == None else name
+
+        data = ScanData(name, replaced, total)
+        result.append(data)
+
+    total_data = ScanData("Total", total_replaced, total_total)
+    result.append(total_data)
+    return result
+
+
+def serialize_progress_bar(percent: float) -> str:
+    """Creates a progress bar."""
+
+    percent = math.floor(percent)
     return f"![{percent}%](https://geps.dev/progress/{percent})"
 
 
-def create_count(asset_data: dict[str, Any]) -> str:
-    """Creates a Markdown asset count."""
-
-    found: int = asset_data["found"]
-    total: int = asset_data["total"]
-    return f"{found:,} / {total:,}"
-
-
-def create_md_table(data: dict[str, Any]) -> str:
+def serialize_progress(
+    scan_data: list[ScanData],
+    version: tuple[int, int],
+) -> str:
     """Creates the Markdown table to be injected."""
 
-    eprint("Creating Markdown table...")
+    info("Serializing status section...")
 
-    # Header
+    # Status information
 
-    table: list[list[str]] = [["Progress", ""]]
+    date = datetime.now(timezone.utc).date().isoformat()
 
-    # Progress bars
+    # NOTE: My 2023 dumbass shipped 1.0 with 1006 images instead of 1000
+    # so now we have to live with the consequences forever. YAY! YAY!
+    milestone = version[0] * 1000 + MILESTONE_OFFSET
+    replaced_imgs = scan_data[0].replaced
 
-    images: dict[str, Any] = data["images"]
-    table.append(["Total", create_progress_bar(images["total_percent"])])
-    table.append(["Update", create_progress_bar(images["milestone_percent"])])
+    milestone_pct = (
+            100 if replaced_imgs >= milestone
+            else 1 if replaced_imgs <= milestone - 1000
+            else max(1, (replaced_imgs % 1000) // 10)
+    )
 
-    # Asset counts
+    result = (
+            f"\n> **Last updated:** {date} UTC \\"
+            f"\n> **Update progress:** {serialize_progress_bar(milestone_pct)}"
+            "\n\n"
+    )
 
-    text_entries: dict[str, Any] = data["text_entries"]["English"]
-    table.append(["Images", create_count(images)])
-    table.append(["Text Entries", create_count(text_entries)])
-    table.append(["Songs", create_count(data["songs"])])
-    table.append(["Sounds", create_count(data["sounds"])])
+    # Start making the table
 
-    # Date
-
-    date: str = datetime.datetime.now().date().isoformat()
-    result: str = f"\n> [!NOTE]\n> Last updated: _{date} UTC_\n\n"
+    table = (
+            [["Kind", "Replaced / Total", "% Replaced"]]
+            + [[r.kind, r.counts, r.percent] for r in scan_data]
+    )
 
     # Get column sizes
 
-    col_1_size: int = 0
-    col_2_size: int = 0
+    col_sizes = [3, 3, 3]
 
     for row in table:
-        col_1_size = max(len(row[0]), col_1_size)
-        col_2_size = max(len(row[1]), col_2_size)
+        for i in range(len(col_sizes)):
+            col_sizes[i] = max(len(row[i]), col_sizes[i])
 
     # Serialize table
 
-    in_header: bool = True
+    in_header = True
 
     for row in table:
-        result += "| {name: <{c1_size}} | {value: <{c2_size}} |\n".format(
-            name=row[0],
-            value=row[1],
-            c1_size=col_1_size,
-            c2_size=col_2_size,
-        )
+        for i, cell in enumerate(row):
+            result += "| {cell: <{size}} ".format(cell=cell, size=col_sizes[i])
+
+        result += "|\n"
 
         if in_header:
-            result += f"|:{'-' * col_1_size}:|:{'-' * col_2_size}:|\n"
+            for size in col_sizes:
+                result += f"| :{"-" * (size - 2)}: "
+
+            result += "|\n"
             in_header = False
 
     return result
@@ -110,21 +174,20 @@ def create_md_table(data: dict[str, Any]) -> str:
 def get_readme_file() -> str:
     """Returns the contents of the README file."""
 
-    eprint(f"Reading `{README_PATH}`...")
+    info(f"Reading `{README_PATH}`...")
 
-    with open(README_PATH, mode="r") as f:
+    with open(README_PATH) as f:
         return "".join(f.readlines())
 
 
 def inject_region(source: str, payload: str, region_name: str) -> str:
     """Injects a string into a source string's region."""
 
-    eprint(f"Injecting `{region_name}` into README file...")
-    payload = f"<!--#region {region_name}-->{payload}<!--#endregion-->"
+    info(f"Injecting `{region_name}` into the file...")
 
     return re.sub(
         fr"<!--#region {region_name}-->[\s\S]*?<!--#endregion-->",
-        payload,
+        f"<!--#region {region_name}-->{payload}<!--#endregion-->",
         source,
     )
 
@@ -132,27 +195,29 @@ def inject_region(source: str, payload: str, region_name: str) -> str:
 def write_readme_file(content: str) -> None:
     """Writes the provided string to the README file."""
 
-    eprint(f"Writing to `{README_PATH}`...")
+    info(f"Writing to `{README_PATH}`...")
 
-    with open(README_PATH, mode="w") as f:
+    with open(README_PATH, "w") as f:
         f.write(content)
 
 
 def main() -> None:
     """The main logic of the script."""
 
-    data: dict[str, Any] = get_dump_data()
-    table: str = create_md_table(data)
-    image_count: int = f"{data['images']['total']:,}"
-    text_count: int = f"{data['text_entries']['English']['total']:,}"
+    raw = get_dump_data()
+    data = process_dump_data(raw)
+    version = get_pack_version()
+    table = serialize_progress(data, version)
+    img_count = f"{raw["Images"]["total"]:,}"
+    txt_count = f"{raw["English Text"]["total"]:,}"
 
-    readme: str = get_readme_file()
+    readme = get_readme_file()
     readme = inject_region(readme, table, REGION_TABLE)
-    readme = inject_region(readme, image_count, REGION_IMAGE_COUNT)
-    readme = inject_region(readme, text_count, REGION_TEXT_COUNT)
+    readme = inject_region(readme, img_count, REGION_IMG_COUNT)
+    readme = inject_region(readme, txt_count, REGION_TXT_COUNT)
     write_readme_file(readme)
 
-    eprint("All done!")
+    info("All done!")
 
 
 if __name__ == "__main__":

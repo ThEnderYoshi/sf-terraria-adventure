@@ -10,8 +10,8 @@
 game to be themed around <span style="color:red">[_Sans Fanfic_]</span>.
 
 That mainly includes the game's
-**<!--#region img_count-->14,994<!--#endregion-->** images and
-**<!--#region txt_count-->19,963<!--#endregion-->** text entries. See the
+**<!--#region img_count-->14,998<!--#endregion-->** images and
+**<!--#region txt_count-->21,748<!--#endregion-->** text entries. See the
 [Status](#-3) section below for the current progress.
 
 > [!NOTE]
@@ -47,17 +47,17 @@ complete, so **strap in!!!**
 ## ![status](.github/images/icon-status.png)
 
 <!--#region progress-->
-> [!NOTE]
-> Last updated: _2026-04-02 UTC_
+> **Last updated:** 2026-05-23 UTC \
+> **Update progress:** ![1%](https://geps.dev/progress/1)
 
-| Progress     |                                        |
-|:------------:|:--------------------------------------:|
-| Total        | ![13%](https://geps.dev/progress/13)   |
-| Update       | ![100%](https://geps.dev/progress/100) |
-| Images       | 2,006 / 14,994                         |
-| Text Entries | 4,514 / 19,963                         |
-| Songs        | 25 / 104                               |
-| Sounds       | 81 / 851                               |
+| Kind         | Replaced / Total | % Replaced                             |
+| :----------: | :--------------: | :------------------------------------: |
+| Images       | 2,006 / 14,998   | ![13%](https://geps.dev/progress/13)   |
+| Text Entries | 4,470 / 21,748   | ![20%](https://geps.dev/progress/20)   |
+| Sounds       | 81 / 852         | ![9%](https://geps.dev/progress/9)     |
+| Music        | 25 / 104         | ![24%](https://geps.dev/progress/24)   |
+| Fonts        | 5 / 5            | ![100%](https://geps.dev/progress/100) |
+| Total        | 6,587 / 37,707   | ![17%](https://geps.dev/progress/17)   |
 <!--#endregion-->
 
 ## ![questions & answers](.github/images/icon-other.png)

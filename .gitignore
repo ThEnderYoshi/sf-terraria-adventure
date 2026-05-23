@@ -3,8 +3,9 @@
 
 _workshop.json
 desktop.ini
+gcm-diagnose.log
 
 # These may change a lot between commits and the contents are always temporary.
 ExternalAssets/FactoryIn
 ExternalAssets/FactoryOut
-Tools/tpack_scan_dump.json
+Tools/rpack_scan_dump.json

@@ -353,6 +353,7 @@ LegacyChestType.10,"{$ItemName.IvyChest}"
 
 ItemName.Torch,Sanch (sans torch)
 ItemName.JungleTorch,Toriel's Houch (house torch)
+ItemTooltip.Torch,"Provides fuck all"
 
 
 # functional::unique,-----------------------------------------------------------

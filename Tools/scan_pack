@@ -1,0 +1,31 @@
+#! /usr/bin/env bash
+# Runs RPack Toolbox's Scan tool and updates the README file.
+#
+# WARNING: This script expects another script named `../_extra/rpack` (NOT RPack
+# Toolbox itself) to exist. Due to its location, it is not in this repo.
+# 
+# NOTE: Run this from the repo's root dir.
+#
+# TIP: To show RPack's info-level messages, run with the 'RUST_LOG' env var set
+# to `info`:
+#
+#     $ RUST_LOG=info Tools/scan_pack
+
+info() {
+  echo "[scan_pack] $@"
+}
+
+echo-run() {
+  info "> $@"
+  "$@"
+}
+
+a="--quiet"
+
+if [[ -n "$RUST_LOG" ]]; then
+  a=""
+fi
+
+echo-run ../_extra/rpack scan -- $a --dump Tools/rpack_scan_dump.json
+echo
+echo-run python3 Tools/update_readme.py
